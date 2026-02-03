@@ -1,0 +1,3 @@
+# Show size of directory and subdirectory
+du -sh *
+
