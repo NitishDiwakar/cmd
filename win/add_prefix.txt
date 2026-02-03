@@ -1,0 +1,1 @@
+for /f "delims=" %f in ('dir /b *.pdf') do ren "%f" "PRE_%f"

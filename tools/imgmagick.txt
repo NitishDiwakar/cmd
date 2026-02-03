@@ -1,0 +1,4 @@
+# Batch resize
+magick input.jpg -resize 1200 output.jpg (set width keep AR)
+magick *.jpg -resize 1200 resized_%03d.jpg
+

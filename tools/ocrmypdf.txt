@@ -1,0 +1,8 @@
+# Ocr and Optimize pdf
+ocrmypdf --optimize 3 input.pdf input1.pdf
+
+# Multiple
+for f in in/*.pdf; do ocrmypdf --optimize 3 "$f" out/"$(basename "$f")"; done
+
+
+

@@ -1,0 +1,6 @@
+# Create Zip (-mx=0 - store quality)
+7z a -mx=0 -p -mhe=on file.7z data/ 
+
+# Extract
+7z x file.7z
+
