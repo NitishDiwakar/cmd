@@ -1,8 +1,11 @@
-# Crop video
-ffmpeg -i input.mov -c copy -metadata:s:v:0 rotate=90 output.mov
+# Trim video
+ffmpeg -ss 00:00:05 -i input.mp4 -to 00:00:15 -c copy -copyts output.mp4
 
 # Get SS of multiple files
 mkdir SS 2>nul & for %f in (*.mp4) do ffmpeg -ss 00:00:05 -i "%f" -frames:v 1 -q:v 2 "SS\%~nf.png"
+
+# Mute video without re-encoding
+ffmpeg -i input_video.mp4 -c:v copy -an output_muted_video.mp4
 
 
 

@@ -1,0 +1,12 @@
+# Download (default)
+yt-dlp "link" 
+
+# Download mp3
+yt-dlp -x --audio-format mp3
+
+# Download to mp4 (best available quality)
+yt-dlp -f "bv*+ba/b" --merge-output-format mp4
+
+# Download 1080p mp4
+yt-dlp -f "bv*[height<=1080]+ba/b[height<=1080]" --merge-output-format mp4
+
