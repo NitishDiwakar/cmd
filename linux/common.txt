@@ -1,3 +1,6 @@
 # Show size of directory and subdirectory
 du -sh *
 
+# Delete all empty direcoty and subdirectory
+find . -type d -empty -delete
+
