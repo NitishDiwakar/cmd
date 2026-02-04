@@ -8,4 +8,9 @@ find . -type d -empty -delete
 fortune | xclip -sel clip (Linux)
 fortune | clip.exe (WSL)
 
-# 
+# Remove one word in terminal
+Ctrl + w
+
+# Remove one letter in terminal
+Ctrl + h
+
