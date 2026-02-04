@@ -4,3 +4,8 @@ du -sh *
 # Delete all empty direcoty and subdirectory
 find . -type d -empty -delete
 
+# Copy terminal output in clipboard
+fortune | xclip -sel clip (Linux)
+fortune | clip.exe (WSL)
+
+# 
