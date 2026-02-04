@@ -1,0 +1,13 @@
+# Split vertical window
+ctrl + b, %
+
+# Split horizontal window
+ctrl + b, "
+
+# Change windows 
+ctrl + b, arrow
+
+# Scroll up, check terminal history
+ctrl + b, [, page up/page down
+
+
