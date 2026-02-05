@@ -1,3 +1,6 @@
+# Create text file from terminal 
+echo "Some text" > file.txt
+
 # Show size of directory and subdirectory
 du -sh *
 
