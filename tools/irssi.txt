@@ -1,0 +1,5 @@
+irssi
+
+/connect chat.freenode.net
+
+/join #Linux
