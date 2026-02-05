@@ -20,4 +20,14 @@ Ctrl + h
 # Show file from github in terminal
 curl https://raw.githubusercontent.com/NitishDiwakar/cmd/main/tools/ghostscript.txt | cat
 
+# Prevent ssh from auto closing (temporary)
+ssh -o "ServerAliveInterval 60" username@server_address
+
+# Prevent ssh from auto closing (permanent)
+vim ~/.ssh/config
+Host *
+  ServerAliveInterval 60
+  ServerAliveCountMax 3
+
+# 
 
