@@ -14,3 +14,7 @@ Ctrl + w
 # Remove one letter in terminal
 Ctrl + h
 
+# Show file from github in terminal
+curl https://raw.githubusercontent.com/NitishDiwakar/cmd/main/tools/ghostscript.txt | cat
+
+
