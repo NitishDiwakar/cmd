@@ -39,3 +39,8 @@ alias yt4k='yt-dlp -f "bv*+ba/b" --merge-output-format mp4'
 alias yt='yt-dlp -f "bv*[height<=1080]+ba/b[height<=1080]" --merge-output-format mp4'
 alias ramfree='sudo sh -c "echo 3 > /proc/sys/vm/drop_caches"'
 alias ytm='yt-dlp -x --audio-format mp3'
+
+gfetch() {
+	curl -s "https://raw.githubusercontent.com/NitishDiwakar/$1" | cat
+}
+
