@@ -7,5 +7,6 @@ mkdir SS 2>nul & for %f in (*.mp4) do ffmpeg -ss 00:00:05 -i "%f" -frames:v 1 -q
 # Mute video without re-encoding
 ffmpeg -i input_video.mp4 -c:v copy -an output_muted_video.mp4
 
-
+# mkv to mp4
+ffmpeg -i input.mkv -c copy output.mp4
 
