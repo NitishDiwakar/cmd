@@ -13,4 +13,9 @@ yt-dlp -f "bv*[height<=1080]+ba/b[height<=1080]" --merge-output-format mp4
 # Download with forced extractor
 yt-dlp --force-generic-extractor "LINK"
 
-#  
+# Add cookies from text file
+yt-dlp --cookies cookies.txt "LINK"
+
+# Add interval between downloads
+yt-dlp --sleep-interval 10 --max-sleep-interval 30 "PLAYLIST_URL"  
+
