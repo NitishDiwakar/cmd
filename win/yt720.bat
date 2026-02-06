@@ -1,0 +1,2 @@
+@echo off
+yt-dlp -f "bv*[height<=720]+ba/b[height<=720]" --merge-output-format mp4 %*
