@@ -44,3 +44,21 @@ gfetch() {
 	curl -s "https://raw.githubusercontent.com/NitishDiwakar/$1" | cat
 }
 
+export PATH=$PATH:$HOME/.cargo/bin
+alias ls='eza --color=always --group-directories-first'
+alias ll='eza -l --git -h --color=always --group-directories-first'
+alias la='eza -a --color=always --group-directories-first'
+
+fmute ()
+{
+    ffmpeg -i "$1" -c:v copy -an "${1%.*}_muted.${1##*.}" && echo "Muted: ${1%.*}_muted.${1##*.}"
+}
+
+ftrim () {
+    ffmpeg -i "$1" -ss "$2" -to "$3" -c copy \
+    -avoid_negative_ts make_zero \
+    "${1%.*}_trimmed.${1##*.}"
+}
+
+
+
