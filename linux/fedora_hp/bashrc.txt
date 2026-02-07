@@ -61,4 +61,20 @@ ftrim () {
 }
 
 
+fstab () {
+    tf=$(mktemp)
+    ffmpeg -i "$1" -vf "vidstabdetect=result=$tf" -f null - &&
+    ffmpeg -i "$1" -vf "vidstabtransform=input=$tf" -c:v libx264 "${1%.*}_stabilized.${1##*.}"
+    rm -f "$tf"
+}
+
+
+img () { magick -size 1200x1200 -gravity center -fill black -pointsize 48 caption:"$1" "$2"; }
+
+yt720i () {
+    yt-dlp --sleep-interval 10 --max-sleep-interval 30 \
+    -f "bv*[height<=720]+ba/b[height<=720]" \
+    --merge-output-format mp4 "$1"
+}
+
 
