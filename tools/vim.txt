@@ -1,0 +1,14 @@
+# Insert
+i
+
+# Save and quit
+esc + :
+wq
+
+# Quit
+:q!
+
+# Duplicate current line
+:t.
+
+
