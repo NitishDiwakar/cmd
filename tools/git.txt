@@ -1,0 +1,19 @@
+# Check status
+git status
+
+# Add files
+git add .
+
+# Add commit message 
+git commit -m "Message here"
+
+# Push
+git push
+
+# Pull
+git pull
+
+# See last n logs
+git log -3 --oneline
+
+
