@@ -1,0 +1,37 @@
+#!/bin/bash
+
+BASE_URL="https://cdn.example.com/40000"
+EXT="mp4"
+
+# allowed time window (minutes since midnight)
+START_MIN=5      # 00:05
+END_MIN=345      # 05:45
+
+for i in $(seq 40000 40999); do
+
+    # current time in minutes since midnight
+    NOW_MIN=$((10#$(date +%H)*60 + 10#$(date +%M)))
+
+    if (( NOW_MIN < START_MIN || NOW_MIN > END_MIN )); then
+        echo "Outside allowed time window. Exiting."
+        exit 0
+    fi
+
+    FILE="$i.$EXT"
+    URL="$BASE_URL/$i/$FILE"
+
+    echo "Checking $URL ..."
+
+    if curl -s --head --fail \
+        --connect-timeout 3 \
+        --max-time 5 \
+        "$URL" > /dev/null; then
+
+        echo "Found. Downloading $FILE"
+        curl -O "$URL"
+    else
+        echo "Not found or no response. Skipping $FILE"
+        sleep 1
+    fi
+done
+
