@@ -40,4 +40,7 @@ curl -o file.mp4 <url>
 # Download file, skip if already present, resume if partially downloaded
 curl -C - -O <url>
 
+# Search recursively inside all sub-directories
+find . name "foo"
+
 
