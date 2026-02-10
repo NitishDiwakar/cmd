@@ -42,5 +42,7 @@ curl -C - -O <url>
 
 # Search recursively inside all sub-directories
 find . name "foo"
+tree -P "foo"
+
 
 
