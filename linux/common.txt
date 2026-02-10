@@ -49,4 +49,8 @@ sudo firewall-cmd --state
 sudo systemctl stop firewalld
 sudo systemctl start firewalld
 
+# Count number of files inside a directory
+find . | wc -l
+find *.mp4 | wc -l
+
 
