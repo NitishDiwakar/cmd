@@ -31,3 +31,13 @@ Host *
 
 # 
 
+# Download file with original name
+curl -O <url>
+
+# Download file with custom name
+curl -o file.mp4 <url>
+
+# Download file, skip if already present, resume if partially downloaded
+curl -C - -O <url>
+
+
