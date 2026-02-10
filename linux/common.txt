@@ -44,5 +44,9 @@ curl -C - -O <url>
 find . name "foo"
 tree -P "foo"
 
+# Firewall (status, stop, start)
+sudo firewall-cmd --state
+sudo systemctl stop firewalld
+sudo systemctl start firewalld
 
 
