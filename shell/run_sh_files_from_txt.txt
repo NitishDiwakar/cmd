@@ -1,0 +1,13 @@
+#!/bin/bash
+
+while IFS= read -r script; do
+    [ -z "$script" ] && continue
+
+    if [ -x "$script" ]; then
+        echo "Running $script"
+        bash "$script"
+    else
+        echo "Skipping $script (not executable or not found)"
+    fi
+done < links.txt
+
