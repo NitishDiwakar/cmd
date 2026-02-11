@@ -53,4 +53,7 @@ sudo systemctl start firewalld
 find . | wc -l
 find *.mp4 | wc -l
 
+# Count with max-depth
+find . -maxdepth 1 | wc -l
+
 
