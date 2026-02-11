@@ -1,6 +1,9 @@
 # Insert
 i
 
+# Insert - beggining of the line
+I (or Shift + i)
+
 # Save and quit
 esc + :
 wq
@@ -11,4 +14,10 @@ wq
 # Duplicate current line
 :t.
 
+# Cursor at end of file
+Shift + G
 
+# Cursor at beginning of the file
+gg
+
+ 
