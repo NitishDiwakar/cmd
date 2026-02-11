@@ -16,4 +16,7 @@ git pull
 # See last n logs
 git log -3 --oneline
 
+# Ignore local changes and pull from main branch
+git fetch origin && git reset --hard origin/main && git clean -fd
+
 
