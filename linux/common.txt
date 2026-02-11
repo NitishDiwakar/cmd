@@ -56,4 +56,11 @@ find *.mp4 | wc -l
 # Count with max-depth
 find . -maxdepth 1 | wc -l
 
+# Show running proccess
+top
+Shift + M (sort by memory)
+
+# Copy command output to clipboard
+<pwd> | xclip -sel clip
+
 
