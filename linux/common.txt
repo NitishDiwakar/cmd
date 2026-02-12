@@ -63,4 +63,7 @@ Shift + M (sort by memory)
 # Copy command output to clipboard
 <pwd> | xclip -sel clip
 
+# Sort file by size - largest first
+du -ah *.mp4 | sort -n -r
 
+# 

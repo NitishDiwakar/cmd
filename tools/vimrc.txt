@@ -1,0 +1,56 @@
+command! Ac call AlignColon()
+
+function! AlignColon()
+    let max = 0
+    " First pass: calculate max key length
+    for line in getline(1, '$')
+        if line =~ ':'
+            let key = trim(matchstr(line, '^[^:]*'))
+            let max = max([max, strlen(key)])
+        endif
+    endfor
+
+    " Second pass: reformat lines
+    for lnum in range(1, line('$'))
+        let line = getline(lnum)
+        if line =~ ':'
+            let key = trim(matchstr(line, '^[^:]*'))
+            let value = substitute(line, '^[^:]*:\s*', '', '')
+            call setline(lnum, printf('%-' . max . 's : %s', key, value))
+        endif
+    endfor
+endfunction
+
+" Ae → Align lines containing '='
+" Usage:
+"   :Ae            → whole file
+"   :12,20Ae       → specific range
+"   Visual select  → :Ae
+
+command! -range=% Ae call AlignEqual(<line1>, <line2>)
+
+function! AlignEqual(start, end)
+    let max = 0
+
+    " PASS 1: Find longest key before '='
+    for lnum in range(a:start, a:end)
+        let line = getline(lnum)
+        if line =~ '='
+            let key = trim(matchstr(line, '^[^=]*'))
+            let max = max([max, strlen(key)])
+        endif
+    endfor
+
+    " PASS 2: Apply alignment
+    for lnum in range(a:start, a:end)
+        let line = getline(lnum)
+        if line =~ '='
+            let key   = trim(matchstr(line, '^[^=]*'))
+            let value = substitute(line, '^[^=]*=\s*', '', '')
+            call setline(lnum, printf('%-' . max . 's = %s', key, value))
+        endif
+    endfor
+endfunction
+
+
+
