@@ -20,4 +20,38 @@ Shift + G
 # Cursor at beginning of the file
 gg
 
+# Delete 3 words
+3dw
+
+# Go to start of line
+0
+
+# Go to end of line
+$
+
+# Go to line 12
+12G
+
+# Delete word
+dw
+
+# Change inside paranthesis (inside)
+ci(
+
+# Change inside double quotes
+ci"
+
+#Search
+/pattern
+n (go to next match)
+
+# Move down 5 lines
+5j
+
+# Move forward 3 words
+3w
+
+# Delete 4 lines
+4dd
+
  
