@@ -54,4 +54,8 @@ n (go to next match)
 # Delete 4 lines
 4dd
 
+# Find and replace word inside a directory and subdirectory
+:vimgrep /oldword/ **/*
+:cdo %s/oldword/newword/gc | update
+
  
