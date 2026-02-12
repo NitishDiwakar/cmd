@@ -1,0 +1,12 @@
+tmux new -s study
+
+tmux attach -t study
+
+tmux ls
+
+tmux kill-session -t study
+
+
+Ctrl + b  d (detach)
+
+
