@@ -4,6 +4,9 @@ magick input.jpg -resize 1200 output.jpg (set width keep AR)
 # Batch resize
 magick *.jpg -resize 1200 resized_%03d.jpg
 
+# Batch resize and replace original without warning
+magick mogrify -resize 1200x *.jpg
+
 # Generate image with text
 magick -size 1200x1200 -gravity center -fill black -pointsize 48 caption:"Some text" "text.png"
 
