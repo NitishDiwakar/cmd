@@ -5,9 +5,13 @@ magick input.jpg -resize 1200 output.jpg (set width keep AR)
 magick *.jpg -resize 1200 resized_%03d.jpg
 
 # Batch resize and replace original without warning
-magick mogrify -resize 1200x *.jpg
+magick mogrify -resize 1200x *.jpg      (height automatic)
+magick mogrify -resize 50% *.jpg        (to percentage)
+magick mogrify -resize '800x600>' *.jpg (Only resize if larger than dimensions)
 
 # Generate image with text
 magick -size 1200x1200 -gravity center -fill black -pointsize 48 caption:"Some text" "text.png"
+
+
 
 
