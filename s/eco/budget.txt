@@ -1,8 +1,22 @@
 ==========================================
-Title       : 
+Title       : Budget 2026-27
 Author      : Nitish Kumar Diwakar
 Date        : 2026-02-13
-Tags        : #
+Tags        : #Budget
 Description : 
 ==========================================
+
+Theme  : Reform, Perform ,Transform
+Target :
+  4.3% Fiscal deficit (4.4% in 2025-26)
+  10.5% Nominal GDP growth
+
+Capex : ₹12.2 lakh crore
+
+10.5% & 7% (Nominal and Real GDP growth rate assumption)
+
+₹53,47,315 crore (7.5% rise) - Total expenditure
+
+55.6% (debt to GDP target)
+
 
