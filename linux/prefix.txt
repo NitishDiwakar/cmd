@@ -1,3 +1,11 @@
+==========================================
+Title       : Prefix
+Author      : Nitish Kumar Diwakar
+Date        : 2026-02-13
+Tags        : #
+Description : 
+==========================================
+
 # Add prefix
 for f in *.pdf; do mv -- "$f" "prefix_$f"; done
 

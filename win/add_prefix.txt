@@ -1,1 +1,9 @@
+==========================================
+Title       : Add prefix to files
+Author      : Nitish Kumar Diwakar
+Date        : 2026-02-13
+Tags        : #
+Description : 
+==========================================
+
 for /f "delims=" %f in ('dir /b *.pdf') do ren "%f" "PRE_%f"

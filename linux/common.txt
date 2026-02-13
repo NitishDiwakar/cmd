@@ -1,8 +1,22 @@
+==========================================
+Title       : Common linux commands
+Author      : Nitish Kumar Diwakar
+Date        : 2026-02-13
+Tags        : #
+Description : 
+==========================================
+
 # Create text file from terminal 
 echo "Some text" > file.txt
 
 # Show size of directory and subdirectory
 du -sh *
+
+# Sort by size (ascending) 
+du -sh * | sort -n
+
+# Sort by size (descending)
+du -sh * | sort -hr
 
 # Delete all empty direcoty and subdirectory
 find . -type d -empty -delete

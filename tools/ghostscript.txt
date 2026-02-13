@@ -1,3 +1,11 @@
+==========================================
+Title       : Ghostscript
+Author      : Nitish Kumar Diwakar
+Date        : 2026-02-13
+Tags        : #
+Description : 
+==========================================
+
 # Compress (Windows)
 gswin64c -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 ^ -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH ^ -sOutputFile=compressed.pdf input.pdf
 

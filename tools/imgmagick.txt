@@ -1,3 +1,11 @@
+==========================================
+Title       : ImageMagick
+Author      : Nitish Kumar Diwakar
+Date        : 2026-02-13
+Tags        : #
+Description : Image manipulation from cli
+==========================================
+
 # Resize
 magick input.jpg -resize 1200 output.jpg (set width keep AR)
 

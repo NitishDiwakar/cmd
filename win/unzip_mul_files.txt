@@ -1,0 +1,10 @@
+==========================================
+Title       : Unzip multiple files
+Author      : Nitish Kumar Diwakar
+Date        : 2026-02-13
+Tags        : #
+Description : 
+==========================================
+
+# 7z
+Right click, extract to */
