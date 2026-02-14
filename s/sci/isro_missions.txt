@@ -1,0 +1,22 @@
+==========================================
+Title       : ISRO Missions
+Author      : Nitish Kumar Diwakar
+Date        : 2026-02-13
+Tags        : #isro
+Description :
+==========================================
+
+
+PSLV-C61/EOS-09 mission launched India’s all-weather radar satellite on 18 May 2025. 
+
+GSLV-F16/NISAR, a joint NASA-ISRO Earth-observation radar satellite, was launched on 30 Jul 2025. 
+
+LVM3-M5/CMS-03 mission successfully placed CMS-03 satellite into orbit on 2 Nov 2025. 
+
+PSLV-C62/EOS-N1 mission on 12 Jan 2026 failed due to third-stage anomaly. 
+
+ISRO identified a safe landing zone for the upcoming Chandrayaan-4 lunar sample return mission. 
+
+Preparations continued for ISRO’s Gaganyaan uncrewed test missions ahead of crewed flights. 
+
+ISRO readied GISAT-1A Earth observation satellite for launch to improve imaging capacity. 
