@@ -66,4 +66,23 @@ n (go to next match)
 :vimgrep /oldword/ **/*
 :cdo %s/oldword/newword/gc | update
 
+# Delete from lines (cursor + 3 above)
+4dd
+
+# Duplicate current line
+yyp
+
+# Uppercase entire line
+gUU
+
+# Replace a characeter 
+r
+
+# Change what is inside next double quote
+ci"
+
+# Save the current file and close it
+ZZ
+
  
+

@@ -1,8 +1,43 @@
 ==========================================
-Title       : 
+Title       : National Park
 Author      : Nitish Kumar Diwakar
 Date        : 2026-02-13
 Tags        : #
 Description : 
 ==========================================
 
+J&K      : Salim Ali, Dachigham, Kishwar
+
+Ladakh   : Hemis
+
+Himachal : Inderkila, Pin Valley, Simbalwara, Khirganga, Great Himalaya
+
+UK       : Govind Pashu vihar, Gangotri, Valley of Flowers, Nanda Devi, Rajaji, Jim Corbet
+
+UP       : Dudhwa
+
+RJ       : Sariska, Keoladeo (Bharatpur), Desert, Ranthambhore, Mukundara
+
+GJ       : Marine, Gir, Black Buck, Vansda
+
+MP       : Dinasour, Omkareshwar, Van vihar, Satpura, Indira Priyadarshi (Pench), Sanjay, Panna, Kanha, Mahadev, Bandhavgarh, Mandla Plant Fossil, Kuno
+
+36G      : Guru Ghasidas, Kanger valley, Indravati
+
+MH       : Sanjay Gandhi, Chandoli, Gagumal, Pench, Tadoba Andheri, Nawegaon 
+
+Kar      : Nagarhole, Kudremukh, Bannerghatta, Anshi, Bandipur 
+
+Tel      : Mrugavali, Mahavir Harina, Kashu Brahmananda Reddy
+
+Od       : Simlipal, Bhitarkanika
+
+WB       : Singalila, Neora Valley, Gorumara, Jaldapara, Buxa, Sunderban
+
+AP       : Papikonda, Srivenkateshwara
+
+TN       : Gyundai, Mudumalai, Mukurthi, Anamalai, Gulf of Mannar
+
+Ker      : Silent valley, Anamudi Shola, Eravikulam Shola, Pampadam, Methikuttam Shola, Periyar
+
+(Rem     : East, A&N)

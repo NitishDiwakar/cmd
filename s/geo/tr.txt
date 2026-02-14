@@ -1,8 +1,26 @@
 ==========================================
-Title       : 
+Title       : Tiger Reserves
 Author      : Nitish Kumar Diwakar
 Date        : 2026-02-13
 Tags        : #
 Description : 
 ==========================================
+
+
+UK : Jim Corbet (Ram Ganga), Rajaji
+
+RJ : Dholpur Karauli {55th}, Sariska, Ranthambhore, Darrra
+
+MP : Kanha, Panna, Bhandhavgarh, Bori Satpura, Pench, Sanjay, Rani Durgavati {54th}, Ratapani {57th},  Mahadev {58th}
+
+UP : Dudhwa, Katerniaghat TR, Pilibhit, Ranipur, Amangarh, Suhelva
+
+BR : Valmiki
+
+36G : Indravati, Udanti Sitanadi, Achanakmar
+
+MH : Pench, Tadoba Andheri, Nawgaon, Melghat, Sahayadri, Bor {smallest}
+
+Kar : Nagarhole, Bandipur, Bhadra, Dandeli-Anshi, Biligiranga Hills
+
 

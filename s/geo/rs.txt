@@ -1,8 +1,47 @@
 ==========================================
-Title       : 
+Title       : Ramsar Sites
 Author      : Nitish Kumar Diwakar
 Date        : 2026-02-13
 Tags        : #
 Description : 
 ==========================================
 
+BR       : Kanwar, Nagi, Naktri, Gogabeel, Gokul Jalashay, Udaipur Lake
+
+J&K      : Hokersar, Surinsar-Mansar, Wular lake, Salbagh, Hygam
+
+Ladakh   : Tsomoriri, Tso kar
+
+Himachal : Chandra Taal, Pong Dam, Renuka 
+
+UK       : Asan Barrage
+
+UP       : Upper Ganga, Sur Sagar, Sarsai Nawar jheel, Sandhi BS, Saman BS, Samaspur BS, Nawabganj BS (Chandrasekhar Aazad), Parvati ARga BS, Bahikra, Haiderpur
+
+MP       : Bhoj wetland, Sankhya sagar, Sirpur lake, yaswant sagar,
+
+GJ       : Nalsarovar, Khijadia, Thol lake, Wadhavan
+
+JH       : Udhwa lake
+
+Od       : Ansupa lake, Tampara lake, Satkosia lake, Hirakund reservior, Chilika lake, Bhitarkanika mangrove
+
+MH       : Nandur Madhaveshar, Lonar lake, Thane creek
+
+Kar      : Rangnathittu, Ankasamudra BS, Aghanashini estuary,Magadi Kere
+
+Ker      : Vembanad Kol, Sastamkotta, Ashtamudi
+
+TN       : Therthangal BS, Karaivetti BS, Longwood Shola, Sakkarakottai, Point calimer, Chitrangudi, Gulf of Mannar, Kanjirankulam BS, Karikili, Koonthankulam, Pallikarnai Marsh, Suchindram Theroor, Udhayamarthandapuram BS, Vadaver BS, Vedantangal BS, Vellode BS, Vembannur Wetland
+
+Sikkim   : Khechiorapalri wetland
+
+Assam    : Dipor Beel
+
+WB       : Sunderban, East Kolkata
+
+Manipur  : Loktak Lake
+
+Mizoram  : Pala wetland
+
+Tripura  : Rudrasagar

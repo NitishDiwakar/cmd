@@ -1,0 +1,8 @@
+rsync -avz --delete ~/source/folder/ user@ip:/home/User/destination/folder/
+
+-a = Arcieve mode (combination of -r, -l, -p, -t, -g, -o, -D)
+-v = Verbose (Show message)
+-z = compress (Useful for larger files)
+--delete = If deleted in source then delete in destination too
+
+
