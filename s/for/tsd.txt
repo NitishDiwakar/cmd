@@ -6,3 +6,14 @@ Tags        : #
 Description : 
 ==========================================
 
+Basic
+Distance (D) = Speed (S) × Time (T)
+Speed (S)    = Distance / Time
+Time (T)     = Distance / Speed
+
+Unit conversion
+km/hr        = 5/18 m/s
+1 m/s        = 18/5 km/hr
+
+
+

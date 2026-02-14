@@ -6,3 +6,17 @@ Tags        : #
 Description : 
 ==========================================
 
+Profit % = (Profit/CP) * 100
+Loss % = (Loss/CP) * 100
+
+
+Finding SP and CP
+SP (if Profit% is given) : SP = [100 + Profit % /100] * CP
+
+SP (if Loss% is given)   : SP = [100 - Loss % /100] * CP
+
+CP (if Profit% is given) : CP = [100/100 + Profit %] * SP
+
+CP (if Loss% is given)   : CP = [100/100 + Loss %] * SP
+
+
