@@ -6,6 +6,30 @@ Tags        : #
 Description : 
 ==========================================
 
-Nehru : Vice-President of council; External Affairs & Commonwealth relations
+Nehru                : Vice-President of council; External Affairs & Commonwealth relations
 
+Sardar Patel         : Home, Information & Broadcasting
 
+Dr. Rajendra Prasad  : Food & Agriculture
+
+John Mathai          : Industries & Supplies
+
+Jagjivan Ram         : Labour
+
+Sardar Baldev Singh  : Defence
+
+C.H. Bhabha          : Works, Mines & Power
+
+Liaqat Ali Khan      : Finance
+
+Abdur Rab Nishtar    : Posts & Air
+
+Asaf Ali             : Railways & Transport
+
+C. Rajagopalachari   : Education & Arts
+
+I.I. Chundrigar      : Commerce
+
+Ghaznafar Ali Khan   : Health
+
+Joginder Nath Mandel : Law

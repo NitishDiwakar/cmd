@@ -1,8 +1,34 @@
 ==========================================
-Title       : 
+Title       : Parts of Indian Constitution 
 Author      : Nitish Kumar Diwakar
 Date        : 2026-02-13
 Tags        : #
 Description : 
 ==========================================
+
+I     : Union and its territory (1-4)
+II    : Citizenship (5-11)
+III   : Fundamental Rights (12-35)
+IV    : DPSP (36-51)
+V     : Union Government (52-151)
+VI    : State Government
+VII   : States in Part B of 1st Schedule - Deleted (238)
+VIII  : UT (239-242)
+IX    : Panchayat (243 to 243-O)
+IX-A  : Municipalities (243-P to 243-ZG)
+IX-B  : Co-operative Societies (243-ZH to 243-ZT)
+X     : Scheduled and Tribal Areas (244 to 244-A)
+XI    : Relation between the Union and States (245 to 263)
+XII   : Finance, Property, Contracts and Suits (264 to 300-A)
+XIII  : Trade, Commerce and Intercource within the Territory of India (301-307)
+XIV   : Services under the Union and the States (308-323)
+XV    : Elections (324 to 329-A)
+XVI   : Special provisions relating to certain classes (330 to 342-A)
+XVII  : Official Language (343-351)
+XVIII : Emergency Provisions (352-358)
+XIX   : Miscellaneous (361-367)
+XX    : Amendments (368)
+XXI   : Temporary, Transitional and Special Provisions (369-392)
+XXII  : Short title, Commencement, Authoritative Text in Hindi and Repeals (393 to 395)
+
 

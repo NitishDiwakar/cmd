@@ -1,8 +1,26 @@
 ==========================================
-Title       : 
+Title       : Panchayati Raj
 Author      : Nitish Kumar Diwakar
 Date        : 2026-02-13
 Tags        : #
 Description : 
 ==========================================
+
+Article : Subject
+243     : Definitions
+243A    : Gram Sabha
+243B    : Constitution of Panchayats
+243C    : Composition of Panchayats
+243D    : Reservation of seats
+243E    : Duration of panchayats, and so on
+243F    : Disqualifications for membership
+243G    : Powers, authority and responsibilities of panchayats
+243H    : Powers to impose taxes
+243-I   : Constitution of finance commission to review financial position 
+243J    : Audit of accounts of panchayats
+243K    : Elections to the panchayats
+243L    : Application to union territories
+243M    : Part not to apply to certain areas
+243N    : Continuation of existing laws and panchayats
+243-O   : Bar to interference by courts in electoral matters
 

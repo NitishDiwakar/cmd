@@ -1,8 +1,22 @@
 ==========================================
-Title       : 
+Title       : Schedules of Indian Constitution 
 Author      : Nitish Kumar Diwakar
 Date        : 2026-02-13
 Tags        : #
 Description : 
 ==========================================
+
+Numbers : Subject Matter
+I       : Names of states & UT (1,4)
+II      : Allowances (59,65,75,97,125,148, 158, 164, 186 and 221)
+III     : Oaths (75,84, 99, 124, 146, 173, 188 and 219)
+IV      : RS Seats (4,80)
+V       : Scheduled areas and ST (244)
+VI      : Tribal Areas in MATM - Meghalaya, Assam, Tripura, Mizoram (244, 275)
+VII     : List (246)
+VIII    : Languages (344, 351)
+IX      : Land Reform (31-B)
+X       : Anti-defection Law (102,191)
+XI      : Panchayats (243-G)
+XII     : Municipalities (243-W)
 

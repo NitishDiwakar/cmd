@@ -1,8 +1,57 @@
 ==========================================
-Title       : 
+Title       : Fundamental Rights 
 Author      : Nitish Kumar Diwakar
 Date        : 2026-02-13
 Tags        : #
 Description : 
 ==========================================
+
+Article No. : Subject matter
+12          : Definition of State
+13          : Laws inconsistent with or in derogation of the Fundamental Rights
+
+------------Right to Equality------------
+14          : Equality before law
+15          : Prohibition of discrimination on grounds of religion, race, caste, sex or place of birth
+16          : Equality of opportunity in matters of public employment
+17          : Abolition of untouchability 
+18          : ABolition of tiles
+
+------------Right to Freedom------------
+19          : Protection of certain rights regarding freedom of speech, etc
+20          : Protection in respect of conviction for offences
+21          : Protection of life and personal liberty
+21A         : Right to education
+22          : Protection against arrest and detention in certain cases
+
+------------(Right against Exploitation)------------
+23          : Prohibition of traffic in human beings and forced labour
+24          : Prohibition of employment of children in factories, etc
+
+------------(Right to Freedom of Religion)------------
+25          : Freedom of conscience and free profession, practive and propagation of religion 
+26          : Freedom to manage religous affairs
+27          : Freedom as to payment of taxes for promotion of any particular religion
+28          : Freedom as to attendance at religious instruction or religous worship in certain educational institution 
+
+------------Cultural and Educational Rights)------------
+29          : Protection of interests of minorities
+30          : Right of minorities to establish and administer educational institutions 
+
+------------(Right to property - Repealed)
+31          : Compulsory acquisition of property - (Repealed)
+
+------------(Saving of Certain Laws)
+31A         : Saving of laws providing for acquisition of estates, etc.
+31B         : Validation of certain Acts and Regulations
+31C         : Saving of laws giving effect to certain directive principles
+31D         : Saving of laws in respect of anti-national activities (Repealed)
+
+------------(Right to Constitutional Remedies)
+32          : remedies for enforcement of rights conferred by this part 
+32A         : Constitutional validity of Staate laws not to be considered in proceedings under Articles 32 (Repealed)
+33          : Power of Parliament to modify the rights 
+34          : Restriction on rights conferred by this part while martial law is in force in any area
+35          : Legislation to give effect to the provisions of this part
+
 
