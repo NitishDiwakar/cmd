@@ -5,4 +5,5 @@ rsync -avz --delete ~/source/folder/ user@ip:/home/User/destination/folder/
 -z = compress (Useful for larger files)
 --delete = If deleted in source then delete in destination too
 
+# / at last means contents of directory not directory
 
