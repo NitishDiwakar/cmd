@@ -18,6 +18,7 @@ IX    : Panchayat (243 to 243-O)
 IX-A  : Municipalities (243-P to 243-ZG)
 IX-B  : Co-operative Societies (243-ZH to 243-ZT)
 X     : Scheduled and Tribal Areas (244 to 244-A)
+
 XI    : Relation between the Union and States (245 to 263)
 XII   : Finance, Property, Contracts and Suits (264 to 300-A)
 XIII  : Trade, Commerce and Intercource within the Territory of India (301-307)
@@ -28,6 +29,7 @@ XVII  : Official Language (343-351)
 XVIII : Emergency Provisions (352-358)
 XIX   : Miscellaneous (361-367)
 XX    : Amendments (368)
+
 XXI   : Temporary, Transitional and Special Provisions (369-392)
 XXII  : Short title, Commencement, Authoritative Text in Hindi and Repeals (393 to 395)
 

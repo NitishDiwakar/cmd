@@ -1,8 +1,30 @@
 ==========================================
-Title       : 
+Title       : DPSP
 Author      : Nitish Kumar Diwakar
 Date        : 2026-02-13
 Tags        : #
 Description : 
 ==========================================
 
+Article : Subject Matter
+36      : Definition of State
+37      : Application of the principles contained in this part
+38      : State to secure a social order for the promotion of welfare of the people
+39      : Certain principles of policy to be followed by the State
+40      : Oranisation of village Panchayats
+
+41      : Right to work, to education and to public assistance in certain cases
+42      : Provision for just and humane conditions of work and maternity relief
+43      : Living wage, etc
+43A     : Participation of workers in management of industries
+43B     : Promotion of co-operative societies
+44      : UCC
+45      : Provision for early childhood care and education to children below the age of six years
+
+46      : Promotion of eductional and economic interests of SC, ST and other weaker sections
+47      : Duty of the State to raise the level of nutrition and the standard of living and to imporve public halth
+48      : Organisation of agriculture and animal husbandry
+48A     : Protection and improvement of environment and safeguarding of forests and wildlife
+49      : Protection of monuments and places and objects of national importance
+50      : Separation of judiciary from executive
+51      : Promotion of international peace and security
