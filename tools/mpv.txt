@@ -1,0 +1,12 @@
+
+
+# Play audio by search string
+mpv "ytdl://ytsearch:Search string" --ytdl-format=bestaudio
+
+# Play audio by url
+mpv --no-video "URL"
+
+# Play youtube playlist with shuffle
+mpv --no-video --shuffle "URL"
+
+

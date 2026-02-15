@@ -80,4 +80,10 @@ Shift + M (sort by memory)
 # Sort file by size - largest first
 du -ah *.mp4 | sort -n -r
 
-# 
+# Sort by modified file
+ls -t
+eza -sold
+eza -snew
+
+
+

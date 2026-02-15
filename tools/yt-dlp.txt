@@ -30,4 +30,7 @@ yt-dlp --sleep-interval 10 --max-sleep-interval 30 "PLAYLIST_URL"
 # Add interval between downloads (720p)
 yt-dlp --sleep-interval 10 --max-sleep-interval 30 -f "bv*[height<=720]+ba/b[height<=720]" --merge-output-format mp4 "PLAYLIST_URL"
 
+# Download first video from youtube search
+yt-dlp "ytsearch1:Search string"
+
 

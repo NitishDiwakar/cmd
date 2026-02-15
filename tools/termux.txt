@@ -1,0 +1,8 @@
+
+
+
+Copy: termux-clipboard-set
+
+Paste : Ctrl + alt + v
+
+File share: termux-share -a send file.zip
