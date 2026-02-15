@@ -1,7 +1,5 @@
 ==========================================
 Title       : Interim Government (1946)
-Author      : Nitish Kumar Diwakar
-Date        : 2026-02-13
 Tags        : #
 Description : 
 ==========================================

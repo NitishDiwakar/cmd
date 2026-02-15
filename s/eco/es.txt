@@ -1,7 +1,5 @@
 ==========================================
 Title       : Economy Survey 2025-26 
-Author      : Nitish Kumar Diwakar
-Date        : 2026-02-13
 Tags        : #
 Description : 
 ==========================================

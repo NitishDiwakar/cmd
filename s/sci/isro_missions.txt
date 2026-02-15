@@ -1,7 +1,5 @@
 ==========================================
 Title       : ISRO Missions
-Author      : Nitish Kumar Diwakar
-Date        : 2026-02-13
 Tags        : #isro
 Description :
 ==========================================

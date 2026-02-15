@@ -1,7 +1,5 @@
 ==========================================
 Title       : Military exercises
-Author      : Nitish Kumar Diwakar
-Date        : 2026-02-14
 Tags        : #
 Description :
 ==========================================

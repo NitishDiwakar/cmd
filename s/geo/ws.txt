@@ -1,7 +1,5 @@
 =========================================
 Title       : Wildlife Sanctuaries 
-Author      : Nitish Kumar Diwakar
-Date        : 2026-02-13
 Tags        : #
 Description : 
 ==========================================

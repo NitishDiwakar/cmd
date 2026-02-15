@@ -1,7 +1,5 @@
 ==========================================
 Title       : Tmux
-Author      : Nitish Kumar Diwakar
-Date        : 2026-02-13
 Tags        : #
 Description : 
 ==========================================
@@ -14,7 +12,8 @@ tmux ls
 
 tmux kill-session -t study
 
-
 Ctrl + b  d (detach)
+
+Ctrl + b q (window no) -Switch to windows
 
 

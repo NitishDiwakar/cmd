@@ -1,7 +1,5 @@
 ==========================================
 Title       : Bihar budget 2026-27
-Author      : Nitish Kumar Diwakar
-Date        : 2026-02-13
 Tags        : #
 Description : 
 ==========================================

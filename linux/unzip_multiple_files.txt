@@ -1,7 +1,5 @@
 ==========================================
 Title       : Unzip multiple files inside a directory
-Author      : Nitish Kumar Diwakar
-Date        : 2026-02-13
 Tags        : #
 Description : 
 ==========================================

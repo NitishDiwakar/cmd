@@ -1,7 +1,5 @@
 ==========================================
 Title       : ImageMagick
-Author      : Nitish Kumar Diwakar
-Date        : 2026-02-13
 Tags        : #
 Description : Image manipulation from cli
 ==========================================
