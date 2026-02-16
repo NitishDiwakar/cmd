@@ -1,6 +1,5 @@
 ==========================================
-Title       : Dynasties
+Title       : Newspaper
 Tags        : #
-Description : Dynasty, Capital, Founder
+Description :
 ==========================================
-

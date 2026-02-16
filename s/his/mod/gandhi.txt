@@ -1,6 +1,5 @@
 ==========================================
-Title       : Dynasties
+Title       : Gandhi
 Tags        : #
-Description : Dynasty, Capital, Founder
+Description :
 ==========================================
-

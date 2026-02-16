@@ -1,6 +1,7 @@
 ==========================================
-Title       : Dynasties
+Title       : Buddhist council
 Tags        : #
-Description : Dynasty, Capital, Founder
+Description :
 ==========================================
+
 

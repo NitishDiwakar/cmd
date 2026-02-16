@@ -1,6 +1,5 @@
 ==========================================
-Title       : Dynasties
+Title       : Gi Tags
 Tags        : #
-Description : Dynasty, Capital, Founder
+Description :
 ==========================================
-

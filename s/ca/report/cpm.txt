@@ -1,6 +1,5 @@
 ==========================================
-Title       : Dynasties
+Title       : Capability Poverty Measure
 Tags        : #
-Description : Dynasty, Capital, Founder
+Description :
 ==========================================
-

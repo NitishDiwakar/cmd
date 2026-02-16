@@ -1,6 +1,5 @@
 ==========================================
-Title       : Dynasties
+Title       : Subhash Chandra Bose
 Tags        : #
-Description : Dynasty, Capital, Founder
+Description :
 ==========================================
-

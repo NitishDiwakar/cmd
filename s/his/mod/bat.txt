@@ -1,6 +1,5 @@
 ==========================================
-Title       : Dynasties
+Title       : Battles
 Tags        : #
-Description : Dynasty, Capital, Founder
+Description :
 ==========================================
-

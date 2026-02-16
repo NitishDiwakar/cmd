@@ -1,6 +1,5 @@
 ==========================================
-Title       : Dynasties
+Title       : Organizations
 Tags        : #
-Description : Dynasty, Capital, Founder
+Description :
 ==========================================
-

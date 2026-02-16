@@ -1,6 +1,5 @@
 ==========================================
-Title       : Dynasties
+Title       : Human Development Index
 Tags        : #
-Description : Dynasty, Capital, Founder
+Description :
 ==========================================
-

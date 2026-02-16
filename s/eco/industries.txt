@@ -1,6 +1,5 @@
 ==========================================
-Title       : Dynasties
+Title       : Industries
 Tags        : #
-Description : Dynasty, Capital, Founder
+Description :
 ==========================================
-

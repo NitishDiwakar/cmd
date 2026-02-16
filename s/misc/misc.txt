@@ -1,6 +1,5 @@
 ==========================================
-Title       : Dynasties
+Title       : Miscellaneous
 Tags        : #
-Description : Dynasty, Capital, Founder
+Description :
 ==========================================
-

@@ -1,6 +1,9 @@
 ==========================================
-Title       : Dynasties
+Title       : Diseases
 Tags        : #
-Description : Dynasty, Capital, Founder
+Description :
 ==========================================
+
+Spleenic fever (bacterial disease, Anthrax)
+
 
