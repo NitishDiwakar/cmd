@@ -25,4 +25,7 @@ shutdown /s /t 0
 # Network configuration values
 ipconfig /all
 
+# View available ram 
+systeminfo | findstr "Physical Memory"
+
 
