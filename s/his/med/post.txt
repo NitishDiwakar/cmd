@@ -1,8 +1,5 @@
 ==========================================
-Title       : Swaraj Dal
+Title       : Post
 Tags        : #
 Description :
 ==========================================
-
-Swaraj Dal : Srikrishna Singh
-
