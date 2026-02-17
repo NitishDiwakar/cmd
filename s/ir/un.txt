@@ -1,0 +1,57 @@
+https://www.un.org/en/about-us/specialized-agencies
+
+NAME                                                                 HQ                              DETAILS
+-------------------------------------------------------------------------------------------------------------------------------
+
+Food And Agriculture Organization (FAO) of the UN                   Rome, Italy
+https://www.fao.org
+
+International Atomic Energy Agency (IAEA)                            Vienna, Austria
+https://www.iaea.org
+
+International Criminal Court                                         Hauge, Netherland
+https://www.icc-cpi.int
+
+International Fund for Agricultural Development                      Rome, Italy
+https://www.ifad.org
+
+International Labour Organization                                    Geneva, Switzerland             - Est: 1919 (Versailles)
+https://www.ilo.org                                                                                   - 1946: Sp. Ag. Of UN
+
+International Monetary Fund                                          Washington D.C, USA
+https://www.imf.org
+
+International Organization for Migration                             Grand-Sacconex, Switzerland
+https://unofficeny.iom.int
+
+International Seabed Authority                                       Kingston, Jamaica
+https://www.isa.org.jm
+
+International Telecommunication Union                                Geneva, Switzerland
+https://www.itu.int
+
+International Tribunal for Law of the Seas                           Hamburg, Germany
+https://www.itlos.org
+
+Preparatory Commission for the Comprehensive Nuclear Test-Ban        Vienna, Austria
+Treaty Organization
+https://www.ctbto.org
+
+United Nations Educational, Scientific and Cultural Organization     Paris, France
+https://en.unesco.org
+
+United Nations Industrial Development Organization                   Vienna, Austria
+https://www.unido.org
+
+World Bank                                                           Washington D.C, USA
+https://www.worldbank.org
+
+World Health Organization (WHO)                                      Geneva, Switzerland
+https://www.who.int
+
+World Intellectual Property Organization                             Geneva, Switzerland
+https://www.wipo.int
+
+World Meteorological Organization                                    Geneva, Switzerland
+https://public.wmo.int
+

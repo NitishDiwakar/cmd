@@ -1,0 +1,27 @@
+PLACE         RIVER      YEAR       ARCHAEOLOGIST              MODERN PLACE                  MORE DETAILS
+---------------------------------------------------------------------------------------------------------------
+
+Harappa       Ravi       1921       Dayaram Sahni              Pak
+
+Mohenjodaro   Indus      1923       R.D. Banarjee              Pak
+
+Sutkagendor   Dasht      1927       Orell Stine                Pak (Baluchistan)             - Western most
+
+Chanudaro     Indus      1931       Gopal Majumdar
+
+Kalibangan    Ghaggar    1954       - Brijvasi Lal             Ganganagar dist, (Rajasthan)
+                                     - B.K. Thapar
+
+Kotdiji       Indus      1953       Fazal Ahmed
+
+Rangpur       Bhadar     1953-54    Rangnath Rav               Gujarat
+
+Ropar         Satluj     1953-56    Yagyadutt Sharma           Punjab
+
+Lothal        Bhogva     1957-58    Rangnath Sharma            Ahmedabad (Gujarat)
+
+Alamgirpur    Hindan     1958       Yagyadutt Sharma           Merath (UP)
+
+Banavali      Rangoi     1974       Ravindra Singh             Hisar (Haryana
+
+Manda         Chenab     1976-77    J.P. Joshi                 Jammu & Kashmir

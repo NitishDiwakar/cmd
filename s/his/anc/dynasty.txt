@@ -1,0 +1,28 @@
+==========================================
+Title       : Dynasties
+Tags        : #
+Description : Dynasty, Capital, Founder
+==========================================
+
+DYNASTY                         KINGS                                   MORE DETAILS
+-----------------------------------------------------------------------------------------------------
+
+Maitrakas of Valabhi            - F: Bhatark                            - Sample text
+(C. 475-776)
+
+Pushyabhuti of Thanesar
+(500-647)
+
+Rashtrakuta                     - Amoghvarsha (814-878 CE)              - Sample text, sample text
+
+Satvahanas
+
+Paramara of Malwa
+(9th-14th cen)
+
+Kushans
+
+Gupta
+
+Yadavas of Devagiri
+(1187-1317)
