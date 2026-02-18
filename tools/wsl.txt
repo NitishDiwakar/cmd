@@ -1,0 +1,10 @@
+==========================================
+Title       : WSL
+Tags        : #
+Description :
+==========================================
+
+# Play music from terminal (in default windows play)
+cmd.exe /c start gym_music.mp4
+
+

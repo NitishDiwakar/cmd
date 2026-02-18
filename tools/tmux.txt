@@ -16,4 +16,5 @@ Ctrl + b  d (detach)
 
 Ctrl + b q (window no) -Switch to windows
 
+Ctrl + b z (full screen a windows)
 
