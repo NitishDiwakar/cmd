@@ -5,10 +5,13 @@ Description :
 ==========================================
 
 # Insert
-i
+i (a)
 
 # Insert - beggining of the line
 I (or Shift + i)
+
+# Insert end of line
+A
 
 # Save and quit
 esc + :
@@ -17,11 +20,40 @@ wq
 # Quit
 :q!
 
+# [Text objects]
+w-words, s-sentence, p-paragraph, t-tags
+
+# [Motions]
+a-all, i-in, t-till, f-find forward, F-find backward
+
+# [Commands]
+d-delete (also cut), c-change (delte, then place in insert mode), 
+y-yank (copy), yy (copy the line)
+
+# Copy word under cursor
+yiw (yank inner word)
+
+# Paste
+p (below)
+P (above)
+
 # Duplicate current line
 :t.
 
 # Cursor at end of file
 Shift + G
+
+# Delete word
+diw (Delte inner word)
+
+# Delete inner word and go in insert mode
+ciw
+
+# Yank all words inside ()
+yi)
+
+# Repeat the last command
+.
 
 # Cursor at beginning of the file
 gg
