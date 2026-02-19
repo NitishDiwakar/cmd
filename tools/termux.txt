@@ -1,8 +1,28 @@
+==========================================
+Title       : Termux
+Tags        : #
+Description :
+==========================================
 
 
+# Copy
+termux-clipboard-set
 
-Copy: termux-clipboard-set
+# Paste
+Ctrl + alt + v
 
-Paste : Ctrl + alt + v
+# File share
+termux-share -a send file.zip
 
-File share: termux-share -a send file.zip
+# Install Jetbrain fonts
+mkdir -p ~/.termux
+wget https://download.jetbrains.com/fonts/JetBrainsMono-2.304.zip
+unzip JetBrainsMono-2.304.zip
+cp fonts/ttf/JetBrainsMono-Regular.ttf ~/.termux/font.ttf
+termux-reload-settings
+
+vim ~/.termux/termux.properties
+
+allow-external-apps = true
+
+
