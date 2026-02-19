@@ -1,6 +1,6 @@
 ==========================================
 Title       : Attorney General
-Tags        : #
+Tags        : #nomail #noview
 Description :
 ==========================================
 

@@ -1,5 +1,5 @@
 ==========================================
 Title       : Gi Tags
-Tags        : #nomail
+Tags        : #nomail #noview
 Description :
 ==========================================
