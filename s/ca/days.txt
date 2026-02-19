@@ -1,6 +1,6 @@
 ==========================================
 Title       : Days
-Tags        : #nomail
+Tags        : #nomail #noview
 Description :
 ==========================================
 

@@ -1,6 +1,6 @@
 ==========================================
 Title       : Infrastructure
-Tags        : #nomail
+Tags        : #nomail #noview
 Description :
 ==========================================
 
