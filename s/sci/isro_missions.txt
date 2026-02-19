@@ -1,20 +1,22 @@
 ==========================================
 Title       : ISRO Missions
-Tags        : #isro #noview #nomail
+Tags        : #isro 
 Description :
 ==========================================
 
 
-PSLV-C61/EOS-09 mission launched India’s all-weather radar satellite on 18 May 2025. 
+NISAR satellite : Dual frequency radar; All weather earth observation, focus- land and ice icosystem, 30th July 2025; 
 
-GSLV-F16/NISAR, a joint NASA-ISRO Earth-observation radar satellite, was launched on 30 Jul 2025. 
+GSLV F15/NVS-02 : 100th Mission from Satish Dhawan, Sriharikota
 
-LVM3-M5/CMS-03 mission successfully placed CMS-03 satellite into orbit on 2 Nov 2025. 
+Axiom 4 : Subhanshu Shukla, With NASA, Microgravity experiments
 
-PSLV-C62/EOS-N1 mission on 12 Jan 2026 failed due to third-stage anomaly. 
+PSLV-C61/EOS-09 : Earth Observation Satellite; Sun Synchronous Orbit, Agri and Disaster management
 
-ISRO identified a safe landing zone for the upcoming Chandrayaan-4 lunar sample return mission. 
+LVM3-M6 / BlueBird Block-2: ISRO's most powerful rocket; 
 
-Preparations continued for ISRO’s Gaganyaan uncrewed test missions ahead of crewed flights. 
+Gaganyaan : Testing of Service Module Propulsion system 
 
-ISRO readied GISAT-1A Earth observation satellite for launch to improve imaging capacity. 
+IDRSS-1/2: Indian Data Relay Satellite System
+
+
