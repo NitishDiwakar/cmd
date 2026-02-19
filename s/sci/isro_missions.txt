@@ -1,6 +1,6 @@
 ==========================================
 Title       : ISRO Missions
-Tags        : #isro
+Tags        : #isro #noview #nomail
 Description :
 ==========================================
 

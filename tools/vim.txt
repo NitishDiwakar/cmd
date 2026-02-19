@@ -114,5 +114,12 @@ ci"
 # Save the current file and close it
 ZZ
 
+
+-----------Plugins----------
+# Auto pair
+mkdir -p ~/.vim/pack/plugins/start
+git clone https://github.com/jiangmiao/auto-pairs.git \
+~/.vim/pack/plugins/start/auto-pairs
+
  
 
