@@ -4,6 +4,152 @@ Tags        : #
 Description :
 ==========================================
 
+Here is the **clean .txt friendly format** as you asked:
+
+* Force added in title
+* Removed “Force:” line
+* One **tab before Participants and Venue**
+
+---
+
+12th SLINEX Exercise 2025 (Navy)
+Participants : India – Sri Lanka
+Venue : Colombo, Sri Lanka
+
+'Ja Mata' Exercise 2025 (Navy)
+Participants : India – Japan
+Venue : Chennai Coast
+
+'Samanvay Shakti' Exercise 2025 (Army)
+Participants : Indian Army
+Venue : Assam and Manipur
+
+'Sustainable Power 1404' Exercise 2025 (Army)
+Participants : Iran
+Venue : Gulf of Oman and North Indian Ocean
+
+14th 'Bold Kurukshetra' 2025 (Army)
+Participants : India – Singapore
+Venue : Jodhpur
+
+'Prachand Shakti' Exercise 2025 (Army)
+Participants : Indian Army
+Venue : Kharg Field, Meerut
+
+32nd SIMBEX Exercise 2025 (Navy)
+Participants : India – Singapore
+Venue : Singapore
+
+PASSEX Exercise 2025 (Navy)
+Participants : India – Greece Navy
+Venue : Near Mumbai, Arabian Sea
+
+'BALTOPS' Exercise 2025 (Army)
+Participants : NATO Countries
+Venue : Baltic Sea Region
+
+8th 'Shakti' Exercise 2025 (Army)
+Participants : India – France
+Venue : Camp Larzac, La Cavalerie, France
+
+1st 'Tiger Claw' Exercise 2025 (Army)
+Participants : India – USA
+Venue : Multiple locations, North India
+
+22nd 'Khan Quest' Exercise 2025 (Army)
+Participants : Multinational
+Venue : Ulaanbaatar, Mongolia
+
+17th 'Nomadic Elephant' Exercise 2025 (Army)
+Participants : India – Mongolia
+Venue : Ulaanbaatar, Mongolia
+
+'Teesta Prahar' Exercise 2025 (Army)
+Participants : Indian Army
+Venue : Teesta Field Firing Range, West Bengal
+
+'Desert Flag-10' 2025 (Air Force)
+Participants : Multinational
+Venue : UAE
+
+6th 'Dustlik' Exercise 2025 (Army)
+Participants : India – Uzbekistan
+Venue : Aundh (Pune)
+
+4th 'Tiger Triumph' 2025 (Navy)
+Participants : India – USA
+Venue : Visakhapatnam & Kakinada (Andhra Pradesh)
+
+14th 'Indra 2025' Exercise (Navy)
+Participants : India – Russia
+Venue : Chennai Coast & Bay of Bengal
+
+'Prachand Prahar' Exercise 2025 (Army)
+Participants : Indian Armies
+Venue : Arunachal Pradesh
+
+'Aikeyme' Exercise 2025 (Navy)
+Participants : India – Tanzania
+Venue : Indian Ocean
+
+12th 'Khanjar' Exercise 2025 (Army)
+Participants : India – Kyrgyzstan
+Venue : Bishkek, Kyrgyzstan
+
+'Tropex' Exercise 2025 (Navy)
+Participants : Indian Navy
+Venue : Arabian Sea & Bay of Bengal
+
+23rd 'Varuna' Exercise 2025 (Navy)
+Participants : India – France
+Venue : Arabian Sea
+
+'Sea Dragon' Exercise 2025 (Navy)
+Participants : Multinational
+Venue : Guam Coast, Western Pacific Ocean
+
+6th 'Dharma Guardian' Exercise 2025 (Army)
+Participants : India – Japan
+Venue : Mount Fuji, Japan
+
+3rd 'Cyclone' Exercise 2025 (Army)
+Participants : India – Egypt
+Venue : Rajasthan
+
+13th 'Ekuverin' Exercise 2025 (Navy)
+Participants : India – Maldives
+Venue : Maafilafushi, Maldives
+
+18th 'Surya Kiran' Exercise 2024 (Army)
+Participants : India – Nepal
+Venue : Saljhandi, Nepal
+
+11th SLINEX Exercise 2024 (Navy)
+Participants : India – Sri Lanka
+Venue : Visakhapatnam
+
+'Desert Knight' 2024 (Air Force)
+Participants : India – France – UAE
+Venue : Over Arabian Sea
+
+CINBAX-1 Exercise 2024 (Army)
+Participants : India – Cambodia
+Venue : Pune
+
+'Harimau Shakti' 2024 (Army)
+Participants : India – Malaysia
+Venue : Bentong Camp, Malaysia
+
+9th 'Garuda Shakti' 2024 (Army)
+Participants : India – Indonesia
+Venue : Jakarta, Indonesia
+
+13th 'Agni Warrior' 2024 (Army)
+Participants : India – Indonesia
+Venue : Maharashtra
+
+---
+
 
 MALABAR – Naval drill with US, Japan, Australia (Quad).  
 

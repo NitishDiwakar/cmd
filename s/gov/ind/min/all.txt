@@ -1,0 +1,44 @@
+==========================================
+Title       : Ministry and Ministers
+Tags        : #
+Description :
+==========================================
+
+Narendra Modi              : Prime Minister
+Rajnath Singh              : Defence
+Amit Shah                  : Home Minister, Co-operative
+Nitin Gadkari              : Road Transport and Highways
+Nirmala Sitharaman         : Finance and Corporate Affairs
+
+J. P. Nadda                : Health, Chemicals-Fertilizers
+S. Jaishankar              : Foreign Affairs
+Shivraj Singh Chouhan      : Agriculture and Farmers Welfare
+Manohar Lal                : Housing and Urban Affairs, Energy
+Piyush Goyal               : Commerce and Industry
+
+Dharmendra Pradhan         : Education Minister
+Pralhad Joshi              : Parliamentary Affairs, Coal
+Jitan Ram Manjhi           : Micro, Small and Medium Enterprises
+Rajiv Ranjan (Lalan Singh) : Panchayati Raj, Fisheries, Animal Husbandry, Dairy
+Sarbananda Sonowal         : Ports, Shipping and Waterways
+
+Dr. Virendra Kumar         : Social Justice and Empowerment
+Jyotiraditya M. Scindia    : Communications, Development of North Eastern Region
+Ashwini Vaishnaw           : Railways, Information Technology
+Kijrapu R. Naidu           : Civil Aviation
+Prahlad Joshi              : Consumer Affairs, Food Distribution
+
+Juel Oram                  : Tribal Affairs
+Giriraj Singh              : Textiles
+Bhupender Yadav            : Environment, Forest and Climate Change
+Gajendra Singh Shekhawat   : Culture and Tourism
+Smt. Annpurna Devi         : Health and Child Development
+
+Kiren Rijiju               : Parliamentary Affairs, Minority Affairs
+Hardeep Singh Puri         : Petroleum and Natural Gas
+Dr. Mansukh Mandaviya      : Labour and Employment, Youth Affairs and Sports
+G. Kishan Reddy            : Coal, Mines
+Chirag Paswan              : Food Processing Industries
+C R Patil                  : Jal Shakti
+
+

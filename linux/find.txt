@@ -1,0 +1,11 @@
+==========================================
+Title       : Find
+Tags        : #
+Description :
+==========================================
+
+
+# Show files that contains more than 50 lines
+find . -type f -name "*.txt" -exec awk 'FNR>50 {print FILENAME; nextfile}' {} +
+
+
