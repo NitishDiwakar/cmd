@@ -4,7 +4,7 @@ Tags        : #
 Description :
 ==========================================
 
-// For international summits see ir/summits/
+// For international summits see ir/summit.txt
 
 9th India Mobile Congress 2025
 Venue : Yashobhoomi Convention Centre, Delhi (8-11 October, 2025)
