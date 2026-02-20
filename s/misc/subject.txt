@@ -1,0 +1,21 @@
+==========================================
+Title       : Subjects and Sources
+Tags        : #nomail #noview
+Description :
+==========================================
+
+SUBJECT           : SOURCE
+Art n Culture     : NCERT, Nitin Singhania
+Ancient History   : Old NCERT; New NCERT; GC, Lucent, TN Board
+Medieveal History : Old NCERT; New Ncert; GC, Lucent, TN Board
+Modern History    : Spectrum, GC, Lucent, TN Board
+
+Polity            : Laxmikant; NCERT (6-12th); 
+Geography         : NCERT (6-12th); GC Leone; GK style book; 
+Economy           : Mrunal Notes; Vivek Singh; NCERT 11th; Budget, Eco Survey
+
+Biology           : NCERT (6-10th); GC; Lucent; Pram Ias PYQ 
+Physics           : NCERT (6-10th); GC; Lucent; Pram Ias PYQ
+Chemistry         : NCERT (6-10th); GC; Lucent; Pram Ias PYQ 
+
+ 
