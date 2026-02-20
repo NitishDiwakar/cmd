@@ -1,0 +1,24 @@
+==========================================
+Title       : Speed of Sound
+Tags        : #physics
+Description :
+==========================================
+
+MEDIUM        : SPEED (IN M/S)
+CO2           : 260
+Air (0 C)     : 332
+Air (20 C)    : 343
+Steam (100 C) : 405
+Helium        : 965
+
+Alcohol       : 1213
+Hydrogen      : 1269
+Mercury       : 1450
+Water (20 C)  : 1482
+Sea water     : 1533
+
+Copper        : 3560
+Iron          : 5130
+Glass         : 5640
+Granite       : 6000
+Aluminium     : 6420

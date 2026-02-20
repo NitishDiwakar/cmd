@@ -1,0 +1,31 @@
+==========================================
+Title       : Fruit - Edible part
+Tags        : #urgent #biology #science
+Description :
+==========================================
+
+FRUIT      : EDIBLE PART
+Apple      : Fleshy thalamus
+Pear       : Fleshy thalamus
+Mango      : Mesocarp
+Guava      : Entire fruit
+Grapes     : Pericarp and Placenta
+
+Papaya     : Mesocarp
+Coconut    : Endosperm
+Tomato     : Pericarp and Placenta
+Banana     : Mesocarp & Endocarp
+Wheat      : Starchy endosperm
+
+Cashewnut  : Peduncle & cotyledons
+Litchi     : Fleshy Aril
+Gram       : Cotyledons & Embryo
+Groundnut  : Cotyledons
+Mulberry   : entire fruit
+
+Jackfruit  : Bract, Perianth and seed
+Pine apple : Bract and Perianth 
+Orange     : Juicy hair
+
+
+

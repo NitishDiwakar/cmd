@@ -1,0 +1,16 @@
+==========================================
+Title       : Speed of light in diff medium
+Tags        : #physics
+Description :
+==========================================
+
+MEDIUM : SPEED (m/s)
+Vaccum : 3 * 10^8
+Water : 2.25 * 10^8
+Rock salt : 1.96 * 10^8
+
+Glass : 2 * 10^8
+Terpentine oil : 2.04 * 10^8
+Nylon : 1.96 * 10^8
+
+

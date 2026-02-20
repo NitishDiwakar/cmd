@@ -1,0 +1,19 @@
+==========================================
+Title       : Electromagnetic waves
+Tags        : #physics 
+Description :
+==========================================
+
+// 10`-14 = 10^-14
+
+EM Wave    : Discoverer      : Wavelength range in m (Fr Range)
+Gamma      : Henry Becqueral : 10`-14 to 10`-10 (10`20 to 10`18)
+X-Rays     : W. Rontgen      :
+Ultra-vio  : Ritter          :
+
+Visible radiation      : Newton         :
+Infra-red	       : Hershel        :
+Short R wave(Hertzian) : Heinrich Hertz :
+Long Radio waves       : Marconi	: 
+
+

@@ -20,4 +20,8 @@ Ctrl + b z (full screen a windows)
 
 Ctrl + b, PgUp (scroll)
 
+Ctrl + alt + p (Previous session)
+
+Ctrl + alt + n (Next session)
+
 

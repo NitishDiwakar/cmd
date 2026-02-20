@@ -1,0 +1,18 @@
+==========================================
+Title       : Specific Heat Capacities
+Tags        : #
+Description : 
+==========================================
+
+// Amount of heat required to raise the temperature of unit mass of substance through 1 degree C.
+
+MATERIAL : SPECIFIC HEAT CAP (J/kg K)
+Water    : 4200
+Ice      : 2100
+Iron     : 460
+K. Oil   : 210
+Mercury  : 140
+Lead     : 130
+
+
+

@@ -4,14 +4,6 @@ Tags        : #
 Description :
 ==========================================
 
-Here is the **clean .txt friendly format** as you asked:
-
-* Force added in title
-* Removed “Force:” line
-* One **tab before Participants and Venue**
-
----
-
 12th SLINEX Exercise 2025 (Navy)
 Participants : India – Sri Lanka
 Venue : Colombo, Sri Lanka
