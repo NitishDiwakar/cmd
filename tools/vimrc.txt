@@ -59,4 +59,5 @@ function! AlignEqual(start, end)
 endfunction
 
 
-
+inoremap \up ↑
+inoremap \down ↓
