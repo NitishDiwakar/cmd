@@ -114,6 +114,33 @@ ci"
 # Save the current file and close it
 ZZ
 
+# Uppercase a word
+gUw
+
+# Lowercase
+guw
+
+# Cursor to end of in inserst mode
+GA
+
+# Copy 3 word before cursor
+y3b
+
+# Copy and reposition cursor
+mzy3b`z
+
+# Yank till next space
+yf<space>
+yb<space> (backward yank)
+
+# Add two space and - to line range
+:2,5normal! I  -
+:+1,+4normal! I  - (cursor based)
+
+# Add ; from line 10 to 20
+:10,20normal! A;
+
+ 
 
 -----------Plugins----------
 # Auto pair
