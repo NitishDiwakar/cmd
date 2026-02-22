@@ -4,7 +4,13 @@ Tags        : #
 Description : 
 ==========================================
 
+# Search a word recursively
+grep -r "string" .
+
 # Show *highlighted*
 grep -o '\*[^*]*\*' file.txt
+
+# Find and replace a word recursively
+grep -rlZ 'old_word' . --include='*.txt' | xargs -0 sed -i 's/old_word/new_word/g'
 
 

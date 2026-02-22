@@ -140,8 +140,11 @@ yb<space> (backward yank)
 # Add ; from line 10 to 20
 :10,20normal! A;
 
-# Select a word (visually)
+# Select a word, forward from cursor (visually)
 vw
+
+# Select inner word
+viw
 
 # Select sentence
 vis
