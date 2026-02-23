@@ -1,41 +1,118 @@
 ==========================================
-Title       : 
+Title       :
 Tags        : #
 Description :
 ==========================================
 
-MAHAJANPADA      CAPITAL                               MODERN LOCATION                     FACTS
---------------------------------------------------------------------------------------------------------------
 
-Anga             Champa                                Munger and Bhagalpur
+Anga
+  Capital:
+    - Champa
+  Modern location:
+    - Munger and Bhagalpur
 
-Magadh           Rajgriha (Girivraj)                   Gaya and Patna
 
-Kashi            Kashi                                 Banaras
+Magadh
+  Capital:
+    - Rajgriha (Girivraj)
+  Modern location:
+    - Gaya and Patna
 
-Vatsa            Kaushambi                             Prayagraj
 
-Kosala           - Sravasti (northern)                 Eastern UP
-                 - Kushavati (southern)
+Kashi
+  Capital:
+    - Kashi
+  Modern location:
+    - Banaras
 
-Surasena         Mathura                               Western UP
 
-Panchala         Ahichchatra and Kampilya              Western UP
+Vatsa
+  Capital:
+    - Kaushambi
+  Modern location:
+    - Prayagraj
 
-Kuru             Indraprashtha                         Meerut and Southern Haryana
 
-Matsya           Viratnagara                           Jaipur
+Kosala
+  Capital:
+    - Sravasti (northern)
+    - Kushavati (southern)
+  Modern location:
+    - Eastern UP
 
-Chedi            Sothivati                             Bundelkhand region
 
-Avanti           Ujjaini (Mahishmati)                  Malwa and MP
+Surasena
+  Capital:
+    - Mathura
+  Modern location:
+    - Western UP
 
-Gandhara         Taxila                                Rawalpindi
 
-Kamboja          Poonch                                Rajouri Hajra (Kashmir)
+Panchala
+  Capital:
+    - Ahichchatra and Kampilya
+  Modern location:
+    - Western UP
 
-Asmaka (Assaka)  Potali/Podana                         Banks of Godawari
 
-Vajji            Vaishali                              Bihar
+Kuru
+  Capital:
+    - Indraprashtha
+  Modern location:
+    - Meerut and Southern Haryana
 
-Malla            Kushinara                             Deoria and UP
+
+Matsya
+  Capital:
+    - Viratnagara
+  Modern location:
+    - Jaipur
+
+
+Chedi
+  Capital:
+    - Sothivati
+  Modern location:
+    - Bundelkhand region
+
+
+Avanti
+  Capital:
+    - Ujjaini (Mahishmati)
+  Modern location:
+    - Malwa and MP
+
+
+Gandhara
+  Capital:
+    - Taxila
+  Modern location:
+    - Rawalpindi
+
+
+Kamboja
+  Capital:
+    - Poonch
+  Modern location:
+    - Rajouri Hajra (Kashmir)
+
+
+Asmaka (Assaka)
+  Capital:
+    - Potali/Podana
+  Modern location:
+    - Banks of Godawari
+
+
+Vajji
+  Capital:
+    - Vaishali
+  Modern location:
+    - Bihar
+
+
+Malla
+  Capital:
+    - Kushinara
+  Modern location:
+    - Deoria and UP

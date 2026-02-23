@@ -1,52 +1,122 @@
 ==========================================
-Title       : 
+Title       :
 Tags        : #
 Description :
 ==========================================
 
-YEAR / PERIOD        EVENT / DYNASTY                 IMPORTANCE / NOTES
-------------------------------------------------------------------------------------------------------
 
-544 BC - 412 BC      Haryanka D.                     Bimbisara, Ajatshatru, Udayin
+544 BC - 412 BC
+  Haryanka D.
+  Importance / Notes:
+    - Bimbisara
+    - Ajatshatru
+    - Udayin
 
-412 BC - 342 BC      Shishunaga D.                   Shishunaga, Kalashoka
 
-344 BC - 323 BC      Nanda D.                        Mahapadmananda, Dhanananda
+412 BC - 342 BC
+  Shishunaga D.
+  Importance / Notes:
+    - Shishunaga
+    - Kalashoka
 
-322 - 185            Mauryan Period
 
-322 - 298 BC         Chandragupta Maurya
+344 BC - 323 BC
+  Nanda D.
+  Importance / Notes:
+    - Mahapadmananda
+    - Dhanananda
 
-298 - 273 BC         Bindusara
 
-273 - 232            Ashoka
+322 - 185
+  Mauryan Period
 
-232 - 185            Later Mauryan
 
-185 BC - 73 BC       Sunga D.                        Pushyamitra Sunga
+322 - 298 BC
+  Chandragupta Maurya
 
-73 BC - 28 BC        Kanva D.                        F: Vasudeva
 
-60 BC - 225 AD       Satvahana D.                    Capital: Paithan, MH
+298 - 273 BC
+  Bindusara
 
-2nd BC               Indo-Greeks                     Menander (165-145AD)
 
-1st BC - 1st AD      Parthians
+273 - 232
+  Ashoka
 
-3rd BC - 3rd AD      Sangam Age                      Chola, Chera, Pandya
 
-319 AD - 540 AD      Gupta Age                       Golden age of India
+232 - 185
+  Later Mauryan
 
-319 - 334            Chandragupta I
 
-415 - 455            Kumargupta
+185 BC - 73 BC
+  Sunga D.
+  Importance / Notes:
+    - Pushyamitra Sunga
 
-455 - 467            Skandagupta
 
-550 - 647            Vardhana D.                      - Harsha (606 - 647)
-                                                      - Kannauj assembly, Prayag assembly
-                                                      - Xuan Zang
+73 BC - 28 BC
+  Kanva D.
+  Importance / Notes:
+    - F: Vasudeva
 
-543 - 755            Chalukyas of Vatapi              Development of Vesera style
 
-575 - 897 AD         Pallavas of Kanchi               Temple - Dravida style begins
+60 BC - 225 AD
+  Satvahana D.
+  Importance / Notes:
+    - Capital: Paithan, MH
+
+
+2nd BC
+  Indo-Greeks
+  Importance / Notes:
+    - Menander (165-145AD)
+
+
+1st BC - 1st AD
+  Parthians
+
+
+3rd BC - 3rd AD
+  Sangam Age
+  Importance / Notes:
+    - Chola
+    - Chera
+    - Pandya
+
+
+319 AD - 540 AD
+  Gupta Age
+  Importance / Notes:
+    - Golden age of India
+
+
+319 - 334
+  Chandragupta I
+
+
+415 - 455
+  Kumargupta
+
+
+455 - 467
+  Skandagupta
+
+
+550 - 647
+  Vardhana D.
+  Importance / Notes:
+    - Harsha (606 - 647)
+    - Kannauj assembly
+    - Prayag assembly
+    - Xuan Zang
+
+
+543 - 755
+  Chalukyas of Vatapi
+  Importance / Notes:
+    - Development of Vesera style
+
+
+575 - 897 AD
+  Pallavas of Kanchi
+  Importance / Notes:
+    - Temple - Dravida style begins

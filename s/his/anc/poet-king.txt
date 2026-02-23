@@ -1,30 +1,67 @@
 ==========================================
-Title       : 
+Title       : Poets and Scholors - court
 Tags        : #
 Description :
 ==========================================
 
-POET             KING                                   PROMINENT WORKS
-------------------------------------------------------------------------------------------------------
 
-Kalidas          Chandragupta II                        - AbhijnaShakuntalam
-                                                        - Meghdoot
+Kalidas
+  King:
+    - Chandragupta II
+  Prominent works:
+    - AbhijnaShakuntalam
+    - Meghdoot
 
-Banbhatt         Harshavardhana                         - Harshacharit
-                                                        - Kadambari
 
-Chand Bardai     Prithviraj Chauhan                     - Prithviraj Vaso
+Banbhatt
+  King:
+    - Harshavardhana
+  Prominent works:
+    - Harshacharit
+    - Kadambari
 
-Bhavabhuti       King Yashovarman of Kannauj            - Mahavircharita
-                                                        - Malatimadhava
-                                                        - Uttaramacharita
 
-Amir Khusro      Alauddin Khilji (& 6 other kings)      - Tuhfatus-Sighr
-                                                        - Qiranus-Sa'dain
+Chand Bardai
+  King:
+    - Prithviraj Chauhan
+  Prominent works:
+    - Prithviraj Vaso
 
-Sri Ponna        Rashtrakuta king Krishna III           - Shantipurana
-                                                        - Bhuvanaika-Ramabhyudaya
 
-Parmanand        Shivaji                                - Shivbharat
+Bhavabhuti
+  King:
+    - King Yashovarman of Kannauj
+  Prominent works:
+    - Mahavircharita
+    - Malatimadhava
+    - Uttaramacharita
 
-Ravikriti        Pulkesin II                            - Aihole Inscription
+
+Amir Khusro
+  King:
+    - Alauddin Khilji (& 6 other kings)
+  Prominent works:
+    - Tuhfatus-Sighr
+    - Qiranus-Sa'dain
+
+
+Sri Ponna
+  King:
+    - Rashtrakuta king Krishna III
+  Prominent works:
+    - Shantipurana
+    - Bhuvanaika-Ramabhyudaya
+
+
+Parmanand
+  King:
+    - Shivaji
+  Prominent works:
+    - Shivbharat
+
+
+Ravikriti
+  King:
+    - Pulkesin II
+  Prominent works:
+    - Aihole Inscription

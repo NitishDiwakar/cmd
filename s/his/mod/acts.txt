@@ -1,60 +1,74 @@
 ==========================================
 Title       : Acts
 Tags        : #
-Description : 
+Description :
 ==========================================
 
-NAME                                FEATURES
----------------------------------------------------------------------------------------------------------------
 
-Regulating Act of 1773              - 1st step by British to control EIC
-                                    - Recognised political & administrative functions of Company
-                                    - Laid foundation of central administration in India
-                                    - Ultimate sovereign power to British Crown
-                                    - Court of Directors (60 members)
-                                        * To submit civil, military & revenue communications
-                                    - Supremacy of Fort William (Bengal) over Madras & Bombay
-                                    - Governor-General (Warren Hastings) + 4 councillors
-                                    - Company servants forbidden from private trade
-                                    - Supreme Court established at Calcutta (1774)
-                                        * 1 Chief Justice + 3 Judges
+Regulating Act of 1773
+    - 1st step by British to control EIC
+    - Recognised political & administrative functions of Company
+    - Laid foundation of central administration in India
+    - Ultimate sovereign power to British Crown
+    - Court of Directors (60 members)
+        * To submit civil, military & revenue communications
+    - Supremacy of Fort William (Bengal) over Madras & Bombay
+    - Governor-General (Warren Hastings) + 4 councillors
+    - Company servants forbidden from private trade
+    - Supreme Court established at Calcutta (1774)
+        * 1 Chief Justice + 3 Judges
 
-Amending (Judicature) Act, 1781     - Extended SC jurisdiction to all inhabitants of Calcutta
-                                    - Excluded GG & council for official acts
 
-Pitt's India Act, 1784              - Separated political & commercial functions
-                                    - Board of Control created
-                                        * 6 members
-                                            - 2 from British Cabinet
-                                            - 4 from Privy Council
-                                    - GG Council reduced from 4 to 3
-                                    - GG given veto power
+Amending (Judicature) Act, 1781
+    - Extended SC jurisdiction to all inhabitants of Calcutta
+    - Excluded GG & council for official acts
 
-Charter Act of 1793                 - Company trade monopoly extended for 20 years
-                                    - Salaries of Board & staff charged to Company
-                                    - GG veto power affirmed
-                                    - Senior officials forbidden to leave India without permission
-                                    - Royal approval required for:
-                                        * Governor-General
-                                        * Governor
-                                        * Commander-in-Chief
 
-Charter Act of 1813                 - EIC monopoly ended (except Tea & China trade)
-                                    - Crown sovereignty asserted
-                                    - 1 lakh rupees allotted for education
-                                    - Christian missionaries permitted
+Pitt's India Act, 1784
+    - Separated political & commercial functions
+    - Board of Control created
+        * 6 members
+            - 2 from British Cabinet
+            - 4 from Privy Council
+    - GG Council reduced from 4 to 3
+    - GG given veto power
 
-Charter Act of 1833                 - Company commercial activities ended
-                                    - Governor-General of Bengal became GG of India
-                                    - Centralisation of legislative power
 
-Charter Act of 1853                 - Separate legislative & executive functions of GG Council
-                                    - Open competition system introduced (later implemented)
-                                    - No fixed period for Company rule extension
+Charter Act of 1793
+    - Company trade monopoly extended for 20 years
+    - Salaries of Board & staff charged to Company
+    - GG veto power affirmed
+    - Senior officials forbidden to leave India without permission
+    - Royal approval required for:
+        * Governor-General
+        * Governor
+        * Commander-in-Chief
 
-Vernacular Press Act, 1878          - Restrictions on non-English newspapers
-                                    - Viceroy: Lord Lytton (1876–80)
 
-Ilbert Bill, 1883                   - Indian judges allowed to try Europeans
-                                    - Viceroy: Lord Ripon (1880–84)
+Charter Act of 1813
+    - EIC monopoly ended (except Tea & China trade)
+    - Crown sovereignty asserted
+    - 1 lakh rupees allotted for education
+    - Christian missionaries permitted
 
+
+Charter Act of 1833
+    - Company commercial activities ended
+    - Governor-General of Bengal became GG of India
+    - Centralisation of legislative power
+
+
+Charter Act of 1853
+    - Separate legislative & executive functions of GG Council
+    - Open competition system introduced (later implemented)
+    - No fixed period for Company rule extension
+
+
+Vernacular Press Act, 1878
+    - Restrictions on non-English newspapers
+    - Viceroy: Lord Lytton (1876–80)
+
+
+Ilbert Bill, 1883
+    - Indian judges allowed to try Europeans
+    - Viceroy: Lord Ripon (1880–84)

@@ -4,24 +4,40 @@ Tags        : #
 Description :
 ==========================================
 
-NAME               BIRTH YEAR     LOCATION        THEORY / FAMOUS FOR
-------------------------------------------------------------------------------------------------------
+Name: Shankaracharya
+Birth year: 788
+Theory / Famous for:
+  - Theory of monism (Advaita)
+  - Gyan (knowledge) only way to lead to salvation
+  - Ekameva Adviteeyam Brahma
+  - Brahma Satyam Jagat Mithya Jivo Brahmatra Naparaha
 
-Shankaracharya     788                            - Theory of monism (Advaita)
-                                                   - Gyan (knowledge) only way to lead to salvation
-                                                   - Ekameva Adviteeyam Brahma
-                                                   - Brahma Satyam Jagat Mithya Jivo Brahmatra Naparaha
 
-Ramanuja           1017                           - Wrote
-                                                       - Vedantasara
-                                                       - Gita Bhasya
-                                                       - Vedanta Dipa
-                                                       - Sribhashya
+Name: Ramanuja
+Birth year: 1017
+Theory / Famous for:
+  - Wrote:
+      - Vedantasara
+      - Gita Bhasya
+      - Vedanta Dipa
+      - Sribhashya
 
-Madhavacharya                     Kannad          - Believed in dualism
 
-Nimbarka                                         - Younger contemporary of Shankaracharya
+Name: Madhavacharya
+Birth year: —
+Theory / Famous for:
+  - Believed in dualism
 
-Vallabhacharya                                  - Founder of
-                                                       - Pushtimarg
-                                                       - Rudra sampraday
+
+Name: Nimbarka
+Birth year: —
+Theory / Famous for:
+  - Younger contemporary of Shankaracharya
+
+
+Name: Vallabhacharya
+Birth year: —
+Theory / Famous for:
+  - Founder of:
+      - Pushtimarg
+      - Rudra sampraday

@@ -1,6 +1,6 @@
 ==========================================
 Title       : Travellers  Medieval India
-Tags        : #
+Tags        : #imp #medieval
 Description :
 ==========================================
 
@@ -21,7 +21,7 @@ Marco Polo (1292-1294) - Venentian
 
 Ibn Battuta (1333-1347) - Moroccan
   MBT
-  Rihla
+  *Rihla*
 
 
 Nicolo Conti (1420-1421) - Italian
