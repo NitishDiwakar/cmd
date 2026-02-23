@@ -1,33 +1,120 @@
 ==========================================
-Title       : 
+Title       : Indus Valley Civilization
 Tags        : #
 Description :
 ==========================================
 
-PLACE         RIVER      YEAR       ARCHAEOLOGIST              MODERN PLACE                  MORE DETAILS
----------------------------------------------------------------------------------------------------------------
 
-Harappa       Ravi       1921       Dayaram Sahni              Pak
+Harappa
+  - Ravi
+  - 1921 (discovered year)
+  - Dayaram Sahni (Archaleogist)
+  - Pak
+  - Granaries; Male torso; stone, lingam, yoni; Mother goddess; dice
 
-Mohenjodaro   Indus      1923       R.D. Banarjee              Pak
 
-Sutkagendor   Dasht      1927       Orell Stine                Pak (Baluchistan)             - Western most
+Mohenjodaro
+  - Indus
+  - 1922
+  - R.D. Banarjee
+  - Pak
+  - Great bath; Gr Granary; Pashupati Seal; dancing girl
 
-Chanudaro     Indus      1931       Gopal Majumdar
 
-Kalibangan    Ghaggar    1954       - Brijvasi Lal             Ganganagar dist, (Rajasthan)
-                                     - B.K. Thapar
+Sutkagendor
+  - Dasht
+  - 1927
+  - Orell Stine
+  - Pak (Baluchistan)
+  - Western most
 
-Kotdiji       Indus      1953       Fazal Ahmed
 
-Rangpur       Bhadar     1953-54    Rangnath Rav               Gujarat
+Chanudaro
+  - Indus
+  - 1931
+  - Gopal Majumdar
+  - Lipstick; metal works; Terracota bullcart; post crmation burial; 
+  - dog paw mark; *without citadel*
 
-Ropar         Satluj     1953-56    Yagyadutt Sharma           Punjab
+Kalibangan
+  - Ghaggar
+  - 1954
+  - Brijvasi Lal
+  - B.K. Thapar
+  - Ganganagar dist, (Rajasthan)
+  - *Ploughed field*; *Camel bones* 
 
-Lothal        Bhogva     1957-58    Rangnath Sharma            Ahmedabad (Gujarat)
 
-Alamgirpur    Hindan     1958       Yagyadutt Sharma           Merath (UP)
+Kotdiji
+  - Indus
+  - 1953
+  - Fazal Ahmed
 
-Banavali      Rangoi     1974       Ravindra Singh             Hisar (Haryana
 
-Manda         Chenab     1976-77    J.P. Joshi                 Jammu & Kashmir
+Rangpur
+  - Bhadar
+  - 1953-54
+  - Rangnath Rav
+  - Gujarat
+
+
+Ropar
+  - Satluj
+  - 1953-56
+  - Yagyadutt Sharma
+  - Punjab
+
+
+Lothal
+  - Bhogva
+  - 1957-58
+  - Rangnath Sharma
+  - Ahmedabad (Gujarat)
+
+
+Alamgirpur
+  - Hindan
+  - 1958
+  - Yagyadutt Sharma
+  - Merath (UP)
+
+
+Banavali
+  - Rangoi
+  - 1974
+  - Ravindra Singh
+  - Hisar (Haryana
+
+
+Manda
+  - Chenab
+  - 1976-77
+  - J.P. Joshi
+  - Jammu & Kashmir
+
+
+_________________________________
+Area expand
+North : Manda, East: Alamgirpur, South: Daimabad, West: Sutkagendor
+*MADS* 
+
+_________________________________
+
+SITE         : RIVER
+Harappa      : Ravi
+Mohanjodaro  : Indus
+*Sutkagendor : Dasht*
+Chanudaro    : Indus
+Kalibangan   : Ghaggar
+*Kot diji    : Indus*
+Rangpur      : Bhadar
+Ropar        : Satluj
+Lothal       : Bhogwa
+Alamgirpur   : Hindan
+Banavali     : Rangoi
+*Manda       : Chenab*
+
+_________________________________
+
+
+
