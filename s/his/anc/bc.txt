@@ -1,7 +1,30 @@
 ==========================================
 Title       : Buddhist council
-Tags        : #
+Tags        : #buddhism 
 Description :
 ==========================================
 
+1st (483 BC)
+  - Rajagriha
+  - Ajatashatru (Patronage)
+  - Mahakashyapa (President)
+  - Vinayapitaka; Suttapitaka
 
+2nd (383 BC)
+  - Vaishali
+  - Kalashok
+  - Sabkamir
+  - Mahasanghika; Theravadin
+
+3rd (250 BC)
+  - Patliputra
+  - Ashoka
+  - Mogaliputra Tissa
+  - Abhidhammapitaka (book)
+
+4th (72 AD)
+  - Kashmir
+  - Kanishka 
+  - Vasumitra
+  - Mahayana; Hinayana
+ 
