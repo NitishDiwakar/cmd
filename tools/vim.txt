@@ -49,8 +49,8 @@ diw (Delte inner word)
 # Delete inner word and go in insert mode
 ciw
 
-# Yank all words inside ()
-yi)
+# Yank all words inside 
+yi( 
 
 # Repeat the last command
 .
@@ -89,7 +89,7 @@ n (go to next match)
 # Move forward 3 words
 3w
 
-# Delete 4 lines
+# Delete 4 lines (current + 3 lines below)
 4dd
 
 # Find and replace word inside a directory and subdirectory
@@ -97,7 +97,7 @@ n (go to next match)
 :cdo %s/oldword/newword/gc | update
 
 # Delete from lines (cursor + 3 above)
-4dd
+3dk
 
 # Duplicate current line
 yyp
@@ -126,12 +126,8 @@ GA
 # Copy 3 word before cursor
 y3b
 
-# Copy and reposition cursor
-mzy3b`z
-
-# Yank till next space
 yf<space>
-yb<space> (backward yank)
+yF<space> (backward yank)
 
 # Add two space and - to line range
 :2,5normal! I  -
@@ -158,11 +154,20 @@ V
 # Remove a character from opened file
 :%s/character//g
 
-Remove everything right of cursor
+# Remove everything right of cursor
 D
 
+# Scroll
+Ctrl + f (Scroll downl a full page)
+Ctrl + b (Scroll up a full page)
+Ctrl + d (Scroll down a half page)
+Ctrl + u (Scroll up a half page)
+Ctrl + e (Scroll window down one line)
+Ctrl + y (Scroll windows up one line)
 
 
+# Cut 2 lines (current + below)
+2dd
 
 
 
