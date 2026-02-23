@@ -155,11 +155,22 @@ vi"
 # Select line 
 V
 
+# Remove a character from opened file
+:%s/character//g
+
+Remove everything right of cursor
+D
+
+
+
+
+
+
+
 -----------Plugins----------
 # Auto pair
 mkdir -p ~/.vim/pack/plugins/start
 git clone https://github.com/jiangmiao/auto-pairs.git \
 ~/.vim/pack/plugins/start/auto-pairs
 
- 
 
