@@ -1,35 +1,63 @@
 ==========================================
-Title       : 
+Title       : Constitutional Bodies
 Tags        : #
 Description :
 ==========================================
 
-NAME                                   INTRO                                                                 DETAIL / POWER FUNCTION                    APPT METHOD
-------------------------------------------------------------------------------------------------------------------------------------------------------
 
-EC                                     - Art. 324
+EC
+    - Art. 324
 
-UPSC                                   - Art. 315-323
 
-CAG                                    CAG, under Article 148 of the Indian Constitution, is the watchdog  - Auditor of Union and states              - App by president
-                                       of public finance, ensuring transparency and accountability in                                               - 6 years or till 65 years of age
-                                       government expenditure                                                                          - Removal via impeachment
+UPSC
+    - Art. 315-323
 
-GST                                    - 279A
 
-FC                                     The Finance Commission is a constitutional body under Article 280,                                  - President appoints
-                                       established to recommend fiscal arrangements between the Union                                        - A chairman and four members
-                                       and States for a fixed period                                                                        - 5 year term
+CAG
+    - CAG, under Article 148 of the Indian Constitution, is the watchdog
+      of public finance, ensuring transparency and accountability in
+      government expenditure
+  Detail / Power Function:
+    - Auditor of Union and states
+  Appt method:
+    - App by president
+    - 6 years or till 65 years of age
+    - Removal via impeachment
 
-NCSC                                   - Art. 338
 
-NCST                                   - Art. 338-A
+GST
+    - 279A
 
-NCBC                                   - Art. 338-B
 
-Special officer for Linguistic         - Art. 350-B
-minorities
+FC
+    - The Finance Commission is a constitutional body under Article 280,
+      established to recommend fiscal arrangements between the Union
+      and States for a fixed period
+  Appt method:
+    - President appoints
+    - A chairman and four members
+    - 5 year term
 
-Attorney General of India              - Art. 76
 
-Advocate General of the state          - 165
+NCSC
+    - Art. 338
+
+
+NCST
+    - Art. 338-A
+
+
+NCBC
+    - Art. 338-B
+
+
+Special officer for Linguistic minorities
+    - Art. 350-B
+
+
+Attorney General of India
+    - Art. 76
+
+
+Advocate General of the state
+    - 165
