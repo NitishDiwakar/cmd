@@ -6,41 +6,32 @@ Description :
 
 // For international summits see ir/summit.txt
 
-9th India Mobile Congress 2025
-Venue : Yashobhoomi Convention Centre, Delhi (8-11 October, 2025)
-Theme : Innovate to Transform
+*AI Impact Summit 2026* (Feb 16-20)
+  - "Sarvajan Hitaye, Sarvajan Sukhaye" (Welfare for All, Happiness For all)
+  - 3 Sutra: People, Planet, Progress
+  - 7 Chakra
+	- Inclusion for Social Empowerment
+	- Human Capital
+	- Resilience innovation and Efficiency
+	- Democratizing AI Resources
+	- AI for Economic Development & Social Good
+	- Science
+	- Sale & Trusted AI
+  - Three sovereign AI models uneviled
+	- Sarvam AI
+	- Gnani.ai (voice model; 12 Indian lang)
+	- BharatGen (17 billion parameter)
 
-10th Raisina Dialogue 2025
-Venue : New Delhi (17-19 March, 2025)
-Theme : Kalachakra : People, Peace and Planet
-Chief Guest : Christopher Luxon (Prime Minister of New Zealand)
+  - *MANAV*
+	- Moral and Ethical System
+	- Accountable governance
+	- National Sovereignty
+	- Accessible and inclusive
+	- Valid and ligitimate
 
-Water Sustainability Conference 2025
-Venue : New Delhi (12 March, 2025)
-Theme : Industrial Water Use Efficiency
 
-Fit India Carnival 2025
-Venue : New Delhi (16-18 March, 2025)
-Organised by : Sports Authority of India and Fit India Mission
-
-Aero India Show 2025 (Edition-15th, 10-14 February, 2025)
-Venue : Yelahanka Air Force Station (Bengaluru, Karnataka)
-Theme / Topic : The Runway to a Billion Opportunities
-
-18th Pravasi Bharatiya Divas Convention 2025
-Venue : Bhubaneswar, Odisha (8-10 January, 2025)
-Theme : Diaspora Contribution in Development India
-17th Convention : Indore, Madhya Pradesh
-Theme (17th Convention) : Diaspora : Reliable Partners for India's Progress in the Amrit Kaal
-
-Young Indian Diaspora Day 2025
-Organized by : Bhubaneswar, Odisha (on January 8, 2025)
-By : Union Ministy of Youth Affairs and Sports
-Chief Guest : Dr. Dev Pragad, CEO of US Pacific Newsweek
-
-First Asian Buddhist Summit 2024
-Venue : New Delhi (5-6 November, 2024)
-Theme : Role of Buddhism in Strengthening Asia
+The India AI Impact Summit 2026 conveyed a powerful message: India is not merely adabpting to the revolution, it is actively shaping it.
+___________________________________________
 
 SEMICON India Conference 2024
 Venue : Greater Noida, Uttar Pradesh (11-13 Septemebr, 2024)

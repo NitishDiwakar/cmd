@@ -1,0 +1,66 @@
+==========================================
+Title       : Hockey
+Tags        : #
+Description :
+==========================================
+
+
+Men's Hockey India League 2024-25
+  - Venue : Odisha
+  - Winner : Shrachi Rarh Bengal Tigers
+  - Runner-up : Hyderabad Toofans
+
+
+Women's Hockey India League 2025
+  - Venue : Ranchi
+  - Winner : Odisha Warriors
+  - Runner-up : Surma Hockey Club
+
+
+Women's Junior Asia Cup 2024
+  - Edition : 9th
+  - Venue : Muscat, Oman
+  - Winner : India
+  - Runner-up : China
+
+
+Men's Junior Asia Cup 2024
+  - Edition : 10th
+  - Venue : Muscat, Oman
+  - Winner : India
+  - Runner-up : Pakistan
+
+
+8th Women's Asian Champions Trophy 2024
+  - Venue : Rajgir, Bihar
+  - Winner : India
+  - Runner-up : China
+
+
+Men's Asian Champions Trophy 2024
+  - Venue : Hostel-China
+  - Winner : India
+  - Runner-up : China
+
+
+14th Senior National Hockey Championship 2024
+  - Winner : Odisha
+  - Runner-up : Haryana
+
+
+Sultan Azlan Shah Cup 2024
+  - Venue : Ipoh, Malaysia
+  - Winner : Japan
+  - Runner-up : Pakistan
+
+
+Tennis Men's Hockey 5th World Cup 2024
+  - Venue : Oman
+  - Winner : Netherlands
+  - Runner-up : Malaysia
+
+
+Tennis Women's Hockey 5th World Cup 2024
+  - Venue : Oman
+  - Winner : Netherlands
+  - Runner-up : India

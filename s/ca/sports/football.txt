@@ -3,3 +3,83 @@ Title       : Football
 Tags        : #
 Description :
 ==========================================
+
+Durand Cup 2025
+  - Edition : 134th
+  - Venue : Kolkata
+  - Winner : NorthEast United
+  - Runner-up : Diamond Harbour
+
+
+UEFA Women's Euro Cup 2025
+  - Venue : Switzerland
+  - Winner : England
+  - Runner-up : Spain
+
+
+FIFA Club World Cup 2025
+  - Venue : USA
+  - Winner : Chelsea
+  - Runner-up : Paris Saint-germain
+
+
+UEFA Women's Champions League 2025
+  - Venue : Lisbon, Portugal
+  - Winner : Arsenal
+  - Runner-up : Barcelona
+
+
+SAFF U-19 Championship 2025
+  - Venue : Arunachal Pradesh
+  - Winner : India
+  - Runner-up : Bangladesh
+
+
+La Liga Football 2024-25
+  - Edition : 37th
+  - Winner : FC Barcelona
+  - Runner-up : Espanyol
+
+
+Premier League Champions 2024-25
+  - Venue : Hyderabad, Telangana
+  - Winner : Liverpool
+  - Runner-up : Arsenal
+
+
+78th Santosh Trophy 2024-25
+  - Venue : Hyderabad, Telangana
+  - Winner : West Bengal
+  - Runner-up : Kerala
+
+
+FIFA Intercontinental Cup 2024
+  - Edition : 1st
+  - Venue : Qatar
+  - Winner : Real Madrid
+  - Runner-up : Pachuca
+
+
+SAFF Under-17 Champion 2024
+  - Venue : Thimpu, Bhutan
+  - Winner : India
+  - Runner-up : Bangladesh
+
+
+4th Intercontinental Football Championship 2024
+  - Venue : Telangana
+  - Winner : Syria
+  - Runner-up : India
+
+
+SAFF Under-20 Champion 2024
+  - Edition : 6th
+  - Venue : Lalitpur, Nepal
+  - Winner : Bangladesh
+  - Runner-up : Nepal
+
+
+Euro (European Football) Cup 2024
+  - Venue : Berlin, Germany
+  - Winner : Spain (4th time)
+  - Runner-up : England

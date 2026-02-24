@@ -3,3 +3,105 @@ Title       : Cricket
 Tags        : #
 Description :
 ==========================================
+
+
+
+==========================================
+ICC Champions Trophy-2025
+==========================================
+
+Event:
+  - Pakistan and Dubai
+
+Winner:
+  - India (3rd time)
+
+Runner-up:
+  - New Zealand
+
+Player of the Match:
+  - Rohit Sharma
+
+Player of the Tournament:
+  - Rachin Ravindra
+
+
+==========================================
+IPL 2025
+==========================================
+Event
+  - 22 March to 3 June, 2025
+
+Final
+  - Narendra Modi Sradium
+  - Ahmedabad (Gujrat)
+
+Title sponsor company
+  - Tata
+
+Total teams
+  - 10
+
+First match
+  - KKR and RCB
+
+Winner
+  - Royal Challengers Bengaluru (by 6 runs)
+
+Runners-up
+  - Punjab Kings
+
+Most runs
+  - Sai Sudharsan (759 runs)
+
+Most wickets
+  - Prasidh Krishna (25)
+
+Player of the Final
+  - Krunal Pandya
+
+Emerging Player
+  - Sai Sudharsan
+
+Fastest Century
+  - Vaibhav Suryavanshi
+
+Fair play Award
+  - Chennai Super Kings
+
+
+==========================================
+9th T-20 World Cup 2024
+==========================================
+
+Event:
+  - 1-29 June, 2024
+
+Host country:
+  - USA and West Indies
+
+Brand Ambassadors:
+  - Usain Bolt
+  - Yuvraj Singh
+  - Chris Gayle
+  - Shahid Afridi
+
+Opening Match:
+  - Grand Prairie Stadium
+
+Final Match:
+  - Kensington Oval, Barbados
+
+Winner:
+  - India (by 7 runs, after 17 years)
+
+Runner-up:
+  - South Africa
+
+Most Runs:
+  - Rahmanullah Gurbaz (281)
+
+Most Wickets:
+  - Arshdeep Singh (India)
+  - Fazalhaq Farooqi (17 wickets)
+

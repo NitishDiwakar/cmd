@@ -5,243 +5,207 @@ Description :
 ==========================================
 
 Smart City Index 2025
-
 - Issued by : International Management Institute
 - Countries Covered : 146
 - First Rank : Zurich
 - India's Rank : Delhi-104
 
 Global AI City Index 2025
-
 - Issued by : Counterpoint Research-Singapore
 - First Rank : Dengaluru-26th
 
 World Competitiveness Index 2025
-
 - Issued by : International Management Institute
 - Countries Covered : 67
 - First Rank : Singapore
 - India's Rank : 41st (39th in 2024)
 
 Henley Passport Index 2025
-
 - Issued by : Henley & Partners
 - Countries Covered : 199
 - First Rank : Singapore
 - India's Rank : 77th (Before-85th)
 
 Global Unicorn Index 2025
-
 - Issued by : Hurun research Institute
 - Countries Covered : 64
 - First Rank : USA
 - India's Rank : 3rd (3 in 2024)
 
 Sustainable Development Report 2025
-
 - Issued by : SDSN
 - Countries Covered : 167
 - First Rank : Finland
 - India's Rank : 99th (124 in 2024)
 
 Global Peace Index 2025
-
 - Issued by : Institute for Economics and Peace
 - Countries Covered : 163
 - First Rank : Iceland
 - India's Rank : 115th (116 in 2024)
 
 Global Liveability Index 2025
-
 - Issued by : Economics Intelligence Unit
 - Countries Covered : 173
 - First Rank : Copenhagen
 
 Energy Transition Index 2025
-
 - Issued by : World Economic Forum
 - Countries Covered : 120
 - First Rank : Sweden
 - India's Rank : 71th (63 in 2024)
 
 Global Gender Gap Index 2025
-
 - Issued by : World Economic Forum
 - Countries Covered : 148
 - First Rank : Iceland
 - India's Rank : 129th (127 in 2024)
 
 Climate Change Performance Index 2025
-
 - Issued by : Germanwatch
 - Countries Covered : 63 + EU
 - First Rank : Denmark (4th)
 - India's Rank : 10th (7th in 2024)
 
 Human Development Index 2025
-
 - Issued by : UNDP
 - Countries Covered : 193
 - First Rank : Iceland
 - India's Rank : 130 (Score-0.685)
 
 World Press Freedom Index 2025
-
 - Issued by : Reports Without Borders (France)
 - Countries Covered : 180
 - First Rank : Norway
 - India's Rank : 151st (159 in 2024)
 
 Global Network Readiness Index 2025
-
 - Countries Covered : 170
 - India's Rank : 36th (48th in 2022)
 
 World Happiness Report 2025
-
 - Issued by : SDSN
 - Countries Covered : 147
 - First Rank : Finland
 - India's Rank : 118th (126 in 2024)
 
 19th Wealth Report 2025
-
 - Issued by : Knight Frank-US
 - India's Rank : 4th
 
 Corruption Perceptions Index 2024
-
 - Issued by : Transparency International
 - Countries Covered : 180
 - First Rank : Denmark
 - India's Rank : 96th (93 in 2023)
 
 Global Firepower Index 2025
-
 - Issued by : Global Firepower.Com
 - Countries Covered : 145
 - First Rank : US
 - India's Rank : 4th (4th in 2024)
 
 Network Readiness Index 2024
-
 - Issued by : Portulans Institute
 - Countries Covered : 133
 - First Rank : US
 - India's Rank : 49th (Score-53.63)
 
 Global Nature Conservation Index 2024
-
 - Countries Covered : 180
 - First Rank : Luxembourg
 - India's Rank : 176th
 
 Rule of Law Index 2024
-
 - Issued by : World Justice Project (WJP)
 - Countries Covered : 142
 - First Rank : Denmark
 - India's Rank : 79th
 
 Global Hunger Index 2024
-
 - Issued by : Welthungerhilfe (German institution)
 - Countries Covered : 127
 - First Rank : Belarus
 - India's Rank : 105th (score-27.3)
 
 Index of Economic Freedom 2024
-
 - Issued by : Fraser Institute
 - Countries Covered : 165
 - First Rank : Hong Kong
 - India's Rank : 84th (87 in 2023)
 
 Global Innovation Index 2024
-
 - Issued by : WIPO
 - Countries Covered : 133
 - First Rank : Switzerland
 - India's Rank : 39th (40 in 2023)
 
 Asia Power Index 2024
-
 - Issued by : Lowy Institute (Sydney)
 - Countries Covered : 26
 - First Rank : United States
 - India's Rank : 3rd
 
 World Talent Ranking 2024
-
 - Issued by : IMD
 - Countries Covered : 67
 - First Rank : Switzerland
 - India's Rank : 58th (Score-40.47)
 
 AI Readiness Index 2024
-
 - Issued by : International Monetary Fund
 - Countries Covered : 174
 - First Rank : Singapore
 - India's Rank : 72nd (score-0-49)
 
 Global Energy Transition Index 2024
-
 - Issued by : World Economic Forum
 - Countries Covered : 120
 - First Rank : Sweden
 - India's Rank : 63rd (67 in 2023)
 
 Environmental Performance Index 2024
-
 - Issued by : Yale University, USA
 - Countries Covered : 180
 - First Rank : Estonia
 - India's Rank : 176th
 
 TravelandTourismDevelopment Index
-
 - Issued by : World Economic Forum
 - Countries Covered : 119
 - First Rank : United States
 - India's Rank : 39th (54 in 2021)
 
 Cyber Crime Index 2024
-
 - Countries Covered : 100
 - First Rank : Russia
 - India's Rank : 10th
 
 Human Development Index 2023-24
-
 - Issued by : UNDP
 - Countries Covered : 193
 - First Rank : Switzerland
 - India's Rank : 134th (Score-0.644)
 
 Gender Inequality Index 2022
-
 - Issued by : UNDP
 - Countries Covered : 193
 - First Rank : Finland
 - India's Rank : 108th (Score-0.437)
 
 Intellectual Property Index 2024
-
 - Issued by : Global Innovation Policy Center (US)
 - Countries Covered : 55
 - First Rank : Ameria
 - India's Rank : 42nd (42 in 2023)
 
 Tom-Tom Traffic Index 2024
-
 - Issued by : Transparency International
 - Cities Covered : 387
 - First Rank : London
 - India's Rank : Bengaluru Rank-6th
 
 Global Democracy Index 2023
-
 - Issued by : Economics Intelligence Unit
 - Countries Covered : 167
 - First Rank : Norway

@@ -3,3 +3,199 @@ Title       : Tenis
 Tags        : #
 Description :
 ==========================================
+
+==========================================
+Grand Slam Tennis Competitions : 2024-25
+==========================================
+
+AUSTRALIAN OPEN-2025
+Men's Singles
+  Winner:
+    - Jannik Sinner (Italy)
+  Runner Up:
+    - Alexander Zverev (Germany)
+
+Women's Singles
+  Winner:
+    - Madison Keys (USA)
+  Runner Up:
+    - Aryna Sabalenka (Belarus)
+
+Men's Doubles
+  Winner:
+    - Harri Heliovaara (Finland)
+    - Henry Patten (Britain)
+  Runner Up:
+    - Simone Bolelli (Italy)
+    - Andrea Vavassori (Italy)
+
+Women's Doubles
+  Winner:
+    - Katerina Siniakova (C. Republic)
+    - Taylor Townsend (USA)
+  Runner Up:
+    - Su-Wei Hsieh (Taiwan)
+    - Jelena Ostapenko (Latvia)
+
+Mixed Doubles
+  Winner:
+    - Olivia Gadecki (Australia)
+    - John Peers (Australia)
+  Runner Up:
+    - Kimberly Birrell (Australia)
+    - John Patrick Smith (Australia)
+
+
+
+FRENCH OPEN-2025
+Men's Singles
+  Winner:
+    - Carlos Alcaraz (Spain)
+  Runner Up:
+    - Jannik Sinner (Italy)
+
+Women's Singles
+  Winner:
+    - Coco Gauff (USA)
+  Runner Up:
+    - Aryna Sabalenka (Belarus)
+
+Men's Doubles
+  Winner:
+    - Marcel Granollers (Spain)
+    - Horacio Zeballos (Argentina)
+  Runner Up:
+    - Joe Salisbury
+    - Neal Skupski (Britain)
+
+Women's Doubles Title
+  Winner:
+    - Paolini
+    - Sara Errani (Italy)
+  Runner Up:
+    - Anna Danilina
+    - Aleksandra Krunic
+
+Event:
+  - From 25 May to 8 June 2025
+  - Roland Garros Stadium, Paris (France)
+
+
+
+WIMBLEDON OPEN-2025
+Men's Singles
+  Winner:
+    - Jannik Sinner (Italy)
+  Runner Up:
+    - Carlos Alcaraz (Spain)
+
+Women's Singles
+  Winner:
+    - Iga Swiatek (Poland)
+  Runner Up:
+    - Amanda Anisimova (USA)
+
+Men's Doubles
+  Winner:
+    - Julian Cash (UK)
+    - Lloyd Glasspool (Britain)
+  Runner Up:
+    - Rinky Hijikata (Australia)
+    - David Pell (Netherlands)
+
+Women's Doubles
+  Winner:
+    - Veronika Kudermetova (Russia)
+    - Elise Mertens (Belgium)
+  Runner Up:
+    - Hsieh Su-Wei (Taiwan)
+    - Jeanna Ostapenko (Latvian)
+
+Event:
+  - From 30 June to 13 July 2025
+  - London (UK)
+
+
+
+US (AMERICAN) OPEN-2024
+Men's Singles
+  Winner:
+    - Jannik Sinner (Italy)
+  Runner Up:
+    - Taylor Fritz (USA)
+
+Women's Singles
+  Winner:
+    - Aryna Sabalenka (Belarus)
+  Runner Up:
+    - Jessica Pegula (USA)
+
+Men's Doubles
+  Winner:
+    - Max Purcell (Australian)
+    - Jordan Thompson (Australian)
+  Runner Up:
+    - Kevin Krawietz (Germany)
+    - Tim Puetz (Germany)
+
+Women's Doubles
+  Winner:
+    - Lyudmyla Kichenok (Ukraine)
+    - Jelena Ostapenko (Latvia)
+  Runner Up:
+    - Kristina Mladenovic (France)
+    - Zhang Shuai (China)
+
+Mixed Doubles
+  Winner:
+    - Sara Errani (Italy)
+    - Andrea Vavassori (Italy)
+  Runner Up:
+    - Donald Young (American)
+    - Taylor Townsend (American)
+
+
+
+Notes:
+  - The four Grand Slam tournaments (Australian Open, French Open, Wimbledon and US Open), also known as majors, are important tennis events.
+  - The Australian Open and US Open are both played on hard courts, while the French Open is played on clay and Wimbledon is played on grass.
+
+___________________________________
+Italian Open 2025
+  - Venue : Rome, Italy
+  - Winner : Carlos Alcaraz
+  - Runner-up : Jannik Sinner
+
+
+Chennai Open 2025
+  - Edition : 112th
+  - Venue : Malaga, Spain
+  - Men's A Winner : Kirian Jacquet
+  - Men's A Runner-up : Elias Ymer
+
+
+ATP Tour Finals 2024
+  - Venue : Turin, Italy
+  - Men's Singles Winner : Jannik Sinner
+  - Men's Singles Runner-up : Taylor Fritz
+
+
+WTA Tour Finals 2024
+  - Version : Riyadh, Saudi Arabia
+  - Women's Singles Winner : Coco Gauff
+  - Women's Singles Runner-up : Zheng Qinwen
+
+
+Billie Jean King Cup 2024
+  - It is a women's tennis tournament
+  - Winner : Italy
+  - Runner-up : Slovakia
+
+
+Davis Cup 2024
+  - Edition : 112th
+  - Venue : Malaga, Spain
+  - Winner : Italy
+  - Runner-up : Netherlands
+
+

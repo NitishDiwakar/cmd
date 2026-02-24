@@ -1,0 +1,82 @@
+==========================================
+Title       : Olympic
+Tags        : #
+Description :
+==========================================
+
+==========================================
+17th Paris Paralympics-2024
+==========================================
+
+Event:
+  - France (28 August-8 September)
+
+Motto:
+  - L'Ome Paakam Vchmad
+
+Mascot:
+  - Phrygian cap
+
+Opening:
+  - Place de la Concorde Stadium
+
+Closing:
+  - Stade de France Stadium
+
+Main sports:
+  - 22 (Other events - 549)
+
+Number of Indian athletes:
+  - 84
+
+Flagbearers in closing ceremony:
+  - Sumit Antil
+  - Bhagyashree Jadhav
+
+Flagbearers in opening ceremony:
+  - Harvinder Singh
+  - Preeti Pal
+
+Chef-de-mission of India:
+  - Satya Prakash Sangwan
+
+First gold for India:
+  - Avani Lekhara
+
+First Indian woman to win two gold medals in Paralympic:
+  - Avani Lekhara
+
+
+
+Medal Table
+
+Rank 1
+  - China
+  - Gold: 94
+  - Silver: 74
+  - Bronze: 49
+  - Total: 217
+
+Rank 2
+  - Britain
+  - Gold: 47
+  - Silver: 42
+  - Bronze: 31
+  - Total: 120
+
+Rank 3
+  - America
+  - Gold: 36
+  - Silver: 41
+  - Bronze: 26
+  - Total: 103
+
+Rank 18
+  - India
+  - Gold: 7
+  - Silver: 9
+  - Bronze: 13
+  - Total: 29
+
+
+
