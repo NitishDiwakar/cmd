@@ -6,7 +6,7 @@ Description :
 
 [Sahitya Academi Award - 2024]
 English          : Easterine Kire (Novel - Spirit Nights)
-Hindi            : Gagan Gill (Poetry - Main Jab Tak Aai Bahar)
+Hindi            : Gagan Gill (Poetry - *Main Jab Tak Aai Bahar*)
 Maithili         : Mahendra Malangia (Essay - Prabandh Sangrah)
 Sanskrit         : Dipak Kumar Sharma (Poerty - Bhaskaracaritam)
 Dogri            : Chaman Arora (Short Story - Ik Hor Ashwthama)
@@ -19,7 +19,7 @@ Sanskrit         : Dr. Dheeraj Kumar Pandey
 
 [Sahitya Academi Bal Puraskar - 2025]
 English          : Nitin Kushalappa M.P.
-Hindi            : Sushil Shukla (for story 'Ek Baate Barah')
+Hindi            : Sushil Shukla (for story '*Ek Baate Barah*')
 Maithili         : Munni Kamat (for story 'Chukka')
 Sanskrit         : Preeti Poojara (for poetry collection 'Baalvishwam')
 
