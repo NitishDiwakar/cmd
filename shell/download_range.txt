@@ -1,5 +1,5 @@
 #!/bin/bash
-
+# Download overnight
 BASE_URL="https://cdn.example.com/40000"
 EXT="mp4"
 
