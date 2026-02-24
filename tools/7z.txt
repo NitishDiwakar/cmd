@@ -10,3 +10,7 @@ Description :
 # Extract
 7z x file.7z
 
+# Create .7z with skipping selected subdirectories
+7z a people.7z people/ '-x!people/vendor/' '-x!people/node_modules/'
+
+
