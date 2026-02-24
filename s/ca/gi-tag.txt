@@ -3,3 +3,42 @@ Title       : Gi Tags
 Tags        : #nomail #noview
 Description :
 ==========================================
+
+[Agriculture]
+Kumbakonam Betel Leaf (TN)
+  - Aromatic and traditional leaf
+Kodaikanal Garlic (TN)
+  - Distinctive, high altitude garlic
+Koraput Kalajeera Rice (Od)
+  - Aromatic black rice, *Prince of Rice*
+Dhenkanal Magji (Od)
+  - Sweet item
+Banaras Thandai (UP)
+  - Traditional bevarge
+Kasti Coriander (MH)
+  - Fragrant coriander
+*Vasmat Haldi* (MH)
+  - Turmeric
+
+
+[Handricrafts & Textiles]
+Majuli Masks (Assam)
+  - Used in Sattriya dance
+Lanjia Saura Painting (Od)
+  - Tribal Art
+Dungaria Kondh Embroidered Shawl (Od)
+  - Textile
+Moirang Phee Fabric (manipur)
+  - Traditional textile
+Amroha Dholak (UP)
+  - 
+Kalpi Handmade Paper (UP)
+  - 
+Hupari Silver Craft (MH)
+  - Silver work 
+
+[Misc]
+Yak Churpi & Dao (Arunachal)
+  - Cultural significance
+
+

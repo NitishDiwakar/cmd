@@ -4,83 +4,94 @@ Tags        : #
 Description :
 ==========================================
 
-10 Paise ka Postcard                              : Captain S.N. Ahmed
-75 Great Revolutionaries of India                 : Bhim Singh
-A Billion Butterflies                             : Jagdish Shukla
-A Fly on the RBI Wall                             : Alpana Killawala
-An Uncommon.. Early Life of Sudha and Narayana    : Chitra Banerjee
+*10 Paise ka Postcard*              : Captain S.N. Ahmed
+75 Great Revolutionaries of India   : Bhim Singh
+A Billion Butterflies               : Jagdish Shukla
+*A Fly on the RBI Wall*             : Alpana Killawala
+Early Life of Sudha and Narayana    : Chitra Banerjee
 
-Basic Structure and Republic                      : PS Sreedharan Pillai
-Breaking Rocks and Barriers                       : Sudipta Sengupta
-Breaking the Glass Ceiling                        : Shakti Gurung
-Call of the Gir                                   : Parimal Nathwani
+Basic Structure and Republic        : PS Sreedharan Pillai
+Breaking Rocks and Barriers         : Sudipta Sengupta
+Breaking the Glass Ceiling          : Shakti Gurung
+Call of the Gir                     : Parimal Nathwani
 
-Do Palko Ki Chhao Me                              : Dr. Hema Joshi
-Ed Finds a Home                                   : Alia Bhatt
-Ek Samandar Mere Andar                            : Sanjeev Joshi
-Four Stars of Destiny                             : Manoj Mukund Naravane
-Friends-India's Closest Strategic Partners        : Shriram Chaulia
+Do Palko Ki Chhao Me                : Dr. Hema Joshi
+Ed Finds a Home                     : Alia Bhatt
+Ek Samandar Mere Andar              : Sanjeev Joshi
+Four Stars of Destiny               : Manoj Mukund Naravane
+Friends \
+-India's Closest Stra. Partners     : Shriram Chaulia
 
-From a Car Shed to the Corner                     : S. Raman
-Gandhi A Lief in Three Campaigns                  : M.J. Akbar
-Heavenly Islands of Goa                           : PS Sreedharan Pillai
-Hold On to Your Dreams                            : Ruskin Bond
-India @100                                        : Prof. K.V. Subramanian
+From a Car Shed to the Corner       : S. Raman
+Gandhi A Lief in Three Campaigns    : M.J. Akbar
+Heavenly Islands of Goa             : PS Sreedharan Pillai
+Hold On to Your Dreams              : Ruskin Bond
+India @100                          : Prof. K.V. Subramanian
 
-India's Foreign Policy                            : Kallol Bhattacharjee
-India's Nuclear Titans                            : Soumya Awasthi and Srabhana Barua
-Inspirations for graphic design from India        : Jaya Jaitley
-Jammu-Kashmir & Ladakh Through the Ages           : Raghuvendra Tanwar
-Janata Ki Kahani - My Autobiography               : Bandaru Dattatreya
+India's Foreign Policy              : Kallol Bhattacharjee
+India's Nuclear Titans              : Soumya Awasthi and Srabhana Barua
+Inspirations for \
+- graphic design from India         : Jaya Jaitley
+Jammu-Kashmir & Ladakh \ 
+-through the Ages                   : Raghuvendra Tanwar
+Janata Ki Kahani - My Autobiography : Bandaru Dattatreya
 
-Just a Mercenary                                  : Former RBI Governor D Subbarao
-Kargil War - The Turning Point                    : Magod Basappa Ravindranath
-Khaki Mein Sthitpragya                            : Anil Raturi
-Kutty Cricket Story                               : Ravichandran Ashwin
-Leo - The Untold Story of CSK                     : P S Raman
+Just a Mercenary                    : Former RBI Governor D Subbarao
+Kargil War - The Turning Point      : Magod Basappa Ravindranath
+Khaki Mein Sthitpragya              : Anil Raturi
+Kutty Cricket Story                 : Ravichandran Ashwin
+Leo - The Untold Story of CSK       : P S Raman
 
-M.S. S- The Man Who Fed India                     : Priyambada Jayakumar
-Maha Swapnikudu                                   : P. Vikram
-Manoj Bajpayee - The Definitive Biography         : Piyush Pandey
-March of Glory                                    : K Arumugam and Errol D'Cruz
-Mountain Mammals of the World                     : M. K. Ranjit Singh
+M.S. S- The Man Who Fed India       : Priyambada Jayakumar
+Maha Swapnikudu                     : P. Vikram
+Manoj Bajpayee \
+- The Definitive Biography          : Piyush Pandey
+March of Glory                      : K Arumugam and Errol D'Cruz
+Mountain Mammals of the World       : M. K. Ranjit Singh
 
-My Beloved Life                                   : Amitav Kumar
-Narratives of the Bench                           : N. V. Ramana
-Naye Bharat Ka Samved                             : Ramnath Kovind (Released)
-Nine Yard Sarees                                  : Prashanti Ram
-Nitish Kumar, the Gandhi of Bihar                 : Ashok Chaudhary and Shambhavi Chaudhary
+My Beloved Life                     : Amitav Kumar
+Narratives of the Bench             : N. V. Ramana
+Naye Bharat Ka Samved               : Ramnath Kovind (Released)
+Nine Yard Sarees                    : Prashanti Ram
+Nitish Kumar, \ 
+- the Gandhi of Bihar               : Ashok Chaudhary and Shambhavi Chaudhary
 
-Original Sin                                      : Jack Tapper and Alex Thompson
-Power Within - The Leadership Legacy of Modi      : Dr. R. Balasubramaniam
-Reimagining India's Economic Future               : Rahit Lamba and Raghuram Rajan
-Ramanujan - Journey of a Great Mathematician      : Arun Singhal & Devendra Sharma
-Samskriti ke Aayam                                : Manoram Mishra
-Scindia and 1857                                  : Dr. Rakesh Pathak
+Original Sin                        : Jack Tapper and Alex Thompson
+Power Within \
+- The Leadership Legacy of Modi     : Dr. R. Balasubramaniam
+Reimagining India's Economic Future : Rahit Lamba and Raghuram Rajan
+Ramanujan \
+- Journey of a Gr. Mathematician    : Arun Singhal & Devendra Sharma
+Samskriti ke Aayam                  : Manoram Mishra
+Scindia and 1857                    : Dr. Rakesh Pathak
 
-Sculpted Stone - Mysteries of Mamallapuram        : Ashwin Prabhu
-Soumitra Chatterjee, The Legacy of Apu and Beyond : Sanghamitra Chakraborty
-Source Code - My Beginnings                       : Bill Gates
-Speaking with Nature                              : Ramachandra Guha
-Swallowing the Sun                                : Lakshmi Murdeshwar
+Sculpted Stone \
+- Mysteries of Mamallapuram         : Ashwin Prabhu
+Soumitra Chatterjee, \
+-The Legacy of Apu and Beyond       : Sanghamitra Chakraborty
+Source Code - My Beginnings         : Bill Gates
+Speaking with Nature                : Ramachandra Guha
+Swallowing the Sun                  : Lakshmi Murdeshwar
 
-The Book of Compassion                            : Dalai Lama and Kailash Satyarthi
-The Conscious Network                             : Sagata Srinivasaraju
-The Conspiracy                                    : Gotabaya Rajapaksa
-The Diary of a Cricketer's Wife                   : Puja Pujara
-The Emergency Diaries                             : Released by Amit Shah
+The Book of Compassion              : Dalai Lama and Kailash Satyarthi
+The Conscious Network               : Sagata Srinivasaraju
+The Conspiracy                      : Gotabaya Rajapaksa
+Diary of a Cricketer's Wife         : Puja Pujara
+Emergency Diaries                   : Released by Amit Shah
 
-The Idea of Democracy                             : Sam Pitroda
-The Man Who Became Cinema                         : Ashok Chopra
-The New Icon, Savarkar and the Facts              : Arun Shourie
-The One - Cricket, My life and More               : Shikhar Dhawan
-The Rise of the Hitman                            : R. Kaushik
+The Idea of Democracy               : Sam Pitroda
+The Man Who Became Cinema           : Ashok Chopra
+The New Icon, \
+- Savarkar and the Facts            : Arun Shourie
+The One - \
+Cricket, My life and More           : Shikhar Dhawan
+The Rise of the Hitman              : R. Kaushik
 
-The Unyielding Judge                              : AN Grover
-The World After Gaza                              : Pankaj Mishra
-To the Seventh Generation                         : Dr. V. I. Mathan
-Welcome to Paradise                               : Twinkle Khanna
-Why the Constitution Matters                      : D.Y. Chandrachud
+The Unyielding Judge                : AN Grover
+The World After Gaza                : Pankaj Mishra
+To the Seventh Generation           : Dr. V. I. Mathan
+Welcome to Paradise                 : Twinkle Khanna
+Why the Constitution Matters        : D.Y. Chandrachud
 
-Winner's Mindset                                  : Shane Watson
-Witness                                           : Sakshi Malik
+Winner's Mindset                    : Shane Watson
+Witness                             : Sakshi Malik

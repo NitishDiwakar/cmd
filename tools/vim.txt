@@ -1,24 +1,8 @@
 ==========================================
 Title       : Vim
 Tags        : #
-Description : 
+Description : Some common vim commands 
 ==========================================
-
-# Insert
-i (a)
-
-# Insert - beggining of the line
-I (or Shift + i)
-
-# Insert end of line
-A
-
-# Save and quit
-esc + :
-wq
-
-# Quit
-:q!
 
 # [Text objects]
 w-words, s-sentence, p-paragraph, t-tags
@@ -30,18 +14,16 @@ a-all, i-in, t-till, f-find forward, F-find backward
 d-delete (also cut), c-change (delte, then place in insert mode), 
 y-yank (copy), yy (copy the line)
 
+# Scroll
+Ctrl + f (Scroll downl a full page)
+Ctrl + b (Scroll up a full page)
+Ctrl + d (Scroll down a half page)
+Ctrl + u (Scroll up a half page)
+Ctrl + e (Scroll window down one line)
+Ctrl + y (Scroll windows up one line)
+
 # Copy word under cursor
 yiw (yank inner word)
-
-# Paste
-p (below)
-P (above)
-
-# Duplicate current line
-:t.
-
-# Cursor at end of file
-Shift + G
 
 # Delete word
 diw (Delte inner word)
@@ -54,9 +36,6 @@ yi(
 
 # Repeat the last command
 .
-
-# Cursor at beginning of the file
-gg
 
 # Delete 3 words
 3dw
@@ -157,13 +136,6 @@ V
 # Remove everything right of cursor
 D
 
-# Scroll
-Ctrl + f (Scroll downl a full page)
-Ctrl + b (Scroll up a full page)
-Ctrl + d (Scroll down a half page)
-Ctrl + u (Scroll up a half page)
-Ctrl + e (Scroll window down one line)
-Ctrl + y (Scroll windows up one line)
 
 
 # Cut 2 lines (current + below)
@@ -177,5 +149,38 @@ Ctrl + y (Scroll windows up one line)
 mkdir -p ~/.vim/pack/plugins/start
 git clone https://github.com/jiangmiao/auto-pairs.git \
 ~/.vim/pack/plugins/start/auto-pairs
+
+----------------------------
+
+
+# Insert
+i (a)
+
+# Insert - beggining of the line
+I (or Shift + i)
+
+# Insert end of line
+A
+
+# Save and quit
+esc + :
+wq
+
+# Quit
+:q!
+
+# Duplicate current line
+:t.
+
+# Cursor at end of file
+G
+
+
+# Paste
+p (below)
+P (above)
+
+# Cursor at beginning of the file
+gg
 
 
