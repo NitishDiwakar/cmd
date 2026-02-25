@@ -1,9 +1,8 @@
 ==========================================
-Title       : Mountains - India
-Tags        : #nomail #noview
+Title       : Folk dances - India
+Tags        : #noview #nomail
 Description :
 ==========================================
 
-IMG:mountains.jpg
-
+IMG:folk-dances.jpg
 

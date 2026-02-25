@@ -4,6 +4,7 @@ Tags        : #
 Description : 
 ==========================================
 
+IMG:tiger-reserves.jpg
 
 UK  : Jim Corbet (Ram Ganga), Rajaji
 

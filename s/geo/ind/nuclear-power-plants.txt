@@ -1,9 +1,8 @@
 ==========================================
-Title       : Mountains - India
+Title       : Nuclear Power Plants - India
 Tags        : #nomail #noview
 Description :
 ==========================================
 
-IMG:mountains.jpg
-
+IMG:nuclear-power-plants.jpg
 

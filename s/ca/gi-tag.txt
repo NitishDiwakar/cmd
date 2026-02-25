@@ -1,9 +1,10 @@
 ==========================================
 Title       : Gi Tags
-Tags        : #nomail #noview
+Tags        : #
 Description :
 ==========================================
 
+IMG:gi-tags.jpg
 [Agriculture]
 Kumbakonam Betel Leaf (TN)
   - Aromatic and traditional leaf

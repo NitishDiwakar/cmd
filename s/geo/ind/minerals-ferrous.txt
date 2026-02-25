@@ -1,9 +1,9 @@
 ==========================================
-Title       : Mountains - India
+Title       : Minerals in India - Ferrous
 Tags        : #nomail #noview
 Description :
 ==========================================
 
-IMG:mountains.jpg
+IMG:minerals-ferrous.jpg
 
 
