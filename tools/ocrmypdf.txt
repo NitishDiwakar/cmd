@@ -1,8 +1,8 @@
-==========================================
+=================================
 Title       : Ocrmypdf
 Tags        : #
 Description : 
-==========================================
+=================================
 
 # Ocr and Optimize pdf
 ocrmypdf --optimize 3 input.pdf input1.pdf

@@ -1,8 +1,8 @@
-==========================================
+=================================
 Title       : mpv player
 Tags        : #
 Description : Image manipulation from cli
-==========================================
+=================================
 
 
 # Play audio by search string

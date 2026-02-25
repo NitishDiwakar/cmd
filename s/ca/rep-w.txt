@@ -1,8 +1,8 @@
-==========================================
+=================================
 Title       : Reports - Global
 Tags        : #
 Description :
-==========================================
+=================================
 
 Smart City Index 2025
 - Issued by : International Management Institute

@@ -1,8 +1,8 @@
-==========================================
+=================================
 Title       : Climate zones
 Tags        : #nomail #noview
 Description :
-==========================================
+=================================
 
 IMG:british-type-climate.jpg
 IMG:hot-wet-equatorial-climate.jpg

@@ -1,8 +1,8 @@
-==========================================
+=================================
 Title       : Fruit - Edible part
 Tags        : #imp #biology #science
 Description :
-==========================================
+=================================
 
 FRUIT      : EDIBLE PART
 Apple      : Fleshy thalamus
