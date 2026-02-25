@@ -1,0 +1,13 @@
+==========================================
+Title       : Climate zones
+Tags        : #nomail #noview
+Description :
+==========================================
+
+IMG:british-type-climate.jpg
+IMG:hot-wet-equatorial-climate.jpg
+IMG:laurentianclimate.jpg
+IMG:mediterranean-climate.jpg
+IMG:siberian-climate.jpg
+IMG:steppe-climate.jpg
+IMG:sudan-climate.jpg
