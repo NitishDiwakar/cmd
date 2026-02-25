@@ -1,6 +1,6 @@
 =================================
-Title       : mpv player
-Tags        : #
+Title : mpv player
+Tags  : #
 Descr : Image manipulation from cli
 =================================
 

@@ -1,6 +1,6 @@
 =================================
-Title       : Send email
-Tags        : #
+Title : Send email
+Tags  : #
 Descr : 
 =================================
 

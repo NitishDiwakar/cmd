@@ -1,6 +1,6 @@
 =================================
-Title       : Add prefix to files
-Tags        : #
+Title : Add prefix to files
+Tags  : #
 Descr : 
 =================================
 

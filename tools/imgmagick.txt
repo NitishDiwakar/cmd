@@ -1,6 +1,6 @@
 =================================
-Title       : ImageMagick
-Tags        : #
+Title : ImageMagick
+Tags  : #
 Descr : Image manipulation from cli
 =================================
 

@@ -1,6 +1,6 @@
 =================================
-Title       : Ghostscript
-Tags        : #
+Title : Ghostscript
+Tags  : #
 Descr : 
 =================================
 

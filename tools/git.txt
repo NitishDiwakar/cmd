@@ -1,6 +1,6 @@
 =================================
-Title       : git
-Tags        : #
+Title : git
+Tags  : #
 Descr : 
 =================================
 
@@ -21,6 +21,10 @@ git pull
 
 # See last n logs
 git log -3 --oneline
+
+# Ignore a remote directory on client side
+git sparse-checkout init --no-cone
+git sparse-checkout set '/*' '!/s/img/'
 
 # Ignore local changes and pull from main branch
 git fetch origin && git reset --hard origin/main && git clean -fd

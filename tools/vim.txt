@@ -1,6 +1,6 @@
 =================================
-Title       : Vim
-Tags        : #
+Title : Vim
+Tags  : #
 Descr : Some common vim commands 
 =================================
 

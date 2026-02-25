@@ -1,6 +1,6 @@
 =================================
-Title       : irssi
-Tags        : #irssi #freenode
+Title : irssi
+Tags  : #irssi #freenode
 Descr : Chat from terminal
 =================================
 

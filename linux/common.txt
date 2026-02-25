@@ -1,6 +1,6 @@
 =================================
-Title       : Common linux commands
-Tags        : #
+Title : Common linux commands
+Tags  : #
 Descr : 
 =================================
 
