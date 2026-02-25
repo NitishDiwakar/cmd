@@ -1,7 +1,7 @@
 =================================
-Title       : South America
-Tags        : #nomail #noview
-Description :
+Title : South America
+Tags  : #nomail #noview
+Descr :
 =================================
 
 IMG:south-america.jpg

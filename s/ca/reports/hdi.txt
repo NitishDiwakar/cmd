@@ -1,5 +1,5 @@
 =================================
-Title       : Human Development Index
-Tags        : #
-Description :
+Title : Human Development Index
+Tags  : #
+Descr :
 =================================

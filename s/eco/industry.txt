@@ -1,5 +1,5 @@
 =================================
-Title       : Industries
-Tags        : #nomail
-Description :
+Title : Industries
+Tags  : #nomail
+Descr :
 =================================

@@ -1,7 +1,7 @@
 =================================
-Title       : Film Awards
-Tags        : #ca #award #imp
-Description :
+Title : Film Awards
+Tags  : #ca #award #imp
+Descr :
 =================================
 
 [71st National Film Award - 2025]

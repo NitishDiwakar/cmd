@@ -1,7 +1,7 @@
 =================================
-Title       : Chess
-Tags        : #
-Description :
+Title : Chess
+Tags  : #
+Descr :
 =================================
 
 World Chess Championship 2024

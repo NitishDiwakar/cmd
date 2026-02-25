@@ -1,5 +1,5 @@
 =================================
-Title       : BRICS
-Tags        : #
-Description :
+Title : BRICS
+Tags  : #
+Descr :
 =================================

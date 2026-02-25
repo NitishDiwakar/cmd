@@ -1,5 +1,5 @@
 =================================
-Title       : Buddhist Councils
-Tags        : #
-Description :
+Title : Buddhist Councils
+Tags  : #
+Descr :
 =================================

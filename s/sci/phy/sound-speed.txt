@@ -1,7 +1,7 @@
 =================================
-Title       : Speed of Sound
-Tags        : #physics
-Description :
+Title : Speed of Sound
+Tags  : #physics
+Descr :
 =================================
 
 MEDIUM        : SPEED (IN M/S)

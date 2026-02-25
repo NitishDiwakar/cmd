@@ -1,5 +1,5 @@
 =================================
-Title       : Battles
-Tags        : #
-Description :
+Title : Battles
+Tags  : #
+Descr :
 =================================

@@ -1,7 +1,7 @@
 =================================
-Title       : World Heritage Sites
-Tags        : #noview #nomail
-Description :
+Title : World Heritage Sites
+Tags  : #noview #nomail
+Descr :
 =================================
 
 IMG:unesco-whs.jpg

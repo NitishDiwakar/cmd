@@ -1,7 +1,7 @@
 =================================
-Title       : Folk dances - India
-Tags        : #noview #nomail
-Description :
+Title : Folk dances - India
+Tags  : #noview #nomail
+Descr :
 =================================
 
 IMG:folk-dances.jpg

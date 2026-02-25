@@ -1,7 +1,7 @@
 =================================
-Title       : Awards - Misc
-Tags        : #
-Description :
+Title : Awards - Misc
+Tags  : #
+Descr :
 =================================
 
 43rd Lokmanya Tilak National Award 2025

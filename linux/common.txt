@@ -1,7 +1,7 @@
 =================================
 Title       : Common linux commands
 Tags        : #
-Description : 
+Descr : 
 =================================
 
 # Create text file from terminal 

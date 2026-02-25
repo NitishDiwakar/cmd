@@ -1,5 +1,5 @@
 =================================
-Title       : Newspaper
-Tags        : #
-Description :
+Title : Newspaper
+Tags  : #
+Descr :
 =================================

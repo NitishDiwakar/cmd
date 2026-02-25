@@ -1,7 +1,7 @@
 =================================
-Title       : Electromagnetic waves
-Tags        : #physics 
-Description :
+Title : Electromagnetic waves
+Tags  : #physics 
+Descr :
 =================================
 
 // 10`-14 = 10^-14

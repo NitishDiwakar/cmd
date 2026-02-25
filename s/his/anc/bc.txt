@@ -1,7 +1,7 @@
 =================================
-Title       : Buddhist council
-Tags        : #buddhism 
-Description :
+Title : Buddhist council
+Tags  : #buddhism 
+Descr :
 =================================
 
 1st (483 BC)

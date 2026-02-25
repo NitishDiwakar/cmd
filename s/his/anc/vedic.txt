@@ -1,7 +1,7 @@
 =================================
-Title       : Vedic Period
-Tags        : #
-Description :
+Title : Vedic Period
+Tags  : #
+Descr :
 =================================
 
 Rigveda

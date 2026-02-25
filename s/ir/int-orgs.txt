@@ -1,7 +1,7 @@
 =================================
-Title       : International Organizations
-Tags        : #
-Description :
+Title : International Organizations
+Tags  : #
+Descr :
 =================================
 
 International Labour Organization (ILO)

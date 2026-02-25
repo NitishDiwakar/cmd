@@ -1,7 +1,7 @@
 =================================
-Title       : DPSP
-Tags        : #
-Description : 
+Title : DPSP
+Tags  : #
+Descr : 
 =================================
 
 Article : Subject Matter

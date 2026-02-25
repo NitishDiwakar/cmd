@@ -1,7 +1,7 @@
 =================================
-Title       : Day-theme
-Tags        : #
-Description :
+Title : Day-theme
+Tags  : #
+Descr :
 =================================
 
 

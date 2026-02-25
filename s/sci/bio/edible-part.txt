@@ -1,7 +1,7 @@
 =================================
-Title       : Fruit - Edible part
-Tags        : #imp #biology #science
-Description :
+Title : Fruit - Edible part
+Tags  : #imp #biology #science
+Descr :
 =================================
 
 FRUIT      : EDIBLE PART

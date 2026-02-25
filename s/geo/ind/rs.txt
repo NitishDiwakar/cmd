@@ -1,7 +1,7 @@
 =================================
-Title       : Ramsar Sites
-Tags        : #imp
-Description : 
+Title : Ramsar Sites
+Tags  : #imp
+Descr : 
 =================================
 
 IMG:ramsar-sites.jpg

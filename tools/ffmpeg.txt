@@ -1,7 +1,7 @@
 =================================
 Title       : ffmpeg
 Tags        : #
-Description : 
+Descr : 
 =================================
 
 # Trim video

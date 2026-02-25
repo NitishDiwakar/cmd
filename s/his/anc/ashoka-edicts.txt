@@ -1,7 +1,7 @@
 =================================
-Title       : Ashoka's Pillar Edicts
-Tags        : #
-Description :
+Title : Ashoka's Pillar Edicts
+Tags  : #
+Descr :
 =================================
 
 PILLAR : DETAILS

@@ -1,7 +1,7 @@
 =================================
 Title       : irssi
 Tags        : #irssi #freenode
-Description : Chat from terminal
+Descr : Chat from terminal
 =================================
 
 irssi

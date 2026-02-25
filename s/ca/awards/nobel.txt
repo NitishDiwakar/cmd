@@ -1,7 +1,7 @@
 =================================
-Title       : Nobel prize
-Tags        : #ca #imp
-Description :
+Title : Nobel prize
+Tags  : #ca #imp
+Descr :
 =================================
 
 [Nobel Prize 2025]

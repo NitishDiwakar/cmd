@@ -1,7 +1,7 @@
 =================================
-Title       : Climate zones
-Tags        : #nomail #noview
-Description :
+Title : Climate zones
+Tags  : #nomail #noview
+Descr :
 =================================
 
 IMG:british-type-climate.jpg

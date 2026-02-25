@@ -1,5 +1,5 @@
 =================================
-Title       : Subhash Chandra Bose
-Tags        : #
-Description :
+Title : Subhash Chandra Bose
+Tags  : #
+Descr :
 =================================

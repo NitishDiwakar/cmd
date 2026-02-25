@@ -1,7 +1,7 @@
 =================================
-Title       : Padma Awards
-Tags        : #
-Description :
+Title : Padma Awards
+Tags  : #
+Descr :
 =================================
 
 [Padma Awards - 2025]

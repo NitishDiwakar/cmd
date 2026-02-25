@@ -1,7 +1,7 @@
 =================================
-Title       : Days
-Tags        : #nomail #noview
-Description :
+Title : Days
+Tags  : #nomail #noview
+Descr :
 =================================
 
 -> Also see calendar created in OneNote

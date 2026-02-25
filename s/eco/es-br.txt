@@ -1,7 +1,7 @@
 =================================
-Title       : Economy Survey - Bihar 
-Tags        : #data #br
-Description : 
+Title : Economy Survey - Bihar 
+Tags  : #data #br
+Descr : 
 =================================
 
 8.6% (Constant price - GSDP growing)

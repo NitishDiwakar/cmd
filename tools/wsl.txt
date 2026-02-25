@@ -1,7 +1,7 @@
 =================================
 Title       : WSL
 Tags        : #
-Description :
+Descr :
 =================================
 
 # Play music from terminal (in default windows play)

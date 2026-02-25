@@ -1,5 +1,5 @@
 =================================
-Title       : Post
-Tags        : #
-Description :
+Title : Post
+Tags  : #
+Descr :
 =================================

@@ -1,7 +1,7 @@
 =================================
-Title       : Panchayati Raj
-Tags        : #
-Description : 
+Title : Panchayati Raj
+Tags  : #
+Descr : 
 =================================
 
 Article : Subject

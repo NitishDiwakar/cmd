@@ -1,7 +1,7 @@
 =================================
 Title       : ImageMagick
 Tags        : #
-Description : Image manipulation from cli
+Descr : Image manipulation from cli
 =================================
 
 # Resize

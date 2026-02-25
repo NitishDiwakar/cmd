@@ -1,7 +1,7 @@
 =================================
-Title       : Speed of light in diff medium
-Tags        : #physics
-Description :
+Title : Speed of light in diff medium
+Tags  : #physics
+Descr :
 =================================
 
 MEDIUM : SPEED (m/s)

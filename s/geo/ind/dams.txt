@@ -1,7 +1,7 @@
 =================================
-Title       : Dams - India
-Tags        : #nomail #noview
-Description :
+Title : Dams - India
+Tags  : #nomail #noview
+Descr :
 =================================
 
 IMG:dams.jpg

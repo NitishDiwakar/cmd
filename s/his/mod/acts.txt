@@ -1,7 +1,7 @@
 =================================
-Title       : Acts
-Tags        : #
-Description :
+Title : Acts
+Tags  : #
+Descr :
 =================================
 
 

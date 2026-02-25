@@ -1,7 +1,7 @@
 =================================
-Title       : Amendments of Constitution
-Tags        : #
-Description :
+Title : Amendments of Constitution
+Tags  : #
+Descr :
 =================================
 
 1 (1951)  : Added Ninth Schedule

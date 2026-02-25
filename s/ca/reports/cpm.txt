@@ -1,5 +1,5 @@
 =================================
-Title       : Capability Poverty Measure
-Tags        : #
-Description :
+Title : Capability Poverty Measure
+Tags  : #
+Descr :
 =================================

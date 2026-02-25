@@ -1,7 +1,7 @@
 =================================
-Title       : Mountains - India
-Tags        : #nomail #noview
-Description :
+Title : Mountains - India
+Tags  : #nomail #noview
+Descr :
 =================================
 
 IMG:mountains.jpg

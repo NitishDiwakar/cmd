@@ -1,7 +1,7 @@
 =================================
-Title       : Biosphere Reserves
-Tags        : #nomail #noview
-Description :
+Title : Biosphere Reserves
+Tags  : #nomail #noview
+Descr :
 =================================
 
 IMG:biosphere-reserves.jpg

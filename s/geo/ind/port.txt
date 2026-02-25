@@ -1,7 +1,7 @@
 =================================
-Title       : Ports
-Tags        : #nomail #noview
-Description :
+Title : Ports
+Tags  : #nomail #noview
+Descr :
 =================================
 
 IMG:ports.jpg

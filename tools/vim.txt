@@ -1,7 +1,7 @@
 =================================
 Title       : Vim
 Tags        : #
-Description : Some common vim commands 
+Descr : Some common vim commands 
 =================================
 
 # [Text objects]

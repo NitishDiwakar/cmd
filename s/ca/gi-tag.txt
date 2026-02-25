@@ -1,7 +1,7 @@
 =================================
-Title       : Gi Tags
-Tags        : #
-Description :
+Title : Gi Tags
+Tags  : #
+Descr :
 =================================
 
 IMG:gi-tags.jpg

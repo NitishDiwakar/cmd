@@ -1,7 +1,7 @@
 =================================
-Title       : Passes
-Tags        : #noview #nomail
-Description :
+Title : Passes
+Tags  : #noview #nomail
+Descr :
 =================================
 
 IMG:passes.jpg

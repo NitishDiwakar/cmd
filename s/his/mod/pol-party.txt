@@ -1,7 +1,7 @@
 =================================
-Title       : Swaraj Dal
-Tags        : #
-Description :
+Title : Swaraj Dal
+Tags  : #
+Descr :
 =================================
 
 Swaraj Dal : Srikrishna Singh

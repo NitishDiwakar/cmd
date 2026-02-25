@@ -1,7 +1,7 @@
 =================================
 Title       : Send email
 Tags        : #
-Description : 
+Descr : 
 =================================
 
 install msmtp mailx

@@ -1,7 +1,7 @@
 =================================
-Title       : Reports - Global
-Tags        : #
-Description :
+Title : Reports - Global
+Tags  : #
+Descr :
 =================================
 
 Smart City Index 2025

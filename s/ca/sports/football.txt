@@ -1,7 +1,7 @@
 =================================
-Title       : Football
-Tags        : #
-Description :
+Title : Football
+Tags  : #
+Descr :
 =================================
 
 Durand Cup 2025

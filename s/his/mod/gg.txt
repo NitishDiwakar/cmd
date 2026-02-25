@@ -1,7 +1,7 @@
 =================================
-Title       : Governor Generals
-Tags        : #
-Description :
+Title : Governor Generals
+Tags  : #
+Descr :
 =================================
 
 [Governor Generals]

@@ -1,7 +1,7 @@
 =================================
-Title       : Books - Ancient History
-Tags        : #imp
-Description :
+Title : Books - Ancient History
+Tags  : #imp
+Descr :
 =================================
 
 Bhasa - 3rd century AD; Ganapati Shastri (rediscovered)

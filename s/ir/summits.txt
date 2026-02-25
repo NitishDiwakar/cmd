@@ -1,7 +1,7 @@
 =================================
-Title       : International Summits 
-Tags        : #ir 
-Description :
+Title : International Summits 
+Tags  : #ir 
+Descr :
 =================================
 
 24th Meeting of the SCO 2025

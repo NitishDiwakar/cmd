@@ -1,7 +1,7 @@
 =================================
 Title       : ssh
 Tags        : #
-Description : 
+Descr : 
 =================================
 
 # Search a word recursively

@@ -1,7 +1,7 @@
 =================================
-Title       : Women Premiere League
-Tags        : #
-Description :
+Title : Women Premiere League
+Tags  : #
+Descr :
 =================================
 
 [2026]

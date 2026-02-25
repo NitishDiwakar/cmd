@@ -1,7 +1,7 @@
 =================================
-Title       : Diseases
-Tags        : #
-Description :
+Title : Diseases
+Tags  : #
+Descr :
 =================================
 
 Spleenic fever (bacterial disease, Anthrax)

@@ -1,7 +1,7 @@
 =================================
-Title       : Parts of Indian Constitution 
-Tags        : #
-Description : 
+Title : Parts of Indian Constitution 
+Tags  : #
+Descr : 
 =================================
 
 I     : Union and its territory (1-4)

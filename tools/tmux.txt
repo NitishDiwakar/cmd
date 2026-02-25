@@ -1,7 +1,7 @@
 =================================
 Title       : Tmux
 Tags        : #
-Description : 
+Descr : 
 =================================
 
 tmux new -s study

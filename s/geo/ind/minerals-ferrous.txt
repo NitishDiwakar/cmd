@@ -1,7 +1,7 @@
 =================================
-Title       : Minerals in India - Ferrous
-Tags        : #nomail #noview
-Description :
+Title : Minerals in India - Ferrous
+Tags  : #nomail #noview
+Descr :
 =================================
 
 IMG:minerals-ferrous.jpg

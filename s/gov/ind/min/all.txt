@@ -1,7 +1,7 @@
 =================================
-Title       : Ministry and Ministers
-Tags        : #
-Description :
+Title : Ministry and Ministers
+Tags  : #
+Descr :
 =================================
 
 Narendra Modi              : Prime Minister

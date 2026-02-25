@@ -1,7 +1,7 @@
 =================================
-Title       : Australia
-Tags        : #nomail #noview
-Description :
+Title : Australia
+Tags  : #nomail #noview
+Descr :
 =================================
 
 IMG:australia.jpg

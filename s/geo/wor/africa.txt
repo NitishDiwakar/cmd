@@ -1,7 +1,7 @@
 =================================
-Title       : Africa
-Tags        : #nomail #noview
-Description :
+Title : Africa
+Tags  : #nomail #noview
+Descr :
 =================================
 
 IMG:africa.jpg

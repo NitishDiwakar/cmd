@@ -1,7 +1,7 @@
 =================================
-Title       : Misc Bihar
-Tags        : #
-Description :
+Title : Misc Bihar
+Tags  : #
+Descr :
 =================================
 
 Ashok Kumar (Kumudlal Ganguly) -> Bhagalpur

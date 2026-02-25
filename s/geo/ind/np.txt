@@ -1,7 +1,7 @@
 =================================
-Title       : National Park
-Tags        : #
-Description : 
+Title : National Park
+Tags  : #
+Descr : 
 =================================
 
 IMG:national-parks.jpg

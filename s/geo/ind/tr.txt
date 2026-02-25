@@ -1,7 +1,7 @@
 =================================
-Title       : Tiger Reserves
-Tags        : #
-Description : 
+Title : Tiger Reserves
+Tags  : #
+Descr : 
 =================================
 
 IMG:tiger-reserves.jpg
