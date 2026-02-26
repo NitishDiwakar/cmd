@@ -1,8 +1,8 @@
-=================================
+============================
 Title : Common linux commands
 Tags  : #
 Descr : 
-=================================
+============================
 
 # Create text file from terminal 
 echo "Some text" > file.txt

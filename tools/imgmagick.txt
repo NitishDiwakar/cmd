@@ -1,8 +1,8 @@
-=================================
+============================
 Title : ImageMagick
 Tags  : #
 Descr : Image manipulation from cli
-=================================
+============================
 
 # Resize
 magick input.jpg -resize 1200 output.jpg (set width keep AR)

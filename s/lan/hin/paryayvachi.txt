@@ -1,8 +1,8 @@
-=================================
+============================
 Title : Paryaaywachi Shabd
 Tags  : #nomail #noview #hindi
 Descr :
-=================================
+============================
 
 पर्यायवाची शब्द 
 Font in Libre Office : Liberation Mono

@@ -1,8 +1,8 @@
-=================================
+============================
 Title : Ghostscript
 Tags  : #
 Descr : 
-=================================
+============================
 
 # Compress (Windows)
 gswin64c -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 ^ -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH ^ -sOutputFile=compressed.pdf input.pdf

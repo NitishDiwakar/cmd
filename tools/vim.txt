@@ -1,8 +1,8 @@
-=================================
+============================
 Title : Vim
 Tags  : #
 Descr : Some common vim commands 
-=================================
+============================
 
 # [Text objects]
 w-words, s-sentence, p-paragraph, t-tags

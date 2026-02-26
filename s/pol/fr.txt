@@ -1,8 +1,8 @@
-=================================
+============================
 Title : Fundamental Rights 
 Tags  : #
 Descr : 
-=================================
+============================
 
 Article No. : Subject matter
 12          : Definition of State
