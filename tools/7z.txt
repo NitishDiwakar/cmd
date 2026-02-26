@@ -13,4 +13,26 @@ Descr :
 # Create .7z with skipping selected subdirectories
 7z a people.7z people/ '-x!people/vendor/' '-x!people/node_modules/'
 
+____________________________
+# Archieve with date and time:
+7z a "file_$(date +%Y%m%d_%H%M).7z" folder/
+(Output: file_20260226_2215.7z)
+
+Archive with date
+7z a "file_$(date +%F).7z" folder/
+(Output: file_2026-02-26)
+
+7z a "file_$(date +%Y%m%d).7z" folder/
+(Output: file_20260226.7z)
+
+
+Bashrc function:
+backup7z() {
+    local name="$1"
+    local target="$2"
+    7z a "${name}_$(date +%Y%m%d).7z" "$target"
+}
+Use: backup7z file folder/
+___________________________
+
 
