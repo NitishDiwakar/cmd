@@ -28,7 +28,7 @@ Chand Bardai
     - Prithviraj Vaso
 
 
-Bhavabhuti
+*Bhavabhuti*
   King:
     - King Yashovarman of Kannauj
   Prominent works:
@@ -45,7 +45,7 @@ Amir Khusro
     - Qiranus-Sa'dain
 
 
-Sri Ponna
+*Sri Ponna*
   King:
     - Rashtrakuta king Krishna III
   Prominent works:
@@ -53,14 +53,14 @@ Sri Ponna
     - Bhuvanaika-Ramabhyudaya
 
 
-Parmanand
+*Parmanand*
   King:
     - Shivaji
   Prominent works:
     - Shivbharat
 
 
-Ravikriti
+*Ravikriti*
   King:
     - Pulkesin II
   Prominent works:

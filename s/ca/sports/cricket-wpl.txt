@@ -7,11 +7,11 @@ Descr :
 [2026]
 Date         : 9 Jan to 5 Feb 2026
 Teams        : 5 (Delhi, Gujarat, Mumbai, RCB, UP Warriorz)
-Winner       : RCB (2nd title)
+Winner       : *RCB* (2nd title)
 Runner       : Delhi
 Matches      : 22
 Most Runs    : Smriti Mandhana - RCB (377)
-Most Wickets : Sophie Devine - Guj (17)
+Most Wickets : *Sophie Devine* - Guj (17)
 Final        : Vadodara
 _____________________________
 

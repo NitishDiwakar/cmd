@@ -9,8 +9,8 @@ Bhasa - 3rd century AD; Ganapati Shastri (rediscovered)
   - Swapnavasavadatt
   - Charudutta
   - Pancaratra
-  - Madhyamavyayoga
-  - Pratima-natak
+  - *Madhyamavyayoga*
+  - *Pratima-natak*
   - Dutavakya
   - Dutaghtotka
   - Karnabhara
@@ -37,7 +37,7 @@ Kalidas
 
 
 Xuan Zang
-  - Siyuki
+  - *Siyuki*
 
 
 William H Schoff
@@ -45,7 +45,7 @@ William H Schoff
 
 
 Bilhana (Chalkya dynasty of Kalyan)
-  - Vikramanakadevacharitra
+  - *Vikramanakadevacharitra*
 
 Atula
   - Musika Vamsa

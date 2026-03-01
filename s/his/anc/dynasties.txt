@@ -5,16 +5,16 @@ Descr : Dynasty, Capital, Founder
 ============================
 
 
-Maitrakas of Valabhi
+*Maitrakas of Valabhi*
   (C. 475-776)
   Kings:
-    - F: Bhatark
+    - F: *Bhatark*
   More details:
-    - Sample text
+    - 
 
 
-Pushyabhuti of Thanesar
-  (500-647)
+Pushyabhuti of Thanesar (500-647)
+    - Harshavardhana (606-647)
 
 
 Rashtrakuta

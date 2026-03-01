@@ -1,10 +1,10 @@
 ============================
-Title : 
+Title : Saints
 Tags  : #
 Descr :
 ============================
 
-Name: Shankaracharya
+*Shankaracharya*
 Birth year: 788
 Theory / Famous for:
   - Theory of monism (Advaita)
@@ -13,7 +13,7 @@ Theory / Famous for:
   - Brahma Satyam Jagat Mithya Jivo Brahmatra Naparaha
 
 
-Name: Ramanuja
+*Ramanuja*
 Birth year: 1017
 Theory / Famous for:
   - Wrote:
@@ -23,19 +23,19 @@ Theory / Famous for:
       - Sribhashya
 
 
-Name: Madhavacharya
+*Madhavacharya*
 Birth year: —
 Theory / Famous for:
-  - Believed in dualism
+  - Believed in *dualism*
 
 
-Name: Nimbarka
+*Nimbarka*
 Birth year: —
 Theory / Famous for:
   - Younger contemporary of Shankaracharya
 
 
-Name: Vallabhacharya
+*Vallabhacharya*
 Birth year: —
 Theory / Famous for:
   - Founder of:
