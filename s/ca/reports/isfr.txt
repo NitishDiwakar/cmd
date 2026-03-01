@@ -1,7 +1,94 @@
 ============================
-Title : Indian State of Forest Report
-Tags  : #noview #nomail
+Title : India State of Forest Report
+Tags  : #data
 Descr :
 ============================
 
-[*2023*]
+*18th India State of Forest Report 2023*
+- Forest Survey of India biennial assessment
+- Released Dec 2024
+
+Forest and Tree Cover
+- Total forest and tree cover *8,27,356.95* sq km
+- *25.17* percent of geographical area
+- Forest cover *7,15,342.61* sq km
+	- *21.76* percent of geographical area
+- Tree cover *1,12,014.34* sq km
+	- *3.41* percent of geographical area
+
+Cover Classification Details
+- Scrub area 43,622.64 sq km
+- Non-forest area 24,16,489.29 sq km
+- Total geographical area 32,87,468.88 sq km
+
+Increase in Forest and Tree Cover
+- Increase since last assessment *1,445.81* sq km
+- Increase in forest cover *156.41* sq km
+- Largest increase in combined cover — Chhattisgarh 684 sq km
+- Also increase in combined: Uttar Pradesh 559 sq km; Odisha 559 sq km; Rajasthan 394 sq km
+- Largest forest cover increases: Mizoram 242 sq km; Gujarat 180 sq km; Odisha 152 sq km
+
+Largest Decrease in Forest Cover
+- Madhya Pradesh 612.41 sq km
+- Karnataka 459.36 sq km
+- Ladakh 159.26 sq km
+- Nagaland 125.22 sq km
+
+Top States by Forest Area
+- Madhya Pradesh 77,073 sq km
+- Arunachal Pradesh 65,882 sq km
+- Chhattisgarh 55,812 sq km
+
+States with Highest Forest Share of Geographical Area
+- Lakshadweep *91.33* percent
+- Mizoram *85.34* percent
+- Andaman and Nicobar Islands *81.62* percent
+
+Forest Cover Threshold Achievements
+- 19 states/UTs have above 33 percent forest cover
+- Eight states/UTs above 75 percent forest cover
+- Mizoram
+- Lakshadweep
+- Andaman & Nicobar Island
+- Arunachal Pradesh
+- Nagaland
+- Meghalaya
+- Tripura
+- Manipur
+
+Carbon Stock
+- Total forest carbon stock *7,285.5 million tonnes*
+- Increase compared to last assessment 81.5 million tonnes
+- Top states by carbon stock:
+- *Arunachal Pradesh* 1,021 mt
+- Madhya Pradesh 608 mt
+- Chhattisgarh 505 mt
+- Maharashtra 465 mt
+- Total carbon in CO2 equivalent ~30.43 billion tonnes
+- Increase since 2005 base year ~2.29 billion tonnes
+
+Regional Highlights
+- Western Ghats Eco-Sensitive Areas total 60,285.61 sq km
+- 73 percent of WGESA under forest
+- North Eastern region forest and tree cover 1,74,394.70 sq km
+- 67 percent of geographical area in NE region
+
+Mangrove Cover
+- Total mangrove cover *4,991.68* sq km
+- *0.15* percent of geographical area
+- *Decrease of 7.43* sq km since last assessment
+- State changes:
+- Gujarat decrease 36.39 sq km
+- Andhra Pradesh increase 13.01 sq km
+- Maharashtra increase 12.39 sq km
+
+Forest Fire Incidence
+- Top states with most fire incidents:
+- Uttarakhand
+- Odisha
+- Chhattisgarh
+
+Policy Commitments
+- India NDC under Paris Agreement to create 2.5–3.0 billion tonnes additional carbon sink by 2030
+- Bonn Challenge pledge — restore 26 million hectares degraded land by 2030
+
