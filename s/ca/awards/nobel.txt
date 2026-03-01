@@ -4,93 +4,92 @@ Tags  : #ca #imp
 Descr :
 ============================
 
-[Nobel Prize 2025]
+[*Nobel Prize 2025*]
 Chemistry
-  -Omar M. Yaghi
+  -*Omar M. Yaghi*
   -For the development of metal-organic frameworks.
 
-  -Susumu Kitagawa
+  -*Susumu Kitagawa*
   -For the development of metal-organic frameworks.
 
-  -Richard Robson
+  -*Richard Robson*
   -For the development of metal-organic frameworks.
 
 Economics (Sveriges Riksbank Prize in Economic Sciences)
-  -Joel Mokyr
+  -*Joel Mokyr*
   -For having identified the prerequisites for sustained growth through technological progress.
 
-  -Philippe Aghion
+  -*Philippe Aghion*
   -For the theory of sustained growth through creative destruction (Aghion-Howitt model).
 
-  -Peter Howitt
+  -*Peter Howitt*
   -For the theory of sustained growth through creative destruction (Aghion-Howitt model).
 
 Literature
-  -László Krasznahorkai
+  *-László Krasznahorkai*
   -For his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art.
 
 Peace
-  -María Corina Machado
+  -*María Corina Machado*
   -For her tireless work promoting democratic rights for the people of Venezuela and for her struggle to achieve a just and peaceful transition from dictatorship to democracy.
 
 Physics
-  -John Clarke
+  -*John Clarke*
   -For the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit.
 
-Michel Devoret
+  -*Michel Devoret*
   -For the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit.
 
-  -John M. Martinis
+  -*John M. Martinis*
   -For the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit.
 
 Physiology or Medicine
 
-  -Mary E. Brunkow
+  -*Mary E. Brunkow*
   -For their discoveries concerning peripheral immune tolerance.
 
-  -Fred Ramsdell
+  -*Fred Ramsdell*
   -For their discoveries concerning peripheral immune tolerance.
 
-  -Shimon Sakaguchi
+  -*Shimon Sakaguchi*
   -For their discoveries concerning peripheral immune tolerance.
 
 
-[Nobel Prize 2024]
+[*Nobel Prize 2024*]
 
 Medicine
-  -Victor Ambrose (America)
-  -For their contributions to the discovery of microRNAs.
+  -*Victor Ambrose* (America)
+  -For their contributions to the discovery of *microRNAs*.
 
-  -Gary Ruvkun (America)
-  -For their contributions to the discovery of microRNAs.
+  -*Gary Ruvkun* (America)
+  -For their contributions to the discovery of *microRNAs*.
 
 Physics
-  -John J. Hopfield (American)
+  -*John J. Hopfield* (American)
   -For foundational discoveries and inventions that enable machine learning with artificial neural networks.
 
-  -Geoffrey E. Hinton (British-Canadian)
+  -*Geoffrey E. Hinton* (British-Canadian)
   -For foundational discoveries and inventions that enable machine learning with artificial neural networks.
 
 Chemistry
-  -David Baker (American)
+  -*David Baker* (American)
   -For innovative work in computational protein design.
 
-Demis Hassabis (British)
-  -John M. Jumper (American)
+  -*Demis Hassabis* (British)
+  -*John M. Jumper* (American)
   -For groundbreaking AI-based protein structure prediction.
 
 Peace
-  -Nihon Hidankyo (Japanese organization)
+  -*Nihon Hidankyo* (Japanese organization)
   -For efforts to create a world free of nuclear weapons.
 
 Economics
-  - Daron Acemoglu (Turkish-American)
-  - Simon Johnson (British-American)
-  - James Robinson (British-American)
+  - *Daron Acemoglu* (Turkish-American)
+  - *Simon Johnson* (British-American)
+  - *James Robinson* (British-American)
   - For the study of how institutions are formed and affect prosperity.
 
 Literature
-  - Han Kang (South Korea)
+  - *Han Kang* (South Korea)
   - For deeply poetic prose that addresses historical traumas and highlights the fragility of human life.
-
 

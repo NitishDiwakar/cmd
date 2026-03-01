@@ -86,5 +86,8 @@ eza -snew
 # Show first 5 lines of a file
 head -n 5 file.txt
 
+# Restart samba
+sudo systemctl restart smb nmb
+
 
 
