@@ -34,7 +34,7 @@ Od       : Simlipal, Bhitarkanika
 
 WB       : Singalila, Neora Valley, Gorumara, Jaldapara, Buxa, Sunderban
 
-AP       : Papikonda, Srivenkateshwara
+AP       : Papikonda, *Srivenkateshwara*
 
 TN       : Gyundai, Mudumalai, Mukurthi, Anamalai, Gulf of Mannar
 

@@ -6,3 +6,41 @@ Descr :
 
 IMG:nuclear-power-plants.jpg
 
+Tamil Nadu
+    - Kudankulam Nuclear Power Plant
+        Capacity: 2,000 MW
+        Note: India’s largest nuclear plant; built with Russian collaboration.
+    - Madras Atomic Power Station (Kalpakkam)
+        Capacity: 440 MW
+        Note: India's first fully indigenous nuclear power station.
+
+Gujarat
+    - Kakrapar Atomic Power Station
+        Capacity: 1,840 MW
+        Note: Features the newest 700 MW indigenously designed reactors.
+
+Rajasthan
+    - Rajasthan Atomic Power Station (Rawatbhata)
+        Capacity: 1,780 MW
+        Note: Uses pressurized heavy water reactors (PHWR).
+
+Maharashtra
+    - Tarapur Atomic Power Station
+        Capacity: 1,400 MW
+        Note: India’s first nuclear power plant (established 1969).
+
+Karnataka
+    - Kaiga Generating Station
+        Capacity: 880 MW
+        Note: Located near the Kali River; serves the southern grid.
+
+Uttar Pradesh
+    - Narora Atomic Power Station
+        Capacity: 440 MW
+        Note: Located in a high seismic zone in Northern India.
+
+Haryana (Upcoming)
+    - Gorakhpur Haryana Anu Vidyut Pariyojana
+        Status: Under Construction
+        Note: Will be the first nuclear plant in North India outside UP/Rajasthan.
+        
