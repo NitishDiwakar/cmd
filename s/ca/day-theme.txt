@@ -10,9 +10,9 @@ Descr :
   - National Sports Day
   - Theme : Sports for promoting peaceful society and inclusive society
 
-23 Aug.
+*23 Aug*.
   - National Space Day
-  - Theme : Aryabhatta to Gaganyaan : Ancient Wisdom to Infinite Possibilities
+  - Theme : *Aryabhatta to Gaganyaan* : Ancient Wisdom to Infinite Possibilities
 
 19 Aug.
   - World Humanitarian Day
@@ -30,7 +30,7 @@ Descr :
   - World Hepatitis Day
   - Theme : Hepaitis can't wait
 
-22 July
+*22 July*
   - World Brain Health Day
   - Theme : Brain health for all ages
 
@@ -38,7 +38,7 @@ Descr :
   - World Youth Skills Day
   - Theme : Youth empowerment through AI and Digital Skills.
 
-11 July
+*11 July*
   - World Population Day
   - Theme : The world's largest ever youth generation
 
@@ -50,11 +50,11 @@ Descr :
   - National Doctor's Day
   - Theme : Behind the mask : Who treats the healers?
 
-23 June
+*23 June*
   - International Olympic Day
-  - Theme : Let's Move
+  - Theme : *Let's Move*
 
-20 June
+*20 June*
   - World Refugee Day
   - Theme : Solidarity with Refugees
 
