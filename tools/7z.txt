@@ -26,7 +26,7 @@ Archive with date
 (Output: file_20260226.7z)
 
 
-Bashrc function:
+Bashrc Function:
 backup7z() {
     local name="$1"
     local target="$2"
