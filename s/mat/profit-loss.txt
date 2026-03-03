@@ -1,0 +1,126 @@
+============================
+Title : Profit and Loss
+Tags  : #
+Descr : 
+============================
+
+GOTO:Questions
+
+Profit % = (Profit/CP) * 100
+Loss % = (Loss/CP) * 100
+
+
+Finding SP and CP
+SP (if Profit% is given)
+	- SP = [100 + Profit % /100] * CP
+
+SP (if Loss% is given)
+	- SP = [100 - Loss % /100] * CP
+
+CP (if Profit% is given)
+	- CP = [100/100 + Profit %] * SP
+
+CP (if Loss% is given)
+	- CP = [100/100 + Loss %] * SP
+
+__________
+TAG:Questions
+Q1. Sandeep made a profit of 22% when he sold an over cost for Rs.8540. Find the cost price of the over cost. (Q3)
+	SP = 8540, P=22%, CP =?
+	8540/122 * 100
+	7000
+
+Q2. If an article is sold for ₹402, there is a loss of 33%. At what price should it be sold to get 37% profit? (Q4)
+	402/67 * 137
+	822
+
+*Q3.* When an article is sold for ₹480, there is a loss of 50/3%. To gain 25/3%, it should be sold for ₹ : (Q5)
+	50/3%    = 1/6
+	So, loss = 1/6 of 480
+	SP       = 5/6 of CP
+	480      = 5/6 * CP
+	576
+
+	Now, 2nd condition
+	Gain       = 25/3% = 1/12
+	So, Profit = 1/12 of CP
+	New SP     = 13/12 * CP
+	13/12 * 576
+	624
+
+	---shortcut---
+
+
+
+
+
+Q4. A grocer pruchased 10 kg rice for ₹700. He spends some amount on transportation and then sells it for ₹1,400. IF the % of profit made by the grocer is 30%, then what is the amount he spends on transportation? (Round of to last integer) (Q6)
+	(700+x) * 130/100 = 1400
+	700+x             = 14000/13
+	x                 = 377
+
+
+Q5. If I gain 124% by selling an item for ₹1,232, then what would be my gain or loss % if I sell if for ₹572? (Q7)
+	x * 224/100 = 1232
+	x           = 123200/224
+	550 (CP)
+	Now, SP     = 572
+	Profit      = 22
+	Profit %    = 22/550 * 100
+	4% (Ans)
+
+
+Q6. A man loses 28% by selling an article for ₹144. If he sells it for ₹288, what will be his gain/loss %? (Q8)
+	x / 72 * 100 = 144 
+
+Q7. If the selling price of an almirah is doubled, the the profit is tripled. Find the initial profit %. (Q9)
+
+
+
+
+Q8. A shopkeeper sold an article at a 26% profit. On selling it for ₹2,250 more, he would get a profit of 41%. If this article is sold at 12% profit, the nthe selling price would be: (Q12)
+
+
+
+
+Q9. The selling price of 80 items is equal to the cost price of 72 items. What is the percentage of loss incurred in the transaction? (Q13)
+
+
+
+[*CP of X = SP of Y*]
+Q10. The cost price of 36 articles is the same as the selling price of N articles. If the profit is 20%, then the value of N is: (Q15)
+
+
+
+
+[*Profit/Loss = CP/SP of Some Article*]
+Q11. By selling 60 pens, a man gain an amount equal to the selling price of 12 pens. What is his gain percentage? (Q16)
+
+
+
+
+Q12. By selling 30 meteres of cloth a shopkeeper makes a profit equivalent to the selling price of 10 meters of cloth. Find the selling price of 1 meter of cloth when the cost price of 1 meter of cloth is ₹480.(Q18)
+
+
+
+[*Profit/Loss on SP*]
+Q13. A man purchased a cell phone for ₹24,000 and sold it at a gain of 12.5% calculated on the selling price. The selling price of the cell phone was: (Q19)
+
+
+
+
+Q14. By selling an article for ₹640, a person loses 15% of its selling prices. At what price should he sell it to gain 15% on its cost price? (Q20)
+
+
+
+
+Q15. By selling an article at 4/10 of its actual selling price, Nirbhay incurs a loss of 17%. If he sells it at 88% of its actual selling price, then the profit percentage: (Q21)
+
+
+
+
+Q16. By selling an article at 2/5 of itc actual selling price, Manav incurs a loss of 27%. If he sells it at 84% of its actual selling price, then the profit % is: (Q22)
+
+
+
+
