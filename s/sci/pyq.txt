@@ -3,6 +3,7 @@ Title : Science - PYQ
 Tags  : #imp
 Descr : 
 ============================
+GOTO:aso-mains-2026
 GOTO:aso-pre-2025
 GOTO:dso-2025
 GOTO:bpsc-71
@@ -12,6 +13,343 @@ GOTO:bpsc-69
 GOTO:bpsc-68
 GOTO:bpsc-67-re
 GOTO:bpsc-67
+
+
+TAG:aso-mains-2026
+[*ASO Mains 2026*]
+51. Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R). 
+Assertion (A) : A myopic person cannot see distant objects clearly. 
+Reason (R) : The image of distant objects forms behind the retina. 
+(A) Both (A) and (R) are true and (R) is the correct explanation of (A) 
+(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A) 
+(C) (A) is true, but (R) is false 
+(D) (A) is false, but (R) is true
+	{NCERT-X, Ch: 11, Human Eye}
+
+52. If the mass of the Earth were doubled and its radius halved, what would be the weight of a body of mass "m" on its surface? (Consider "g" as the acceleration due to gravity on the unchanged Earth.) 
+(A) 0.5mg 
+(B) 4mg 
+(C) 8mg 
+(D) mg
+	{NCERT-IX, Ch: 10, Gravitation}
+
+53. Two identical-sized balls, one of Lead (mass = 12kg) and another of aluminium (mass = 3kg), both initially at rest are dropped from a height of 50m simultaneously. When they are 10m above the ground, which of the following quantities remains the same? Neglect air resistance. 
+(A) Speed and acceleration 
+(B) Kinetic energy and speed 
+(C) Potential energy and momentum 
+(D) Acceleration and kinetic energy
+	{NCERT-IX, Ch: 8, 10}
+
+54. Two long solenoids, P and Q each have the same total number of turns and carry the same current. Solenoid P is twice as long as solenoid Q. Find the ratio of the magnetic field strengths inside them (Bp : BQ). 
+(A) 1:1 
+(B) 1:2 
+(C) 2:1 
+(D) 4:1
+	{NCERT-XII, Part-I, Ch-IV, Moving Charges & Magnetization}
+
+55. If the same current passes through a copper wire, and an iron wire of equal length and cross-sectional area, then which statement is true? 
+(A) The heat produced is the same in both copper wire and iron wire 
+(B) The heat produced is more in copper wire than in iron wire 
+(C) The heat produced is more in iron wire than in copper wire 
+(D) Cannot be compared without potential difference
+	{NCERT-X, Ch: 12, Electricity}
+
+56. Arrange the speeds of sound in the following media in ascending order at room temperature: Air, Water, Iron. 
+(A) Iron < Water < Air 
+(B) Air < Water < Iron 
+(C) Water < Iron < Air 
+(D) Air < Iron < Water
+	{NCERT-IX, Ch: 12}
+
+57. Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R). 
+Assertion (A): Kerosene has a higher refractive index (1.44) than water (1.33). 
+Reason (R): Refractive index of a medium depends on its mass density; the greater the mass density, the greater the speed of light through it. 
+(A) Both (A) and (R) are true, and (R) is the correct explanation of (A) 
+(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A) 
+(C) (A) is true, but (R) is false 
+(D) (A) is false, but (R) is true.
+	{NCERT-X, Ch: 10}
+
+58. A fuse wire made of tin is designed to melt when the current exceeds 10 A. What change should be made to the fuse wire (of the same material) to safely carry a current up to 30 A to an electrical appliance? 
+(A) Increase the cross-sectional area (thickness) of the fuse wire and connect it in series to the appliance 
+(B) Increase the cross-sectional area (thickness) of the fuse wire and connect it in parallel to the appliance 
+(C) Decrease the cross-sectional area (thickness) of the fuse wire and connect it in series to the appliance 
+(D) Decrease the cross-sectional area (thickness) of the fuse wire and connect it in parallel to the appliance
+	{NCERT-X, Ch: 12, Electricity, Joule's Law of Heating}
+
+59. Match the concepts in List- I with their correct examples or explanations given in List- II. 
+List- I (Concept) 
+a. Balanced Forces 
+b. First Law of Motion 
+c. Second Law of Motion 
+d. Third Law of Motion 
+List- II (Example / Explanation) 
+1. Recoil of a gun when a bullet is fired 
+2. A wooden block pulled equally from both sides remains at rest 
+3. Passenger falling backwards when the bus starts moving from rest 
+4. A fielder pulls his hands gradually while catching a fast-moving ball 
+Codes: 
+(A) a-2, b-3, c-4, d-1 
+(B) a-2, b-4, c-3, d-1 
+(C) a-1, b-3, c-4, d-2 
+(D) a-1, b-4, c-3, d-2
+	{NCERT-IX, Ch: 9}
+
+60. When sunlight enters a raindrop and a primary rainbow is formed, which sequence of optical phenomena correctly describes the path of light? 
+(A) Dispersion → Refraction → Total Internal Reflection → Refraction 
+(B) Refraction → Internal Reflection → Refraction → Dispersion 
+(C) Dispersion → Refraction → Internal Reflection → Refraction 
+(D) Refraction → Dispersion → Internal Reflection → Refraction
+	{NCERT-IX, Ch: 10, 11, Rainbow}
+
+61. Bell-metal is an alloy of 
+(A) Copper and lead 
+(B) Copper and tin 
+(C) Copper and zinc 
+(D) Copper and nickel
+	{NCERT-X, Ch: 3, Metal and non metal}
+
+62. Iodine can dissolve readily in 
+(A) Water 
+(B) Carbon tetrachloride 
+(C) Alcohol 
+(D) Potassium iodide
+	{NCERT-XII, Ch: 13, Radioactivity}
+
+63. Which of the following is the least stable oxide of chlorine? 
+(A) Cl2O 
+(B) ClO2 
+(C) Cl2O7 
+(D) ClO3
+	{NCERT-XII, Ch: 7, p-block element}
+
+64. Which of the following is not an alkali? 
+(A) NaOH 
+(B) KOH 
+(C) NH4OH 
+(D) C2H5OH
+	{NCERT-X, Ch: 2, Acid, Base, Salt}
+
+65. Which of the following is most acidic? 
+(A) HClO4 
+(B) HClO2 
+(C) HClO 
+(D) HClO3
+	{NCERT-XII, Chemistry,  Ch: 12, p-block element}
+
+66. Which of the following is used as anaesthetic? 
+(A) Ethyl acetate 
+(B) Ethyl alcohol 
+(C) Ether 
+(D) Carbon tetrachloride
+	{NCERT-XII, Chemistry, Ch: 11, Alcohol, Phenol & Eather}
+
+67. Iron is a constituent of which of the following? 
+(A) Chlorophyll 
+(B) Thymine 
+(C) Protein 
+(D) Haemoglobin
+	{NCERT-XII, Biology, Ch: 9, Biomolecule}
+
+68. Match List- I with List- II and choose the correct answer from the codes given below: 
+List- I 
+a. Magnesium oxide 
+b. Phosphorus pentoxide 
+c. Aluminum oxide 
+d. Sodium oxide 
+List- II 
+1. Amphoteric 
+2. Basic 
+3. Strongly basic 
+4. Acidic 
+Codes: 
+(A) a-4, b-2, c-3, d-1 
+(B) a-3, b-4, c-1, d-2 
+(C) a-2, b-4, c-1, d-3 
+(D) a-1, b-2, c-3, d-4
+	{NCERT-X, Ch: 3}
+
+69. Hard water contains which of the following salts? 
+(A) Calcium and sodium 
+(B) Magnesium and calcium 
+(C) Barium and calcium 
+(D) Calcium and potassium
+	{NCERT-X, Ch: 3, Metal and non metal}
+
+70. Which of the following is used in making baking soda? 
+(A) Sodium carbonate 
+(B) Bleaching powder 
+(C) Sodium hydroxide 
+(D) None of the above
+	{NCERT-X, Ch: 2, Acid, Base and Salt}
+
+71. *Kufri* is a variety of 
+(A) Potato 
+(B) Tomato 
+(C) Brinjal 
+(D) Radish
+	{NCERT-IX, Food}
+
+72. Philippullum fossil was obtained from 
+(A) Vindhya Mountain 
+(B) Rajmahal Hills 
+(C) Himalayan Range 
+(D) Jayanti and Khasi Hills
+	{NCERT-XII, Biology, Ch: 7, Evolution}
+
+73. Catharanthus roseus contains 
+(A) Vincristine 
+(B) Taxol 
+(C) Aflatoxin 
+(D) Apigenin
+	{NCERT-XII, Plant Chemicals}
+
+74. Xylem vessels help in water conduction commonly present in 
+(A) Gymnosperms 
+(B) Angiosperms 
+(C) Gymnosperms and Angiosperms 
+(D) Pteridophytes and Angiosperms
+	{NCERT-IX, Ch: 6, Anatomy of flowering plants}
+
+75. Which one is used in spices? 
+(A) Fungi 
+(B) Lichens 
+(C) Mosses 
+(D) Ferns
+	{NCERT-XI, Biology}
+
+76. Most abundant enzyme on the earth is 
+(A) Cytochrome oxidase 
+(B) PEP carboxylase 
+(C) Indole oxidase 
+(D) Rubisco
+	{NCERT-XI, Biology, Ch: 13, Photosysthesis in higher plants}
+
+77. With reference to Spirulina, consider the following statements: 
+(1) Protein-rich 
+(2) Prokaryote 
+(3) Heterocyst 
+Which of the statements given above is/are correct? 
+(A) Only (1) 
+(B) All three 
+(C) One and two 
+(D) None of the above
+	{NCERT-XII, Biology, Ch: 10, Microbes in human welfare}
+
+78. Given below are two statements: one is labelled as Assertion (A) and other is labelled as Reason (R). 
+Assertion (A): Global warming is caused due to increase in the environmental temperature. 
+Reason (R): It is the result of increase in level of CO2, deforestation and increase in methane production. 
+In light of the above statements, choose the most appropriate answer from the options given below. 
+(A) Both (A) and (R) are correct and (R) is the correct explanation of (A) 
+(B) (A) is correct, but (R) is not correct 
+(C) (A) is not correct, but (R) is correct 
+(D) None of the above
+	{NCERT-VIII, Pollution}
+
+79. Arrange the following organisms in correct order of the evolution from the codes given below: 
+(I) Phytophthora 
+(II) Agaricus 
+(III) Alternaria 
+(IV) Morchella 
+Codes: 
+(A) (I), (II), (IV), (III) 
+(B) (II), (IV), (III), (I) 
+(C) (I), (IV), (II), (III) 
+(D) (III), (II), (I), (IV)
+	{NCERT-XI, Ch: 3, Plant Kingdom}
+
+80. Match List- I with List- II and choose the correct answer from the codes given below: 
+List- I 
+a. IBA 
+b. GA3 
+c. ABA 
+d. Ethylene 
+List- II 
+1. Seed dormancy 
+2. Root development 
+3. Fruit ripening 
+4. Plant growth 
+Codes: 
+(A) a-2, b-4, c-1, d-3 
+(B) a-4, b-1, c-2, d-3 
+(C) a-3, b-2, c-4, d-1 
+(D) a-1, b-3, c-2, d-4
+	{NCERT-XI, Ch: 15, Plant growth and development}
+
+81. An animal that respires, but has no respiratory organs is 
+(A) Fish 
+(B) Frog 
+(C) Earthworm 
+(D) Cockroach
+	{NCERT-X, Ch: 7, Control and cordination}
+
+82. Which of the following techniques is other than microscopy? 
+(A) Plasmolysis 
+(B) Autoradiography 
+(C) Maceration 
+(D) Chromatography
+	{NCERT-XI, Ch: 2, Biological Classification & Ch: 9, biomolecules}
+
+83. Read the statements given below with regard to the functions performed by the Golgi apparatus: 
+(I) Transports and chemically modifies the material contained within it. 
+(II) Secretes mucin in the respiratory tract. 
+(III) Secretes slime in the insectivorous plants. 
+Which of the following is the correct answer? 
+(A) (I) is wrong, but (II) and (III) are correct 
+(B) (II) is wrong, but (I) and (III) are correct 
+(C) (II) and (III) are wrong, but (I) is correct 
+(D) All are correct
+	{NCERT-XI, Ch: 8, Cell, The unit of life}
+
+84. Colour blindness is found more in males than in females because 
+(A) Males containing the single-affected X-chromosome are colour blind 
+(B) Heterozygous females are colour blind 
+(C) Males having affected Y-chromosomes are colour blind 
+(D) Affected X-chromosome has a much higher affinity to Y-chromosome as compared to unaffected X-chromosome
+	{NCERT-XII, Bio, Ch: 5, Principle of Inheritance}
+
+85. The correct order of the following is 
+(A) Mesozoic → Archaeozoic → Proterozoic 
+(B) Palaeozoic → Archaeozoic → Coenozoic 
+(C) Archaeozoic → Palaeozoic → Proterozoic 
+(D) Palaeozoic → Mesozoic → Coenozoic
+	{NCERT-XII, Biology, Ch: 14, Ecosystem}
+
+86. Iodine deficiency in a frog tadpole will lead to 
+(A) accelerated metamorphosis 
+(B) development of a giant frog 
+(C) inhibition of metamorphosis 
+(D) development of a miniature frog
+	{NCERT-XI, Biology, Ch: 22, Chemical Coordination and Integration}
+
+87. The part of the nephron that helps in active reabsorption of sodium is 
+(A) Bowman's capsule 
+(B) Distal convoluted tubule 
+(C) Ascending limb of Henle's loop 
+(D) Proximal convoluted tubules
+	{NCERT-XI, Ch: 9, Excretory product and their elimination}
+
+88. Which National Park is the new home of the Indian one-horned rhinoceros? 
+(A) Kanha 
+(B) Corbett 
+(C) Dudhwa 
+(D) Bandhavgarh
+
+89. Which one of the following is the correctly matched pair of a product and the microorganism responsible for it? 
+(A) Ethyl alcohol - Yeast 
+(B) Cheese - Nitrobacter 
+(C) Acetic acid - Lactobacillus 
+(D) Curd - Azotobacter
+	{NCERT-IX, Ch: 10, Microbes in human welfare}
+
+90. Refractory period in a neuron is the period of complete inexcitability between 
+(A) Polarization and depolarization 
+(B) Depolarization and repolarization 
+(C) Repolarization and polarization 
+(D) None of the above
+	{NCERT-XI, Ch: 21, Neural Control and Coordination}
+
+
 
 TAG:aso-pre-2025
 [*ASO Pre 2025*]
