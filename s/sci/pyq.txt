@@ -935,33 +935,42 @@ List—I
 List—II
 (Exploration)
 a. Cassini–Huygens
+b. Juno
+c. Artemis 
+d. VERITAS 
+
 1. Jupiter
-b. Juno 2. Saturn and its
+2. Saturn and its
 rings
-c. Artemis 3. Venus
-d. VERITAS 4. Human Space–flight—Moon
+3. Venus
+4. Human Space–flight—Moon
 to Mars
 Select the correct answer using
 the codes given below.
 (A) a b c d
-2 1 4 3
+    2 1 4 3
 (B) a b c d
-3 1 4 2
+    3 1 4 2
 (C) a b c d
-2 3 4 1
+    2 3 4 1
 (D) a b c d
-3 1 2 4
+    3 1 2 4
 
 3. Match List–I with List–II :
 List—I
 (Cloth)
 List—II
 (Origin)
-a. Linen 1. Coconut plant
-b. Coir 2. Flax plant
-c. Mohair 3. Feathers of duck
+a. Linen
+b. Coir
+c. Mohair
+d. Down 
+
+1. Coconut plant
+2. Flax plant
+3. Feathers of duck
 and geese
-d. Down 4. Angora goat
+4. Angora goat
 Select the correct answer using
 the codes given below.
 (A) a b c d

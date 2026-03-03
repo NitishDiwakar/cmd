@@ -37,12 +37,24 @@ CACOPHONY : MUSICIAN :: PANEGYRIC : ?
 
 105. Look carefully at the sequence of symbols to find the pattern.
 IMG:aso-mains-105.png
+(A)
+(B)
+(C)
+(D)
 
 106. Which group of shapes can be assembled to make the shape shown?
 IMG:aso-mains-106.png
+(A)
+(B)
+(C)
+(D)
 
 107. Which of the four options represents cube in its folded form?
 IMG:aso-mains-107.png
+(A)
+(B)
+(C)
+(D)
 
 108. How many least number of squares must be added so that the line P-Q becomes the line of symmetry for the following figure?
 IMG:aso-mains-108.png
