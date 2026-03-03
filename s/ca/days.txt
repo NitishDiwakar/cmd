@@ -5,12 +5,24 @@ Descr :
 ============================
 
 -> Also see calendar created in OneNote
+GOTO:Jan 
+GOTO:Feb 
+GOTO:Mar
+GOTO:Apr
+GOTO:May
+GOTO:Jun
+GOTO:Jul
+GOTO:Aug
+GOTO:Sep
+GOTO:Oct
+GOTO:Nov
+GOTO:Dec
 
 ============================
 Important Days
 ============================
 
-JANUARY
+TAG:Jan 
   9  - Pravasi Bharatiya Divas
   10 - *World Hindi Day*
   12 - National Youth Day
@@ -20,16 +32,16 @@ JANUARY
   26 - Republic Day (India)
   30 - Martyrs' Day, World Leprosy Day
 
-
-FEBRUARY
+TAG:Feb
+FEBRUARY 
   4  - *World Cancer Day*
   11 - Samarpan Diwas (Pandit Dindayal Upadhyay death anniversary)
   20 - *World Social Justice Day*
   21 - World Mother Language Day
   28 - *National Science Day*
 
-
-MARCH
+TAG:Mar
+MARCH 
   3  - World Wildlife Day
   4  - Chabahar Day
   8  - International Women's Day
@@ -37,7 +49,7 @@ MARCH
   22 - World Water Day, Bihar Day
   24 - World Tuberculosis Day
 
-
+TAG:Apr
 APRIL
   7  - *World Health Day*
   14 - Equality Day (Ambedkar Jayanti)
@@ -46,8 +58,8 @@ APRIL
   25 - *World Malaria Day*
   26 - World Intellectual Property Day
 
-
-MAY
+TAG:May
+MAY 
   1  - International Workers' Day
   3  - International Press Freedom Day
   7  - World Asthma Day
@@ -55,7 +67,7 @@ MAY
   25 - World Football Day
   31 - World No Tobacco Day
 
-
+TAG:Jun
 JUNE
   5  - World Environment Day
   7  - World Food Safety Day
@@ -66,8 +78,7 @@ JUNE
   25 - Samvidhaan Hatya Diwas
   29 - National Statistics Day
 
-
-JULY
+TAG:Jul
   1  - Doctor's Day/GST Day
   11 - World Population Day
   19 - Bank Nationalization Day
@@ -75,7 +86,7 @@ JULY
   28 - World Hepatitis Day
   29 - International Tiger Day
 
-
+TAG:Aug
 AUGUST
   6  - Hiroshima Day
   7  - Javelin Day (Neeraj Chopra)
@@ -86,7 +97,7 @@ AUGUST
   23 - National Space Day
   29 - National Sports Day (Major Dhyan Chand birth anniversary)
 
-
+TAG:Sep
 SEPTEMBER
   5  - Teacher's Day
   8  - International Literacy Day
@@ -97,7 +108,7 @@ SEPTEMBER
   27 - World Tourism Day
   29 - World Heart Day
 
-
+TAG:Oct
 OCTOBER
   2  - Non-violence Day/Gandhi Jayanti
   3  - World Animal Day
@@ -112,7 +123,7 @@ OCTOBER
   31 - National Unity Day (Sardar Patel's birth anniversary)
   31 - Indira Gandhi Death anniversary
 
-
+TAG:Nov
 NOVEMBER
   7  - National Cancer Awareness Day
   11 - National Education Day
@@ -125,7 +136,7 @@ NOVEMBER
   25 - No non-veg Day
   26 - National Constitution Day
 
-
+TAG:Dec
 DECEMBER
   1  - World AIDS Day
   2  - World Computer Literacy Day
