@@ -89,5 +89,8 @@ head -n 5 file.txt
 # Restart samba
 sudo systemctl restart smb nmb
 
+# Count no of .txt files inside a directory recursively
+find /path/to/directory -type f -name "*.txt" | wc -l
+
 
 
