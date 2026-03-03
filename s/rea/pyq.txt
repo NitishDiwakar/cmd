@@ -1,0 +1,617 @@
+============================
+Title : Reasoning PYQ
+Tags  : #
+Descr :
+============================
+GOTO:Aso-Mains-2026
+GOTO:Aso-Pre-2025
+
+
+TAG:Aso-Mains-2026
+[*ASO Mains 2026*]
+101. Complete the pair based on the appropriate relationship.
+CACOPHONY : MUSICIAN :: PANEGYRIC : ?
+(A) SPEECH
+(B) TRIBUTE
+(C) LAUDATORY
+(D) CRITIC
+
+102. Complete the pair based on the appropriate relationship.
+923 : 20 :: 683 : ?
+(A) 22
+(B) 23
+(C) 24
+(D) 25
+
+103. From the options given below, select the one that is different from the other three.
+(A) IBCK : KFIS
+(B) DELM : FIRU
+(C) HDJL : JHOT
+(D) AFGH : CJMP
+
+104. Which word does not belong with the others?
+(A) MAYOR
+(B) LAWYER
+(C) GOVERNOR
+(D) SENATOR
+
+105. Look carefully at the sequence of symbols to find the pattern.
+IMG:aso-mains-105.png
+
+106. Which group of shapes can be assembled to make the shape shown?
+IMG:aso-mains-106.png
+
+107. Which of the four options represents cube in its folded form?
+IMG:aso-mains-107.png
+
+108. How many least number of squares must be added so that the line P-Q becomes the line of symmetry for the following figure?
+IMG:aso-mains-108.png
+(A) 3
+(B) 4
+(C) 6
+(D) 7
+
+109. Among Ajay, Biren, Chari, Dinesh and Illa, Illa is taller than Dinesh but not as fat as Dinesh. Chari is taller than Ajay but shorter than Biren. Ajay is fatter than Dinesh but not as fat as Biren. Illa is thinner than Chari, who is thinner than Dinesh. Illa is shorter than Ajay. Who is the thinnest person?
+(A) Biren
+(B) Chari
+(C) Dinesh
+(D) Illa
+
+110. In a code language, 'TIGER' is written as 'JUBLH'. How will 'QALFU' be written in that language?
+(A) GMGMK
+(B) GMKMG
+(C) GMGKM
+(D) GMKGM
+
+111. Given that Raj and Kumar are good in hockey and volleyball. Sarin and Raj are good in hockey and baseball. Gaju and Kumar are good in cricket and volleyball. Sarin, Gaju and Milan are good in football and baseball. How many of them are good in baseball, cricket and hockey, all the three games?
+(A) 0
+(B) 1
+(C) 2
+(D) 3
+
+
+
+116. Obtain a meaningful word by rearranging the alphabets YNTPALE. Then select the letter which does not appear at the third, fifth or seventh positions in the word.
+(A) L
+(B) A
+(C) N
+(D) Y
+
+117. While going to his office, Tejveer meets Rakesh who is related to Tejveer because Tejveer is Deepak's father who is married to Garima. Garima is the daughter of Rakesh. Garima has a daughter named Isha. How is Tejveer related to Isha?
+(A) Uncle
+(B) Father
+(C) Grandfather
+(D) Father-in-law
+
+118. Five friends L, M, N, O and P are standing in a row facing south, but not necessarily in the same order.
+Only M is between P and L.
+N is to the immediate right of P.
+O is to the immediate left of L.
+Who is occupying the middle position in the row?
+(A) M
+(B) L
+(C) O
+(D) P
+
+119. Two people are going. One is the father of the son of the other. What is the relationship between the two?
+(A) Father - Son
+(B) Mother - Son
+(C) Husband - Wife
+(D) None of the above
+
+120. A question and two statements I and II are given below:
+Who reached the station first among P, Q, R, S, T and V?
+(I) Q reached before R but not before S, who reached after V but before P.
+(II) R reached after V and Q. P reached after S, who did not reach after Q.
+Which of the above statements is/are sufficient to answer the question?
+(A) Statement (I) alone is sufficient
+(B) Statement (II) alone is sufficient
+(C) Both (I) and (II) together are sufficient
+(D) Both (I) and (II) together are not sufficient
+
+121. What numbers will come in the place of '?' in the following table?
+DL 10 14 FR
+RX 23 18 SM
+KM ? ? PV
+(A) 14, 21
+(B) 18, 34
+(C) 12, 18
+(D) 56, 84
+
+122. If the numbers 15 and 21 are interchanged, then which of the following equations will be correctly balanced?
+(A) 62 ÷ 31 - 21 + 15 × 3 = 80
+(B) 63 ÷ 15 + 21 × 5 - 4 = 74
+(C) 26 + 21 × 15 ÷ 3 - 14 = 108
+(D) 24 - 21 ÷ 3 + 15 - 7 = 23
+
+123. A man is facing west. He turns 45° in the clockwise direction and then another 180° in the same direction and then 270° in the anticlockwise direction. Which direction is he facing now?
+(A) West
+(B) North-west
+(C) South
+(D) South-west
+
+124. Find the missing number in the following figures:
+IMG:aso-mains-124.png
+
+125. If DIAMOND is coded as VQYMKLV, then how is FEMALE coded?
+(A) TUMYNU
+(B) UVNZOV
+(C) UVNYNV
+(D) TUMZOU
+
+126. Which of the following does NOT belong to the group?
+(A) Whale
+(B) Dolphin
+(C) Shark
+(D) Starfish
+
+127. Find the wrong term in the series.
+2, 5, 10, 17, 26, 37, 50, 64
+(A) 17
+(B) 64
+(C) 37
+(D) 26
+
+128. Find the missing term in the following number series.
+8, 9, 8, 7, 10, 9, 6, 11, 10, ( ), 12
+(A) 11
+(B) 8
+(C) 7
+(D) 5
+
+129. Arrange the following in a logical order.
+(1) Poverty (2) Population (3) Death (4) Unemployment (5) Disease
+(A) (3), (4), (2), (5), (1)
+(B) (2), (3), (4), (5), (1)
+(C) (2), (4), (1), (5), (3)
+(D) (1), (2), (3), (4), (5)
+
+130. Which two months in a year have the same calender?
+(A) June, October
+(B) April, July
+(C) April, November
+(D) October, December
+
+131. Find the missing term in the sequence.
+4, 6, 12, 30, 60, 90, ?
+(A) 120
+(B) 135
+(C) 180
+(D) 150
+
+132. Find the wrong number in the sequence.
+850, 843, 829, 808, 788, 745, 703
+(A) 843
+(B) 829
+(C) 808
+(D) 788
+
+133. Find the missing number in the sequence.
+5, 9, 15, 23, 33, ?
+(A) 40
+(B) 45
+(C) 43
+(D) 47
+
+134. Which shape comes next in the following sequence?
+IMG:aso-mains-134.png
+
+135. Which missing number is in question mark?
+13, 14, 23, 48, 97, 178, ?
+(A) 259
+(B) 278
+(C) 269
+(D) 299
+
+136. What comes next in the following sequence?
+IMG:aso-mains-136.png
+
+137. In a certain code language, 'BUTTER' is coded as 'DWVRCP' and 'THEORY' is coded as 'VJGMPW'. How will 'LATENT' be coded in that language?
+(A) MDXCLQ
+(B) NCVCLR
+(C) MEVCKR
+(D) NBVBMR
+
+138. In a certain code language, 'CROSS' is written as 74 and 'CHART' is written as 50. How will 'SYMBOL' be written in that language?
+(A) 82
+(B) 93
+(C) 76
+(D) 86
+
+139. In a certain code language, 'OCEANS' is coded as 57³ and 'RIVER' is coded as 72². How will 'SEALAND' be coded in that language?
+(A) 56
+(B) 56²
+(C) 56³
+(D) 56⁴
+
+140. In a certain code language, LEMON is written as ELMNO. How will CLUSTER be written in that code language?
+(A) CELRSTU
+(B) CLESRUT
+(C) LUCETRS
+(D) LCUTESR
+
+141. In a certain code, "CANDLE" is written as "CBNELF". How is "STICK" written in that code?
+(A) SRLFE
+(B) MDKAI
+(C) SUIDK
+(D) UDLPQ
+
+142. If SAW is coded as 19123 and CUDDLE is coded as 32144125, then how will MEDULLA be coded?
+(A) 14222371515
+(B) 13542112121
+(C) 14222361516
+(D) 13222361615
+
+143. If A = 1, B = 3, C = 5 and similarly Z = 51, then find the code for PULSE.
+(A) 314123379
+(B) 323412379
+(C) 342231279
+(D) 314213279
+
+144. Find the missing term below.
+LAME : OXPB :: TREE : ?
+(A) VNGB
+(B) WOHB
+(C) QUBH
+(D) UMFA
+
+145. Statements:
+(1) All pens are markers.
+(2) No marker is a colour.
+Conclusions:
+(1) No pen is a colour.
+(2) No colour is a pen.
+(3) Some pens are not colours.
+(4) Some colours are not pens.
+(5) All colours are pens.
+Choose the correct option.
+(A) All conclusions follow, except (5)
+(B) All conclusions follow, except (1)
+(C) All conclusions follow, except (2)
+(D) All conclusions follow, except (4)
+
+146. Statements:
+(1) All Y are Z.
+(2) Some Z are W.
+Conclusions:
+(1) Some Y are W.
+(2) Some Y are not W.
+Choose the correct option.
+(A) Only conclusion (1) follows
+(B) Only conclusion (2) follows
+(C) Either conclusion (1) or (2) follows
+(D) Neither conclusion (1) nor (2) follows
+
+147. Statements:
+(1) All engineers are teachers.
+(2) All teachers are singers.
+Conclusions:
+(1) All engineers are singers.
+(2) No engineer is a singer.
+Choose the correct option.
+(A) Only conclusion (1) follows
+(B) Only conclusion (2) follows
+(C) Either conclusion (1) or (2) follows
+(D) Neither conclusion (1) nor (2) follows
+
+148. Statements:
+(1) All dogs are cats.
+(2) No mammal is a reptile.
+(3) All reptiles are dogs.
+Conclusions:
+(1) All dogs are reptiles.
+(2) Some reptiles are cats.
+Choose the correct option.
+(A) Only conclusion (1) follows
+(B) Only conclusion (2) follows
+(C) Either conclusion (1) or (2) follows
+(D) Neither conclusion (1) nor (2) follows
+
+
+TAG:Aso-Pre-2025
+[*ASO Pre 2025*]
+11. Direction (Q. No. 11 and 12): Read the given information carefully.
+
+• a and b teach Hindi and English.
+• c and b teach English and Geography.
+• d and a teach Mathematics and Hindi.
+• e and b teach History and Punjabi.
+
+Out of the following, which pair of teachers teaches both Geography and Hindi?
+(A) c and d
+(B) b and e
+(C) a and b
+(D) None of these ✔
+
+
+12. Out of these teachers who teaches the maximum number of subjects?
+(A) c
+(B) a
+(C) d
+(D) b ✔
+
+
+15. Which of the following does not belong in the group?
+(A) Eagle
+(B) Sparrow
+(C) Bat ✔
+(D) Pigeon
+
+
+21. Which of the following is the odd one?
+(A) Berlin
+(B) Paris ✔
+(C) Madrid 
+(D) London
+
+
+25. Which one set of letters when sequentially placed at the gaps in the given letter series shall complete it?
+
+ab__bbe__c__ab__ab__b
+
+(A) cacac ✔
+(B) ccaac
+(C) becab
+(D) cbabc
+
+
+31. A + B means A is to the north of B;
+A × B means A is to the south of B;
+A % B means A is to the east of B;
+A – B means A is to the west of B.
+
+Then in P % Q + R – S, S is in which direction with respect to Q?
+(A) North-East
+(B) South-West
+(C) North-West
+(D) South-East ✔
+
+
+38. A series is given in a certain definite pattern in groups with some terms are missing. Choose the correct alternatives from the given alternatives that will complete the series.
+
+23B__6__FG__5D__8
+
+(A) E, 8, 7, D, 9
+(B) C, 7, 4, E, 9 ✔
+(C) W, 8, 7, I, 6
+(D) D, 8, 6, C, 7
+
+40. Find x in the following.
+IMG:aso-pre-40.png
+        344
+   217        28
+         x
+         66
+
+(A) 130
+(B) 120
+(C) 170
+(D) 126 ✔
+
+44. Statement:
+All roses are flowers.
+Some flowers are red.
+
+Which of the following conclusions can be drawn?
+(A) All red flowers are roses.
+(B) All flowers are roses.
+(C) Some roses are red.
+(D) None of the above ✔
+
+
+48. In a code language RAIN is coded as 42 and PAIN is coded as 40 then CHAIN will be coded as
+(A) 36
+(B) 25
+(C) 35 ✔
+(D) 26
+
+50. Find the missing term.
+IMG:aso-pre-40.png
+(A) 36
+(B) 32
+(C) 28
+(D) 24 ✔
+
+
+61. Introducing a man, Mahesh said, “His wife is the only daughter of my wife”. How is Mahesh related to that man?
+(A) Father-in-law ✔
+(B) Father
+(C) Son
+(D) Grandfather
+
+
+67. If the animals which can walk are called swimmers, animals which can crawl are called flying, snakes are called hunters and those which fly in the sky are called swimmers, then what will a lizard be called?
+(A) Hunter
+(B) Swimmer
+(C) Flying ✔
+(D) Snake
+
+
+69. A member of the parliament may not ask
+(A) Supplementary question
+(B) A question which is starred
+(C) A question which is sub-judice ✔
+(D) Short notice
+
+
+70. Find the missing term.
+IMG:aso-pre-70.png
+4  9  16  ?
+6  8  12  20
+
+(A) 25 ✔
+(B) 30
+(C) 88
+(D) 20
+
+
+73. Knowledge : Ignorance :: Success : ?
+(A) Motivation
+(B) Effort
+(C) Direction
+(D) Failure ✔
+
+
+74. UJMV : SLKX :: SRUNO : ?
+(A) PSPQ
+(B) QTMN
+(C) SVOP
+(D) PWLQ ✔
+
+
+75. Growth : Development :: Stagnation : ?
+(A) Inversion
+(B) Decline ✔
+(C) Reduction
+(D) Degradation
+
+
+79. Statement:
+Some pens are blue.
+Some blue things are costly.
+
+Which of the following conclusions can be drawn?
+(A) Some costly things are pens.
+(B) All pens are blue.
+(C) Some pens are costly.
+(D) None of the above ✔ 
+
+
+82. Find the missing number in the following.
+IMG:aso-pre-82.png
+(A) 140
+(B) 130
+(C) 145
+(D) 185 ✔
+
+88. If the 25th of August in a year is Thursday, the number of Mondays in that month is
+(A) 5 ✔
+(B) 3
+(C) 6
+(D) 4
+
+90. Statement: “All employees must attend the meeting tomorrow.”
+Conclusion: “John, an employee, will attend the meeting tomorrow.”
+
+Which of the following is correct?
+(A) There is not enough information to decide ✔
+(B) Conclusion follows
+(C) The statement contradicts the conclusion
+(D) Conclusion does not follow
+
+
+93. Find the missing term.
+IMG:aso-pre-93.png
+SM   SX   SK   ?   ROYOX
+
+(A) 39
+(B) 28
+(C) 38 ✔
+(D) 29
+
+
+95. Pointing to a photograph, a man said, “She is my mother’s only daughter.” How is the woman in the photograph related to the man?
+(A) Daughter
+(B) Mother
+(C) Wife
+(D) Sister ✔
+
+
+98. A number is greater than 5 but less than 15. Also, it is greater than 8 but less than 10. Then the number is
+(A) 8
+(B) 6
+(C) 9 ✔
+(D) 7
+
+106. Find the missing term
+IMG:aso-pre-106.png
+(A) ✔
+(B)
+(C)
+(D)
+
+108. Sangeeta is facing South-East direction. She turns 45° in an anticlockwise direction and again 90° in the same direction. After some time she turns 180° in clockwise direction. In which direction is Sangeeta facing now?
+(A) South-East ✔
+(B) North
+(C) North-East
+(D) South
+
+
+109. If + means ÷, – means ×, + means + and × means –, then find the value of 96 × 12 ÷ 4 + 6 + 2 – 3.
+(A) 42 ✔
+(B) 2
+(C) 6½
+(D) 18
+
+
+116. Find the missing term.
+IMG:aso-pre-106.png
+(A) 14 ✔
+(B) 41
+(C) 33
+(D) 32
+
+
+118. Rahul is facing North. He turns 90° clockwise, then 180° anticlockwise and then 90° clockwise again. Which direction is he facing now?
+(A) East
+(B) North ✔
+(C) West
+(D) South
+
+122. Identify the number that completes the pattern in the given sequence.
+5, 6, 11, 28, ?, 160
+
+(A) 71 ✔
+(B) 385
+(C) 97
+(D) 37
+
+126. Find the odd one out.
+(A) Triangle
+(B) Square
+(C) Cube ✔
+(D) Rectangle
+
+
+133. How many squares are there in the following figure?
+IMG:aso-pre-133.png
+(A) 15 ✔
+(B) 10
+(C) 17
+(D) 11
+
+134. Find the odd one out.
+(A) 49
+(B) 21 ✔
+(C) 56
+(D) 36
+
+
+How many of the statements given above are correct?
+(A) All three ✔
+(B) Only one and two
+(C) Only one
+(D) None of the above
+
+
+142. How many triangles are there in the following figure?
+IMG:aso-pre-142.png
+(A) 14
+(B) 44
+(C) 21 ✔
+(D) 12
+
+
+143. A woman introduces a man as “He is the husband of the only daughter of the father of my brother”. How is the man related to the woman?
+(A) Nephew
+(B) Brother
+(C) Cousin ✔
+(D) Brother-in-law
+
+
+148. Four words have been given, out of which three are alike in some manner and one is different. Choose the odd one.
+(A) Silver ✔
+(B) Mercury
+(C) Copper
+(D) Gold
+
