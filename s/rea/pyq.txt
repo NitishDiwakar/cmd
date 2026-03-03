@@ -615,3 +615,89 @@ IMG:aso-pre-142.png
 (C) Copper
 (D) Gold
 
+
+
+[*DSO 2025*]
+REASONING SECTION
+
+1. If the first four letters of a term HIPPNOWADIASM are written in reverse order, the next five letters are written without changing their order and then, the remaining letters are again written in reverse order, then which letter is in the middle of the word?
+(A) O
+(B) W
+(C) A
+(D) I
+
+2. A group of friends are sitting in an arrangement one each at the corner of an Octagon. All are facing the centre. Mahima is sitting diagonally opposite Rama, who is on Sushma’s right. Ravi is next to Sushma and opposite Girdhar, who is on Chandra’s left. Savitri is not on Mahima’s right but opposite Shalini. Who is on Shalini's right?
+(A) Ravi
+(B) Mahima
+(C) Girdhar
+(D) Rama
+
+3. If + stands for division; x stands for addition; – stands for multiplication; + stands for subtraction, which of the following is correct?
+(a) 46 x 6 + 4 – 5 + 3 = 74
+(b) 46 – 6 + 4 x 5 + 3 = 71
+(c) 46 + 6 x 4 – 5 + 3 = 75.5
+(d) 46 x 6 – 4 + 5 + 3 = 70.1
+(A) (b)
+(B) (d)
+(C) (a)
+(D) (c)
+
+4. What is the value of missing number?
+
+54 | 40 | 56
+68 | 57 | 44
+47 | 39 | ?
+
+(A) 22
+(B) 30
+(C) 32
+(D) 39
+
+5. Out of the five digits 1, 2, 3, 4, 5, how many two digits number can be formed without repetition of digits?
+(A) 10
+(B) 15
+(C) 20
+(D) 12
+
+6. Rani and Sarita started from a place X. Rani went west and Sarita went north, both travelling with the same speed. After sometimes, both turned their left and walked a few steps. If they again turned to their left, in which directions, the faces of Rani and Sarita will be with respect to X?
+(A) North and East
+(B) North and West
+(C) West and North
+(D) East and South
+
+7. Study the given pattern carefully and select the number that can replace the question mark (?) in it.
+
+54 | 40 | 56
+68 | 57 | 44
+47 | 39 | ?
+
+(A) 22
+(B) 30
+(C) 32
+(D) 39
+
+8. Consider the following number:
+n = (6374)^1999 × (625)^2027 × (313)^69
+Which one of the following is the digit at the unit place of n?
+(A) 0
+(B) 1
+(C) 2
+(D) 5
+
+9. Select the missing number.
+
+   8      12      14
+ 6 | 54 | 7   8 | 51 | 4   9 | ? | 5
+   4       7       9
+
+(A) 53
+(B) 71
+(C) 76
+(D) 68
+
+10. A is the mother of B and K, D is the husband of A. E is the son of D’s brother. What is the relation of A with E?
+(A) Mother-in-law
+(B) Sister-in-law
+(C) Aunt
+(D) Sister
+
