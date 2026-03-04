@@ -3,7 +3,7 @@ Title : Science - PYQ
 Tags  : #imp
 Descr : 
 ============================
-TAG:home
+TAG:top
 GOTO:aso-mains-2026
 GOTO:aso-pre-2025
 GOTO:dso-2025
@@ -314,7 +314,7 @@ Which of the following is the correct answer? (NCERT-XI, Ch: 8, Cell, The unit o
 (D) None of the above
 
 
-GOTO:home
+GOTO:top
 TAG:aso-pre-2025
 *ASO Pre 2025*
 9. Which of the following materials is ferromagnetic?
@@ -518,7 +518,7 @@ TAG:aso-pre-2025
 (C) Poly (chloroprene)
 (D) Trans-poly (isoprene)
 
-GOTO:home
+GOTO:top
 TAG:dso-2025
 *DSO 2025* (Set-I)
 
@@ -702,7 +702,7 @@ TAG:dso-2025
 (C) Hahn and Strassman
 (D) Millikan
 
-GOTO:home
+GOTO:top
 TAG:bpsc-71
 *BPSC CCE 71st*
 SCIENCE SECTION
@@ -905,7 +905,7 @@ SCIENCE SECTION
 (C) (A) and (B) both
 (D) Increased mineral absorption and diseases protection ✔
 
-GOTO:home
+GOTO:top
 TAG:bpsc-70-re
 *BPSC 70th - re-exam* (Set - I)
 SCIENCE QUESTIONS
@@ -1041,7 +1041,7 @@ Choose the correct answer from the options given below :
 (C) More dangerous due to high latent heat of evaporation ✔
 (D) Less dangerous due to high latent heat of evaporation
 
-GOTO:home
+GOTO:top
 TAG:bpsc-70
 *BPSC 70th* (Set - E)
 1. Which of the following is an iron ore ?
@@ -1215,7 +1215,7 @@ iv. Sublimation of camphor (crystals).
 (C) Newton per ampere meter ✔
 (D) Newton per ampere-second
 
-GOTO:home
+GOTO:top
 TAG:bpsc-69
 *BPSC CCE 69th*
 1. Which of the following
@@ -1558,7 +1558,7 @@ down the reaction rate?
 (C) heart
 (D) None of the above
 
-GOTO:home
+GOTO:top
 TAG:bpsc-68
 *BPSC CCE 68th*
 **Science Section Questions (Physics, Chemistry, Biology):**
@@ -1774,7 +1774,7 @@ TAG:bpsc-68
 (E) None of the above
 
 
-GOTO:home
+GOTO:top
 TAG:bpsc-67-re
 *BPSC CCE 67th re-exam* (Set-B)
 26. Plants receive their nutrients mainly from
@@ -1929,7 +1929,7 @@ TAG:bpsc-67-re
 (B) Increases for long time
 (C) Decreases then
 
-GOTO:home
+GOTO:top
 TAG:bpsc-67
 *BPSC CCE 67th exam* (Set-A)
 **Science Section Questions (Physics, Chemistry, Biology):**
@@ -2358,3 +2358,6 @@ TAG:bpsc-66
 (C) Root
 (D) Flower bud
 (E) None of the above/More than one of the above
+
+GOTO:top
+
