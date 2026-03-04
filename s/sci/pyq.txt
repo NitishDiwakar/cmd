@@ -16,68 +16,62 @@ GOTO:bpsc-67
 
 
 TAG:aso-mains-2026
-[*ASO Mains 2026*]
+*ASO Mains 2026*
 51. Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R). 
 Assertion (A) : A myopic person cannot see distant objects clearly. 
-Reason (R) : The image of distant objects forms behind the retina. 
+Reason (R) : The image of distant objects forms behind the retina. (NCERT-X, Ch: 11, Human Eye)
+
 (A) Both (A) and (R) are true and (R) is the correct explanation of (A) 
 (B) Both (A) and (R) are true, but (R) is not the correct explanation of (A) 
 (C) (A) is true, but (R) is false 
 (D) (A) is false, but (R) is true
-	{NCERT-X, Ch: 11, Human Eye}
-
-52. If the mass of the Earth were doubled and its radius halved, what would be the weight of a body of mass "m" on its surface? (Consider "g" as the acceleration due to gravity on the unchanged Earth.) 
+	
+52. If the mass of the Earth were doubled and its radius halved, what would be the weight of a body of mass "m" on its surface? (Consider "g" as the acceleration due to gravity on the unchanged Earth.) (NCERT-IX, Ch: 10, Gravitation)
 (A) 0.5mg 
 (B) 4mg 
 (C) 8mg 
 (D) mg
-	{NCERT-IX, Ch: 10, Gravitation}
-
-53. Two identical-sized balls, one of Lead (mass = 12kg) and another of aluminium (mass = 3kg), both initially at rest are dropped from a height of 50m simultaneously. When they are 10m above the ground, which of the following quantities remains the same? Neglect air resistance. 
+	
+53. Two identical-sized balls, one of Lead (mass = 12kg) and another of aluminium (mass = 3kg), both initially at rest are dropped from a height of 50m simultaneously. When they are 10m above the ground, which of the following quantities remains the same? Neglect air resistance. (NCERT-IX, Ch: 8, 10)
 (A) Speed and acceleration 
 (B) Kinetic energy and speed 
 (C) Potential energy and momentum 
 (D) Acceleration and kinetic energy
-	{NCERT-IX, Ch: 8, 10}
+	
 
-54. Two long solenoids, P and Q each have the same total number of turns and carry the same current. Solenoid P is twice as long as solenoid Q. Find the ratio of the magnetic field strengths inside them (Bp : BQ). 
+54. Two long solenoids, P and Q each have the same total number of turns and carry the same current. Solenoid P is twice as long as solenoid Q. Find the ratio of the magnetic field strengths inside them (Bp : BQ).  (NCERT-XII, Part-I, Ch-IV, Moving Charges & Magnetization)
 (A) 1:1 
 (B) 1:2 
 (C) 2:1 
-(D) 4:1
-	{NCERT-XII, Part-I, Ch-IV, Moving Charges & Magnetization}
+(D) 4:1	
 
-55. If the same current passes through a copper wire, and an iron wire of equal length and cross-sectional area, then which statement is true? 
+55. If the same current passes through a copper wire, and an iron wire of equal length and cross-sectional area, then which statement is true?  (NCERT-X, Ch: 12, Electricity)
 (A) The heat produced is the same in both copper wire and iron wire 
 (B) The heat produced is more in copper wire than in iron wire 
 (C) The heat produced is more in iron wire than in copper wire 
 (D) Cannot be compared without potential difference
-	{NCERT-X, Ch: 12, Electricity}
-
-56. Arrange the speeds of sound in the following media in ascending order at room temperature: Air, Water, Iron. 
+	
+56. Arrange the speeds of sound in the following media in ascending order at room temperature: Air, Water, Iron.  (NCERT-IX, Ch: 12)
 (A) Iron < Water < Air 
 (B) Air < Water < Iron 
 (C) Water < Iron < Air 
 (D) Air < Iron < Water
-	{NCERT-IX, Ch: 12}
-
+	
 57. Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R). 
 Assertion (A): Kerosene has a higher refractive index (1.44) than water (1.33). 
-Reason (R): Refractive index of a medium depends on its mass density; the greater the mass density, the greater the speed of light through it. 
+Reason (R): Refractive index of a medium depends on its mass density; the greater the mass density, the greater the speed of light through it.  (NCERT-X, Ch: 10)
 (A) Both (A) and (R) are true, and (R) is the correct explanation of (A) 
 (B) Both (A) and (R) are true, but (R) is not the correct explanation of (A) 
 (C) (A) is true, but (R) is false 
 (D) (A) is false, but (R) is true.
-	{NCERT-X, Ch: 10}
 
-58. A fuse wire made of tin is designed to melt when the current exceeds 10 A. What change should be made to the fuse wire (of the same material) to safely carry a current up to 30 A to an electrical appliance? 
+58. A fuse wire made of tin is designed to melt when the current exceeds 10 A. What change should be made to the fuse wire (of the same material) to safely carry a current up to 30 A to an electrical appliance? (NCERT-X, Ch: 12, Electricity, Joule's Law of Heating)
 (A) Increase the cross-sectional area (thickness) of the fuse wire and connect it in series to the appliance 
 (B) Increase the cross-sectional area (thickness) of the fuse wire and connect it in parallel to the appliance 
 (C) Decrease the cross-sectional area (thickness) of the fuse wire and connect it in series to the appliance 
 (D) Decrease the cross-sectional area (thickness) of the fuse wire and connect it in parallel to the appliance
-	{NCERT-X, Ch: 12, Electricity, Joule's Law of Heating}
 
-59. Match the concepts in List- I with their correct examples or explanations given in List- II. 
+59. Match the concepts in List- I with their correct examples or explanations given in List- II.  (NCERT-IX, Ch: 9)
 List- I (Concept) 
 a. Balanced Forces 
 b. First Law of Motion 
@@ -93,65 +87,56 @@ Codes:
 (B) a-2, b-4, c-3, d-1 
 (C) a-1, b-3, c-4, d-2 
 (D) a-1, b-4, c-3, d-2
-	{NCERT-IX, Ch: 9}
-
-60. When sunlight enters a raindrop and a primary rainbow is formed, which sequence of optical phenomena correctly describes the path of light? 
+	
+60. When sunlight enters a raindrop and a primary rainbow is formed, which sequence of optical phenomena correctly describes the path of light?  (NCERT-IX, Ch: 10, 11, Rainbow)
 (A) Dispersion → Refraction → Total Internal Reflection → Refraction 
 (B) Refraction → Internal Reflection → Refraction → Dispersion 
 (C) Dispersion → Refraction → Internal Reflection → Refraction 
 (D) Refraction → Dispersion → Internal Reflection → Refraction
-	{NCERT-IX, Ch: 10, 11, Rainbow}
 
-61. Bell-metal is an alloy of 
+61. Bell-metal is an alloy of: (NCERT-X, Ch: 3, Metal and non metal)
 (A) Copper and lead 
 (B) Copper and tin 
 (C) Copper and zinc 
 (D) Copper and nickel
-	{NCERT-X, Ch: 3, Metal and non metal}
 
-62. Iodine can dissolve readily in 
+62. Iodine can dissolve readily in: (NCERT-XII, Ch: 13, Radioactivity)
 (A) Water 
 (B) Carbon tetrachloride 
 (C) Alcohol 
 (D) Potassium iodide
-	{NCERT-XII, Ch: 13, Radioactivity}
 
-63. Which of the following is the least stable oxide of chlorine? 
+63. Which of the following is the least stable oxide of chlorine? (NCERT-XII, Ch: 7, p-block element)
 (A) Cl2O 
 (B) ClO2 
 (C) Cl2O7 
 (D) ClO3
-	{NCERT-XII, Ch: 7, p-block element}
 
-64. Which of the following is not an alkali? 
+64. Which of the following is not an alkali? (NCERT-X, Ch: 2, Acid, Base, Salt)
 (A) NaOH 
 (B) KOH 
 (C) NH4OH 
 (D) C2H5OH
-	{NCERT-X, Ch: 2, Acid, Base, Salt}
-
-65. Which of the following is most acidic? 
+	
+65. Which of the following is most acidic? (NCERT-XII, Chemistry,  Ch: 12, p-block element)
 (A) HClO4 
 (B) HClO2 
 (C) HClO 
 (D) HClO3
-	{NCERT-XII, Chemistry,  Ch: 12, p-block element}
 
-66. Which of the following is used as anaesthetic? 
+66. Which of the following is used as anaesthetic? (NCERT-XII, Chemistry, Ch: 11, Alcohol, Phenol & Eather)
 (A) Ethyl acetate 
 (B) Ethyl alcohol 
 (C) Ether 
 (D) Carbon tetrachloride
-	{NCERT-XII, Chemistry, Ch: 11, Alcohol, Phenol & Eather}
 
-67. Iron is a constituent of which of the following? 
+67. Iron is a constituent of which of the following? (NCERT-XII, Biology, Ch: 9, Biomolecule)
 (A) Chlorophyll 
 (B) Thymine 
 (C) Protein 
 (D) Haemoglobin
-	{NCERT-XII, Biology, Ch: 9, Biomolecule}
 
-68. Match List- I with List- II and choose the correct answer from the codes given below: 
+68. Match List- I with List- II and choose the correct answer from the codes given below: (NCERT-X, Ch: 3) 
 List- I 
 a. Magnesium oxide 
 b. Phosphorus pentoxide 
@@ -167,96 +152,84 @@ Codes:
 (B) a-3, b-4, c-1, d-2 
 (C) a-2, b-4, c-1, d-3 
 (D) a-1, b-2, c-3, d-4
-	{NCERT-X, Ch: 3}
 
-69. Hard water contains which of the following salts? 
+69. Hard water contains which of the following salts? (NCERT-X, Ch: 3, Metal and non metal)
 (A) Calcium and sodium 
 (B) Magnesium and calcium 
 (C) Barium and calcium 
 (D) Calcium and potassium
-	{NCERT-X, Ch: 3, Metal and non metal}
 
-70. Which of the following is used in making baking soda? 
+70. Which of the following is used in making baking soda? (NCERT-X, Ch: 2, Acid, Base and Salt)
 (A) Sodium carbonate 
 (B) Bleaching powder 
 (C) Sodium hydroxide 
 (D) None of the above
-	{NCERT-X, Ch: 2, Acid, Base and Salt}
 
-71. *Kufri* is a variety of 
+71. *Kufri* is a variety of: (NCERT-IX, Food)
 (A) Potato 
 (B) Tomato 
 (C) Brinjal 
 (D) Radish
-	{NCERT-IX, Food}
 
-72. Philippullum fossil was obtained from 
+72. Philippullum fossil was obtained from: (NCERT-XII, Biology, Ch: 7, Evolution)
 (A) Vindhya Mountain 
 (B) Rajmahal Hills 
 (C) Himalayan Range 
 (D) Jayanti and Khasi Hills
-	{NCERT-XII, Biology, Ch: 7, Evolution}
 
-73. Catharanthus roseus contains 
+73. Catharanthus roseus contains: (NCERT-XII, Plant Chemicals)
 (A) Vincristine 
 (B) Taxol 
 (C) Aflatoxin 
 (D) Apigenin
-	{NCERT-XII, Plant Chemicals}
 
-74. Xylem vessels help in water conduction commonly present in 
+74. Xylem vessels help in water conduction commonly present in (NCERT-IX, Ch: 6, Anatomy of flowering plants)
 (A) Gymnosperms 
 (B) Angiosperms 
 (C) Gymnosperms and Angiosperms 
 (D) Pteridophytes and Angiosperms
-	{NCERT-IX, Ch: 6, Anatomy of flowering plants}
 
-75. Which one is used in spices? 
+75. Which one is used in spices? (NCERT-XI, Biology)
 (A) Fungi 
 (B) Lichens 
 (C) Mosses 
 (D) Ferns
-	{NCERT-XI, Biology}
 
-76. Most abundant enzyme on the earth is 
+76. Most abundant enzyme on the earth is (NCERT-XI, Biology, Ch: 13, Photosysthesis in higher plants)
 (A) Cytochrome oxidase 
 (B) PEP carboxylase 
 (C) Indole oxidase 
 (D) Rubisco
-	{NCERT-XI, Biology, Ch: 13, Photosysthesis in higher plants}
 
 77. With reference to Spirulina, consider the following statements: 
 (1) Protein-rich 
 (2) Prokaryote 
 (3) Heterocyst 
-Which of the statements given above is/are correct? 
+Which of the statements given above is/are correct? (NCERT-XII, Biology, Ch: 10, Microbes in human welfare)
 (A) Only (1) 
 (B) All three 
 (C) One and two 
 (D) None of the above
-	{NCERT-XII, Biology, Ch: 10, Microbes in human welfare}
 
 78. Given below are two statements: one is labelled as Assertion (A) and other is labelled as Reason (R). 
 Assertion (A): Global warming is caused due to increase in the environmental temperature. 
 Reason (R): It is the result of increase in level of CO2, deforestation and increase in methane production. 
-In light of the above statements, choose the most appropriate answer from the options given below. 
+In light of the above statements, choose the most appropriate answer from the options given below. (NCERT-VIII, Pollution)
 (A) Both (A) and (R) are correct and (R) is the correct explanation of (A) 
 (B) (A) is correct, but (R) is not correct 
 (C) (A) is not correct, but (R) is correct 
 (D) None of the above
-	{NCERT-VIII, Pollution}
 
 79. Arrange the following organisms in correct order of the evolution from the codes given below: 
 (I) Phytophthora 
 (II) Agaricus 
 (III) Alternaria 
-(IV) Morchella 
+(IV) Morchella (NCERT-XI, Ch: 3, Plant Kingdom)
 Codes: 
 (A) (I), (II), (IV), (III) 
 (B) (II), (IV), (III), (I) 
 (C) (I), (IV), (II), (III) 
 (D) (III), (II), (I), (IV)
-	{NCERT-XI, Ch: 3, Plant Kingdom}
 
 80. Match List- I with List- II and choose the correct answer from the codes given below: 
 List- I 
@@ -268,66 +241,58 @@ List- II
 1. Seed dormancy 
 2. Root development 
 3. Fruit ripening 
-4. Plant growth 
+4. Plant growth (NCERT-XI, Ch: 15, Plant growth and development)
 Codes: 
 (A) a-2, b-4, c-1, d-3 
 (B) a-4, b-1, c-2, d-3 
 (C) a-3, b-2, c-4, d-1 
 (D) a-1, b-3, c-2, d-4
-	{NCERT-XI, Ch: 15, Plant growth and development}
 
-81. An animal that respires, but has no respiratory organs is 
+81. An animal that respires, but has no respiratory organs is: (NCERT-X, Ch: 7, Control and cordination)
 (A) Fish 
 (B) Frog 
 (C) Earthworm 
 (D) Cockroach
-	{NCERT-X, Ch: 7, Control and cordination}
 
-82. Which of the following techniques is other than microscopy? 
+82. Which of the following techniques is other than microscopy? (NCERT-XI, Ch: 2, Biological Classification & Ch: 9, biomolecules)
 (A) Plasmolysis 
 (B) Autoradiography 
 (C) Maceration 
 (D) Chromatography
-	{NCERT-XI, Ch: 2, Biological Classification & Ch: 9, biomolecules}
 
 83. Read the statements given below with regard to the functions performed by the Golgi apparatus: 
 (I) Transports and chemically modifies the material contained within it. 
 (II) Secretes mucin in the respiratory tract. 
 (III) Secretes slime in the insectivorous plants. 
-Which of the following is the correct answer? 
+Which of the following is the correct answer? (NCERT-XI, Ch: 8, Cell, The unit of life)
 (A) (I) is wrong, but (II) and (III) are correct 
 (B) (II) is wrong, but (I) and (III) are correct 
 (C) (II) and (III) are wrong, but (I) is correct 
 (D) All are correct
-	{NCERT-XI, Ch: 8, Cell, The unit of life}
 
-84. Colour blindness is found more in males than in females because 
+84. Colour blindness is found more in males than in females because: (NCERT-XII, Bio, Ch: 5, Principle of Inheritance)
 (A) Males containing the single-affected X-chromosome are colour blind 
 (B) Heterozygous females are colour blind 
 (C) Males having affected Y-chromosomes are colour blind 
 (D) Affected X-chromosome has a much higher affinity to Y-chromosome as compared to unaffected X-chromosome
-	{NCERT-XII, Bio, Ch: 5, Principle of Inheritance}
 
-85. The correct order of the following is 
+85. The correct order of the following is: (NCERT-XII, Biology, Ch: 14, Ecosystem)
 (A) Mesozoic → Archaeozoic → Proterozoic 
 (B) Palaeozoic → Archaeozoic → Coenozoic 
 (C) Archaeozoic → Palaeozoic → Proterozoic 
 (D) Palaeozoic → Mesozoic → Coenozoic
-	{NCERT-XII, Biology, Ch: 14, Ecosystem}
 
-86. Iodine deficiency in a frog tadpole will lead to 
+86. Iodine deficiency in a frog tadpole will lead to: (NCERT-XI, Biology, Ch: 22, Chemical Coordination and Integration)
 (A) accelerated metamorphosis 
 (B) development of a giant frog 
 (C) inhibition of metamorphosis 
 (D) development of a miniature frog
-	{NCERT-XI, Biology, Ch: 22, Chemical Coordination and Integration}
 
-87. The part of the nephron that helps in active reabsorption of sodium is 
+87. The part of the nephron that helps in active reabsorption of sodium is: (NCERT-XI, Ch: 9, Excretory product and their elimination)
 (A) Bowman's capsule 
 (B) Distal convoluted tubule 
 (C) Ascending limb of Henle's loop 
 (D) Proximal convoluted tubules
-	{NCERT-XI, Ch: 9, Excretory product and their elimination}
 
 88. Which National Park is the new home of the Indian one-horned rhinoceros? 
 (A) Kanha 
@@ -335,24 +300,22 @@ Which of the following is the correct answer?
 (C) Dudhwa 
 (D) Bandhavgarh
 
-89. Which one of the following is the correctly matched pair of a product and the microorganism responsible for it? 
+89. Which one of the following is the correctly matched pair of a product and the microorganism responsible for it? (NCERT-IX, Ch: 10, Microbes in human welfare)
 (A) Ethyl alcohol - Yeast 
 (B) Cheese - Nitrobacter 
 (C) Acetic acid - Lactobacillus 
 (D) Curd - Azotobacter
-	{NCERT-IX, Ch: 10, Microbes in human welfare}
 
-90. Refractory period in a neuron is the period of complete inexcitability between 
+90. Refractory period in a neuron is the period of complete inexcitability between: (NCERT-XI, Ch: 21, Neural Control and Coordination) 
 (A) Polarization and depolarization 
 (B) Depolarization and repolarization 
 (C) Repolarization and polarization 
 (D) None of the above
-	{NCERT-XI, Ch: 21, Neural Control and Coordination}
 
 
 
 TAG:aso-pre-2025
-[*ASO Pre 2025*]
+*ASO Pre 2025*
 9. Which of the following materials is ferromagnetic?
 (A) Wood
 (B) Nickel ✔
@@ -556,7 +519,7 @@ TAG:aso-pre-2025
 
 
 TAG:dso-2025
-[*DSO 2025*] (Set-I)
+*DSO 2025* (Set-I)
 
 121. Erosion of top soil and run off fertilisers and pesticides passing into water bodies are the examples of
 (A) Negative and positive pollution
@@ -740,10 +703,10 @@ TAG:dso-2025
 
 
 TAG:bpsc-71
-[*BPSC CCE 71st*]
+*BPSC CCE 71st*
 SCIENCE SECTION
 
-118. Bihar produces % of pyrite of whole India?
+118. Bihar produces % of pyrite of whole India? (deleted)
 (A) 75
 (B) 85
 (C) 95
@@ -751,19 +714,19 @@ SCIENCE SECTION
 
 119. Gold is found in which district of Bihar?
 (A) Gaya District
-(B) Jamui District
+(B) Jamui District ✔
 (C) Nalanda District
 (D) Bhagalpur District
 
 120. Most of the Bihar comes under which of the following climate type?
-(A) Subtropical Monsoon
+(A) Subtropical Monsoon ✔
 (B) Tropical savanna
 (C) Hot and dry
 (D) Hot and Semi Arid
 
 121. We apply a force of 260 Newtons on a wooden Box and push it on the floor at constant velocity. The marginal friction force will be:
 (A) 100 Newtons
-(B) 200 Newtons
+(B) 200 Newtons ✔
 (C) 300 Newtons
 (D) 400 Newtons
 
@@ -771,83 +734,83 @@ SCIENCE SECTION
 (A) 11000 Newtons
 (B) 12000 Newtons
 (C) 13000 Newtons
-(D) 14000 Newtons
+(D) 14000 Newtons ✔
 
 123. Energy consumed in a home is 250 units then the total energy in Joule will be:
 (A) 9×10^8
 (B) 8×10^8
-(C) 9×10^6
+(C) 9×10^6 ✔
 (D) 10^8
 
 124. In which medium, the speed of sound is maximum?
-(A) Steel
+(A) Steel ✔
 (B) Water
 (C) Air
 (D) Hydrogen
 
 125. The potential energy of a freely falling body continuously decreases.
 (A) The principle of conservation of energy is violated
-(B) The principle of conservation of energy is not violated
+(B) The principle of conservation of energy is not violated ✔
 (C) Gravitational force is violated
 (D) Gravitational force is not violated
 
 126. A pair of Oxen exerts a force of 140 newton while ploughing the field. The field ploughed is 15 meter long. The work done in ploughing the length of the fields:
 (A) 1900 Joules
 (B) 2000 Joules
-(C) 2100 Joules
+(C) 2100 Joules ✔
 (D) 2200 Joules
 
 127. The focal distance of a plane mirror is:
-(A) Infinity
+(A) Infinity ✔
 (B) +1 cm
 (C) −1 cm
 (D) 2 cm
 
 128. Which term in the following does not denote the electric power in electric circuit?
 (A) PR
-(B) IR^2
+(B) IR^2 ✔
 (C) VI
 (D) I/R
 
 129. In short circuit, a value of electric current in a time circuit:
 (A) Very low
-(B) Increases very high
+(B) Increases very high ✔
 (C) Do not change
 (D) Continuously changing
 
 130. What is the device to protect equipments from the electric shock?
-(A) Fuse
+(A) Fuse ✔
 (B) Generator
-(C) Motor
+(C) Motor 
 (D) Current controller
 
 131. pH value of 0.1 N HCl solution is approximately:
-(A) 1.0
+(A) 1.0 ✔
 (B) 11.0
 (C) 10
 (D) 2.0
 
 132. Which Compound is known as night glowing pigment from below?
-(A) Europium dopped strontium aluminate
+(A) Europium dopped strontium aluminate ✔
 (B) Copper Sulphide dopped zinc oxide
 (C) Barium sulphate dopped copper carbonate
 (D) Boron oxide dopped copper sulphate
 
 133. Which Material is used for smart film?
-(A) Indium tin oxide
+(A) Indium tin oxide ✔
 (B) Calcium carbonate
 (C) Zinc chloride
 (D) Silica
 
 134. Which metal compound is used for treatment of carcinoma?
-(A) Platinum
+(A) Platinum ✔
 (B) Chromium
 (C) Iron
 (D) Chlorine
 
 135. Which compound is used in contraceptive pills?
 (A) Cetrizine
-(B) Cholecalciferol
+(B) Cholecalciferol ✔
 (C) Levonorgestrel
 (D) Vanlaflexine
 
@@ -855,46 +818,46 @@ SCIENCE SECTION
 (A) It produce toxic compound
 (B) It reduced quality of oil
 (C) Corrosion observed
-(D) All of above
+(D) All of above ✔
 
 137. Which compound is used for increase of octane rating?
 (A) Trimethyl hexane
 (B) Tetramethyl Oxide
-(C) Tetraethyl lead
+(C) Tetraethyl lead ✔
 (D) Triethyl toluene
 
 138. Full form of PHBV polymer:
 (A) Polyhydroxy bis valine
 (B) Poly hydroxy butyrate veratric acid
-(C) Poly (3-hydroxy butyrate-co-3 hydroxy valerate)
+(C) Poly (3-hydroxy butyrate-co-3 hydroxy valerate) ✔
 (D) Poly hydroxy butyric acid veratric acid
 
 139. Hormones are secreted by:
 (A) Sebaceous glands
 (B) Reproductive glands
 (C) Exocrine glands
-(D) Endocrine glands
+(D) Endocrine glands ✔
 
 140. Which one of the following term characterizes the interaction between herpes simplex virus and a human?
 (A) Parasitism
 (B) Symbiosis
 (C) Endosymbiosis
-(D) Endoparasitism
+(D) Endoparasitism ✔
 
 141. Which class of immunoglobulin is the first to be produced in response to an infection?
 (A) IgG
 (B) IgA
-(C) IgM
+(C) IgM ✔
 (D) IgE
 
 142. The biological membranes are composed of:
-(A) Lipids and proteins in varying combinations which are specific to each species, cell type and organelle
+(A) Lipids and proteins in varying combinations which are specific to each species, cell type and organelle ✔
 (B) Lipids only
 (C) Proteins only
 (D) None of the above
 
 143. Which of the following is a non-sense codon?
-(A) UAA
+(A) UAA ✔
 (B) AUG
 (C) UUU
 (D) UGC
@@ -902,49 +865,55 @@ SCIENCE SECTION
 144. The species which are in danger of extinction are known as?
 (A) Vulnerable
 (B) Rare
-(C) Endangered
+(C) Endangered ✔
 (D) Extinct
 
-145. Xylem in plants is responsible for following function:
-(A) Transport of water and dissolved minerals
+145. Which of the following is a Kharif crop?
+(A) Sugarcane ✔
+(B) Barley
+(C) Gram
+(D) Wheat
+
+146. Xylem in plants is responsible for following function:
+(A) Transport of water and dissolved minerals ✔
 (B) Transport of food
 (C) Transport of O2 and other gases
 (D) Transport of essential amino acids
 
-146. Who was first to use the characteristics of vascular tissues in the classification of plants?
+147. Who was first to use the characteristics of vascular tissues in the classification of plants?
 (A) Engler and Prantl
 (B) Bentham and Hooker
-(C) A.P. de Candolle
+(C) A.P. de Candolle ✔
 (D) More than one of the above
 
-147. The part which we eat in Mango is:
+148. The part which we eat in Mango is:
 (A) Epicarp
-(B) Mesocarp
+(B) Mesocarp ✔
 (C) Endocarp
 (D) None of the above
 
-148. Ozone day is celebrated on:
-(A) 16th September
+149. Ozone day is celebrated on:
+(A) 16th September ✔
 (B) 5th June
 (C) 21st April
 (D) 5th December
 
-149. In mycorrhizal association, the advantage of plant is:
+150. In mycorrhizal association, the advantage of plant is:
 (A) Protection
 (B) Food
 (C) (A) and (B) both
-(D) Increased mineral absorption and diseases protection
+(D) Increased mineral absorption and diseases protection ✔
 
 
 TAG:bpsc-70-re
-[*BPSC 70th - re-exam*] (Set - I)
+*BPSC 70th - re-exam* (Set - I)
 SCIENCE QUESTIONS
 
 15. One of the properties associated with X-rays is that they can be deflected by
 (A) Magnetic fields only
 (B) Both electric and magnetic fields together
 (C) Electric fields only
-(D) None of the above
+(D) None of the above ✔
 
 16. Renewable Energy means
 1. Electricity produced from solar
@@ -955,16 +924,16 @@ Choose the correct answer from the options given below :
 (A) 1, 2 and 3 only
 (B) 1 and 3 only
 (C) 1, 3 and 4 only
-(D) 1 and 4 only
+(D) 1 and 4 only ✔
 
 26. Catalyst used in hydrogenation of vegetable oil into vanaspati ghee is
-(A) Ni
+(A) Ni ✔
 (B) Pd
 (C) Fe
 (D) None of the above
 
 31. Actual site of dark reaction in photosynthesis inside cytoplast is
-(A) Stroma
+(A) Stroma ✔
 (B) Granum
 (C) Grana Lamella
 (D) None of the above
@@ -972,17 +941,17 @@ Choose the correct answer from the options given below :
 36. There is no atmosphere on the surface of the moon because
 (A) It revolves around Earth
 (B) It gets light from Sun
-(C) Escape velocity of gas molecules is less than rms velocity
+(C) Escape velocity of gas molecules is less than rms velocity ✔
 (D) It is closer to Earth
 
 40. Which of the following vitamins are water soluble ?
 (A) Vitamin K
 (B) Vitamin A
 (C) Vitamin D
-(D) None of these
+(D) None of these ✔
 
 44. Besides spreading Malaria, Anopheles mosquito’s are also vectors of
-(A) Encephalitis and Filariasis
+(A) Encephalitis and Filariasis ✔
 (B) Dengue and Filariasis
 (C) Dengue and Encephalitis
 (D) None of the above
@@ -991,10 +960,10 @@ Choose the correct answer from the options given below :
 (A) Seed
 (B) Dried foot
 (C) Dried root
-(D) None of the above
+(D) None of the above ✔
 
 55. Reactance of a capacitor is
-(A) Inversely proportional to frequency
+(A) Inversely proportional to frequency ✔
 (B) Directly proportional to frequency
 (C) Inversely proportional to sq. root of frequency
 (D) None of the above
@@ -1003,10 +972,10 @@ Choose the correct answer from the options given below :
 (A) Citric acid
 (B) Tartaric acid
 (C) Lactic acid
-(D) None of these
+(D) None of these ✔
 
 66. How is Hydrogen stored physically ?
-(A) By compressing hydrogen gas
+(A) By compressing hydrogen gas ✔
 (B) In form of hydrides
 (C) In form of water
 (D) None of the above
@@ -1015,105 +984,105 @@ Choose the correct answer from the options given below :
 (A) Shape of RBC
 (B) Presence of Haemoglobin
 (C) Combination of WBC and RBC
-(D) None of the above
+(D) None of the above ✔
 
 80. The Ishihara test is related with
-(A) Colour blindness
+(A) Colour blindness ✔
 (B) Haemoglobin level
 (C) IQ
 (D) Bone density
 
 94. Buds are typically found
 (A) At the base of leaves
-(B) Both at the base of leaves and tip of branches
+(B) Both at the base of leaves and tip of branches ✔
 (C) At the tip of branches
 (D) None of the above
 
 98. Which of the following is not an electrophile ?
 (A) H+
-(B) Na+
+(B) Na+ ✔
 (C) BF3
 (D) All of the above
 
 101. Quinine is a common drug for malaria that is obtained from a plant. Which part of the plant yields this drug ?
-(A) Stem bark
+(A) Stem bark ✔
 (B) Leaves
 (C) Root
 (D) None of the above
 
 106. The conductivity of a strong electrolyte
 (A) Increases slightly on dilution
-(B) Decreases on dilution
+(B) Decreases on dilution ✔
 (C) Does not changes with dilution
 (D) None of the above
 
-111. The Tribal Movement-Santhal hool (Rebellion) took place in
-(A) 1855-56
-(B) 1854
-(C) 1858-59
-(D) 1857-58
+*111*. The number of scientific payloads on Aditya L - 1 mission for systematic study of Sun is
+(A) 7 ✔
+(B) 5
+(C) 6
+(D) 9
 
-131. Liver stores
+132. Liver stores
 (A) A, B and C vitamins
-(B) A, B, C and D vitamins
+(B) A, B, C and D vitamins ✔
 (C) Only A and B vitamins
 (D) None of these
 
 145. Standard electrode potential of three metals A, B and C are respectively 0.5 V, -3 V and -1.2 V. Reducing power of these metals would be
 (A) C > B > A
 (B) A > C > B
-(C) B > C > A
+(C) B > C > A ✔
 (D) None of the above
 
 148. Compared to a burn due to air at 100°C, the burn due to steam at 100°C is
 (A) Less dangerous due to low latent heat of evaporation
 (B) More dangerous due to low latent heat of evaporation
-(C) More dangerous due to high latent heat of evaporation
+(C) More dangerous due to high latent heat of evaporation ✔
 (D) Less dangerous due to high latent heat of evaporation
 
 
 TAG:bpsc-70
-[*BPSC 70th*] (Set - E)
+*BPSC 70th* (Set - E)
 1. Which of the following is an iron ore ?
 (A) Bauxite
 (B) Cinnabar
 (C) Pyrite
-(D) Limonite
+(D) Limonite ✔
 
 2. Which type of rock is formed from cooling and solidification of lava ?
 (A) Sedimentary
-(B) Igneous
+(B) Igneous ✔
 (C) Metamorphic
 (D) Crystal
 
 10. Which of the following pairs will give displacement reactions ?
 (A) NaCl solution and copper metal
-(B) AgNO3 solution and copper metal
+(B) AgNO3 solution and copper metal ✔
 (C) MgCl2 solution and aluminium metal
 (D) FeSO4 solution and silver metal
 
 12. Heat transfer that does not require a medium is called
 (A) Reflection
-(B) Radiation
+(B) Radiation ✔
 (C) Convection
 (D) Conduction
 
 13. Which of the following acid is secreted in the stomach ?
 (A) Nitric acid
 (B) Sulphuric acid
-(C) Hydrochloric acid
+(C) Hydrochloric acid ✔
 (D) Phosphoric acid
 
 25. The meter that is used to measure the distance moved by the vehicle is known as
 (A) Speedometer
 (B) Ammeter
-(C) Odometer
+(C) Odometer ✔
 (D) Chronometer
 
 29. Who was the first one to propose a model for the structure of an atom ?
 (A) Rutherford
 (B) E. Goldstein
-(C) J. J. Thomson
+(C) *J. J. Thomson* ✔
 (D) Neils Bohr
 
 34. Dalton’s atomic theory successfully explained
@@ -1124,11 +1093,11 @@ iv. Law of multiple proportion.
 (A) i, ii and iii
 (B) ii, iii and iv
 (C) i, iii and iv
-(D) i, ii and iv
+(D) i, ii and iv ✔
 
 39. Which of the following bacterial disease that is called as spleenic fever ?
 (A) Typhoid
-(B) Anthrax
+(B) Anthrax ✔
 (C) Cholera
 (D) None of the above
 
@@ -1137,18 +1106,13 @@ i. Evaporation of water.
 ii. Dilution of an acid (H2SO4).
 iii. Reaction of water with quick lime.
 iv. Sublimation of camphor (crystals).
-(A) ii and iii
+(A) ii and iii ✔
 (B) iii and iv
 (C) i and ii
 (D) i and iv
 
-55. Who headed the Royal Commission on Indian currency appointed in 1913 ?
-(A) J. M. Keynes
-(B) James Wilson
-(C) Sir W. R. Mansfield
-(D) Sir Austin Chamberlain
 
-58. In which organisms does spore formation occur as a mode of reproduction ?
+58. In which organisms does spore formation occur as a mode of reproduction ? (Deleted)
 (A) Algae
 (B) Fungi
 (C) Fern
@@ -1156,24 +1120,24 @@ iv. Sublimation of camphor (crystals).
 
 62. Which of the following corundum and cryolite are important ores ?
 (A) Silver
-(B) Aluminium
+(B) Aluminium ✔
 (C) Iron
 (D) Tin
 
 64. Which of the following represent the suitable condition for the liquefaction of gases ?
 (A) Low temperature, low pressure
-(B) Low temperature, high pressure
+(B) Low temperature, high pressure ✔
 (C) High temperature, low pressure
 (D) High temperature, high pressure
 
 70. Which of the following is the fluid part of the blood ?
-(A) Plasma
+(A) Plasma ✔
 (B) WBC
 (C) RBC
 (D) Blood platelets
 
-73. Which of the following is the first artificially prepared element ?
-(A) Tc
+73. Which of the following is the *first artificially prepared element* ?
+(A) Tc ✔
 (B) Te
 (C) Tl
 (D) Th
@@ -1181,18 +1145,18 @@ iv. Sublimation of camphor (crystals).
 82. Which one of the following is an example of melamine used for making floor tiles ?
 (A) Thermoplastics
 (B) Polyethene
-(C) Thermo setting plastic
+(C) Thermo setting plastic ✔
 (D) PVC
 
 88. Which of the following radiation is used to get relief from body aches ?
-(A) Infra-red radiation
+(A) Infra-red radiation ✔
 (B) UV radiation
 (C) Visible radiation
 (D) None of these
 
 90. What is the structural and functional unit of life ?
 (A) Organ
-(B) Cell
+(B) Cell ✔
 (C) Organism
 (D) Tissue
 
@@ -1200,16 +1164,16 @@ iv. Sublimation of camphor (crystals).
 (A) Dil. sulphuric acid and sodium carbonate
 (B) Conc. sulphuric acid and aluminium sulphate
 (C) Conc. sulphuric acid and sodium carbonate solution
-(D) Dil. sulphuric acid and sodium bicarbonate solution
+(D) Dil. sulphuric acid and sodium bicarbonate solution ✔
 
 105. Which of the following the chlorophyll in photosynthesis is used for ?
 (A) Breaking down water molecules
 (B) Reduction of CO2
-(C) Absorbing light
+(C) Absorbing light ✔
 (D) No function
 
 112. Which of the following has highly elongated elliptical orbit ?
-(A) Comet
+(A) Comet ✔
 (B) Asteroid
 (C) Meteor
 (D) Meteorite
@@ -1218,41 +1182,41 @@ iv. Sublimation of camphor (crystals).
 (A) Oesophagus
 (B) Stomach
 (C) Large intestine
-(D) Small intestine
+(D) Small intestine ✔
 
 122. Which of the following is a non-contact force ?
-(A) Magnetic force
+(A) Magnetic force ✔
 (B) Frictional force
 (C) Impact force
 (D) None of these
 
 132. Which of the following is the resistance of the wire ?
-(A) R = ρl/a
-(B) R = ρa/l
-(C) R = l/ρa
-(D) R = ρl
+(A) R = 1/2V
+(B) R = IV
+(C) R = I/V
+(D) R = V/I ✔
 
 140. Which of the following is the value of solar constant ?
-(A) 1.4 kW/m2
-(B) 1.6 kW/m2
-(C) 1.8 kW/m2
-(D) 1.2 kW/m2
+(A) 1.4 kW/m^2 ✔
+(B) 1.6 kW/m^2
+(C) 1.8 kW/m^2
+(D) 1.2 kW/m^2
 
 142. The process of breaking down organic matter by micro organisms is called
 (A) Photosynthesis
 (B) Respiration
 (C) Fermentation
-(D) Decomposition
+(D) Decomposition ✔
 
 149. Which of the following is equivalent to tesla ?
 (A) Newton per Coulomb
 (B) Ampere per Newton
-(C) Newton per ampere meter
+(C) Newton per ampere meter ✔
 (D) Newton per ampere-second
 
 
 TAG:bpsc-69
-[*BPSC CCE 69th*]
+*BPSC CCE 69th*
 1. Which of the following
 technologies will be enabled by
 the 5G mobile communication
@@ -1594,10 +1558,10 @@ down the reaction rate?
 (D) None of the above
 
 TAG:bpsc-68
-[*BPSC CCE 68th*]
+*BPSC CCE 68th*
 **Science Section Questions (Physics, Chemistry, Biology):**
 
-111. Large number of thin strips of black paint are made on the surface of a convex lens of focal length \(20 \mathrm{cm}\) to catch the image of a white horse. The image will be
+111. Large number of thin strips of black paint are made on the surface of a convex lens of focal length \(20 \mathrm(cm)\) to catch the image of a white horse. The image will be
 (A) a zebra of black stripes
 (B) a horse of black stripes
 (C) a horse of less brightness
@@ -1675,9 +1639,9 @@ TAG:bpsc-68
 (E) None of the above
 
 122. Some metal oxides react with acid as well as base to produce salt and water. They are known as amphoteric oxides. The examples of amphoteric oxides are
-(A) \(\mathrm{Al}_{2}\mathrm{O}_{3}\) and \(\mathrm{ZnO}\)
-(B) \(\mathrm{Al}_{2}\mathrm{O}_{3}\) and \(\mathrm{CuO}\)
-(C) \(\mathrm{CuO}\) and \(\mathrm{ZnO}\)
+(A) \(\mathrm(Al)_(2)\mathrm(O)_(3)\) and \(\mathrm(ZnO)\)
+(B) \(\mathrm(Al)_(2)\mathrm(O)_(3)\) and \(\mathrm(CuO)\)
+(C) \(\mathrm(CuO)\) and \(\mathrm(ZnO)\)
 (D) More than one of the above
 (E) None of the above
 
@@ -1689,9 +1653,9 @@ TAG:bpsc-68
 (E) None of the above
 
 124. Acids react with metal carbonates to liberate gas.
-(A) \(\mathrm{CO}_{2}\)
+(A) \(\mathrm(CO)_(2)\)
 (B) CO
-(C) \(\mathrm{H}_{2}\)
+(C) \(\mathrm(H)_(2)\)
 (D) More than one of the above
 (E) None of the above
 
@@ -1718,7 +1682,7 @@ TAG:bpsc-68
 
 128. Why does dry HCl gas not change the colour of dry litmus paper?
 (A) Blue litmus becomes dry in the presence of dry HCl gas.
-(B) No \(\mathrm{H}_{3}\mathrm{O}^{+}\) ions are present. Litmus changes colour only in the presence of \(\mathrm{H}_{3}\mathrm{O}^{+}\) ions.
+(B) No \(\mathrm(H)_(3)\mathrm(O)^(+)\) ions are present. Litmus changes colour only in the presence of \(\mathrm(H)_(3)\mathrm(O)^(+)\) ions.
 (C) HCl gas acts as a dehydrating agent.
 (D) More than one of the above
 (E) None of the above
@@ -1812,7 +1776,7 @@ TAG:bpsc-68
 
 
 TAG:bpsc-67-re
-[*BPSC CCE 67th re-exam*] (Set-B)
+*BPSC CCE 67th re-exam* (Set-B)
 26. Plants receive their nutrients mainly from
 (A) soil
 (B) chlorophyll
@@ -1967,7 +1931,7 @@ TAG:bpsc-67-re
 
 
 TAG:bpsc-67
-[*BPSC CCE 67th exam*] (Set-A)
+*BPSC CCE 67th exam* (Set-A)
 **Science Section Questions (Physics, Chemistry, Biology):**
 
 1. A person standing in front of a mirror finds his image larger than himself. This implies that the mirror is
@@ -2182,7 +2146,7 @@ TAG:bpsc-67
 
 
 TAG:bpsc-66
-[*BPSC CCE 66th exam*] (Set-A)
+*BPSC CCE 66th exam* (Set-A)
 **Science Section Questions (Physics, Chemistry, Biology):**
 
 1. The radiations used in the treatment of muscle ache are
@@ -2228,10 +2192,10 @@ TAG:bpsc-66
 (E) None of the above/More than one of the above
 
 7. The velocity of electromagnetic waves is
-(A) \(3\times 10^{8}\mathrm{ms}^{-1}\)
-(B) \(3\times 10^{7}\mathrm{ms}^{-1}\)
-(C) \(3\times 10^{6}\mathrm{ms}^{-1}\)
-(D) \(3\times 10^{5}\mathrm{ms}^{-1}\)
+(A) \(3\times 10^(8)\mathrm(ms)^(-1)\)
+(B) \(3\times 10^(7)\mathrm(ms)^(-1)\)
+(C) \(3\times 10^(6)\mathrm(ms)^(-1)\)
+(D) \(3\times 10^(5)\mathrm(ms)^(-1)\)
 (E) None of the above/More than one of the above
 
 8. The first man who placed his foot on the moon is
@@ -2241,7 +2205,7 @@ TAG:bpsc-66
 (D) James Van Allen
 (E) None of the above/More than one of the above
 
-9. The number of neutrons in the nucleus of plutonium nuclide \((_{94}\mathrm{Pu}^{242})\) is
+9. The number of neutrons in the nucleus of plutonium nuclide \((_(94)\mathrm(Pu)^(242))\) is
 (A) 94
 (B) 148
 (C) 242
@@ -2278,9 +2242,9 @@ TAG:bpsc-66
 
 14. Limewater is turned milky by
 (A) CO
-(B) \(\mathrm{CO}_{2}\)
-(C) \(\mathrm{O}_{2}\)
-(D) \(\mathrm{O}_{3}\)
+(B) \(\mathrm(CO)_(2)\)
+(C) \(\mathrm(O)_(2)\)
+(D) \(\mathrm(O)_(3)\)
 (E) None of the above/More than one of the above
 
 15. The incomplete burning of petrol and diesel produces
@@ -2290,7 +2254,7 @@ TAG:bpsc-66
 (D) carbon monoxide
 (E) None of the above/More than one of the above
 
-16. The pH of a solution changes from 3 to 6. The \(\mathrm{H}^{+}\) ion concentration will
+16. The pH of a solution changes from 3 to 6. The \(\mathrm(H)^(+)\) ion concentration will
 (A) increase 3 times
 (B) decrease 3 times
 (C) decrease 10 times
