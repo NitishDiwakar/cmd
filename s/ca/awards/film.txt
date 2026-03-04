@@ -4,7 +4,7 @@ Tags  : #ca #award #imp
 Descr :
 ============================
 
-[*71st National Film Award - 2025*]
+*71st National Film Award - 2025*
  - Best Film
     12th Fail (Hindi)
 
@@ -21,7 +21,7 @@ Descr :
     Sudipto Sen (The Kerala Story)
 
 
-[*78th BAFTA - 2025*]
+*78th BAFTA - 2025*
  - Best Film
     Conclave (Christopher Nolan)
 
@@ -35,7 +35,7 @@ Descr :
     Mikey Madison (Anora)
 
 
-[*78th Cannes Film Award - 2025*]
+*78th Cannes Film Award - 2025*
  - Best Film
     It Was Just an Accident
 
@@ -55,7 +55,7 @@ Descr :
     Hassan Hadi
 
 
-[*97th Oscar - 2025*]
+*97th Oscar - 2025*
  - Best Film
     Anora
 
@@ -72,7 +72,7 @@ Descr :
     No Other Land
 
 
-[*67th Grammy Award - 2025*]
+*67th Grammy Award - 2025*
  - Album of the Year
     Beyonce (Cowboy Carter)
 
@@ -85,7 +85,7 @@ Descr :
  - Indo-American *Chandrika Tandon* won the Grammy Award in the Best New Album category for her album 'Triveni'.
 
 
-[*69th Filmfare - 2024*]
+*69th Filmfare - 2024*
  - Best Film
     12th Fail
 
@@ -99,7 +99,7 @@ Descr :
     Alia Bhatt (Rocky Aur Rani Kii Prem Kahaani)
 
 
-[*76th Emmy Award - 2024*]
+*76th Emmy Award - 2024*
  - Best Drama Series
     Shogun
 
@@ -119,7 +119,7 @@ Descr :
     Jean Smart (Hacks)
 
 
-[*55th International Film Festival, Goa - 2024*]
+*55th International Film Festival, Goa - 2024*
  - Venue
     Panaji, Goa (20 to 28 November, 2024)
 
@@ -157,7 +157,7 @@ Descr :
     Phillip Noyce
 
 
-[*87th Golden Global Award - 2025*]
+*87th Golden Global Award - 2025*
  - Best Film
     Emilia Perez
 
@@ -174,7 +174,7 @@ Descr :
     Brady Corbet (The Brutalist)
 
 
-[*25th IIFA Award - 2025*]
+*25th IIFA Award - 2025*
  - Best Film
     Laapataa Ladies (Director - Kiran Rao)
 

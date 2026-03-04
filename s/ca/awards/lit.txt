@@ -4,7 +4,7 @@ Tags  : #ca #award #imp
 Descr :
 ============================
 
-[*Sahitya Academi Award - 2024*]
+*Sahitya Academi Award - 2024*
  - English
     Easterine Kire (Novel - Spirit Nights)
 
@@ -21,7 +21,7 @@ Descr :
     Chaman Arora (Short Story - Ik Hor Ashwthama)
 
 
-[*Sahitya Academi Yuva Puraskar - 2025*]
+*Sahitya Academi Yuva Puraskar - 2025*
  - Hindi
     Parvati Tirkey (Poetry Collection - Phir Ugna)
 
@@ -35,7 +35,7 @@ Descr :
     Dr. Dheeraj Kumar Pandey
 
 
-[*Sahitya Academi Bal Puraskar - 2025*]
+*Sahitya Academi Bal Puraskar - 2025*
  - English
     Nitin Kushalappa M.P.
 
@@ -49,7 +49,7 @@ Descr :
     Preeti Poojara (for poetry collection 'Baalvishwam')
 
 
-[*Pulitzer Prize - 2025*]
+*Pulitzer Prize - 2025*
  - Public Service
     Kavita Surana, Lizzie Presser, Cassandra Jaramillo, Stacy Kranitz
 

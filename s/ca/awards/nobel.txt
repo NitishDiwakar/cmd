@@ -4,7 +4,7 @@ Tags  : #ca #imp
 Descr :
 ============================
 
-[*Nobel Prize 2025*]
+*Nobel Prize 2025*
 Chemistry
   -*Omar M. Yaghi*
   -For the development of metal-organic frameworks.
@@ -55,7 +55,7 @@ Physiology or Medicine
   -For their discoveries concerning peripheral immune tolerance.
 
 
-[*Nobel Prize 2024*]
+*Nobel Prize 2024*
 
 Medicine
   -*Victor Ambrose* (America)
