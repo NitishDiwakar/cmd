@@ -28,65 +28,65 @@ GOTO:16-sustainable-management-of-natural-resources
 
 
 TAG:1-chemical-reactions-and-equations
-[*1-chemical-reactions-and-equations*]
+*1-chemical-reactions-and-equations*
 
 
 TAG:2-acids-bases-and-salts
-[*2-acids-bases-and-salts*]
+*2-acids-bases-and-salts*
 
 
 TAG:3-metals-and-non-metals
-[*3-metals-and-non-metals*]
+*3-metals-and-non-metals*
 
 
 TAG:4-carbon-and-its-compounds
-[*4-carbon-and-its-compounds*]
+*4-carbon-and-its-compounds*
 
 
 TAG:5-life-processes
-[*5-life-processes*]
+*5-life-processes*
 
 
 TAG:6-control-and-coordination
-[*6-control-and-coordination*]
+*6-control-and-coordination*
 
 
 TAG:7-how-do-organisms-reproduce
-[*7-how-do-organisms-reproduce*]
+*7-how-do-organisms-reproduce*
 
 
 TAG:8-heredity
-[*8-heredity*]
+*8-heredity*
 
 
 TAG:9-light-reflection-andrefraction
-[*9-light-reflection-andrefraction*]
+*9-light-reflection-andrefraction*
 
 
 TAG:10-the-human-eye-and-the-colourful-world
-[*10-the-human-eye-and-the-colourful-world*]
+*10-the-human-eye-and-the-colourful-world*
 
 TAG:11-electricity
-[*11-electricity*]
+*11-electricity*
 
 
 TAG:12-magnetic-effects-of-electric-current
-[*12-magnetic-effects-of-electric-current*]
+*12-magnetic-effects-of-electric-current*
 
 
 TAG:13-our-environment
-[*13-our-environment*]
+*13-our-environment*
 
 
 ______________________
 Removed chapters:
 TAG:5-periodic-classification-of-elements
-[*5-periodic-classification-of-elements*]
+*5-periodic-classification-of-elements*
 
 
 TAG:14-sources-of-energy
-[*14-sources-of-energy*]
+*14-sources-of-energy*
 
 
 TAG:16-sustainable-management-of-natural-resources
-[*16-sustainable-management-of-natural-resources*]
+*16-sustainable-management-of-natural-resources*

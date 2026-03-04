@@ -41,94 +41,94 @@ GOTO:22-chemical-coordination-and-integration
 
 UNIT I : DIVERSITY IN THE LIVING WORLD
 TAG:1-the-living-world
-[*1-the-living-world*]
+*1-the-living-world*
 
 
 TAG:2-biological-classification
-[*2-biological-classification*]
+*2-biological-classification*
 
 
 TAG:3-plant-kingdom
-[*3-plant-kingdom*]
+*3-plant-kingdom*
 
 
 TAG:4-animal-kingdom
-[*4-animal-kingdom*]
+*4-animal-kingdom*
 
 
 UNIT II  : STRUCTRUCTURAL ORGANISATION IN PLANTS AND ANIMALS
 TAG:5-morphology-of-flowering-plants
-[*5-morphology-of-flowering-plants*]
+*5-morphology-of-flowering-plants*
 
 
 TAG:6-anatomy-of-flowering-plants
-[*6-anatomy-of-flowering-plants*]
+*6-anatomy-of-flowering-plants*
 
 
 TAG:7-structural-organisation-in-animals
-[*7-structural-organisation-in-animals*]
+*7-structural-organisation-in-animals*
 
 
 UNIT III : STRUCTURE AND FUNCTIONS
 TAG:8-cell-the-unit-of-life
-[*8-cell-the-unit-of-life*]
+*8-cell-the-unit-of-life*
 
 
 TAG:9-biomolecues
-[*9-biomolecues*]
+*9-biomolecues*
 
 
 TAG:10-cell-cycle-and-cell-division
-[*10-cell-cycle-and-cell-division*]
+*10-cell-cycle-and-cell-division*
 
 
 
 UNIT IV  : PLANT PHYSIOLOGY
 TAG:11-transport-in-plants
-[*11-transport-in-plants*]
+*11-transport-in-plants*
 
 
 TAG:12-mineral-nutrition
-[*12-mineral-nutrition*]
+*12-mineral-nutrition*
 
 
 TAG:13-photosynthesis-in-higher-plants
-[*13-photosynthesis-in-higher-plants*]
+*13-photosynthesis-in-higher-plants*
 
 
 TAG:14-respiration-in-plants
-[*14-respiration-in-plants*]
+*14-respiration-in-plants*
 
 
 TAG:plant-growth-and-development
-[*plant-growth-and-development*]
+*plant-growth-and-development*
 
 
 
 UNIT V   : HUMAN PHYSIOLOGY
 TAG:16-digestion-and-absorption
-[*16-digestion-and-absorption*]
+*16-digestion-and-absorption*
 
 
 TAG:17-breathing-and-exchange-of-gases
-[*17-breathing-and-exchange-of-gases*]
+*17-breathing-and-exchange-of-gases*
 
 
 TAG:18-body-fluids-and-circulation
-[*18-body-fluids-and-circulation*]
+*18-body-fluids-and-circulation*
 
 
 TAG:19-excretory-products-and-their-elimination
-[*19-excretory-products-and-their-elimination*]
+*19-excretory-products-and-their-elimination*
 
 
 TAG:20-locomotion-and-movement
-[*20-locomotion-and-movement*]
+*20-locomotion-and-movement*
 
 
 TAG:21-neural-control-and-coordination
-[*21-neural-control-and-coordination*]
+*21-neural-control-and-coordination*
 
 
 TAG:22-chemical-coordination-and-integration
-[*22-chemical-coordination-and-integration*]
+*22-chemical-coordination-and-integration*

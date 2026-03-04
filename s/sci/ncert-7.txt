@@ -27,72 +27,72 @@ GOTO:18-wastewater-story
 
 
 TAG:1-nutrition-in-plants
-[*1-nutrition-in-plants*]
+*1-nutrition-in-plants*
 
 
 TAG:2-nutrition-in-animals
-[*2-nutrition-in-animals*]
+*2-nutrition-in-animals*
 
 
 TAG:3-fibre-to-fabric
-[*3-fibre-to-fabric*]
+*3-fibre-to-fabric*
 
 
 TAG:4-heat
-[*4-heat*]
+*4-heat*
 
 
 TAG:5-acids-bases-and-salts
-[*5-acids-bases-and-salts*]
+*5-acids-bases-and-salts*
 
 
 TAG:6-physical-and-chemical-changes
-[*6-physical-and-chemical-changes*]
+*6-physical-and-chemical-changes*
 
 
 TAG:7-weather-climate-and-adaptations-of-animals-to-climate
-[*7-weather-climate-and-adaptations-of-animals-to-climate*]
+*7-weather-climate-and-adaptations-of-animals-to-climate*
 
 
 TAG:8-winds-storms-and-cyclones
-[*8-winds-storms-and-cyclones*]
+*8-winds-storms-and-cyclones*
 
 
 TAG:9-soil
-[*9-soil*]
+*9-soil*
 
 
 TAG:10-respiration-in-organisms
-[*10-respiration-in-organisms*]
+*10-respiration-in-organisms*
 
 
 TAG:11-transportation-in-animals-and-plants
-[*11-transportation-in-animals-and-plants*]
+*11-transportation-in-animals-and-plants*
 
 
 TAG:12-reproduction-in-plants
-[*12-reproduction-in-plants*]
+*12-reproduction-in-plants*
 
 
 TAG:13-motion-and-time
-[*13-motion-and-time*]
+*13-motion-and-time*
 
 
 TAG:14-electric-current-and-its-effect
-[*14-electric-current-and-its-effect*]
+*14-electric-current-and-its-effect*
 
 
 TAG:15-light
-[*15-light*]
+*15-light*
 
 
 TAG:16-water-a-precious-resource
-[*16-water-a-precious-resource*]
+*16-water-a-precious-resource*
 
 
 TAG:17-forests-our-lifeline
-[*17-forests-our-lifeline*]
+*17-forests-our-lifeline*
 
 
 TAG:18-wastewater-story
-[*18-wastewater-story*]
+*18-wastewater-story*
