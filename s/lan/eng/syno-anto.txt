@@ -1,1605 +1,1605 @@
 ============================
-Title : Synomyms and Antonyms
+Title : Synomyms and A
 Tags  : #
 Descr : 
 ============================
 
 1. Acumen
-   Synonyms : Awareness, Brilliance
+   Synomyms : Awareness, Brilliance
    Antonyms : Stupidity, Ignorance
 
 2. Adhere
-   Synonyms : Comply, Observe
-   Antonyms : Condemn, Disjoin
+   S : Comply, Observe
+   A : Condemn, Disjoin
 
 3. Abolish
-   Synonyms : Abrogate, Annul
-   Antonyms : Set up, Establish
+   S : Abrogate, Annul
+   A : Set up, Establish
 
 4. Abash
-   Synonyms : Disconcert, Rattle
-   Antonyms : Uphold, Discompose
+   S : Disconcert, Rattle
+   A : Uphold, Discompose
 
 5. Abound
-   Synonyms : Flourish, Proliferate
-   Antonyms : Deficient, Destitute
+   S : Flourish, Proliferate
+   A : Deficient, Destitute
 
 6. Abate
-   Synonyms : Moderate, Decrease
-   Antonyms : Aggravate
+   S : Moderate, Decrease
+   A : Aggravate
 
 7. Abject
-   Synonyms : Despicable, Servile
-   Antonyms : Commendable, Praiseworthy
+   S : Despicable, Servile
+   A : Commendable, Praiseworthy
 
 8. Abjure
-   Synonyms : Forsake, Renounce
-   Antonyms : Approve, Sanction
+   S : Forsake, Renounce
+   A : Approve, Sanction
 
 9. Abortive
-   Synonyms : Vain, Unproductive
-   Antonyms : Productive
+   S : Vain, Unproductive
+   A : Productive
 
 10. Absolve
-    Synonyms : Pardon, Forgive
-    Antonyms : Compel, Accuse
+    S : Pardon, Forgive
+    A : Compel, Accuse
 
 11. Accord
-    Synonyms : Agreement, Harmony
-    Antonyms : Discord
+    S : Agreement, Harmony
+    A : Discord
 
 12. Acrimony
-    Synonyms : Harshness, Bitterness
-    Antonyms : Courtesy, Benevolence
+    S : Harshness, Bitterness
+    A : Courtesy, Benevolence
 
 13. Adamant
-    Synonyms : Stubborn, Inflexible
-    Antonyms : Flexible, Soft
+    S : Stubborn, Inflexible
+    A : Flexible, Soft
 
 14. Adherent
-    Synonyms : Follower, Disciple
-    Antonyms : Rival, Adversary
+    S : Follower, Disciple
+    A : Rival, Adversary
 
 15. Adjunct
-    Synonyms : Joined, Added
-    Antonyms : Separated, Subtracted
+    S : Joined, Added
+    A : Separated, Subtracted
 
 16. Admonish
-    Synonyms : Counsel, Reprove
-    Antonyms : Approve, Applaud
+    S : Counsel, Reprove
+    A : Approve, Applaud
 
 17. Adversity
-    Synonyms : Misfortune, Calamity
-    Antonyms : Prosperity, Fortune
+    S : Misfortune, Calamity
+    A : Prosperity, Fortune
 
 18. Alien
-    Synonyms : Foreigner, Outsider
-    Antonyms : Native, Resident
+    S : Foreigner, Outsider
+    A : Native, Resident
 
 19. Allay
-    Synonyms : Pacify, Soothe
-    Antonyms : Aggravate, Excite
+    S : Pacify, Soothe
+    A : Aggravate, Excite
 
 20. Alleviate
-    Synonyms : Abate, Relieve
-    Antonyms : Aggravate, Enhance
+    S : Abate, Relieve
+    A : Aggravate, Enhance
 
 21. Allure
-    Synonyms : Entice, Fascinate
-    Antonyms : Repulse, Repel
+    S : Entice, Fascinate
+    A : Repulse, Repel
 
 22. Ascend
-    Synonyms : Climb, Escalate
-    Antonyms : Descend, Decline
+    S : Climb, Escalate
+    A : Descend, Decline
 
 23. Amplify
-    Synonyms : Augment, Deepen
-    Antonyms : Lessen, Contract
+    S : Augment, Deepen
+    A : Lessen, Contract
 
 24. Arraign
-    Synonyms : Incriminate, Indict
-    Antonyms : Exculpate, Pardon
+    S : Incriminate, Indict
+    A : Exculpate, Pardon
 
 25. Audacity
-    Synonyms : Boldness, Courage
-    Antonyms : Mildness, Cowardice
+    S : Boldness, Courage
+    A : Mildness, Cowardice
 
 26. Authentic
-    Synonyms : Accurate, Credible
-    Antonyms : Fictitious, Unreal
+    S : Accurate, Credible
+    A : Fictitious, Unreal
 
 27. Awkward
-    Synonyms : Rude, Blundering
-    Antonyms : Adroit, Clever
+    S : Rude, Blundering
+    A : Adroit, Clever
 
 28. Axiom
-    Synonyms : Adage, Truism
-    Antonyms : Absurdity, Blunder
+    S : Adage, Truism
+    A : Absurdity, Blunder
 
 29. Baffle
-    Synonyms : Astound, Faze
-    Antonyms : Facilitate, Clarify
+    S : Astound, Faze
+    A : Facilitate, Clarify
 
 30. Bewitching
-    Synonyms : Alluring, Charming
-    Antonyms : Repulsive, Repugnant
+    S : Alluring, Charming
+    A : Repulsive, Repugnant
 
 31. Bleak
-    Synonyms : Grim, Austere
-    Antonyms : Bright, Pleasant
+    S : Grim, Austere
+    A : Bright, Pleasant
 
 32. Brittle
-    Synonyms : Breakable, Crisp
-    Antonyms : Tough, Enduring
+    S : Breakable, Crisp
+    A : Tough, Enduring
 
 33. Bustle
-    Synonyms : Commotion, Tumult
-    Antonyms : Slowness, Quiet
+    S : Commotion, Tumult
+    A : Slowness, Quiet
 
 34. Barbarous
-    Synonyms : Brutal, Uncivilized
-    Antonyms : Civilized, Humane
+    S : Brutal, Uncivilized
+    A : Civilized, Humane
 
 35. Baroque
-    Synonyms : Florid, Gilt
-    Antonyms : Plain, Unadorned
+    S : Florid, Gilt
+    A : Plain, Unadorned
 
 36. Barren
-    Synonyms : Desolate, Sterile
-    Antonyms : Damp, Fertile
+    S : Desolate, Sterile
+    A : Damp, Fertile
 
 37. Barrier
-    Synonyms : Barricade, Obstacle
-    Antonyms : Link, Assistance
+    S : Barricade, Obstacle
+    A : Link, Assistance
 
 38. Base
-    Synonyms : Vulgar, Coarse
-    Antonyms : Summit, Noble
+    S : Vulgar, Coarse
+    A : Summit, Noble
 
 39. Batty
-    Synonyms : Insane, Silly
-    Antonyms : Sane
+    S : Insane, Silly
+    A : Sane
 
 40. Bawdy
-    Synonyms : Erotic, Coarse
-    Antonyms : Decent, Moral
+    S : Erotic, Coarse
+    A : Decent, Moral
 
 41. Befogged
-    Synonyms : Beclouded, Dim
-    Antonyms : Clear-headed, Unclouded
+    S : Beclouded, Dim
+    A : Clear-headed, Unclouded
 
 42. Benevolent
-    Synonyms : Benign, Generous
-    Antonyms : Malevolent, Miserly
+    S : Benign, Generous
+    A : Malevolent, Miserly
 
 43. Benign
-    Synonyms : Favorable, Friendly
-    Antonyms : Malignant, Cruel
+    S : Favorable, Friendly
+    A : Malignant, Cruel
 
 44. Bind
-    Synonyms : Predicament, Obligate
-    Antonyms : Release
+    S : Predicament, Obligate
+    A : Release
 
 45. Bleak
-    Synonyms : Austere, Blank
-    Antonyms : Bright, Cheerful
+    S : Austere, Blank
+    A : Bright, Cheerful
 
 46. Blunt
-    Synonyms : Dull, Insensitive
-    Antonyms : Keen, Sharp
+    S : Dull, Insensitive
+    A : Keen, Sharp
 
 47. Boisterous
-    Synonyms : Clamorous, Rowdy
-    Antonyms : Placid, Calm
+    S : Clamorous, Rowdy
+    A : Placid, Calm
 
 48. Bold
-    Synonyms : Adventurous, Fearless
-    Antonyms : Timid
+    S : Adventurous, Fearless
+    A : Timid
 
 49. Busy
-    Synonyms : Active, Engaged
-    Antonyms : Idle, Lazy
+    S : Active, Engaged
+    A : Idle, Lazy
 
 50. Calculating
-    Synonyms : Canny, Devious
-    Antonyms : Artless, Honest
+    S : Canny, Devious
+    A : Artless, Honest
 
 51. Calamity
-    Synonyms : Adversity, Misfortune
-    Antonyms : Fortune
+    S : Adversity, Misfortune
+    A : Fortune
 
 52. Callous
-    Synonyms : Obdurate, Unfeeling
-    Antonyms : Compassionate, Tender
+    S : Obdurate, Unfeeling
+    A : Compassionate, Tender
 
 53. Calumny
-    Synonyms : Defamation, Aspersion
-    Antonyms : Commendation, Praise
+    S : Defamation, Aspersion
+    A : Commendation, Praise
 
 54. Capable
-    Synonyms : Competent, Able
-    Antonyms : Incompetent, Inept
+    S : Competent, Able
+    A : Incompetent, Inept
 
 55. Captivate
-    Synonyms : Charm, Fascinate
-    Antonyms : Disillusion, Offend
+    S : Charm, Fascinate
+    A : Disillusion, Offend
 
 56. Captivity
-    Synonyms : Imprisonment, Confinement
-    Antonyms : Freedom, Liberty
+    S : Imprisonment, Confinement
+    A : Freedom, Liberty
 
 57. Cease
-    Synonyms : Terminate, Desist
-    Antonyms : Begin, Originate
+    S : Terminate, Desist
+    A : Begin, Originate
 
 58. Chaste
-    Synonyms : Virtuous, Pure
-    Antonyms : Sullied, Lustful
+    S : Virtuous, Pure
+    A : Sullied, Lustful
 
 59. Chastise
-    Synonyms : Punish, Admonish
-    Antonyms : Cheer, Encourage
+    S : Punish, Admonish
+    A : Cheer, Encourage
 
 60. Compassion
-    Synonyms : Kindness, Sympathy
-    Antonyms : Cruelty, Barbarity
+    S : Kindness, Sympathy
+    A : Cruelty, Barbarity
 
 61. Comprise
-    Synonyms : Include, Contain
-    Antonyms : Reject, Lack
+    S : Include, Contain
+    A : Reject, Lack
 
 62. Concede
-    Synonyms : Yield, Permit
-    Antonyms : Deny, Reject
+    S : Yield, Permit
+    A : Deny, Reject
 
 63. Concur
-    Synonyms : Approve, Agree
-    Antonyms : Differ, Disagree
+    S : Approve, Agree
+    A : Differ, Disagree
 
 64. Consent
-    Synonyms : Agree, Permit
-    Antonyms : Object, Disagree
+    S : Agree, Permit
+    A : Object, Disagree
 
 65. Consequence
-    Synonyms : Effect, Outcome
-    Antonyms : Origin, Start
+    S : Effect, Outcome
+    A : Origin, Start
 
 66. Consolidate
-    Synonyms : Solidify, Strengthen
-    Antonyms : Separate, Weaken
+    S : Solidify, Strengthen
+    A : Separate, Weaken
 
 67. Conspicuous
-    Synonyms : Prominent, Obvious
-    Antonyms : Concealed, Hidden
+    S : Prominent, Obvious
+    A : Concealed, Hidden
 
 68. Contempt
-    Synonyms : Scorn, Disregard
-    Antonyms : Regard, Praise
+    S : Scorn, Disregard
+    A : Regard, Praise
 
 69. Contradict
-    Synonyms : Deny, Oppose
-    Antonyms : Approve, Confirm
+    S : Deny, Oppose
+    A : Approve, Confirm
 
 70. Contrary
-    Synonyms : Dissimilar, Conflicting
-    Antonyms : Similar, Alike
+    S : Dissimilar, Conflicting
+    A : Similar, Alike
 
 71. Calm
-    Synonyms : Harmonious, Unruffled
-    Antonyms : Stormy, Turbulent
+    S : Harmonious, Unruffled
+    A : Stormy, Turbulent
 
 72. Callous
-    Synonyms : Insensitive, Indurated
-    Antonyms : Kind, Merciful
+    S : Insensitive, Indurated
+    A : Kind, Merciful
 
 73. Camouflage
-    Synonyms : Cloak, Disguise
-    Antonyms : Reveal
+    S : Cloak, Disguise
+    A : Reveal
 
 74. Candid
-    Synonyms : Blunt, Bluff
-    Antonyms : Evasive
+    S : Blunt, Bluff
+    A : Evasive
 
 75. Captivate
-    Synonyms : Beguile, Bewitch
-    Antonyms : Repel
+    S : Beguile, Bewitch
+    A : Repel
 
 76. Carnal
-    Synonyms : Earthly, Fleshly
-    Antonyms : Spiritual
+    S : Earthly, Fleshly
+    A : Spiritual
 
 77. Catholic
-    Synonyms : Generic, Liberal
-    Antonyms : Narrow-minded
+    S : Generic, Liberal
+    A : Narrow-minded
 
 78. Celebrated
-    Synonyms : Acclaimed, Lionized
-    Antonyms : Unknown, Inglorious
+    S : Acclaimed, Lionized
+    A : Unknown, Inglorious
 
 79. Cement
-    Synonyms : Plaster, Mortar
-    Antonyms : Disintegrate
+    S : Plaster, Mortar
+    A : Disintegrate
 
 80. Censure
-    Synonyms : Rebuke, Reprimand
-    Antonyms : Praise, Acceptance
+    S : Rebuke, Reprimand
+    A : Praise, Acceptance
 
 81. Cheap
-    Synonyms : Competitive, Inexpensive
-    Antonyms : Dear, Unreasonable
+    S : Competitive, Inexpensive
+    A : Dear, Unreasonable
 
 82. Clandestine
-    Synonyms : Covert, Secret
-    Antonyms : Open, Legal
+    S : Covert, Secret
+    A : Open, Legal
 
 83. Classic
-    Synonyms : Simple, Typical
-    Antonyms : Romantic, Unusual
+    S : Simple, Typical
+    A : Romantic, Unusual
 
 84. Coarse
-    Synonyms : Bawdy, Boorish
-    Antonyms : Fine, Chaste
+    S : Bawdy, Boorish
+    A : Fine, Chaste
 
 85. Comic
-    Synonyms : Clown, Jester
-    Antonyms : Tragic, Tragedian
+    S : Clown, Jester
+    A : Tragic, Tragedian
 
 86. Compact
-    Synonyms : Bunched, Thick
-    Antonyms : Loose, Diffuse
+    S : Bunched, Thick
+    A : Loose, Diffuse
 
 87. Compress
-    Synonyms : Abbreviate, Shrink
-    Antonyms : Amplify, Expand
+    S : Abbreviate, Shrink
+    A : Amplify, Expand
 
 88. Conceit
-    Synonyms : Egotism, Immodesty
-    Antonyms : Modesty
+    S : Egotism, Immodesty
+    A : Modesty
 
 89. Concord
-    Synonyms : Agreement, Accord
-    Antonyms : Discord
+    S : Agreement, Accord
+    A : Discord
 
 90. Condemn
-    Synonyms : Castigate, Chide
-    Antonyms : Approve, Praise
+    S : Castigate, Chide
+    A : Approve, Praise
 
 91. Confident
-    Synonyms : Bold, Undaunted
-    Antonyms : Diffident, Cowardly
+    S : Bold, Undaunted
+    A : Diffident, Cowardly
 
 92. Consolidate
-    Synonyms : Centralize, Fortify
-    Antonyms : Weaken
+    S : Centralize, Fortify
+    A : Weaken
 
 93. Courtesy
-    Synonyms : Generosity, Reverence
-    Antonyms : Disdain, Rudeness
+    S : Generosity, Reverence
+    A : Disdain, Rudeness
 
 94. Creation
-    Synonyms : Formation, Foundation
-    Antonyms : Destruction
+    S : Formation, Foundation
+    A : Destruction
 
 95. Cunning
-    Synonyms : Acute, Smart
-    Antonyms : Naive, Coarse
+    S : Acute, Smart
+    A : Naive, Coarse
 
 96. Decay
-    Synonyms : Collapse, Decompose
-    Antonyms : Flourish, Progress
+    S : Collapse, Decompose
+    A : Flourish, Progress
 
 97. Deceit
-    Synonyms : Deception, Artifice
-    Antonyms : Veracity, Sincerity
+    S : Deception, Artifice
+    A : Veracity, Sincerity
 
 98. Decipher
-    Synonyms : Interpret, Reveal
-    Antonyms : Misinterpret, Distort
+    S : Interpret, Reveal
+    A : Misinterpret, Distort
 
 99. Defile
-    Synonyms : Contaminate, Pollute
-    Antonyms : Purify, Sanctify
+    S : Contaminate, Pollute
+    A : Purify, Sanctify
 
 100. Defray
-     Synonyms : Spend, Pay
-     Antonyms : Disclaim, Repudiate
+     S : Spend, Pay
+     A : Disclaim, Repudiate
 
 101. Deliberate
-     Synonyms : Cautious, Intentional
-     Antonyms : Rash, Sudden
+     S : Cautious, Intentional
+     A : Rash, Sudden
 
 102. Demolish
-     Synonyms : Ruin, Devastate
-     Antonyms : Repair, Construct
+     S : Ruin, Devastate
+     A : Repair, Construct
 
 103. Deprive
-     Synonyms : Despoil, Divest
-     Antonyms : Restore, Renew
+     S : Despoil, Divest
+     A : Restore, Renew
 
 104. Deride
-     Synonyms : Mock, Taunt
-     Antonyms : Inspire, Encourage
+     S : Mock, Taunt
+     A : Inspire, Encourage
 
 105. Disdain
-     Synonyms : Detest, Despise
-     Antonyms : Approve, Praise
+     S : Detest, Despise
+     A : Approve, Praise
 
 106. Dissuade
-     Synonyms : Remonstrate, Counsel
-     Antonyms : Incite, Persuade
+     S : Remonstrate, Counsel
+     A : Incite, Persuade
 
 107. Denounce
-     Synonyms : Blame, Boycott
-     Antonyms : Defend
+     S : Blame, Boycott
+     A : Defend
 
 108. Dense
-     Synonyms : Opaque, Compact
-     Antonyms : Sparse, Intelligent
+     S : Opaque, Compact
+     A : Sparse, Intelligent
 
 109. Derogatory
-     Synonyms : Sarcastic, Critical
-     Antonyms : Laudatory, Appreciative
+     S : Sarcastic, Critical
+     A : Laudatory, Appreciative
 
 110. Despair
-     Synonyms : Depression, Misery
-     Antonyms : Contentment, Hope
+     S : Depression, Misery
+     A : Contentment, Hope
 
 111. Destructive
-     Synonyms : Catastrophic, Pernicious
-     Antonyms : Creative, Constructive
+     S : Catastrophic, Pernicious
+     A : Creative, Constructive
 
 112. Docile
-     Synonyms : Pliable, Pliant
-     Antonyms : Headstrong, Obstinate
+     S : Pliable, Pliant
+     A : Headstrong, Obstinate
 
 113. Dwarf
-     Synonyms : Diminutive, Petite
-     Antonyms : Huge, Giant
+     S : Diminutive, Petite
+     A : Huge, Giant
 
 114. Eager
-     Synonyms : Keen, Enthusiastic
-     Antonyms : Indifferent, Apathetic
+     S : Keen, Enthusiastic
+     A : Indifferent, Apathetic
 
 115. Eclipse
-     Synonyms : Diminution, Dimming
-     Antonyms : Shine, Radiance
+     S : Diminution, Dimming
+     A : Shine, Radiance
 
 116. Eccentric
-     Synonyms : Strange, Abnormal
-     Antonyms : Natural, Conventional
+     S : Strange, Abnormal
+     A : Natural, Conventional
 
 117. Ecstasy
-     Synonyms : Delight, Exultation
-     Antonyms : Despair, Calamity
+     S : Delight, Exultation
+     A : Despair, Calamity
 
 118. Efface
-     Synonyms : Destroy, Obliterate
-     Antonyms : Retain, Maintain
+     S : Destroy, Obliterate
+     A : Retain, Maintain
 
 119. Eloquence
-     Synonyms : Expression, Fluency
-     Antonyms : Halting, Stammering
+     S : Expression, Fluency
+     A : Halting, Stammering
 
 120. Encumbrance
-     Synonyms : Hindrance, Obstacle
-     Antonyms : Incentive, Stimulant
+     S : Hindrance, Obstacle
+     A : Incentive, Stimulant
 
 121. Endeavour
-     Synonyms : Undertake, Aspire
-     Antonyms : Cease, Quit
+     S : Undertake, Aspire
+     A : Cease, Quit
 
 122. Enormous
-     Synonyms : Colossal, Mammoth
-     Antonyms : Diminutive, Negligible
+     S : Colossal, Mammoth
+     A : Diminutive, Negligible
 
 123. Epitome
-     Synonyms : Example, Embodiment
-     Antonyms : Increment, Expansion
+     S : Example, Embodiment
+     A : Increment, Expansion
 
 124. Equivocal
-     Synonyms : Uncertain, Hazy
-     Antonyms : Obvious, Lucid
+     S : Uncertain, Hazy
+     A : Obvious, Lucid
 
 125. Eradicate
-     Synonyms : Destroy, Exterminate
-     Antonyms : Secure, Plant
+     S : Destroy, Exterminate
+     A : Secure, Plant
 
 126. Fabricate
-     Synonyms : Construct, Produce
-     Antonyms : Destroy, Dismantle
+     S : Construct, Produce
+     A : Destroy, Dismantle
 
 127. Fallacy
-     Synonyms : Delusion, Mistake
-     Antonyms : Veracity, Truth
+     S : Delusion, Mistake
+     A : Veracity, Truth
 
 128. Falter
-     Synonyms : Stumble, Hesitate
-     Antonyms : Persist, Endure
+     S : Stumble, Hesitate
+     A : Persist, Endure
 
 129. Fanatical
-     Synonyms : Narrow-minded, Biased
-     Antonyms : Liberal, Tolerant
+     S : Narrow-minded, Biased
+     A : Liberal, Tolerant
 
 130. Feeble
-     Synonyms : Weak, Frail
-     Antonyms : Strong, Robust
+     S : Weak, Frail
+     A : Strong, Robust
 
 131. Ferocious
-     Synonyms : Cruel, Fierce
-     Antonyms : Gentle, Sympathetic
+     S : Cruel, Fierce
+     A : Gentle, Sympathetic
 
 132. Feud
-     Synonyms : Strife, Quarrel
-     Antonyms : Harmony, Fraternity
+     S : Strife, Quarrel
+     A : Harmony, Fraternity
 
 133. Fluctuate
-     Synonyms : Vacillate, Vary
-     Antonyms : Stabilize, Resolve
+     S : Vacillate, Vary
+     A : Stabilize, Resolve
 
 134. Forsake
-     Synonyms : Desert, Renounce
-     Antonyms : Hold, Maintain
+     S : Desert, Renounce
+     A : Hold, Maintain
 
 135. Fragile
-     Synonyms : Weak, Infirm
-     Antonyms : Enduring, Tough
+     S : Weak, Infirm
+     A : Enduring, Tough
 
 136. Frantic
-     Synonyms : Violent, Agitated
-     Antonyms : Subdued, Gentle
+     S : Violent, Agitated
+     A : Subdued, Gentle
 
 137. Frivolous
-     Synonyms : Petty, Worthless
-     Antonyms : Solemn, Significant
+     S : Petty, Worthless
+     A : Solemn, Significant
 
 138. Frugality
-     Synonyms : Economy, Prudence
-     Antonyms : Lavishness, Extravagance
+     S : Economy, Prudence
+     A : Lavishness, Extravagance
 
 139. Gather
-     Synonyms : Converge, Assemble
-     Antonyms : Disperse, Scatter
+     S : Converge, Assemble
+     A : Disperse, Scatter
 
 140. Gloom
-     Synonyms : Obscurity, Darkness
-     Antonyms : Delight, Mirth
+     S : Obscurity, Darkness
+     A : Delight, Mirth
 
 141. Glut
-     Synonyms : Stuff, Satiate
-     Antonyms : Starve, Abstain
+     S : Stuff, Satiate
+     A : Starve, Abstain
 
 142. Gorgeous
-     Synonyms : Magnificent, Dazzling
-     Antonyms : Dull, Unpretentious
+     S : Magnificent, Dazzling
+     A : Dull, Unpretentious
 
 143. Gracious
-     Synonyms : Courteous, Beneficent
-     Antonyms : Rude, Unforgiving
+     S : Courteous, Beneficent
+     A : Rude, Unforgiving
 
 144. Grisly
-     Synonyms : Disgusting, Atrocious
-     Antonyms : Pleasing, Attractive
+     S : Disgusting, Atrocious
+     A : Pleasing, Attractive
 
 145. Grudge
-     Synonyms : Hatred, Aversion
-     Antonyms : Benevolence, Affection
+     S : Hatred, Aversion
+     A : Benevolence, Affection
 
 146. Guile
-     Synonyms : Cunning, Deceit
-     Antonyms : Honesty, Frankness
+     S : Cunning, Deceit
+     A : Honesty, Frankness
 
 147. Generosity
-     Synonyms : Altruism, Bounty
-     Antonyms : Stinginess, Greed
+     S : Altruism, Bounty
+     A : Stinginess, Greed
 
 148. Genuine
-     Synonyms : Authentic, Factual
-     Antonyms : Spurious
+     S : Authentic, Factual
+     A : Spurious
 
 149. Gloomy
-     Synonyms : Bleak, Cloudy
-     Antonyms : Gay, Bright
+     S : Bleak, Cloudy
+     A : Gay, Bright
 
 150. Glory
-     Synonyms : Dignity, Renown
-     Antonyms : Shame, Disgrace
+     S : Dignity, Renown
+     A : Shame, Disgrace
 
 151. Hamper
-     Synonyms : Retard, Prevent
-     Antonyms : Promote, Facilitate
+     S : Retard, Prevent
+     A : Promote, Facilitate
 
 152. Hapless
-     Synonyms : Unfortunate, Ill-fated
-     Antonyms : Fortunate, Lucky
+     S : Unfortunate, Ill-fated
+     A : Fortunate, Lucky
 
 153. Harass
-     Synonyms : Irritate, Molest
-     Antonyms : Assist, Comfort
+     S : Irritate, Molest
+     A : Assist, Comfort
 
 154. Haughty
-     Synonyms : Arrogant, Pompous
-     Antonyms : Humble, Submissive
+     S : Arrogant, Pompous
+     A : Humble, Submissive
 
 155. Hazard
-     Synonyms : Peril, Danger
-     Antonyms : Security, Safety
+     S : Peril, Danger
+     A : Security, Safety
 
 156. Heretic
-     Synonyms : Non-conformist, Dissenter
-     Antonyms : Conformist, Orthodox
+     S : Non-conformist, Dissenter
+     A : Conformist, Orthodox
 
 157. Hideous
-     Synonyms : Frightful, Shocking
-     Antonyms : Attractive, Alluring
+     S : Frightful, Shocking
+     A : Attractive, Alluring
 
 158. Hamstrung
-     Synonyms : Crippled, Debilitated
-     Antonyms : Strengthened, Encouraged
+     S : Crippled, Debilitated
+     A : Strengthened, Encouraged
 
 159. Harmony
-     Synonyms : Conformity, Amicability
-     Antonyms : Discord, Conflict
+     S : Conformity, Amicability
+     A : Discord, Conflict
 
 160. Hasty
-     Synonyms : Abrupt, Impetuous
-     Antonyms : Leisurely, Cautious
+     S : Abrupt, Impetuous
+     A : Leisurely, Cautious
 
 161. Honor
-     Synonyms : Adoration, Reverence
-     Antonyms : Denunciation, Shame
+     S : Adoration, Reverence
+     A : Denunciation, Shame
 
 162. Humble
-     Synonyms : Meek, Modest
-     Antonyms : Proud, Assertive
+     S : Meek, Modest
+     A : Proud, Assertive
 
 163. Humility
-     Synonyms : Modesty, Submission
-     Antonyms : Boldness, Pride
+     S : Modesty, Submission
+     A : Boldness, Pride
 
 164. Hypocrisy
-     Synonyms : Deception, Insincerity
-     Antonyms : Sincerity, Frankness
+     S : Deception, Insincerity
+     A : Sincerity, Frankness
 
 165. Impenitent
-     Synonyms : Unrepentant, Obdurate
-     Antonyms : Repentant
+     S : Unrepentant, Obdurate
+     A : Repentant
 
 166. Impulsive
-     Synonyms : Flaky, Impetuous
-     Antonyms : Cautious, Deliberate
+     S : Flaky, Impetuous
+     A : Cautious, Deliberate
 
 167. Indifferent
-     Synonyms : Unconcerned, Neutral
-     Antonyms : Partial, Biased
+     S : Unconcerned, Neutral
+     A : Partial, Biased
 
 168. Indigent
-     Synonyms : Destitute, Impoverished
-     Antonyms : Rich, Affluent
+     S : Destitute, Impoverished
+     A : Rich, Affluent
 
 169. Infernal
-     Synonyms : Damned, Accursed
-     Antonyms : Heavenly
+     S : Damned, Accursed
+     A : Heavenly
 
 170. Insipid
-     Synonyms : Tedious, Prosaic
-     Antonyms : Pleasing, Appetizing
+     S : Tedious, Prosaic
+     A : Pleasing, Appetizing
 
 171. Interesting
-     Synonyms : Enchanting, Riveting
-     Antonyms : Dull, Uninteresting
+     S : Enchanting, Riveting
+     A : Dull, Uninteresting
 
 172. Immaculate
-     Synonyms : Unsullied, Spotless
-     Antonyms : Defiled, Tarnished
+     S : Unsullied, Spotless
+     A : Defiled, Tarnished
 
 173. Immense
-     Synonyms : Huge, Enormous
-     Antonyms : Puny, Insignificant
+     S : Huge, Enormous
+     A : Puny, Insignificant
 
 174. Immerse
-     Synonyms : Submerge, Involve
-     Antonyms : Emerge, Uncover
+     S : Submerge, Involve
+     A : Emerge, Uncover
 
 175. Imminent
-     Synonyms : Impending, Approaching
-     Antonyms : Distant, Receding
+     S : Impending, Approaching
+     A : Distant, Receding
 
 176. Immunity
-     Synonyms : Privilege, Exemption
-     Antonyms : Blame, Censure
+     S : Privilege, Exemption
+     A : Blame, Censure
 
 177. Impair
-     Synonyms : Diminish, Deteriorate
-     Antonyms : Restore, Revive
+     S : Diminish, Deteriorate
+     A : Restore, Revive
 
 178. Impartial
-     Synonyms : Just, Unbiased
-     Antonyms : Prejudiced, Biased
+     S : Just, Unbiased
+     A : Prejudiced, Biased
 
 179. Impediment
-     Synonyms : Hurdle, Obstruction
-     Antonyms : Assistance, Aid
+     S : Hurdle, Obstruction
+     A : Assistance, Aid
 
 180. Impious
-     Synonyms : Irreligious, Unholy
-     Antonyms : Pious, Devout
+     S : Irreligious, Unholy
+     A : Pious, Devout
 
 181. Impute
-     Synonyms : Attribute, Ascribe
-     Antonyms : Exculpate, Clear
+     S : Attribute, Ascribe
+     A : Exculpate, Clear
 
 182. Inclination
-     Synonyms : Disposition, Tendency
-     Antonyms : Indifference, Disinclination
+     S : Disposition, Tendency
+     A : Indifference, Disinclination
 
 183. Incompetent
-     Synonyms : Inefficient, Unskilled
-     Antonyms : Dexterous, Skilled
+     S : Inefficient, Unskilled
+     A : Dexterous, Skilled
 
 184. Incongruous
-     Synonyms : Inappropriate, Absurd
-     Antonyms : Compatible, Harmonious
+     S : Inappropriate, Absurd
+     A : Compatible, Harmonious
 
 185. Inevitable
-     Synonyms : Unavoidable, Certain
-     Antonyms : Unlikely, Doubtful
+     S : Unavoidable, Certain
+     A : Unlikely, Doubtful
 
 186. Infringe
-     Synonyms : Violate, Encroach
-     Antonyms : Comply, Obey
+     S : Violate, Encroach
+     A : Comply, Obey
 
 187. Ingenuous
-     Synonyms : Naive, Frank
-     Antonyms : Wily, Crafty
+     S : Naive, Frank
+     A : Wily, Crafty
 
 188. Insinuate
-     Synonyms : Allude, Hint
-     Antonyms : Conceal, Suppress
+     S : Allude, Hint
+     A : Conceal, Suppress
 
 189. Insipid
-     Synonyms : Tasteless, Vapid
-     Antonyms : Delicious, Luscious
+     S : Tasteless, Vapid
+     A : Delicious, Luscious
 
 190. Insolvent
-     Synonyms : Indigent, Bankrupt
-     Antonyms : Wealthy, Solvent
+     S : Indigent, Bankrupt
+     A : Wealthy, Solvent
 
 191. Instill
-     Synonyms : Inculcate, Inject
-     Antonyms : Eradicate, Extract
+     S : Inculcate, Inject
+     A : Eradicate, Extract
 
 192. Intricate
-     Synonyms : Tangled, Complicated
-     Antonyms : Simple, Orderly
+     S : Tangled, Complicated
+     A : Simple, Orderly
 
 193. Intrigue
-     Synonyms : Scheme, Conspiracy
-     Antonyms : Candor, Sincerity
+     S : Scheme, Conspiracy
+     A : Candor, Sincerity
 
 194. Intrinsic
-     Synonyms : Genuine, Fundamental
-     Antonyms : Extraneous, Incidental
+     S : Genuine, Fundamental
+     A : Extraneous, Incidental
 
 195. Invective
-     Synonyms : Accusation, Abuse
-     Antonyms : Approval, Acclamation
+     S : Accusation, Abuse
+     A : Approval, Acclamation
 
 196. Invincible
-     Synonyms : Unconquerable, Impregnable
-     Antonyms : Defeatable, Vulnerable
+     S : Unconquerable, Impregnable
+     A : Defeatable, Vulnerable
 
 197. Irrepressible
-     Synonyms : Uncontrollable, Irresistible
-     Antonyms : Composed, Restrained
+     S : Uncontrollable, Irresistible
+     A : Composed, Restrained
 
 198. Immaculate
-     Synonyms : Exquisite, Impeccable
-     Antonyms : Defiled, Tarnished
+     S : Exquisite, Impeccable
+     A : Defiled, Tarnished
 
 199. Jaded
-     Synonyms : Tired, Exhausted
-     Antonyms : Renewed, Refreshed
+     S : Tired, Exhausted
+     A : Renewed, Refreshed
 
 200. Jejune
-     Synonyms : Dull, Boring
-     Antonyms : Interesting, Exciting
+     S : Dull, Boring
+     A : Interesting, Exciting
 
 201. Jovial
-     Synonyms : Cheerful, Frolicsome
-     Antonyms : Solemn, Morose
+     S : Cheerful, Frolicsome
+     A : Solemn, Morose
 
 202. Jubilant
-     Synonyms : Rejoicing, Triumphant
-     Antonyms : Melancholy, Depressing
+     S : Rejoicing, Triumphant
+     A : Melancholy, Depressing
 
 203. Judicious
-     Synonyms : Thoughtful, Prudent
-     Antonyms : Irrational, Foolish
+     S : Thoughtful, Prudent
+     A : Irrational, Foolish
 
 204. Just
-     Synonyms : Honest, Impartial
-     Antonyms : Unequal, Unfair
+     S : Honest, Impartial
+     A : Unequal, Unfair
 
 205. Justify
-     Synonyms : Defend, Exculpate
-     Antonyms : Impute, Arraign
+     S : Defend, Exculpate
+     A : Impute, Arraign
 
 206. Juvenile
-     Synonyms : Young, Immature
-     Antonyms : Mature, Aged
+     S : Young, Immature
+     A : Mature, Aged
 
 207. Keen
-     Synonyms : Sharp, Eager
-     Antonyms : Vapid, Insipid
+     S : Sharp, Eager
+     A : Vapid, Insipid
 
 208. Kindred
-     Synonyms : Related, Similar
-     Antonyms : Unrelated, Dissimilar
+     S : Related, Similar
+     A : Unrelated, Dissimilar
 
 209. Knave
-     Synonyms : Dishonest, Rogue
-     Antonyms : Paragon, Innocent
+     S : Dishonest, Rogue
+     A : Paragon, Innocent
 
 210. Knell
-     Synonyms : Death-blow, Doom
-     Antonyms : Revival, Beginning
+     S : Death-blow, Doom
+     A : Revival, Beginning
 
 211. Knotty
-     Synonyms : Complicated, Difficult
-     Antonyms : Simple, Manageable
+     S : Complicated, Difficult
+     A : Simple, Manageable
 
 212. Lavish
-     Synonyms : Abundant, Excessive
-     Antonyms : Scarce, Deficient
+     S : Abundant, Excessive
+     A : Scarce, Deficient
 
 213. Lax
-     Synonyms : Slack, Careless
-     Antonyms : Firm, Strict
+     S : Slack, Careless
+     A : Firm, Strict
 
 214. Lenient
-     Synonyms : Compassionate, Merciful
-     Antonyms : Cruel, Severe
+     S : Compassionate, Merciful
+     A : Cruel, Severe
 
 215. Liable
-     Synonyms : Accountable, Bound
-     Antonyms : Unaccountable, Exempt
+     S : Accountable, Bound
+     A : Unaccountable, Exempt
 
 216. Liberal
-     Synonyms : Generous, Magnanimous
-     Antonyms : Stingy, Miserly
+     S : Generous, Magnanimous
+     A : Stingy, Miserly
 
 217. Linger
-     Synonyms : Loiter, Prolong
-     Antonyms : Hasten, Quicken
+     S : Loiter, Prolong
+     A : Hasten, Quicken
 
 218. Lucid
-     Synonyms : Clear, Rational
-     Antonyms : Obscure, Confused
+     S : Clear, Rational
+     A : Obscure, Confused
 
 219. Lunacy
-     Synonyms : Delusion, Insanity
-     Antonyms : Normalcy, Sanity
+     S : Delusion, Insanity
+     A : Normalcy, Sanity
 
 220. Lure
-     Synonyms : Attract, Entice
-     Antonyms : Repel, Dissuade
+     S : Attract, Entice
+     A : Repel, Dissuade
 
 221. Luscious
-     Synonyms : Palatable, Delicious
-     Antonyms : Unsavory, Tart
+     S : Palatable, Delicious
+     A : Unsavory, Tart
 
 222. Luxuriant
-     Synonyms : Profuse, Abundant
-     Antonyms : Scanty, Meagre
+     S : Profuse, Abundant
+     A : Scanty, Meagre
 
 223. Languid
-     Synonyms : Sluggish, Apathetic
-     Antonyms : Energetic, Spirited
+     S : Sluggish, Apathetic
+     A : Energetic, Spirited
 
 224. Malice
-     Synonyms : Vengefulness, Grudge
-     Antonyms : Goodwill, Kindness
+     S : Vengefulness, Grudge
+     A : Goodwill, Kindness
 
 225. Mandatory
-     Synonyms : Imperative, Requisite
-     Antonyms : Optional
+     S : Imperative, Requisite
+     A : Optional
 
 226. Masculine
-     Synonyms : Gallant, Manly
-     Antonyms : Feminine, Meek
+     S : Gallant, Manly
+     A : Feminine, Meek
 
 227. Merit
-     Synonyms : Worth, Asset
-     Antonyms : Demerit, Dishonor
+     S : Worth, Asset
+     A : Demerit, Dishonor
 
 228. Miraculous
-     Synonyms : Marvelous, Extraordinary
-     Antonyms : Ordinary, Trivial
+     S : Marvelous, Extraordinary
+     A : Ordinary, Trivial
 
 229. Mitigate
-     Synonyms : Alleviate, Relieve
-     Antonyms : Augment, Enhance
+     S : Alleviate, Relieve
+     A : Augment, Enhance
 
 230. Modest
-     Synonyms : Humble, Courteous
-     Antonyms : Arrogant, Pompous
+     S : Humble, Courteous
+     A : Arrogant, Pompous
 
 231. Molest
-     Synonyms : Harass, Tease
-     Antonyms : Console, Soothe
+     S : Harass, Tease
+     A : Console, Soothe
 
 232. Mollify
-     Synonyms : Appease, Assuage
-     Antonyms : Irritate, Infuriate
+     S : Appease, Assuage
+     A : Irritate, Infuriate
 
 233. Momentous
-     Synonyms : Notable, Eventful
-     Antonyms : Trivial, Insignificant
+     S : Notable, Eventful
+     A : Trivial, Insignificant
 
 234. Monotonous
-     Synonyms : Irksome, Tedious
-     Antonyms : Varied, Pleasant
+     S : Irksome, Tedious
+     A : Varied, Pleasant
 
 235. Morbid
-     Synonyms : Macabre, Gloomy
-     Antonyms : Healthy, Cheerful
+     S : Macabre, Gloomy
+     A : Healthy, Cheerful
 
 236. Munificent
-     Synonyms : Liberal, Generous
-     Antonyms : Frugal, Penurious
+     S : Liberal, Generous
+     A : Frugal, Penurious
 
 237. Murky
-     Synonyms : Dusky, Dreary
-     Antonyms : Bright, Shining
+     S : Dusky, Dreary
+     A : Bright, Shining
 
 238. Mutinous
-     Synonyms : Recalcitrant, Insurgent
-     Antonyms : Submissive, Faithful
+     S : Recalcitrant, Insurgent
+     A : Submissive, Faithful
 
 239. Mutual
-     Synonyms : Joint, Shared
-     Antonyms : Separate, Distinct
+     S : Joint, Shared
+     A : Separate, Distinct
 
 240. Niggardly
-     Synonyms : Miserly, Stingy
-     Antonyms : Generous, Profuse
+     S : Miserly, Stingy
+     A : Generous, Profuse
 
 241. Nimble
-     Synonyms : Prompt, Brisk
-     Antonyms : Sluggish, Languid
+     S : Prompt, Brisk
+     A : Sluggish, Languid
 
 242. Nonchalant
-     Synonyms : Indifferent, Negligent
-     Antonyms : Attentive, Considerate
+     S : Indifferent, Negligent
+     A : Attentive, Considerate
 
 243. Novice
-     Synonyms : Beginner, Tyro
-     Antonyms : Veteran, Expert
+     S : Beginner, Tyro
+     A : Veteran, Expert
 
 244. Noxious
-     Synonyms : Baneful, Injurious
-     Antonyms : Healing, Beneficial
+     S : Baneful, Injurious
+     A : Healing, Beneficial
 
 245. Nullify
-     Synonyms : Cancel, Annul
-     Antonyms : Confirm, Uphold
+     S : Cancel, Annul
+     A : Confirm, Uphold
 
 246. Notion
-     Synonyms : Idea, Apprehension
-     Antonyms : Reality, Fact
+     S : Idea, Apprehension
+     A : Reality, Fact
 
 247. Numerous
-     Synonyms : Many, Profuse
-     Antonyms : Scarce, Deficient
+     S : Many, Profuse
+     A : Scarce, Deficient
 
 248. Obstruct
-     Synonyms : Impede, Prevent
-     Antonyms : Hasten, Encourage
+     S : Impede, Prevent
+     A : Hasten, Encourage
 
 249. Obliging
-     Synonyms : Complaisant, Willing
-     Antonyms : Obstinate, Unwilling
+     S : Complaisant, Willing
+     A : Obstinate, Unwilling
 
 250. Obscure
-     Synonyms : Arcane, Vague
-     Antonyms : Prominent, Clear
+     S : Arcane, Vague
+     A : Prominent, Clear
 
 251. Obstinate
-     Synonyms : Stubborn, Adamant
-     Antonyms : Pliable, Flexible
+     S : Stubborn, Adamant
+     A : Pliable, Flexible
 
 252. Obtain
-     Synonyms : Acquire, Attain
-     Antonyms : Forfeit, Lose
+     S : Acquire, Attain
+     A : Forfeit, Lose
 
 253. Obvious
-     Synonyms : Evident, Apparent
-     Antonyms : Obscure, Ambiguous
+     S : Evident, Apparent
+     A : Obscure, Ambiguous
 
 254. Odious
-     Synonyms : Hateful, Obnoxious
-     Antonyms : Engaging, Fascinating
+     S : Hateful, Obnoxious
+     A : Engaging, Fascinating
 
 255. Offensive
-     Synonyms : Abhorrent, Obnoxious
-     Antonyms : Engaging, Pleasant
+     S : Abhorrent, Obnoxious
+     A : Engaging, Pleasant
 
 256. Occult
-     Synonyms : Hidden, Ambiguous
-     Antonyms : Intelligible, Transparent
+     S : Hidden, Ambiguous
+     A : Intelligible, Transparent
 
 257. Offspring
-     Synonyms : Descendant, Child
-     Antonyms : Ancestor, Forefather
+     S : Descendant, Child
+     A : Ancestor, Forefather
 
 258. Ominous
-     Synonyms : Menacing, Foreboding
-     Antonyms : Auspicious, Promising
+     S : Menacing, Foreboding
+     A : Auspicious, Promising
 
 259. Opaque
-     Synonyms : Obscure, Cloudy
-     Antonyms : Transparent, Clear
+     S : Obscure, Cloudy
+     A : Transparent, Clear
 
 260. Optimist
-     Synonyms : Idealist, Positive Thinker
-     Antonyms : Pessimist
+     S : Idealist, Positive Thinker
+     A : Pessimist
 
 261. Oracular
-     Synonyms : Cryptic, Vague
-     Antonyms : Lucid, Distinct
+     S : Cryptic, Vague
+     A : Lucid, Distinct
 
 262. Ordain
-     Synonyms : Order, Decree
-     Antonyms : Revoke, Abolish
+     S : Order, Decree
+     A : Revoke, Abolish
 
 263. Ornamental
-     Synonyms : Decorative, Adorned
-     Antonyms : Plain, Unseemly
+     S : Decorative, Adorned
+     A : Plain, Unseemly
 
 264. Outbreak
-     Synonyms : Eruption, Insurrection
-     Antonyms : Compliance, Subjection
+     S : Eruption, Insurrection
+     A : Compliance, Subjection
 
 265. Outrage
-     Synonyms : Offence, Indignation
-     Antonyms : Praise, Favor
+     S : Offence, Indignation
+     A : Praise, Favor
 
 266. Pacify
-     Synonyms : Appease, Calm
-     Antonyms : Irritate, Worsen
+     S : Appease, Calm
+     A : Irritate, Worsen
 
 267. Persuade
-     Synonyms : Cajole, Convince
-     Antonyms : Dissuade, Deter
+     S : Cajole, Convince
+     A : Dissuade, Deter
 
 268. Perturbed
-     Synonyms : Flustered, Anxious
-     Antonyms : Calm, Composed
+     S : Flustered, Anxious
+     A : Calm, Composed
 
 269. Propagate
-     Synonyms : Spread, Multiply
-     Antonyms : Suppress, Deplete
+     S : Spread, Multiply
+     A : Suppress, Deplete
 
 270. Progress
-     Synonyms : Advance, Betterment
-     Antonyms : Retrogress, Worsen
+     S : Advance, Betterment
+     A : Retrogress, Worsen
 
 271. Prompt
-     Synonyms : Punctual, Quick
-     Antonyms : Slow, Negligent
+     S : Punctual, Quick
+     A : Slow, Negligent
 
 272. Prudence
-     Synonyms : Vigilance, Discretion
-     Antonyms : Indiscretion, Carelessness
+     S : Vigilance, Discretion
+     A : Indiscretion, Carelessness
 
 273. Pamper
-     Synonyms : Indulge, Spoil
-     Antonyms : Deny, Disparage
+     S : Indulge, Spoil
+     A : Deny, Disparage
 
 274. Paramount
-     Synonyms : Foremost, Eminent
-     Antonyms : Trivial, Inferior
+     S : Foremost, Eminent
+     A : Trivial, Inferior
 
 275. Peerless
-     Synonyms : Matchless, Unrivalled
-     Antonyms : Mediocre, Commonplace
+     S : Matchless, Unrivalled
+     A : Mediocre, Commonplace
 
 276. Peevish
-     Synonyms : Perverse, Sullen
-     Antonyms : Suave, Amiable
+     S : Perverse, Sullen
+     A : Suave, Amiable
 
 277. Pertness
-     Synonyms : Flippancy, Impudence
-     Antonyms : Modesty, Diffidence
+     S : Flippancy, Impudence
+     A : Modesty, Diffidence
 
 278. Perverse
-     Synonyms : Petulant, Obstinate
-     Antonyms : Complacent, Docile
+     S : Petulant, Obstinate
+     A : Complacent, Docile
 
 279. Placid
-     Synonyms : Tranquil, Calm
-     Antonyms : Turbulent, Hostile
+     S : Tranquil, Calm
+     A : Turbulent, Hostile
 
 280. Pompous
-     Synonyms : Haughty, Arrogant
-     Antonyms : Unpretentious, Humble
+     S : Haughty, Arrogant
+     A : Unpretentious, Humble
 
 281. Precarious
-     Synonyms : Doubtful, Insecure
-     Antonyms : Assured, Safe
+     S : Doubtful, Insecure
+     A : Assured, Safe
 
 282. Predicament
-     Synonyms : Plight, Dilemma
-     Antonyms : Resolution, Confidence
+     S : Plight, Dilemma
+     A : Resolution, Confidence
 
 283. Quack
-     Synonyms : Impostor, Deceiver
-     Antonyms : Upright, Genuine
+     S : Impostor, Deceiver
+     A : Upright, Genuine
 
 284. Quaint
-     Synonyms : Queer, Strange
-     Antonyms : Familiar, Usual
+     S : Queer, Strange
+     A : Familiar, Usual
 
 285. Quarantine
-     Synonyms : Isolate, Seclude
-     Antonyms : Befriend, Socialize
+     S : Isolate, Seclude
+     A : Befriend, Socialize
 
 286. Quell
-     Synonyms : Subdue, Suppress
-     Antonyms : Exacerbate, Agitate
+     S : Subdue, Suppress
+     A : Exacerbate, Agitate
 
 287. Quibble
-     Synonyms : Equivocate, Prevaricate
-     Antonyms : Plain, Frank
+     S : Equivocate, Prevaricate
+     A : Plain, Frank
 
 288. Raid
-     Synonyms : Incursion, Foray
-     Antonyms : Retreat, Release
+     S : Incursion, Foray
+     A : Retreat, Release
 
 289. Rapidity
-     Synonyms : Quickness, Velocity
-     Antonyms : Inertia, Slowness
+     S : Quickness, Velocity
+     A : Inertia, Slowness
 
 290. Reason
-     Synonyms : Acumen, Logic
-     Antonyms : Folly, Speculation
+     S : Acumen, Logic
+     A : Folly, Speculation
 
 291. Rebellious
-     Synonyms : Restless, Defiant
-     Antonyms : Submissive, Compliant
+     S : Restless, Defiant
+     A : Submissive, Compliant
 
 292. Rectify
-     Synonyms : Amend, Remedy
-     Antonyms : Falsify, Worsen
+     S : Amend, Remedy
+     A : Falsify, Worsen
 
 293. Reluctant
-     Synonyms : Averse, Unwilling
-     Antonyms : Anxious, Eager
+     S : Averse, Unwilling
+     A : Anxious, Eager
 
 294. Restrain
-     Synonyms : Detain, Confine
-     Antonyms : Incite, Release
+     S : Detain, Confine
+     A : Incite, Release
 
 295. Ratify
-     Synonyms : Consent, Approve
-     Antonyms : Deny, Dissent
+     S : Consent, Approve
+     A : Deny, Dissent
 
 296. Ravage
-     Synonyms : Destroy, Ruin
-     Antonyms : Reconstruct, Renovate
+     S : Destroy, Ruin
+     A : Reconstruct, Renovate
 
 297. Redeem
-     Synonyms : Recover, Liberate
-     Antonyms : Lose, Forfeit
+     S : Recover, Liberate
+     A : Lose, Forfeit
 
 298. Remnant
-     Synonyms : Residue, Remainder
-     Antonyms : Entire, Whole
+     S : Residue, Remainder
+     A : Entire, Whole
 
 299. Remonstrate
-     Synonyms : Protest, Object
-     Antonyms : Agree, Approve
+     S : Protest, Object
+     A : Agree, Approve
 
 300. Remorse
-     Synonyms : Regret, Penitence
-     Antonyms : Ruthlessness, Callousness
+     S : Regret, Penitence
+     A : Ruthlessness, Callousness
 
 301. Rescind
-     Synonyms : Annul, Abrogate
-     Antonyms : Delegate, Permit
+     S : Annul, Abrogate
+     A : Delegate, Permit
 
 302. Resentment
-     Synonyms : Displeasure, Wrath
-     Antonyms : Contentment, Cheer
+     S : Displeasure, Wrath
+     A : Contentment, Cheer
 
 303. Retract
-     Synonyms : Recant, Withdraw
-     Antonyms : Confirm, Assert
+     S : Recant, Withdraw
+     A : Confirm, Assert
 
 304. Reverence
-     Synonyms : Respect, Esteem
-     Antonyms : Disrespect, Affront
+     S : Respect, Esteem
+     A : Disrespect, Affront
 
 305. Rout
-     Synonyms : Vanquish, Overthrow
-     Antonyms : Succumb, Withdraw
+     S : Vanquish, Overthrow
+     A : Succumb, Withdraw
 
 306. Rustic
-     Synonyms : Rural, Uncivilized
-     Antonyms : Cultured, Refined
+     S : Rural, Uncivilized
+     A : Cultured, Refined
 
 307. Ruthless
-     Synonyms : Remorseless, Inhumane
-     Antonyms : Compassionate, Lenient
+     S : Remorseless, Inhumane
+     A : Compassionate, Lenient
 
 308. Sacred
-     Synonyms : Divine, Holy
-     Antonyms : Ungodly, Profane
+     S : Divine, Holy
+     A : Ungodly, Profane
 
 309. Savage
-     Synonyms : Wild, Untamed
-     Antonyms : Polished, Civilized
+     S : Wild, Untamed
+     A : Polished, Civilized
 
 310. Startled
-     Synonyms : Frightened, Shocked
-     Antonyms : Calm, Unperturbed
+     S : Frightened, Shocked
+     A : Calm, Unperturbed
 
 311. Steep
-     Synonyms : Lofty, Sharp
-     Antonyms : Flat, Gradual
+     S : Lofty, Sharp
+     A : Flat, Gradual
 
 312. Stranger
-     Synonyms : Immigrant, Guest
-     Antonyms : Acquaintance, Native
+     S : Immigrant, Guest
+     A : Acquaintance, Native
 
 313. Sublime
-     Synonyms : Magnificent, Eminent
-     Antonyms : Ridiculous, Inferior
+     S : Magnificent, Eminent
+     A : Ridiculous, Inferior
 
 314. Succinct
-     Synonyms : Concise, Terse
-     Antonyms : Lengthy, Verbose
+     S : Concise, Terse
+     A : Lengthy, Verbose
 
 315. Sympathy
-     Synonyms : Tenderness, Compassion
-     Antonyms : Antipathy, Discord
+     S : Tenderness, Compassion
+     A : Antipathy, Discord
 
 316. System
-     Synonyms : Scheme, Structure
-     Antonyms : Chaos, Disorder
+     S : Scheme, Structure
+     A : Chaos, Disorder
 
 317. Sarcastic
-     Synonyms : Ironical, Derisive
-     Antonyms : Courteous, Gracious
+     S : Ironical, Derisive
+     A : Courteous, Gracious
 
 318. Saucy
-     Synonyms : Impudent, Insolent
-     Antonyms : Modest, Humble
+     S : Impudent, Insolent
+     A : Modest, Humble
 
 319. Shrewd
-     Synonyms : Cunning, Crafty
-     Antonyms : Simple, Imbecile
+     S : Cunning, Crafty
+     A : Simple, Imbecile
 
 320. Scanty
-     Synonyms : Scarce, Insufficient
-     Antonyms : Lavish, Plentiful
+     S : Scarce, Insufficient
+     A : Lavish, Plentiful
 
 321. Servile
-     Synonyms : Slavish, Submissive
-     Antonyms : Aggressive, Dominant
+     S : Slavish, Submissive
+     A : Aggressive, Dominant
 
 322. Shabby
-     Synonyms : Miserable, Impoverished
-     Antonyms : Prosperous, Thriving
+     S : Miserable, Impoverished
+     A : Prosperous, Thriving
 
 323. Slander
-     Synonyms : Defame, Malign
-     Antonyms : Applaud, Approve
+     S : Defame, Malign
+     A : Applaud, Approve
 
 324. Sneer
-     Synonyms : Mock, Scorn
-     Antonyms : Flatter, Praise
+     S : Mock, Scorn
+     A : Flatter, Praise
 
 325. Solicit
-     Synonyms : Entreat, Implore
-     Antonyms : Protest, Oppose
+     S : Entreat, Implore
+     A : Protest, Oppose
 
 326. Subterfuge
-     Synonyms : Deceit, Stratagem
-     Antonyms : Frankness, Openness
+     S : Deceit, Stratagem
+     A : Frankness, Openness
 
 327. Stain
-     Synonyms : Blemish, Tarnish
-     Antonyms : Honor, Purify
+     S : Blemish, Tarnish
+     A : Honor, Purify
 
 328. Spurious
-     Synonyms : Fake, Counterfeit
-     Antonyms : Genuine, Authentic
+     S : Fake, Counterfeit
+     A : Genuine, Authentic
 
 329. Sporadic
-     Synonyms : Intermittent, Scattered
-     Antonyms : Incessant, Frequent
+     S : Intermittent, Scattered
+     A : Incessant, Frequent
 
 330. Spry
-     Synonyms : Nimble, Brisk
-     Antonyms : Lethargic, Sluggish
+     S : Nimble, Brisk
+     A : Lethargic, Sluggish
 
 331. Squalid
-     Synonyms : Dirty, Filthy
-     Antonyms : Tidy, Attractive
+     S : Dirty, Filthy
+     A : Tidy, Attractive
 
 332. Successful
-     Synonyms : Propitious, Felicitous
-     Antonyms : Destitute, Unsuccessful
+     S : Propitious, Felicitous
+     A : Destitute, Unsuccessful
 
 333. Sterile
-     Synonyms : Barren, Impotent
-     Antonyms : Profitable, Potent
+     S : Barren, Impotent
+     A : Profitable, Potent
 
 334. Stupor
-     Synonyms : Lethargy, Unconsciousness
-     Antonyms : Sensibility, Consciousness
+     S : Lethargy, Unconsciousness
+     A : Sensibility, Consciousness
 
 335. Subsequent
-     Synonyms : Following, Consequent
-     Antonyms : Preceding, Previous
+     S : Following, Consequent
+     A : Preceding, Previous
 
 336. Substantial
-     Synonyms : Considerable, Solid
-     Antonyms : Tenuous, Fragile
+     S : Considerable, Solid
+     A : Tenuous, Fragile
 
 337. Subvert
-     Synonyms : Demolish, Sabotage
-     Antonyms : Generate, Organize
+     S : Demolish, Sabotage
+     A : Generate, Organize
 
 338. Superficial
-     Synonyms : Shallow, Partial
-     Antonyms : Profound, Deep
+     S : Shallow, Partial
+     A : Profound, Deep
 
 339. Sycophant
-     Synonyms : Parasite, Flatterer
-     Antonyms : Loyal, Honest
+     S : Parasite, Flatterer
+     A : Loyal, Honest
 
 340. Taboo
-     Synonyms : Prohibit, Ban
-     Antonyms : Permit, Consent
+     S : Prohibit, Ban
+     A : Permit, Consent
 
 341. Taciturn
-     Synonyms : Reserved, Silent
-     Antonyms : Talkative, Extrovert
+     S : Reserved, Silent
+     A : Talkative, Extrovert
 
 342. Tedious
-     Synonyms : Wearisome, Irksome
-     Antonyms : Exhilarating, Lively
+     S : Wearisome, Irksome
+     A : Exhilarating, Lively
 
 343. Temperate
-     Synonyms : Cool, Moderate
-     Antonyms : Boisterous, Violent
+     S : Cool, Moderate
+     A : Boisterous, Violent
 
 344. Tenement
-     Synonyms : Apartment, Dwelling
-     Antonyms : Vacate, Dislodge
+     S : Apartment, Dwelling
+     A : Vacate, Dislodge
 
 345. Tenacious
-     Synonyms : Stubborn, Persistent
-     Antonyms : Docile, Yielding
+     S : Stubborn, Persistent
+     A : Docile, Yielding
 
 346. Throng
-     Synonyms : Assembly, Crowd
-     Antonyms : Dispersion, Sparsity
+     S : Assembly, Crowd
+     A : Dispersion, Sparsity
 
 347. Timid
-     Synonyms : Diffident, Cowardly
-     Antonyms : Bold, Intrepid
+     S : Diffident, Cowardly
+     A : Bold, Intrepid
 
 348. Tranquil
-     Synonyms : Peaceful, Composed
-     Antonyms : Violent, Furious
+     S : Peaceful, Composed
+     A : Violent, Furious
 
 349. Transient
-     Synonyms : Temporary, Transitory
-     Antonyms : Lasting, Enduring
+     S : Temporary, Transitory
+     A : Lasting, Enduring
 
 350. Trenchant
-     Synonyms : Forceful, Incisive
-     Antonyms : Feeble, Ambiguous
+     S : Forceful, Incisive
+     A : Feeble, Ambiguous
 
 351. Treacherous
-     Synonyms : Dishonest, Duplicitous
-     Antonyms : Forthright, Reliable
+     S : Dishonest, Duplicitous
+     A : Forthright, Reliable
 
 352. Trivial
-     Synonyms : Trifling, Insignificant
-     Antonyms : Significant, Important
+     S : Trifling, Insignificant
+     A : Significant, Important
 
 353. Tumultuous
-     Synonyms : Violent, Riotous
-     Antonyms : Peaceful, Harmonious
+     S : Violent, Riotous
+     A : Peaceful, Harmonious
 
 354. Tyro
-     Synonyms : Beginner, Novice
-     Antonyms : Proficient, Veteran
+     S : Beginner, Novice
+     A : Proficient, Veteran
 
 355. Tame
-     Synonyms : Compliant, Subdued
-     Antonyms : Wild, Untamed
+     S : Compliant, Subdued
+     A : Wild, Untamed
 
 356. Terse
-     Synonyms : Incisive, Compact
-     Antonyms : Diffuse, Lengthy
+     S : Incisive, Compact
+     A : Diffuse, Lengthy
 
 357. Thick
-     Synonyms : Chunky, Massive
-     Antonyms : Thin, Attenuated
+     S : Chunky, Massive
+     A : Thin, Attenuated
 
 358. Thrifty
-     Synonyms : Frugal, Prudent
-     Antonyms : Extravagant, Wasteful
+     S : Frugal, Prudent
+     A : Extravagant, Wasteful
 
 359. Tranquil
-     Synonyms : Amicable, Calm
-     Antonyms : Agitated, Fierce
+     S : Amicable, Calm
+     A : Agitated, Fierce
 
 360. Transparent
-     Synonyms : Diaphanous, Clear
-     Antonyms : Opaque
+     S : Diaphanous, Clear
+     A : Opaque
 
 361. Tremble
-     Synonyms : Vibrate, Quiver
-     Antonyms : Steady, Stabilize
+     S : Vibrate, Quiver
+     A : Steady, Stabilize
 
 362. Uncouth
-     Synonyms : Awkward, Ungraceful
-     Antonyms : Elegant, Refined
+     S : Awkward, Ungraceful
+     A : Elegant, Refined
 
 363. Utterly
-     Synonyms : Completely, Entirely
-     Antonyms : Partially, Incompletely
+     S : Completely, Entirely
+     A : Partially, Incompletely
 
 364. Umbrage
-     Synonyms : Chagrin, Offense
-     Antonyms : Sympathy, Goodwill
+     S : Chagrin, Offense
+     A : Sympathy, Goodwill
 
 365. Uncouth
-     Synonyms : Boorish, Clownish
-     Antonyms : Elegant, Refined
+     S : Boorish, Clownish
+     A : Elegant, Refined
 
 366. Urchin
-     Synonyms : Foundling, Orphan
-     Antonyms : Adult, Guardian
+     S : Foundling, Orphan
+     A : Adult, Guardian
 
 367. Urge
-     Synonyms : Incite, Implore
-     Antonyms : Deter, Discourage
+     S : Incite, Implore
+     A : Deter, Discourage
 
 368. Vain
-     Synonyms : Arrogant, Egoistic
-     Antonyms : Modest, Humble
+     S : Arrogant, Egoistic
+     A : Modest, Humble
 
 369. Vagrant
-     Synonyms : Wanderer, Roaming
-     Antonyms : Settled, Stable
+     S : Wanderer, Roaming
+     A : Settled, Stable
 
 370. Valor
-     Synonyms : Bravery, Prowess
-     Antonyms : Fear, Cowardice
+     S : Bravery, Prowess
+     A : Fear, Cowardice
 
 371. Vanity
-     Synonyms : Conceit, Pretension
-     Antonyms : Modesty, Humility
+     S : Conceit, Pretension
+     A : Modesty, Humility
 
 372. Venerable
-     Synonyms : Esteemed, Honored
-     Antonyms : Unworthy, Immature
+     S : Esteemed, Honored
+     A : Unworthy, Immature
 
 373. Venom
-     Synonyms : Poison, Malevolence
-     Antonyms : Antidote, Benevolence
+     S : Poison, Malevolence
+     A : Antidote, Benevolence
 
 374. Veteran
-     Synonyms : Experienced, Skilled
-     Antonyms : Novice, Tyro
+     S : Experienced, Skilled
+     A : Novice, Tyro
 
 375. Vicious
-     Synonyms : Corrupt, Immoral
-     Antonyms : Noble, Virtuous
+     S : Corrupt, Immoral
+     A : Noble, Virtuous
 
 376. Vigilant
-     Synonyms : Cautious, Alert
-     Antonyms : Careless, Negligent
+     S : Cautious, Alert
+     A : Careless, Negligent
 
 377. Vivacious
-     Synonyms : Spirited, Energetic
-     Antonyms : Dispirited, Dull
+     S : Spirited, Energetic
+     A : Dispirited, Dull
 
 378. Vilify
-     Synonyms : Malign, Defame
-     Antonyms : Cherish, Commend
+     S : Malign, Defame
+     A : Cherish, Commend
 
 379. Vouch
-     Synonyms : Confirm, Assure
-     Antonyms : Repudiate, Deny
+     S : Confirm, Assure
+     A : Repudiate, Deny
 
 380. Virtue
-     Synonyms : Morality, Goodness
-     Antonyms : Vice, Dishonesty
+     S : Morality, Goodness
+     A : Vice, Dishonesty
 
 381. Vivid
-     Synonyms : Eloquent, Lucid
-     Antonyms : Dull, Dim
+     S : Eloquent, Lucid
+     A : Dull, Dim
 
 382. Waive
-     Synonyms : Relinquish, Abandon
-     Antonyms : Impose, Enforce
+     S : Relinquish, Abandon
+     A : Impose, Enforce
 
 383. Wan
-     Synonyms : Pale, Faded
-     Antonyms : Bright, Healthy
+     S : Pale, Faded
+     A : Bright, Healthy
 
 384. Wane
-     Synonyms : Decline, Dwindle
-     Antonyms : Rise, Increase
+     S : Decline, Dwindle
+     A : Rise, Increase
 
 385. Wary
-     Synonyms : Cautious, Circumspect
-     Antonyms : Heedless, Negligent
+     S : Cautious, Circumspect
+     A : Heedless, Negligent
 
 386. Wed
-     Synonyms : Marry, Combine
-     Antonyms : Divorce, Separate
+     S : Marry, Combine
+     A : Divorce, Separate
 
 387. Wicked
-     Synonyms : Vicious, Immoral
-     Antonyms : Virtuous, Noble
+     S : Vicious, Immoral
+     A : Virtuous, Noble
 
 388. Wield
-     Synonyms : Exert, Employ
-     Antonyms : Forgo, Avoid
+     S : Exert, Employ
+     A : Forgo, Avoid
 
 389. Wile
-     Synonyms : Trickery, Artifice
-     Antonyms : Naivety, Honesty
+     S : Trickery, Artifice
+     A : Naivety, Honesty
 
 390. Winsome
-     Synonyms : Charming, Attractive
-     Antonyms : Unpleasant, Repulsive
+     S : Charming, Attractive
+     A : Unpleasant, Repulsive
 
 391. Wilt
-     Synonyms : Wither, Perish
-     Antonyms : Revive, Bloom
+     S : Wither, Perish
+     A : Revive, Bloom
 
 392. Yell
-     Synonyms : Shout, Shriek
-     Antonyms : Whisper, Murmur
+     S : Shout, Shriek
+     A : Whisper, Murmur
 
 393. Yield
-     Synonyms : Surrender, Abdicate
-     Antonyms : Resist, Protest
+     S : Surrender, Abdicate
+     A : Resist, Protest
 
 394. Yearn
-     Synonyms : Crave, Long
-     Antonyms : Content, Satisfy
+     S : Crave, Long
+     A : Content, Satisfy
 
 395. Yoke
-     Synonyms : Connect, Harness
-     Antonyms : Liberate, Release
+     S : Connect, Harness
+     A : Liberate, Release
 
 396. Zeal
-     Synonyms : Eagerness, Fervor
-     Antonyms : Apathy, Lethargy
+     S : Eagerness, Fervor
+     A : Apathy, Lethargy
 
 397. Zenith
-     Synonyms : Summit, Apex
-     Antonyms : Nadir, Base
+     S : Summit, Apex
+     A : Nadir, Base
 
 398. Zest
-     Synonyms : Delight, Enthusiasm
-     Antonyms : Disgust, Apathy
+     S : Delight, Enthusiasm
+     A : Disgust, Apathy
 
 399. Zig-zag
-     Synonyms : Oblique, Wayward
-     Antonyms : Straight, Direct
+     S : Oblique, Wayward
+     A : Straight, Direct
 
 400. Zany
-     Synonyms : Crazy, Foolish
-     Antonyms : Sane, Sensible
+     S : Crazy, Foolish
+     A : Sane, Sensible

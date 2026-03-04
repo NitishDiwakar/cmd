@@ -1,5 +1,6 @@
 ============================
 Title : NCERT 
-Tags  : #
+Tags  : #nomail #noview
 Descr : 
 ============================
+
