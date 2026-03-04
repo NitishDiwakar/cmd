@@ -29,4 +29,7 @@ git sparse-checkout set '/*' '!/s/img/'
 # Ignore local changes and pull from main branch
 git fetch origin && git reset --hard origin/main && git clean -fd
 
+# Git pull from a parent directory to subdirectory
+git -C my_project pull
+
 
