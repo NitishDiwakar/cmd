@@ -30,10 +30,62 @@ GOTO:14-natural-resources
 TAG:1-matter-in-our-surroundings
 *1-matter-in-our-surroundings*
 
+Kinetic Energy
+  - Energy an object has because of its motion
+
+Melting point of ice
+  -> 273.15K
+
+Boiling point of water
+  -> 373K
+
+*Sublimition* 
+  - Solid to gas
+
+*Deposition* 
+  - Gas to solid
+
+Atmosphere (atm) 
+  - Unit of measuring pressure 
+
+Acetone
+  - In nail polish
+
+Bose Einstein Condensate (BEC)
+  - 5th state of matter
+  - Nobel pr. 2001
+  - Cooling a gas of extremely low density
+  - Eric A. Cornell; Wolfgang Ketterle; Carl E. Wieman
+
+*Latent heat* of vaporisation 
+  - Heat energy required to change 1 kg of liquid to gas at atmospheric pressure at its boiling point
+
+*Quantity-Unity-Symbol*
+Temperature
+  - Kelvin (K)
+Weight
+  - Newton (N)
+Volume
+  - Cubic metre (m^3)
+Density
+  - kilogram per cubic metre (kg m^3)
 
 GOTO:home
 TAG:2-is-matter-around-us-pure
 *2-is-matter-around-us-pure*
+Brass => Zinc(30%) + Copper(70%)
+
+*Tincture of iodine*
+  - Solution of iodine in alcohol
+
+Robert Boyle
+  - "Element" (1961)
+
+Mercury, Bromine
+  - Liquid at room temperature
+
+*Kelvin = Celcius + 273.15*
+
 
 
 GOTO:home
