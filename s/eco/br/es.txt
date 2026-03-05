@@ -4,18 +4,32 @@ Tags  : #data #br
 Descr : 
 ============================
 
-8.6% (Constant price - GSDP growing)
-13.1% (Current price)
+Constant price - GSDP growing
+  - 8.6%
+Current price
+  - 13.1%
 
-₹10.97 lakh crore (GSDP for 2025-26)
-22% (growth over previous year)
-
-54.8%, 26.8%, 18.3% (Tertiary, secondary, primary) - Contributions
-
-13.5%, 15.5%, 9.6% (Tertiary, secondary, primary) - Sectoral growth rates
+GSDP for 2025-26
+  - ₹10.97 lakh crore
+growth over previous year
+  - 22% 
 
 
-3% of GSDP (₹32,718 crore) for (Aim for fiscal deficit for 2025-26)
-₹8,831 crore (Revenue surplus estimated)
+Contributions
+  - Tertiary  : 54.8%
+  - Secondary : 26.8%
+  - Primary   : 18.3% 
+
+Sectoral growth
+  - Tertiary  : 13.5%
+  - Secondary : 15.5%
+  - Primary   : 9.6%
+
+
+Revenue surplus estimated
+  - 3% of GSDP (₹32,718 crore) 
+
+Aim for fiscal deficit for 2025-26
+  - ₹8,831 crore 
 
 

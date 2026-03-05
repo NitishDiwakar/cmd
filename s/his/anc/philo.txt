@@ -5,51 +5,69 @@ Descr :
 ============================
 
 
-School of Philosophy      Founder
+School of Philosophy : Founder
 ----------------------------------------------
-Nyaya                     Marharshi Gautam
-Sankhya                   Marharshi Kapil
-Mimansa                   Marharshi Jaimini
-Yoga                      Marharshi Patanjali
-Charvak                   Charvak
-Vaisheshik                Marharshi Kanad
-Vedanta                   Marharshi Badrayan, Vyasa
-Lingayat                  Marharshi Vasvaraj
+Nyaya
+  - Marharshi Gautam
+
+*Sankhya*
+  - Marharshi Kapil
+
+Mimansa
+  - Marharshi Jaimini
+
+Yoga
+  - Marharshi Patanjali
+
+Lokayat
+  - Charvak
+
+*Vaisheshik*
+  - Marharshi Kanad
+
+*Vedanta*
+  - Marharshi Badrayan, Vyasa
+
+*Lingayat*
+  - Marharshi Vasvaraj
 
 
-----------------------------------------------------------------------
-VEDAS
-----------------------------------------------------------------------
+---Vedas---
 
 Veda            Details
 --------------------------------------------------------------
 
-Rigveda         - Vishvamitra
-                - Gayatrimantra
-                - Prayers
-                - Brahman granth: Aitreya, Kaushitki
+Rigveda
+  - Vishvamitra
+  - Gayatrimantra
+  - Prayers
+  - Brahman granth: Aitreya, Kaushitki
 
-Samveda         - Singing
-                - Granth: Shadvinsh
-                - Purohit: Brahman
+Samveda
+  - Singing
+  - Granth: Shadvinsh
+  - Purohit: Brahman
 
-Yajurveda       - Granth: Shatpath
-                - Purohit: Adhvaryu
+Yajurveda
+  - Granth: Shatpath
+  - Purohit: Adhvaryu
 
-Atharvaveda     - Magic etc,
-                - Brahman granth: Gopath
-                - Purohit: Brahma
+Atharvaveda
+  - Magic etc,
+  - Brahman granth: Gopath
+  - Purohit: Brahma
 
 
-----------------------------------------------------------------------
-UPNISHADS
-----------------------------------------------------------------------
+---Upnishads---
 
-Upnishad                Facts
---------------------------------------------------------------
+Chhandogya Upnishad   
+  - Details of Krishna
 
-Chhandogya Upnishad     - Details of Krishna
+Mundak Upnishad       
+  - Satyameva Jayate
 
-Mundak Upnishad         - Satyameva Jayate
+Kathopnishad          
+  - Yam-Nachiketa Samvad
 
-Kathopnishad            - Yam-Nachiketa Samvad
+Maha Upnishad
+  - *Vasudhaiva Kutumbakam*

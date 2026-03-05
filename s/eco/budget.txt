@@ -1,20 +1,27 @@
 ============================
-Title : Budget 2026-27
+Title : Budget 
 Tags  : #Budget
 Descr : 
 ============================
 
-Theme  : Reform, Perform ,Transform
-Target :
-  4.3% Fiscal deficit (4.4% in 2025-26)
-  10.5% Nominal GDP growth
+*2026-27*
+Theme
+  - *Reform, Perform ,Transform*
 
-Capex : ₹12.2 lakh crore
+Target
+  - 4.3% Fiscal deficit (4.4% in 2025-26)
+  - 10.5% Nominal GDP growth
 
-10.5% & 7% (Nominal and Real GDP growth rate assumption)
+Capex
+  - ₹12.2 lakh crore
 
-₹53,47,315 crore (7.5% rise) - Total expenditure
+Nominal and Real GDP growth rate assumption
+  - 10.5% & 7% 
 
-55.6% (debt to GDP target)
+Total expenditure
+  - ₹53,47,315 crore (7.5% rise)
+
+Debt to GDP target
+  - 55.6% 
 
 

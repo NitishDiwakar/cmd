@@ -19,6 +19,10 @@ App
     - Anti radiation missile (name = ?)
 
 
+---Polity---
+  - New cm/governor
+  - Women commission head
+
 
 
 *International*
@@ -38,6 +42,9 @@ App
 
   - Maraton
     - London marathon (Winner)
+
+---Awards---
+  - Int. Gandhi Peace Prize
 
 Operation xyz
 

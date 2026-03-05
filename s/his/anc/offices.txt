@@ -4,16 +4,35 @@ Tags        : #
 Description :
 =================================
 
-Mahapaksha-patalik  : Head of Account dept
-Mahapilupati        : Elephant
-Mahasandhivigrahika : War and peace
-Pradeshta           : Chief - criminal court
+Mahapaksha-patalik
+  - Head of Account dept
 
-Pradeshika          : Chief - revenue officer
-Gopa                : Accounts
-Akshapatala         : Record keeping, accounts
-Panyadhyaksha       : Commerce
+Mahapilupati
+  - Elephant
 
-Samasthadhyaksha    : market
-Navadhyaksha        : Ships
-Akaradhyaksha       : mines
+Mahasandhivigrahika
+  - War and peace
+
+Pradeshta
+  - Chief - criminal court
+
+Pradeshika
+  - Chief - revenue officer
+
+Gopa
+  - Accounts
+
+Akshapatala
+  - Record keeping, accounts
+
+Panyadhyaksha
+  - Commerce
+
+Samasthadhyaksha
+  - market
+
+Navadhyaksha
+  - Ships
+
+Akaradhyaksha
+  - mines

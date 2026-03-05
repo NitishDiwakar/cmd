@@ -1,7 +1,7 @@
 ============================
 Title : Syllabus - BSSC
-Tags  : #
+Tags  : #nomail #noview
 Descr :
 ============================
 
-IMG:syllabus-aedo.jpg
+IMG:syllabus-bssc.jpg
