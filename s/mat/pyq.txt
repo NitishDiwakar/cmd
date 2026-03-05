@@ -13,24 +13,29 @@ TAG:Aso-Mains-2026
 91. If the cost price of 16 tables is equal to the selling price of 12 tables, the the gain % is:
 (A) 30
 (B) 15
-(C) 33x1/3
+(C) 33x1/3 ✔
 (D) 20
+  - 16SP = 12CP
+  - 4SP  = 3CP
+  - 1
+  - gain % = 1/3 * 100
+  - 33x1/3 
 
 92. In a mixture of 60 litres, the ratio of acid and water is 2:1. If the ratio of acid and water is to be 1:2, then the amount of water (in litres) to be added to the mixture will be
 (A) 50
 (B) 45
 (C) 55
-(D) 60
+(D) 60 ✔
 
 93. An electronic device makes a beep after every 60 seconds. Another device makes a beep after every 62 seconds. They beeped together at 10:00 a.m. The next time they would beep together at the earliest is
 (A) 10:30 a.m.
-(B) 10:31 a.m.
+(B) 10:31 a.m. ✔
 (C) 10:59 a.m.
 (D) 11:00 a.m.
 
 94. A school starts at 10:00 a.m. and lasts till 01:27 p.m. Four periods are held during this interval. After every period, 5 minutes rest is given to the students. The exact duration of each period is
 (A) 42 minutes
-(B) 48 minutes
+(B) 48 minutes ✔
 (C) 51 minutes
 (D) 53 minutes
 
@@ -38,11 +43,14 @@ TAG:Aso-Mains-2026
 (A) 19
 (B) 20
 (C) 14
-(D) 13
+(D) 13 ✔
+  - Digit 5 from 1–99 = 19
+  - Multiples of 3 with 5 → 15, 45, 75, 51, 54, 57
+  - Remove 6 occurrences
 
 96. The value of (1 + 1/2)(1 + 1/3)(1 + 1/4) ......... (1 + 1/120) is
 (A) 40.5
-(B) 60.5
+(B) 60.5 ✔
 (C) 30.3
 (D) 30.0
 
@@ -50,25 +58,32 @@ TAG:Aso-Mains-2026
 (A) 9971
 (B) 9961
 (C) 9981
-(D) 9951
+(D) 9951 ✔
 
 98. When it is 25 past 4 on the clock, the angle between its minute hand and hour hand is
-(A) 17.5°
+(A) 17.5° ✔
 (B) 13.5°
 (C) 19°
 (D) 10°
+  -> *(30H +- 11/2M)*
+  -> 30*4 +- 11/2*25
+  -> 120 +- 137.5
+  -> 17.5
 
 99. The sum of 1.2, 12.02, 122.002, 2, 1200.22, 2.02 and 0.202 is
 (A) 3339.464
 (B) 1339.446
-(C) 1339.664
+(C) 1339.664 ✔
 (D) 2339.664
+  -> First add integer part
+  -> then only add last most digit (4)
 
 100. If the salary of an officer is increased by 25% and then decreased by 25%, then what is the net percentage change in his salary?
 (A) 0%
 (B) 5%
-(C) 6.25%
+(C) 6.25% ✔
 (D) 2.5%
+  -> *(percentage change = x^2/100)*
 
 112. Tomy marks a price on a product in order to make 20% profit. Bony gets 10% discount on this marked price and thus saves Rs. 15. Then, the profit in rupees made by Tomy by selling the product to Bony is
 (A) 10

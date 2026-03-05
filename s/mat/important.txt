@@ -4,8 +4,9 @@ Tags  : #imp
 Descr : A quick recap of important topics
 ============================
 
+TAG:top
 GOTO:number-system
-GOTO:hcf-and-lcmf-of-numbers
+GOTO:hcf-and-lcm-of-numbers
 GOTO:decimal-fractions
 GOTO:simplification
 GOTO:square-roots-and-cube-roots
@@ -49,117 +50,207 @@ GOTO:compound-interest
 
 TAG:number-system
 *number-system*
+1. The value of (1 + 1/2)(1 + 1/3)(1 + 1/4) ......... (1 + 1/120) is: (ASO Mains)
+(A) 40.5
+(B) 60.5 ✔
+(C) 30.3
+(D) 30.0
 
-TAG:hcf-and-lcmf-of-numbers
+2. The largest 4-digit number divisible by 93 is
+(A) 9971
+(B) 9961
+(C) 9981
+(D) 9951 ✔
+
+GOTO:top
+TAG:hcf-and-lcm-of-numbers
 *hcf-and-lcmf-of-numbers*
+1. An electronic device makes a beep after every 60 seconds. Another device makes a beep after every 62 seconds. They beeped together at 10:00 a.m. The next time they would beep together at the earliest is: (ASO Mains)
+(A) 10:30 a.m.
+(B) 10:31 a.m. ✔
+(C) 10:59 a.m.
+(D) 11:00 a.m.
 
+GOTO:top
 TAG:decimal-fractions
 *decimal-fractions*
 
+GOTO:top
 TAG:simplification
 *simplification*
 
+GOTO:top
 TAG:square-roots-and-cube-roots
 *square-roots-and-cube-roots*
 
+GOTO:top
 TAG:average
 *average*
 
+GOTO:top
 TAG:problems-on-numbers
 *problems-on-numbers*
 
+GOTO:top
 TAG:problemss-on-ages
 *problemss-on-ages*
 
+GOTO:top
 TAG:surds-and-indices
 *surds-and-indices*
 
+GOTO:top
 TAG:logarithms
 *logarithms*
 
+GOTO:top
 TAG:percentage
 *percentage*
+1. If the salary of an officer is increased by 25% and then decreased by 25%, then what is the net percentage change in his salary? (ASO Mains)
+(A) 0%
+(B) 5%
+(C) 6.25% ✔
+(D) 2.5%
+  -> *(percentage change = x^2/100)*
 
+GOTO:top
 TAG:profit-and-loss
 *profit-and-loss*
+1. If the cost price of 16 tables is equal to the selling price of 12 tables, the the gain % is: (ASO Main)
+(A) 30
+(B) 15
+(C) 33x1/3 ✔
+(D) 20
+  -> 16SP = 12CP
+  -> 4SP  = 3CP
+  -> 1
+  -> gain % = 1/3 * 100
+  -> 33x1/3 
 
+
+GOTO:top
 TAG:ratio-and-proportion
 *ratio-and-proportion*
 
+GOTO:top
 TAG:partnership
 *partnership*
 
+GOTO:top
 TAG:chain-rule
 *chain-rule*
 
+GOTO:top
 TAG:pipes-and-cisterns
 *pipes-and-cisterns*
 
+GOTO:top
 TAG:time-and-work
 *time-and-work*
 
+GOTO:top
 TAG:time-and-distance
 *time-and-distance*
 
+GOTO:top
 TAG:boats-and-streams
 *boats-and-streams*
 
+GOTO:top
 TAG:problems-on-trains
 *problems-on-trains*
 
+GOTO:top
 TAG:mixture-and-alligation
 *mixture-and-alligation*
+1. In a mixture of 60 litres, the ratio of acid and water is 2:1. If the ratio of acid and water is to be 1:2, then the amount of water (in litres) to be added to the mixture will be: (ASO Mains)
+(A) 50
+(B) 45
+(C) 55
+(D) 60 ✔
 
+GOTO:top
 TAG:simple-interest
 *simple-interest*
 
+GOTO:top
 TAG:compound-interest
 *compound-interest*
 
+GOTO:top
 TAG:area
 *area*
 
+GOTO:top
 TAG:volume-and-surface-area
 *volume-and-surface-area*
 
+GOTO:top
 TAG:races-and-games-of-skill
 *races-and-games-of-skill*
 
+GOTO:top
 TAG:calendar
 *calendar*
 
+GOTO:top
 TAG:clocks
 *clocks*
+1. When it is 25 past 4 on the clock, the angle between its minute hand and hour hand is: (ASO Mains)
+(A) 17.5° ✔
+(B) 13.5°
+(C) 19°
+(D) 10°
+  -> *(30H +- 11/2M)*
+  -> 30 x 4 +- 11/2 x 25
+  -> 120 +- 137.5
+  -> 17.5
 
+GOTO:top
 TAG:stocks-and-shares
 *stocks-and-shares*
 
+GOTO:top
 TAG:permutations-and-combinations
 *permutations-and-combinations*
+1. How many times the digit 5 will come if we write from 1 to 99 and exclude those numbers which are divisible by 3? (ASO Mains)
+(A) 19
+(B) 20
+(C) 14
+(D) 13
 
+GOTO:top
 TAG:probability
 *probability*
 
+GOTO:top
 TAG:true-discount
 *true-discount*
 
+GOTO:top
 TAG:bankers-discount
 *bankers-discount*
 
+GOTO:top
 TAG:height-and-distances
 *height-and-distances*
 
+GOTO:top
 TAG:odd-man-out-and-series
 *odd-man-out-and-series*
 
+GOTO:top
 TAG:problems-on-trains
 *problems-on-trains*
 
+GOTO:top
 TAG:alligation-or-mixture
 *alligation-or-mixture*
 
+GOTO:top
 TAG:simple-interest
 *simple-interest*
 
+GOTO:top
 TAG:compound-interest
 *compound-interest*
