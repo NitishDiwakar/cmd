@@ -1,10 +1,12 @@
 ============================
 Title : Mathematics PYQ
-Tags  : #nomail #noview
-Descr :
+Tags  : #imp
+Descr : PYQ of some recent exams
 ============================
+TAG:top
 GOTO:Aso-Mains-2026
 GOTO:Aso-Pre-2025
+
 
 TAG:Aso-Mains-2026
 [*ASO Mains 2026*]
@@ -96,6 +98,7 @@ From which of the above statements, the largest possible integer of these number
 (D) 10
 
 
+GOTO:top
 TAG:Aso-Pre-2025
 [*ASO Pre 2025*] (Set-I)
 1. If x + 1/x = 3 then the value of x² + 1/x² is
