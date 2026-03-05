@@ -147,6 +147,11 @@ TAG:pipes-and-cisterns
 GOTO:top
 TAG:time-and-work
 *time-and-work*
+1. A and B working separately can finish a work in 8 and 12 days respectively. If they work for a day alternatively (beginning with A), then in how many days will the work be completed?
+(A) 9
+(B) 9.5 ✔
+(C) 9.8
+(D) 10
 
 GOTO:top
 TAG:time-and-distance

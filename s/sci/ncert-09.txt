@@ -4,6 +4,7 @@ Tags  : #nomail #noview
 Descr : 
 ============================
 
+TAG:home
 GOTO:1-matter-in-our-surroundings
 GOTO:2-is-matter-around-us-pure
 GOTO:3-atoms-and-molecues
@@ -30,45 +31,57 @@ TAG:1-matter-in-our-surroundings
 *1-matter-in-our-surroundings*
 
 
+GOTO:home
 TAG:2-is-matter-around-us-pure
 *2-is-matter-around-us-pure*
 
 
+GOTO:home
 TAG:3-atoms-and-molecues
 *3-atoms-and-molecues*
 
 
+GOTO:home
 TAG:4-structure-of-the-atom
 *4-structure-of-the-atom*
 
 
+GOTO:home
 TAG:5-the-fundamental-unit-of-life
 *5-the-fundamental-unit-of-life*
 
 
+GOTO:home
 TAG:6-tissues
 *6-tissues*
 
 
+GOTO:home
 TAG:7-motion
 *7-motion*
 
 
+GOTO:home
 TAG:8-force-and-laws-of-motion
 *8-force-and-laws-of-motion*
 
 
+GOTO:home
 TAG:9-gravitation
 *9-gravitation*
 
 
+GOTO:home
 TAG:10-work-and-energy
 *10-work-and-energy*
 
+
+GOTO:home
 TAG:11-sound
 *11-sound*
 
 
+GOTO:home
 TAG:12-improvement-in-food-resources
 *12-improvement-in-food-resources*
 
@@ -80,9 +93,15 @@ TAG:7-diversity-in-living-organisms
 *7-diversity-in-living-organisms*
 
 
+GOTO:home
 TAG:13-why-do-we-fall-ill
 *13-why-do-we-fall-ill*
 
 
+GOTO:home
 TAG:14-natural-resources
 *14-natural-resources*
+
+
+
+GOTO:home

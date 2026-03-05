@@ -85,13 +85,13 @@ TAG:Aso-Mains-2026
 (D) 2.5%
   -> *(percentage change = x^2/100)*
 
-112. Tomy marks a price on a product in order to make 20% profit. Bony gets 10% discount on this marked price and thus saves Rs. 15. Then, the profit in rupees made by Tomy by selling the product to Bony is
-(A) 10
+*112*. Tomy marks a price on a product in order to make 20% profit. Bony gets 10% discount on this marked price and thus saves Rs. 15. Then, the profit in rupees made by Tomy by selling the product to Bony is
+(A) 10 ✔
 (B) 15
 (C) 20
 (D) 25
 
-113. The median of 11 different positive integers is 15 and seven of those 11 integers are 8, 12, 20, 6, 14, 22 and 13.
+*113*. The median of 11 different positive integers is 15 and seven of those 11 integers are 8, 12, 20, 6, 14, 22 and 13.
 Statement I: The difference between the averages of four largest integers and four smallest integers is 13.25.
 Statement II: The average of all the 11 integers is 16.
 From which of the above statements, the largest possible integer of these numbers can be determined?
@@ -100,7 +100,7 @@ From which of the above statements, the largest possible integer of these number
 (C) Both Statement I and Statement II
 (D) None of Statement I and Statement II
 
-114. From the given pair (x, y) of positive integers, such that 4x - 17y = 1 and x < 1000, how many integer values of y satisfy the given conditions?
+*114*. From the given pair (x, y) of positive integers, such that 4x - 17y = 1 and x < 1000, how many integer values of y satisfy the given conditions?
 (A) 56
 (B) 57
 (C) 58
@@ -108,7 +108,7 @@ From which of the above statements, the largest possible integer of these number
 
 115. A and B working separately can finish a work in 8 and 12 days respectively. If they work for a day alternatively (beginning with A), then in how many days will the work be completed?
 (A) 9
-(B) 9.5
+(B) 9.5 ✔
 (C) 9.8
 (D) 10
 
