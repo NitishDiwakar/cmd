@@ -92,5 +92,7 @@ sudo systemctl restart smb nmb
 # Count no of .txt files inside a directory recursively
 find /path/to/directory -type f -name "*.txt" | wc -l
 
+# Show last 5 modified .txt files
+find . -type f -iname "*.txt" -printf '%T@ %p\0' | sort -zk1nr | head -z -n 5 | cut -z -f2- -d' ' | tr '\0' '\n'
 
 
