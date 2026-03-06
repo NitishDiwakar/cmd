@@ -1,0 +1,110 @@
+============================
+Title : New PM/President
+Tags  : #
+Descr :
+============================
+
+Ukraine
+  - Volodymyr Zelenskyy (President)
+  - Yulia Svyrydenko (PM)
+
+Bolivia
+  - Rodrigo Arce (President)
+
+Cameroon
+  - Paul Biya (President)
+  - Joseph Ngute (PM)
+
+Tanzania
+  - Samia Suluhu Hassan (President)
+  - Majaliwa Nchemba (PM)
+
+Ireland
+  - Michael Martin (PM)
+
+Czech Republic
+  - Petr Pavel (President)
+  - Andrej Babis (PM)
+
+Australia
+  - Anthony Albanese (PM)
+
+Georgia
+  - Mikheil Kavelashvili (President)
+  - Irakli Kobakhidze (PM)
+
+Moldova
+  - Maia Sandu (President)
+
+Belgium
+  - Bart de Wever (PM)
+
+Croatia
+  - Zoran Milanovic (President)
+
+Lebanon
+  - Nawaf Salam (PM)
+
+Austria
+  - Christian Stocker (Chancellor)
+
+Canada
+  - Mark Carney (PM)
+
+Germany
+  - Friedrich Merz (Chancellor)
+
+Portugal
+  - Luis Montenegro (PM)
+
+South Korea
+  - Lee Jae-myung (President)
+  - Kim Min-seok (PM)
+
+Poland
+  - Karol Nawrocki (President)
+
+Trinidad and Tobago
+  - Christine Kangaloo (President)
+  - Kamla Persad Bissessar (PM)
+
+Sri Lanka
+  - Anura Kumara Dissanayake (President)
+  - Dr. Harini Amarasuriya (PM)
+
+Japan
+  - Sanae Takaichi (PM)
+
+Mauritius
+  - Dharambeer Gokhool (President)
+  - Navin Ramgoolam (PM)
+
+Vietnam
+  - Luong Cuong (President)
+  - Pham Minh Chinh (PM)
+
+Pakistan
+  - Asif Ali Zardari (President)
+  - Shahbaz Sharif (PM)
+
+Kuwait
+  - Mishal Al-Ahmad Al-Sabah (Emir)
+  - Ahmed Abdullah Al-Ahmad Al-Sabah (PM)
+
+Thailand
+  - Paetongtarn Shinawatra (PM)
+
+Nepal
+  - Ram Chandra Poudel (President)
+  - K. P. Sharma Oli (PM)
+
+Britain
+  - King Charles III (Monarch)
+  - Keir Starmer (PM)
+
+France
+  - Emmanuel Macron (President)
+  - Francois Bayrou (PM)
+
+South Africa
+  - Cyril Ramaphosa (President)

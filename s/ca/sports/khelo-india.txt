@@ -5,10 +5,31 @@ Descr :
 ============================
 
 TAG:top
+GOTO:khelo-india-winter-games-2026
 GOTO:khelo-india-winter-games-2025
 GOTO:7th-khelo-india-youth-games-2025
 GOTO:khelo-india-winter-games-2024
 GOTO:khelo-india-university-games-2024
+
+
+TAG:khelo-india-winter-games-2026
+*6th Khelo India Winter Games 2026*
+
+Mascot
+  - *Sheen-e-Shee* (Snow Leopard)
+
+Winners:
+  - 1. Indian Army (23 Medals- 9 Gold, 6 silver, 8 br)
+  - 2. Himachal (6 gold)
+  - 3. Haryana (4 gold)
+  - 4. MH
+
+Phases
+  - 1st 20-26 January (Leh), 
+  - 2nd 23-26 February (Gulmarg)
+
+Game first time included
+  - Figure skating
 
 
 TAG:khelo-india-winter-games-2025
@@ -16,8 +37,12 @@ TAG:khelo-india-winter-games-2025
 Event
   - Leh (Ladakh) & Gulmarg (J & K) (in two stages)
 
-1st Stage
-  - 23-27 January (Leh), 2nd - 22-25 February (Gulmarg)
+Winners:
+  - 1. Services 2. Himachal 3. Ladakh
+
+Phases
+  - 1st 23-27 January (Leh), 
+  - 2nd - 22-25 February (Gulmarg)
 
 Mascot
   - Sheen-e-Shee (Snow Leopard)
@@ -86,3 +111,10 @@ Second place
   - Karnataka (9-gold, 2-silver, 0-bronze, total-11)
 
 
+---GK---
+1st Khelo India Winter Games
+  - 2020
+  - Jammu & Kashmir (winner)
+
+Sports Minister
+  - Mansukh Mandvia
