@@ -6,42 +6,131 @@ Descr :
 
 IMG:ramsar-sites.jpg
 
-BR       : Kanwar(Begusarai), Nagi & Nakti(Jamui), Gogabeel(Katihar), Gokul Jalashay(Buxar), Udaipur Lake(West Champaran)
+BR
+  - Kanwar(Begusarai)
+  - Nagi & Nakti(Jamui)
+  - Gogabeel(Katihar)
+  - Gokul Jalashay(Buxar)
+  - Udaipur Lake(West Champaran)
 
-J&K      : Hokersar, Surinsar-Mansar, Wular lake, Salbagh, Hygam
+J&K
+  - Hokersar
+  - Surinsar-Mansar
+  - Wular lake
+  - Salbagh
+  - Hygam
 
-Ladakh   : Tsomoriri, Tso kar
+Ladakh
+  - Tsomoriri
+  - Tso kar
 
-Himachal : Chandra Taal, Pong Dam, Renuka 
+Himachal
+  - Chandra Taal
+  - Pong Dam
+  - Renuka
 
-UK       : Asan Barrage
+UK
+  - Asan Barrage
 
-UP       : Upper Ganga, Sur Sagar, Sarsai Nawar jheel, Sandhi BS, Saman BS, Samaspur BS, Nawabganj BS (Chandrasekhar Aazad), Parvati ARga BS, Bahikra, Haiderpur
+UP
+  - Upper Ganga
+  - Sur Sagar
+  - Sarsai Nawar jheel
+  - Sandhi BS
+  - Saman BS
+  - Samaspur BS
+  - Nawabganj BS (Chandrasekhar Aazad)
+  - Parvati ARga BS
+  - Bahikra
+  - Haiderpur
 
-MP       : Bhoj wetland, Sankhya sagar, Sirpur lake, yaswant sagar,
+MP
+  - Bhoj wetland
+  - Sankhya sagar
+  - Sirpur lake
+  - yaswant sagar
+  - Tawa Reservoir
 
-GJ       : Nalsarovar, Khijadia, Thol lake, Wadhavan
+GJ
+  - Nalsarovar
+  - Khijadia
+  - Thol lake
+  - Wadhavan
 
-JH       : Udhwa lake
+JH
+  - Udhwa lake
 
-Od       : Ansupa lake, Tampara lake, Satkosia lake, Hirakund reservior, Chilika lake, Bhitarkanika mangrove
+Od
+  - Ansupa lake
+  - Tampara lake
+  - Satkosia lake
+  - Hirakund reservior
+  - Chilika lake
+  - Bhitarkanika mangrove
 
-MH       : Nandur Madhaveshar, Lonar lake, Thane creek
+MH
+  - Nandur Madhaveshar
+  - Lonar lake
+  - Thane creek
 
-Kar      : Rangnathittu, Ankasamudra BS, Aghanashini estuary,Magadi Kere
+Kar
+  - Rangnathittu
+  - Ankasamudra BS
+  - Aghanashini estuary
+  - Magadi Kere
+  - Magadi Kere Conservation Reserve
+  - Ankasamudra Bird Conservation Reserve
+  - Aghanashini Estuary Conservation Reserve
 
-Ker      : Vembanad Kol, Sastamkotta, Ashtamudi
+Ker
+  - Vembanad Kol
+  - Sastamkotta
+  - Ashtamudi
 
-TN       : Therthangal BS, Karaivetti BS, Longwood Shola, Sakkarakottai, Point calimer, Chitrangudi, Gulf of Mannar, Kanjirankulam BS, Karikili, Koonthankulam, Pallikarnai Marsh, Suchindram Theroor, Udhayamarthandapuram BS, Vadaver BS, Vedantangal BS, Vellode BS, Vembannur Wetland
+TN
+  - Therthangal BS
+  - Karaivetti BS
+  - Longwood Shola
+  - Sakkarakottai
+  - Point calimer
+  - Chitrangudi
+  - Gulf of Mannar
+  - Kanjirankulam BS
+  - Karikili
+  - Koonthankulam
+  - Pallikarnai Marsh
+  - Suchindram Theroor
+  - Udhayamarthandapuram BS
+  - Vadaver BS
+  - Vedantangal BS
+  - Vellode BS
+  - Vembannur Wetland
+  - Kazhuveli Bird Sanctuary
+  - Nanjayarvi Bird Sanctuary
 
-Sikkim   : Khechiorapalri wetland
+Sikkim
+  - Khechiorapalri wetland
 
-Assam    : Dipor Beel
+Assam
+  - Dipor Beel
 
-WB       : Sunderban, East Kolkata
+WB
+  - Sunderban
+  - East Kolkata
 
-Manipur  : Loktak Lake
+Manipur
+  - Loktak Lake
 
-Mizoram  : Pala wetland
+Mizoram
+  - Pala wetland
 
-Tripura  : Rudrasagar
+Tripura
+  - Rudrasagar
+
+Rajasthan
+  - Siliserh Lake (Alwar)
+  - Khichan Wetland Site (91st)
+  - Menar Wetland Complex
+
+Chhattisgarh
+  - Kopra Reservoir (Bilaspur)
