@@ -1,0 +1,116 @@
+============================
+Title : Venues of upcoming games
+Tags  : #
+Descr :
+============================
+
+34th Summer Olympic Games
+  - USA (2028)
+
+35th Summer Olympic Games
+  - Australia (2032)
+
+25th Olympic Winter Games
+  - Italy (2026)
+
+26th Olympic Winter Games
+  - France (2030)
+
+27th Olympic Winter Games
+  - USA (2034)
+
+4th Summer Youth Olympics
+  - Senegal (2026)
+
+Olympic e-sports games
+  - Saudi Arabia (2025)
+
+38th National Games
+  - India (2025)
+
+39th National Games
+  - India (2027)
+
+20th Asian Games
+  - Japan (2026)
+
+21st Asian Games
+  - Qatar (2030)
+
+22nd Asian Games
+  - Saudi Arabia (2034)
+
+23rd Commonwealth Games
+  - Scotland (2026)
+
+23rd FIFA Football World Cup
+  - USA, Mexico, Canada (2026)
+
+24th FIFA Football World Cup
+  - Morocco Portugal, Spain Uruguay Argentina, Paraguay (2030)
+
+25th FIFA Football World Cup
+  - Saudi Arabia (2034)
+
+FIFA Women's World Cup
+  - Brazil (2027)
+
+FIFA Women's World Cup
+  - USA (2031)
+
+FIFA Women's World Cup
+  - United Kingdom (UK) (2035)
+
+14th Cricket World Cup
+  - South Africa Zimbabwe, Namibia (2027)
+
+15th Cricket World Cup
+  - India and Bangladesh (2031)
+
+ICC Women's Cricket World Cup
+  - India (2025)
+
+10th ICC Champions Trophy
+  - Pakistan (2025)
+
+11th ICC Champions Trophy
+  - India (2029)
+
+10th ICC Men's T20 World Cup
+  - India and Sri Lanka (2026)
+
+11th ICC Men's T20 World Cup
+  - Australia, New Zealand (2028)
+
+10th ICC Women's T20 World Cup
+  - England (2026)
+
+11th ICC Women's T20 World Cup
+  - Pakistan (2028)
+
+U-19 Women's T20 World Cup
+  - Malaysia, Thailand (2025)
+
+16th Men's Hockey World Cup
+  - Belgium & Netherlands (2026)
+
+First Hockey Fives World Cup
+  - Oman (2024)
+
+First Kho-Kho World Cup
+  - India (2025)
+
+Men's Boxing World Champ.
+  - Japan (2025)
+
+World Weightlifting Champion
+  - Norway (2025)
+
+World Badminton Champion
+  - India (2026)
+
+24th Asian Archery Champion
+  - Bangladesh (2025)
+
+FIDE World Cup
+  - India (2025)

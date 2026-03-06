@@ -1,0 +1,128 @@
+============================
+Title : Player - Sport
+Tags  : #
+Descr :
+============================
+
+Bajrang Punia (Jhajjar, Haryana)
+  - Wrestler
+
+Swapna Burman (Jalpaiguri, West Bengal)
+  - Heptathlete
+
+Jinson Johnson (Kozhikode, Kerala)
+  - Sprinter
+
+Dutee Chand (Jajpur, Odisha)
+  - Runner
+
+Deepika Kumari (Ranchi, Jharkhand)
+  - Archer
+
+Jitu Rai (Lucknow, Uttar Pradesh)
+  - Shooter
+
+Hima Das (Dhing, Assam)
+  - Runner
+
+Sakshi Malik (Rohtak, Haryana)
+  - Wrestler
+
+PV Sindhu (Hyderabad, Andhra P.)
+  - Badminton
+
+Saina Nehwal (Hisar, Haryana)
+  - Badminton
+
+Sania Mirza (Mumbai, Maharashtra)
+  - Tennis
+
+Geeta Phogat (Bhiwani, Haryana)
+  - Wrestler
+
+PT Usha (Kozhikode, Kerala)
+  - Runner
+
+Milkha Singh (Punjab, India)
+  - Runner
+
+Dipa Karmakar (Agartala, Tripura)
+  - Gymnast
+
+Abhinav Bindra (Dehradun, Uttarakhand)
+  - Shooter
+
+Mary Kom (Imphal, Manipur)
+  - Boxer
+
+Krishna Punia (Agroha, Haryana)
+  - Discus Thrower
+
+Anju Bobby George (Changanassery, Kerala)
+  - Athletics, Jump
+
+Mithali Raj (Jodhpur, Rajasthan)
+  - Cricketer
+
+Karnam Malleswari (Amdalavalas, Andhra P.)
+  - Weightlifter
+
+Anjali Bhagwat (Mumbai, Maharashtra)
+  - Shooter
+
+Rani Rampal (Shahabad, Haryana)
+  - Hockey Player
+
+Bhawani Devi (Chennai, Tamil Nadu)
+  - Sabre fencer
+
+Lovlina Borgohain (Golaghat, Assam)
+  - Boxer
+
+Manika Batra (Naraina Vihar, Delhi)
+  - Table Tennis
+
+Ravi Kumar Dahiya (Sonipat, Haryana)
+  - Wrestler
+
+Manu Bhaker (Jhajhar, Haryana)
+  - Shooter
+
+Mirabai Chanu (Imphal, Manipur)
+  - Weightlifter
+
+Sanjita Chanu (Kakching, Manipur)
+  - Weightlifter
+
+Ms. Deepa Malik (Sonipat, Haryana)
+  - Para Athletics
+
+Shreyasi Singh (Jamui, Bihar)
+  - Shooter
+
+Vinesh Phogat (Balali, Haryana)
+  - Wrestling
+
+Saurabh Chaudhary (Meerut, Uttar Pradesh)
+  - Shooter
+
+Neeraj Chopra (Panipat, Haryana)
+  - Ath., Javelin Throw
+
+Viswanathan Anand (Mayiladuthurai, Tamil N.)
+  - Chess
+
+R. Pragnananda (Chennai, Tamil Nadu)
+  - Chess
+
+Kidambi Srikanth (Mayiladuthurai, Tamil N.)
+  - Badminton
+
+Seema Punia (Sonipat, Haryana)
+  - Discus Thrower
+
+Jerome Lalrinnunga (Mizoram)
+  - Weightlifter
+
+Waichung Bhutia (Tinkitam, Sikkim)
+  - Football
