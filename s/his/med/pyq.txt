@@ -7,7 +7,7 @@ TAG:top
 
 UPSC
 *2022*
-https://compass.rauias.com/upsc-prelims/medieval-history-pyq/
+LINK:https://compass.rauias.com/upsc-prelims/medieval-history-pyq/
 Q1. Consider the following pairs:
 
   King        Dynasty
