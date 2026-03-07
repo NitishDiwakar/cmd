@@ -4,54 +4,57 @@ Tags  : #
 Descr : 
 ============================
 
-I
+Part I
   - Union and its territory (1-4)
-II
+Part II
   - Citizenship (5-11)
-III
+Part III
   - Fundamental Rights (12-35)
-IV
+Part IV
   - DPSP (36-51)
-V
+
+Part V
   - Union Government (52-151)
-VI
+Part VI
   - State Government
-VII
+Part VII
   - States in Part B of 1st Schedule - Deleted (238)
-VIII
+Part VIII
   - UT (239-242)
-IX
+
+Part IX
   - Panchayat (243 to 243-O)
-IX-A
+Part IX-A
   - Municipalities (243-P to 243-ZG)
-IX-B
+Part IX-B
   - Co-operative Societies (243-ZH to 243-ZT)
-X
+Part X
   - Scheduled and Tribal Areas (244 to 244-A)
 
-XI
+Part XI
   - Relation between the Union and States (245 to 263)
-XII
+Part XII
   - Finance, Property, Contracts and Suits (264 to 300-A)
-XIII
+Part XIII
   - Trade, Commerce and Intercource within the Territory of India (301-307)
-XIV
+Part XIV
   - Services under the Union and the States (308-323)
-XV
-  - Elections (324 to 329-A)
-XVI
-  - Special provisions relating to certain classes (330 to 342-A)
-XVII
-  - Official Language (343-351)
-XVIII
-  - Emergency Provisions (352-358)
-XIX
-  - Miscellaneous (361-367)
-XX
-  - Amendments (368)
 
-XXI
+Part XV
+  - Elections (324 to 329-A)
+Part XVI
+  - Special provisions relating to certain classes (330 to 342-A)
+Part XVII
+  - Official Language (343-351)
+Part XVIII
+  - Emergency Provisions (352-358)
+  
+Part XIX
+  - Miscellaneous (361-367)
+Part XX
+  - Amendments (368)
+Part XXI
   - Temporary, Transitional and Special Provisions (369-392)
-XXII
+Part XXII
   - Short title, Commencement, Authoritative Text in Hindi and Repeals (393 to 395)
 

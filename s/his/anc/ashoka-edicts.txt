@@ -4,13 +4,21 @@ Tags  : #
 Descr :
 ============================
 
-PILLAR : DETAILS
-I      : Ashoka's Principle - Protection of People
-II     : Defines Dharma as min sins, many virtues
-III    : Abholishes sins - cruelty, anger etc
-IV     : Duties of Rajuka
-V      : List of animals not to kill
-VI     : Dhamma policy
-VII    : Works done by Ashoka for Dhamma policy
+IMG:ashoka-edicts.jpg
+
+Pillar I     
+  - Ashoka's Principle - Protection of People
+Pillar II
+  - Defines Dharma as min sins, many virtues
+Pillar III
+  - Abholishes sins - cruelty, anger etc
+Pillar IV
+  - Duties of Rajuka
+Pillar V
+  - List of animals not to kill
+Pillar VI
+  - Dhamma policy
+Pillar VII
+  - Works done by Ashoka for Dhamma policy
 
 

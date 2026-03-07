@@ -5,30 +5,29 @@ Descr :
 ============================
 
 
-I       
+Sch. I       
   - Names of states & UT (1,4)
-II      
+Sch. II      
   - Allowances (59,65,75,97,125,148, 158, 164, 186 and 221)
-III     
+Sch. III     
   - Oaths (75,84, 99, 124, 146, 173, 188 and 219)
-IV      
+Sch. IV      
   - RS Seats (4,80)
-V       
+Sch. V       
   - Scheduled areas and ST (244)
 
-VI      
+Sch. VI     
   - Tribal Areas in MATM - Meghalaya, Assam, Tripura, Mizoram (244, 275)
-VII     
+Sch. VII    
   - List (246)
-VIII    
+Sch. VIII   
   - Languages (344, 351)
-IX      
+Sch. IX     
   - Land Reform (31-B)
-X       
+Sch. X      
   - Anti-defection Law (102,191)
   
-XI      
+Sch. XI     
   - Panchayats (243-G)
-XII     
+Sch. XII
   - Municipalities (243-W)
-

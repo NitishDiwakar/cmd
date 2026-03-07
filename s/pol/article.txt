@@ -4,51 +4,51 @@ Tags  : #
 Descr :
 ============================
 
-1 (1)
+Art. 1 (1)
   - India, that is Bharat shall be a union of states
-2
+Art. 2
   - + New states
-3
+Art. 3
   - Edit states
     - (a) by separation of territory
     - (b) ↑ area
     - (c) ↓ area
     - (d) alter the boundaries
     - (e) alter the name of any State
-5
+Art. 5
   - (a) born in territory of India
   - (b) either his parents was born in territory of India
   - (c) Ordinary resident 5+years
-6
+Art. 6
   - Migrated to India from Pakistan
-8
+Art. 8
   - Person of Indian origin residing outside India
-9
+Art. 9
   - Akshay Kumar
-10
+Art. 10
   - Continuance
 
-11
+Art. 11
   - Parliament to regulate
-13
+Art. 13
   - Laws inconsistent with or in derogation of the FR
-14
+Art. 14
   - Equality before law
-15
+Art. 15
   - The state shall not discriminate…
     - (2)(b) The use of wells, tanks, bathing ghats, roads…
     - (3) Special provision for women and children
     - (4) + Edu bc, SC/ST
-16
+Art. 16
   - Equal opportunity in public employment
     - (3) Nothing in this article
-17
+Art. 17
   - Untouchability
-18
+Art. 18
   - Abolition of titles
     - (1) No title except military or academic distinction
     - (2) No citizen shall accept title from foreign State
-19 (1)
+Art. 19 (1)
   - All citizens shall have the right
     - (a) freedom of speech and expression
     - (b) assemble peaceably and without arms
@@ -61,80 +61,80 @@ Descr :
   - (4) for (c)
   - (5) for (d) & (e)
   - (6) for (g)
-20
+Art. 20
   - (1) at time of the act
   - (2) for same offence twice
   - (3) witness against himself
 
-21
+Art. 21
   - Protection of Life and personal liberty
-21A
+Art. 21A
   - Right to education
-23
+Art. 23
   - Prohibition of traffic in human beings and forced labour
-24
+Art. 24
   - Prohibition of employment of children under fourteen years
-29
+Art. 29
   - Protection of interests of minorities
 
-32
+Art. 32
   - Remedies for enforcement of rights
-33
+Art. 33
   - (a) Members of armed forces
   - (b) Forces maintaining public order
   - (c) bureau or org.
   - (d) telecommunication systems for forces
-34
+Art. 34
   - Martial Law
-36
+Art. 36
   - DPSP
-37
+Art. 37
   - Application of principles
-38
+Art. 38
   - Social order for welfare
-39
+Art. 39
   - Certain principles of policy
     - (a) adequate means of livelihood
     - (b) material resources for common good
     - (c) no concentration of wealth
     - (d) equal pay for equal work
     - (e) health and strength of workers not abused
-40
+Art. 40
   - Organization of village panchayats
 
-41
+Art. 41
   - Right to work, education, public assistance
-42
+Art. 42
   - Humane work conditions and maternity relief
-43
+Art. 43
   - Living wage
-43A
+Art. 43A
   - Participation of workers
-43B
+Art. 43B
   - Promotion of co-operative societies
-44
+Art. 44
   - UCC
-45
+Art. 45
   - Early childhood care
-46
+Art. 46
   - Promotion of SC/ST and weaker sections
-47
+Art. 47
   - Nutrition and public health
-48
+Art. 48
   - Agriculture and animal husbandry
-48A
+Art. 48A
   - Protection of environment
-49
+Art. 49
   - Protection of monuments
-50
+Art. 50
   - Separation of judiciary
 
-51
+Art. 51
   - (a) promote international peace
   - (b) maintain relations
   - (c) respect international law
   - (d) settlement by arbitration
-51A
+Art. 51A
   - (a) respect constitution, flag, anthem
   - (b) cherish ideals
   - (c) uphold sovereignty
@@ -146,145 +146,145 @@ Descr :
   - (i) safeguard public property
   - (j) strive towards excellence
   - (k) provide education to child 6-14
-52
+Art. 52
   - President of India
-53
+Art. 53
   - Executive power of Union
-54
+Art. 54
   - Election of president
-55
+Art. 55
   - Manner of election
-56
+Art. 56
   - Term of office
     - (c) removal by impeachment
-57
+Art. 57
   - Eligibility of re-election
-58
+Art. 58
   - Qualifications
-59
+Art. 59
   - Conditions of office
-60
+Art. 60
   - Oath
 
-61
+Art. 61
   - Impeachment procedure
-62
+Art. 62
   - Time of election
-63
+Art. 63
   - Vice President
-64
+Art. 64
   - VP as chairman of council of states
-65
+Art. 65
   - Act as president in absence
-66
+Art. 66
   - Election of VP
-67
+Art. 67
   - Term of VP
-68
+Art. 68
   - Time of election
-69
+Art. 69
   - Oath of VP
-70
+Art. 70
   - Discharge of president functions
 
-71
+Art. 71
   - Matters relating to election
-72
+Art. 72
   - Power to grant pardon
-73
+Art. 73
   - Extent of executive power
-74
+Art. 74
   - Council of ministers
-75
+Art. 75
   - Provisions as to ministers
-76
+Art. 76
   - Attorney-General
-77
+Art. 77
   - Conduct of business
-78
+Art. 78
   - Duties of PM
 
-84
+Art. 84
   - Qualification of membership of Parliament
-89
+Art. 89
   - Chairman and deputy chairman (RS)
-93
+Art. 93
   - Speaker and deputy speaker (LS)
-98
+Art. 98
   - Secretariat of Parliament
 
-102
+Art. 102
   - (a) office of profit
   - (b) unsound mind
   - (c) undischarged insolvent
   - (d) not citizen
   - (e) disqualified by law
-107
+Art. 107
   - Passing of Bills
-108
+Art. 108
   - Joint sitting
-109
+Art. 109
   - Money bills procedure
-110
+Art. 110
   - Definition of money bill
-111
+Art. 111
   - Assent to bills
-112
+Art. 112
   - Annual financial statement
-113
+Art. 113
   - Procedure for estimates
-114
+Art. 114
   - Appropriation Bills
-115
+Art. 115
   - Supplementary grants
-116
+Art. 116
   - Votes on account
-117
+Art. 117
   - Financial Bills
-118
+Art. 118
   - Rules of procedure
-120
+Art. 120
   - Language in Parliament
 
-121
+Art. 121
   - Restriction on discussion
-122
+Art. 122
   - Courts not to inquire
-123
+Art. 123
   - Ordinance power
-124
+Art. 124
   - Supreme Court
-141
+Art. 141
   - Law declared binding
-143
+Art. 143
   - Consult Supreme Court
-148
+Art. 148
   - CAG
 
-153
+Art. 153
   - Governors
-154
+Art. 154
   - Executive power of state
-155
+Art. 155
   - Appointment of governor
-165
+Art. 165
   - Advocate General
-167
+Art. 167
   - CM to inform governor
-169
+Art. 169
   - Legislative councils
 
-213
+Art. 213
   - Governor ordinance
-214
+Art. 214
   - High courts
 
-239
+Art. 239
   - UT administration
-241
+Art. 241
   - High courts for UT
 
-*243*
+*Art. 243*
   - A Gram Sabha
   - B Constitution of Panchayats
   - C Composition
@@ -299,9 +299,9 @@ Descr :
   - L Application to UT
   - M Not apply to certain areas
   - O Bar to court interference
-243P
+Art. 243P
   - Municipalities definitions
-243Q
+Art. 243Q
   - Constitution
     - R Composition
     - T Reservation
@@ -315,64 +315,65 @@ Descr :
     - ZD District planning
     - ZE Metropolitan planning
     - ZG Bar to court interference
-247
+Art. 247
   - Additional court
 
-262
+Art. 262
   - Inter state water
-263
+Art. 263
   - Inter state council
-266
+Art. 266
   - Consolidated fund
-267
+Art. 267
   - Contingency fund
-269A
+Art. 269A
   - GST
 
-280
+Art. 280
   - Finance Commission
 
-292
+Art. 292
   - Borrowing by centre
-293
+Art. 293
   - Borrowing by state
 
-312
+Art. 312
   - All India Service
-324
+Art. 324
   - EC
-325
+Art. 325
   - Not to discriminate
-326
+Art. 326
   - Adult franchise
-330
+Art. 330
   - SC/ST reservation LS
 
-330A
-332
+Art. 330A
+Art. 332
   - SC/ST reservation state
-332A
-338
+Art. 332A
+Art. 338
   - National commission SC
-338A
+Art. 338A
   - NC for ST
-338B
+Art. 338B
   - NC for BC
 
-341
+Art. 341
   - Schedule Caste
-342
+Art. 342
   - ST
-343
+Art. 343
   - Official Language of Union
-345
+Art. 345
   - Of state
 
-352
+Art. 352
   - Emergency
-355
+Art. 355
   - Duty of centre
-356
+Art. 356
   - Failure of state machinery
-360
+Art. 360
   - Financial emergency
+
