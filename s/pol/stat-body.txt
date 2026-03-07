@@ -1,49 +1,56 @@
 ============================
-Title : 
+Title : Statutory bodies
 Tags  : #
 Descr :
 ============================
 
-MAJOR STATUTORY BODIES IN INDIA (Year-wise)
+National Commission for Women (NCW)
+  - National Commission for Women Act, 1990
 
-STATUTORY BODY                                            ESTABLISHED UNDER (ACT / YEAR)
----------------------------------------------------------------------------------------------------------------
+Securities and Exchange Board of India (SEBI)
+  - SEBI Act, 1992
 
-National Commission for Women (NCW)                      National Commission for Women Act, 1990
+National Human Rights Commission (NHRC)
+  - Protection of Human Rights Act, 1993
 
-Securities and Exchange Board of India (SEBI)            SEBI Act, 1992
+National Commission for Backward Classes (NCBC)
+  - NCBC Act, 1993 (later Constitutional status via 102nd Amendment, 2018)
 
-National Human Rights Commission (NHRC)                  Protection of Human Rights Act, 1993
+Insurance Regulatory and Development Authority of India (IRDAI)
+  - IRDA Act, 1999
 
-National Commission for Backward Classes (NCBC)          NCBC Act, 1993 (later Constitutional status via 102nd Amendment, 2018)
+Competition Commission of India (CCI)
+  - Competition Act, 2002
 
-Insurance Regulatory and Development Authority of India  IRDA Act, 1999
-(IRDAI)
+Central Vigilance Commission (CVC)
+  - CVC Act, 2003
 
-Competition Commission of India (CCI)                    Competition Act, 2002
+National Commission for Scheduled Castes (NCSC)
+  - Constitution (89th Amendment) Act, 2003
 
-Central Vigilance Commission (CVC)                       CVC Act, 2003
+National Commission for Scheduled Tribes (NCST)
+  - Constitution (89th Amendment) Act, 2003
 
-National Commission for Scheduled Castes (NCSC)          Constitution (89th Amendment) Act, 2003
+Central Information Commission (CIC) & State Information Commissions
+  - Right to Information Act, 2005
 
-National Commission for Scheduled Tribes (NCST)          Constitution (89th Amendment) Act, 2003
+National Commission for Protection of Child Rights (NCPCR)
+  - Commissions for Protection of Child Rights Act, 2005
 
-Central Information Commission (CIC) &                   Right to Information Act, 2005
-State Information Commissions
+Armed Forces Tribunal (AFT)
+  - Armed Forces Tribunal Act, 2007
 
-National Commission for Protection of Child Rights       Commissions for Protection of Child Rights Act, 2005
-(NCPCR)
+Warehousing Development and Regulatory Authority (WDRA)
+  - Warehousing (Development & Regulation) Act, 2007
 
-Armed Forces Tribunal (AFT)                              Armed Forces Tribunal Act, 2007
+National Investigation Agency (NIA)
+  - NIA Act, 2008
 
-Warehousing Development and Regulatory Authority         Warehousing (Development & Regulation) Act, 2007
-(WDRA)
+National Green Tribunal (NGT)
+  - NGT Act, 2010
 
-National Investigation Agency (NIA)                      NIA Act, 2008
+Pension Fund Regulatory and Development Authority (PFRDA)
+  - PFRDA Act, 2013
 
-National Green Tribunal (NGT)                            NGT Act, 2010
-
-Pension Fund Regulatory and Development Authority        PFRDA Act, 2013
-(PFRDA)
-
-Lokpal                                                    Lokpal and Lokayuktas Act, 2013
+Lokpal
+  - Lokpal and Lokayuktas Act, 2013

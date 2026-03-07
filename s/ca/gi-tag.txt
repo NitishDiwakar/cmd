@@ -5,7 +5,7 @@ Descr :
 ============================
 
 IMG:gi-tags.jpg
-[Agriculture]
+*Agriculture*
 Kumbakonam Betel Leaf (TN)
   - Aromatic and traditional leaf
 Kodaikanal Garlic (TN)
@@ -22,7 +22,7 @@ Kasti Coriander (MH)
   - Turmeric
 
 
-[Handricrafts & Textiles]
+*Handricrafts & Textiles*
 Majuli Masks (Assam)
   - Used in Sattriya dance
 Lanjia Saura Painting (Od)
@@ -38,7 +38,7 @@ Kalpi Handmade Paper (UP)
 Hupari Silver Craft (MH)
   - Silver work 
 
-[Misc]
+*Misc*
 Yak Churpi & Dao (Arunachal)
   - Cultural significance
 

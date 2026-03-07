@@ -3,10 +3,10 @@ Title : PYQ - Medieval India
 Tags  : #imp
 Descr :
 ============================
-
+TAG:top
 
 UPSC
-2022
+*2022*
 https://compass.rauias.com/upsc-prelims/medieval-history-pyq/
 Q1. Consider the following pairs:
 
@@ -95,8 +95,8 @@ known as "Kulah-Daran"?
   C Persian calligraphists
   D Sayyids
 
-
-2021
+GOTO:top
+*2021*
 
 Q8. According to Portuguese writer Nuniz, the women in Vijayanagara
 Empire were expert in which of the following areas?
@@ -146,8 +146,8 @@ statements is/are correct?
   C 2 and 3 only
   D 3 only
 
-
-2020
+GOTO:top
+*2020*
 
 Q11. With reference to the history of India, consider the following pairs:
 
@@ -171,8 +171,8 @@ generally referred to in the sources of the post-Harsha period?
   C A bill of exchange
   D An order from the feudal lord to his subordinates
 
-
-2019
+GOTO:top
+*2019*
 
 Q13. Consider the following statements:
 
@@ -240,8 +240,8 @@ difference/differences between Jagirdar and Zamindar?
   C Both 1 and 2
   D Neither 1 nor 2
 
-
-2018
+GOTO:top
+*2018*
 
 Q18. Which one of the following foreign travellers elaborately
 discussed about diamonds and diamond mines of India?
@@ -267,7 +267,8 @@ consider the following statements:
   C Both 1 and 2
   D Neither 1 nor 2
 
-2017
+GOTO:top
+*2017*
 
 Q20. Which one of the following was a very important seaport in the
 Kakatiya kingdom?
@@ -277,8 +278,8 @@ Kakatiya kingdom?
   C Machilipatnam (Masulipatnam)
   D Nelluru
 
-
-2016
+GOTO:top
+*2016*
 
 Q21. In the context of the history of India, consider the following pairs :
 
@@ -336,8 +337,8 @@ consider the following statements :
   C Both 1 and 2
   D Neither 1 nor 2
 
-
-2015
+GOTO:top
+*2015*
 
 Q25. Kalamkari painting refers to
 
@@ -346,8 +347,8 @@ Q25. Kalamkari painting refers to
   C a block-painted woollen cloth in Western Himalayan region of India
   D a hand-painted decorative silk cloth in North-Western India
 
-
-2014
+GOTO:top
+*2014*
 
 Q26. With reference to the Indian history of art and culture,
 consider the following pairs :
@@ -459,8 +460,8 @@ consider the following statements:
   C 2 and 3 only
   D 1, 2 and 3
 
-
-2013
+GOTO:top
+*2013*
 
 Q34. With reference to the history of Indian rock-cut architecture,
 consider the following statements :
@@ -542,3 +543,4 @@ Sankhya school:
   D Neither 1 nor 2
 
 
+GOTO:top

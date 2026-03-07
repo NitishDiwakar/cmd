@@ -3,10 +3,10 @@ Title : PYQ - Ancient India
 Tags  : #imp
 Descr :
 ============================
-
+TAG:top
 
 UPSC
-2022
+*2022*
 https://compass.rauias.com/upsc-prelims/ancient-history-pyq/
 
 Q1. With reference to Indian history, consider the following texts
@@ -79,8 +79,8 @@ Q5. Which one of the following statements about Sangam literature in ancient Sou
   C Sangam poems have no reference, to warrior ethic.
   D Sangam literature refers to magical forces as irrational.
 
-
-2021
+GOTO:top
+*2021*
 
 Q6. Which one of the following ancient towns is well-known for its elaborate system of water harvesting and management by building a series of dams and channelizing water into connected reservoirs?
 
@@ -165,8 +165,8 @@ Q12. Which one of the following statements is correct?
   C Pandu-lena Cave Shrines lie in the gorge of Narmada River.
   D Amaravati Stupa lies in the gorge of Godavari River.
 
-
-2020
+GOTO:top
+*2020*
 
 Q13. With reference to Chausath Yogini Temple situated near Morena, consider the following statements:
 
@@ -306,8 +306,8 @@ Q23. With reference to the history of India, consider the following pairs:
   C 2 and 3 only
   D 2 and 4 only
 
-
-2019
+GOTO:top
+*2019*
 
 Q24. Building 'Kalyaana Mandapas' was a notable feature in the temple
 construction in the kingdom of
@@ -359,8 +359,8 @@ which one of the following statements is correct?
   C The forced labourer was entitled to weekly wages.
   D The eldest son of the labourer was sent as the forced labourer
 
-
-2018
+GOTO:top
+*2018*
 
 Q29. Consider the following pairs :
 
@@ -416,8 +416,8 @@ yet to come to save the world?
   C Maitreya ✔
   D Padmapani
 
-
-2017
+GOTO:top
+*2017*
 
 Q34. With reference to the difference between the culture of Rigvedic Aryans and
 Indus Valley people, which of the following statements is/are correct?
@@ -502,7 +502,8 @@ Q39. Which of the following is/are famous for Sun temples?
   C 1 and 3 only
   D 1, 2 and 3
 
-2016
+GOTO:top
+*2016*
 
 Q40. With reference to the religious history of India, consider the following statements:
 
@@ -567,8 +568,8 @@ of the founder of Sunga dynasty?
   C Meghadoota
   D Ratnavali
 
-
-2015
+GOTO:top
+*2015*
 
 Q45. With reference to the art and archaeological history of India,
 which one among the following was made earliest?
@@ -578,8 +579,8 @@ which one among the following was made earliest?
   C Rock-cut Monuments at Mahabalipuram
   D Varaha Image at Udayagiri
 
-
-2014
+GOTO:top
+*2014*
 
 Q46. Which of the following Kingdoms were associated with the life of the Buddha?
 
@@ -669,8 +670,8 @@ consider the following pairs :
   C 1 and 3 only ✔
   D 1, 2 and 3
 
-
-2013
+GOTO:top
+*2013*
 
 Q54. Some Buddhist rock-cut caves are called Chaityas, while the others are
 called Viharas. What is the difference between the two?
@@ -734,3 +735,5 @@ which of the following statements is/are correct?
   C 1 and 3 only
   D 1, 2 and 3
 
+
+GOTO:top
