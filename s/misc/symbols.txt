@@ -1,0 +1,118 @@
+============================
+Title : Symbols
+Tags  : #nomail #noview
+Descr :
+============================
+
+---
+
+SYMBOLS REFERENCE
+_________________
+
+SUPERSCRIPT (powers)
+⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
+
+Example
+x²
+10³
+m³
+
+
+SUBSCRIPT (chemistry / formulas)
+₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
+
+Example
+H₂O
+CO₂
+H₂SO₄
+CH₄
+
+
+COMMON FRACTIONS
+½ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞
+
+
+GREEK LETTERS
+α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ χ ψ ω
+
+CAPITAL
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω
+
+Examples
+ΔT
+λ wavelength
+μ micro
+πr²
+
+
+MATH SYMBOLS
++ − × ÷ ± ∓
+= ≠ ≈ ≅
+< > ≤ ≥
+∞ ∑ ∏ ∫ √ ∛ ∜
+
+Examples
+a² + b² = c²
+∑ xi
+∫ f(x) dx
+
+
+LOGIC / SET THEORY
+∈ ∉ ⊂ ⊃ ⊆ ⊇
+∩ ∪ ∅
+∀ ∃
+
+
+ARROWS
+→ ← ↑ ↓
+⇒ ⇐ ⇔
+↔ ↕
+⟶ ⟵
+
+
+COMMON SCIENCE SYMBOLS
+° degree
+℃ temperature
+℉ temperature
+Ω ohm
+µ micro
+Å angstrom
+ℓ liter
+
+
+CHECK / MARKS
+✓ ✔ ✗ ✘
+
+
+DOT / BULLETS
+• ◦ ▪ ▫
+
+
+DASHES
+– en dash
+— em dash
+
+
+MISC USEFUL
+§ paragraph
+№ number
+© copyright
+® registered
+™ trademark
+
+
+EXAMPLES IN NOTES
+------------------------------
+
+Temperature ↑ → Pressure ↑
+
+CO₂ concentration ↑
+
+Speed ≈ 3 × 10⁸ m/s
+
+Area = πr²
+
+H₂SO₄ + NaOH → Na₂SO₄ + H₂O
+
+
+---
