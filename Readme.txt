@@ -9,4 +9,4 @@ Some longer pages include quick jump links that let you move directly to a secti
 Everything here is kept minimal on purpose: plain text, fast loading, and no distractions. The goal is to make revision quick and comfortable, whether you are reading a few lines or exploring an entire topic.
 
 If you find something useful or want to suggest improvements, feel free to contact me on Telegram:  
-t.me/NitishDiwakar
+LINK:https://t.me/NitishDiwakar
