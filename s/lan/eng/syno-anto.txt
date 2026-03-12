@@ -1,0 +1,1605 @@
+============================
+Title : Synomyms and A
+Tags  : #
+Descr : 
+============================
+
+1. Acumen
+   Synomyms : Awareness, Brilliance
+   Antonyms : Stupidity, Ignorance
+
+2. Adhere
+   S : Comply, Observe
+   A : Condemn, Disjoin
+
+3. Abolish
+   S : Abrogate, Annul
+   A : Set up, Establish
+
+4. Abash
+   S : Disconcert, Rattle
+   A : Uphold, Discompose
+
+5. Abound
+   S : Flourish, Proliferate
+   A : Deficient, Destitute
+
+6. Abate
+   S : Moderate, Decrease
+   A : Aggravate
+
+7. Abject
+   S : Despicable, Servile
+   A : Commendable, Praiseworthy
+
+8. Abjure
+   S : Forsake, Renounce
+   A : Approve, Sanction
+
+9. Abortive
+   S : Vain, Unproductive
+   A : Productive
+
+10. Absolve
+    S : Pardon, Forgive
+    A : Compel, Accuse
+
+11. Accord
+    S : Agreement, Harmony
+    A : Discord
+
+12. Acrimony
+    S : Harshness, Bitterness
+    A : Courtesy, Benevolence
+
+13. Adamant
+    S : Stubborn, Inflexible
+    A : Flexible, Soft
+
+14. Adherent
+    S : Follower, Disciple
+    A : Rival, Adversary
+
+15. Adjunct
+    S : Joined, Added
+    A : Separated, Subtracted
+
+16. Admonish
+    S : Counsel, Reprove
+    A : Approve, Applaud
+
+17. Adversity
+    S : Misfortune, Calamity
+    A : Prosperity, Fortune
+
+18. Alien
+    S : Foreigner, Outsider
+    A : Native, Resident
+
+19. Allay
+    S : Pacify, Soothe
+    A : Aggravate, Excite
+
+20. Alleviate
+    S : Abate, Relieve
+    A : Aggravate, Enhance
+
+21. Allure
+    S : Entice, Fascinate
+    A : Repulse, Repel
+
+22. Ascend
+    S : Climb, Escalate
+    A : Descend, Decline
+
+23. Amplify
+    S : Augment, Deepen
+    A : Lessen, Contract
+
+24. Arraign
+    S : Incriminate, Indict
+    A : Exculpate, Pardon
+
+25. Audacity
+    S : Boldness, Courage
+    A : Mildness, Cowardice
+
+26. Authentic
+    S : Accurate, Credible
+    A : Fictitious, Unreal
+
+27. Awkward
+    S : Rude, Blundering
+    A : Adroit, Clever
+
+28. Axiom
+    S : Adage, Truism
+    A : Absurdity, Blunder
+
+29. Baffle
+    S : Astound, Faze
+    A : Facilitate, Clarify
+
+30. Bewitching
+    S : Alluring, Charming
+    A : Repulsive, Repugnant
+
+31. Bleak
+    S : Grim, Austere
+    A : Bright, Pleasant
+
+32. Brittle
+    S : Breakable, Crisp
+    A : Tough, Enduring
+
+33. Bustle
+    S : Commotion, Tumult
+    A : Slowness, Quiet
+
+34. Barbarous
+    S : Brutal, Uncivilized
+    A : Civilized, Humane
+
+35. Baroque
+    S : Florid, Gilt
+    A : Plain, Unadorned
+
+36. Barren
+    S : Desolate, Sterile
+    A : Damp, Fertile
+
+37. Barrier
+    S : Barricade, Obstacle
+    A : Link, Assistance
+
+38. Base
+    S : Vulgar, Coarse
+    A : Summit, Noble
+
+39. Batty
+    S : Insane, Silly
+    A : Sane
+
+40. Bawdy
+    S : Erotic, Coarse
+    A : Decent, Moral
+
+41. Befogged
+    S : Beclouded, Dim
+    A : Clear-headed, Unclouded
+
+42. Benevolent
+    S : Benign, Generous
+    A : Malevolent, Miserly
+
+43. Benign
+    S : Favorable, Friendly
+    A : Malignant, Cruel
+
+44. Bind
+    S : Predicament, Obligate
+    A : Release
+
+45. Bleak
+    S : Austere, Blank
+    A : Bright, Cheerful
+
+46. Blunt
+    S : Dull, Insensitive
+    A : Keen, Sharp
+
+47. Boisterous
+    S : Clamorous, Rowdy
+    A : Placid, Calm
+
+48. Bold
+    S : Adventurous, Fearless
+    A : Timid
+
+49. Busy
+    S : Active, Engaged
+    A : Idle, Lazy
+
+50. Calculating
+    S : Canny, Devious
+    A : Artless, Honest
+
+51. Calamity
+    S : Adversity, Misfortune
+    A : Fortune
+
+52. Callous
+    S : Obdurate, Unfeeling
+    A : Compassionate, Tender
+
+53. Calumny
+    S : Defamation, Aspersion
+    A : Commendation, Praise
+
+54. Capable
+    S : Competent, Able
+    A : Incompetent, Inept
+
+55. Captivate
+    S : Charm, Fascinate
+    A : Disillusion, Offend
+
+56. Captivity
+    S : Imprisonment, Confinement
+    A : Freedom, Liberty
+
+57. Cease
+    S : Terminate, Desist
+    A : Begin, Originate
+
+58. Chaste
+    S : Virtuous, Pure
+    A : Sullied, Lustful
+
+59. Chastise
+    S : Punish, Admonish
+    A : Cheer, Encourage
+
+60. Compassion
+    S : Kindness, Sympathy
+    A : Cruelty, Barbarity
+
+61. Comprise
+    S : Include, Contain
+    A : Reject, Lack
+
+62. Concede
+    S : Yield, Permit
+    A : Deny, Reject
+
+63. Concur
+    S : Approve, Agree
+    A : Differ, Disagree
+
+64. Consent
+    S : Agree, Permit
+    A : Object, Disagree
+
+65. Consequence
+    S : Effect, Outcome
+    A : Origin, Start
+
+66. Consolidate
+    S : Solidify, Strengthen
+    A : Separate, Weaken
+
+67. Conspicuous
+    S : Prominent, Obvious
+    A : Concealed, Hidden
+
+68. Contempt
+    S : Scorn, Disregard
+    A : Regard, Praise
+
+69. Contradict
+    S : Deny, Oppose
+    A : Approve, Confirm
+
+70. Contrary
+    S : Dissimilar, Conflicting
+    A : Similar, Alike
+
+71. Calm
+    S : Harmonious, Unruffled
+    A : Stormy, Turbulent
+
+72. Callous
+    S : Insensitive, Indurated
+    A : Kind, Merciful
+
+73. Camouflage
+    S : Cloak, Disguise
+    A : Reveal
+
+74. Candid
+    S : Blunt, Bluff
+    A : Evasive
+
+75. Captivate
+    S : Beguile, Bewitch
+    A : Repel
+
+76. Carnal
+    S : Earthly, Fleshly
+    A : Spiritual
+
+77. Catholic
+    S : Generic, Liberal
+    A : Narrow-minded
+
+78. Celebrated
+    S : Acclaimed, Lionized
+    A : Unknown, Inglorious
+
+79. Cement
+    S : Plaster, Mortar
+    A : Disintegrate
+
+80. Censure
+    S : Rebuke, Reprimand
+    A : Praise, Acceptance
+
+81. Cheap
+    S : Competitive, Inexpensive
+    A : Dear, Unreasonable
+
+82. Clandestine
+    S : Covert, Secret
+    A : Open, Legal
+
+83. Classic
+    S : Simple, Typical
+    A : Romantic, Unusual
+
+84. Coarse
+    S : Bawdy, Boorish
+    A : Fine, Chaste
+
+85. Comic
+    S : Clown, Jester
+    A : Tragic, Tragedian
+
+86. Compact
+    S : Bunched, Thick
+    A : Loose, Diffuse
+
+87. Compress
+    S : Abbreviate, Shrink
+    A : Amplify, Expand
+
+88. Conceit
+    S : Egotism, Immodesty
+    A : Modesty
+
+89. Concord
+    S : Agreement, Accord
+    A : Discord
+
+90. Condemn
+    S : Castigate, Chide
+    A : Approve, Praise
+
+91. Confident
+    S : Bold, Undaunted
+    A : Diffident, Cowardly
+
+92. Consolidate
+    S : Centralize, Fortify
+    A : Weaken
+
+93. Courtesy
+    S : Generosity, Reverence
+    A : Disdain, Rudeness
+
+94. Creation
+    S : Formation, Foundation
+    A : Destruction
+
+95. Cunning
+    S : Acute, Smart
+    A : Naive, Coarse
+
+96. Decay
+    S : Collapse, Decompose
+    A : Flourish, Progress
+
+97. Deceit
+    S : Deception, Artifice
+    A : Veracity, Sincerity
+
+98. Decipher
+    S : Interpret, Reveal
+    A : Misinterpret, Distort
+
+99. Defile
+    S : Contaminate, Pollute
+    A : Purify, Sanctify
+
+100. Defray
+     S : Spend, Pay
+     A : Disclaim, Repudiate
+
+101. Deliberate
+     S : Cautious, Intentional
+     A : Rash, Sudden
+
+102. Demolish
+     S : Ruin, Devastate
+     A : Repair, Construct
+
+103. Deprive
+     S : Despoil, Divest
+     A : Restore, Renew
+
+104. Deride
+     S : Mock, Taunt
+     A : Inspire, Encourage
+
+105. Disdain
+     S : Detest, Despise
+     A : Approve, Praise
+
+106. Dissuade
+     S : Remonstrate, Counsel
+     A : Incite, Persuade
+
+107. Denounce
+     S : Blame, Boycott
+     A : Defend
+
+108. Dense
+     S : Opaque, Compact
+     A : Sparse, Intelligent
+
+109. Derogatory
+     S : Sarcastic, Critical
+     A : Laudatory, Appreciative
+
+110. Despair
+     S : Depression, Misery
+     A : Contentment, Hope
+
+111. Destructive
+     S : Catastrophic, Pernicious
+     A : Creative, Constructive
+
+112. Docile
+     S : Pliable, Pliant
+     A : Headstrong, Obstinate
+
+113. Dwarf
+     S : Diminutive, Petite
+     A : Huge, Giant
+
+114. Eager
+     S : Keen, Enthusiastic
+     A : Indifferent, Apathetic
+
+115. Eclipse
+     S : Diminution, Dimming
+     A : Shine, Radiance
+
+116. Eccentric
+     S : Strange, Abnormal
+     A : Natural, Conventional
+
+117. Ecstasy
+     S : Delight, Exultation
+     A : Despair, Calamity
+
+118. Efface
+     S : Destroy, Obliterate
+     A : Retain, Maintain
+
+119. Eloquence
+     S : Expression, Fluency
+     A : Halting, Stammering
+
+120. Encumbrance
+     S : Hindrance, Obstacle
+     A : Incentive, Stimulant
+
+121. Endeavour
+     S : Undertake, Aspire
+     A : Cease, Quit
+
+122. Enormous
+     S : Colossal, Mammoth
+     A : Diminutive, Negligible
+
+123. Epitome
+     S : Example, Embodiment
+     A : Increment, Expansion
+
+124. Equivocal
+     S : Uncertain, Hazy
+     A : Obvious, Lucid
+
+125. Eradicate
+     S : Destroy, Exterminate
+     A : Secure, Plant
+
+126. Fabricate
+     S : Construct, Produce
+     A : Destroy, Dismantle
+
+127. Fallacy
+     S : Delusion, Mistake
+     A : Veracity, Truth
+
+128. Falter
+     S : Stumble, Hesitate
+     A : Persist, Endure
+
+129. Fanatical
+     S : Narrow-minded, Biased
+     A : Liberal, Tolerant
+
+130. Feeble
+     S : Weak, Frail
+     A : Strong, Robust
+
+131. Ferocious
+     S : Cruel, Fierce
+     A : Gentle, Sympathetic
+
+132. Feud
+     S : Strife, Quarrel
+     A : Harmony, Fraternity
+
+133. Fluctuate
+     S : Vacillate, Vary
+     A : Stabilize, Resolve
+
+134. Forsake
+     S : Desert, Renounce
+     A : Hold, Maintain
+
+135. Fragile
+     S : Weak, Infirm
+     A : Enduring, Tough
+
+136. Frantic
+     S : Violent, Agitated
+     A : Subdued, Gentle
+
+137. Frivolous
+     S : Petty, Worthless
+     A : Solemn, Significant
+
+138. Frugality
+     S : Economy, Prudence
+     A : Lavishness, Extravagance
+
+139. Gather
+     S : Converge, Assemble
+     A : Disperse, Scatter
+
+140. Gloom
+     S : Obscurity, Darkness
+     A : Delight, Mirth
+
+141. Glut
+     S : Stuff, Satiate
+     A : Starve, Abstain
+
+142. Gorgeous
+     S : Magnificent, Dazzling
+     A : Dull, Unpretentious
+
+143. Gracious
+     S : Courteous, Beneficent
+     A : Rude, Unforgiving
+
+144. Grisly
+     S : Disgusting, Atrocious
+     A : Pleasing, Attractive
+
+145. Grudge
+     S : Hatred, Aversion
+     A : Benevolence, Affection
+
+146. Guile
+     S : Cunning, Deceit
+     A : Honesty, Frankness
+
+147. Generosity
+     S : Altruism, Bounty
+     A : Stinginess, Greed
+
+148. Genuine
+     S : Authentic, Factual
+     A : Spurious
+
+149. Gloomy
+     S : Bleak, Cloudy
+     A : Gay, Bright
+
+150. Glory
+     S : Dignity, Renown
+     A : Shame, Disgrace
+
+151. Hamper
+     S : Retard, Prevent
+     A : Promote, Facilitate
+
+152. Hapless
+     S : Unfortunate, Ill-fated
+     A : Fortunate, Lucky
+
+153. Harass
+     S : Irritate, Molest
+     A : Assist, Comfort
+
+154. Haughty
+     S : Arrogant, Pompous
+     A : Humble, Submissive
+
+155. Hazard
+     S : Peril, Danger
+     A : Security, Safety
+
+156. Heretic
+     S : Non-conformist, Dissenter
+     A : Conformist, Orthodox
+
+157. Hideous
+     S : Frightful, Shocking
+     A : Attractive, Alluring
+
+158. Hamstrung
+     S : Crippled, Debilitated
+     A : Strengthened, Encouraged
+
+159. Harmony
+     S : Conformity, Amicability
+     A : Discord, Conflict
+
+160. Hasty
+     S : Abrupt, Impetuous
+     A : Leisurely, Cautious
+
+161. Honor
+     S : Adoration, Reverence
+     A : Denunciation, Shame
+
+162. Humble
+     S : Meek, Modest
+     A : Proud, Assertive
+
+163. Humility
+     S : Modesty, Submission
+     A : Boldness, Pride
+
+164. Hypocrisy
+     S : Deception, Insincerity
+     A : Sincerity, Frankness
+
+165. Impenitent
+     S : Unrepentant, Obdurate
+     A : Repentant
+
+166. Impulsive
+     S : Flaky, Impetuous
+     A : Cautious, Deliberate
+
+167. Indifferent
+     S : Unconcerned, Neutral
+     A : Partial, Biased
+
+168. Indigent
+     S : Destitute, Impoverished
+     A : Rich, Affluent
+
+169. Infernal
+     S : Damned, Accursed
+     A : Heavenly
+
+170. Insipid
+     S : Tedious, Prosaic
+     A : Pleasing, Appetizing
+
+171. Interesting
+     S : Enchanting, Riveting
+     A : Dull, Uninteresting
+
+172. Immaculate
+     S : Unsullied, Spotless
+     A : Defiled, Tarnished
+
+173. Immense
+     S : Huge, Enormous
+     A : Puny, Insignificant
+
+174. Immerse
+     S : Submerge, Involve
+     A : Emerge, Uncover
+
+175. Imminent
+     S : Impending, Approaching
+     A : Distant, Receding
+
+176. Immunity
+     S : Privilege, Exemption
+     A : Blame, Censure
+
+177. Impair
+     S : Diminish, Deteriorate
+     A : Restore, Revive
+
+178. Impartial
+     S : Just, Unbiased
+     A : Prejudiced, Biased
+
+179. Impediment
+     S : Hurdle, Obstruction
+     A : Assistance, Aid
+
+180. Impious
+     S : Irreligious, Unholy
+     A : Pious, Devout
+
+181. Impute
+     S : Attribute, Ascribe
+     A : Exculpate, Clear
+
+182. Inclination
+     S : Disposition, Tendency
+     A : Indifference, Disinclination
+
+183. Incompetent
+     S : Inefficient, Unskilled
+     A : Dexterous, Skilled
+
+184. Incongruous
+     S : Inappropriate, Absurd
+     A : Compatible, Harmonious
+
+185. Inevitable
+     S : Unavoidable, Certain
+     A : Unlikely, Doubtful
+
+186. Infringe
+     S : Violate, Encroach
+     A : Comply, Obey
+
+187. Ingenuous
+     S : Naive, Frank
+     A : Wily, Crafty
+
+188. Insinuate
+     S : Allude, Hint
+     A : Conceal, Suppress
+
+189. Insipid
+     S : Tasteless, Vapid
+     A : Delicious, Luscious
+
+190. Insolvent
+     S : Indigent, Bankrupt
+     A : Wealthy, Solvent
+
+191. Instill
+     S : Inculcate, Inject
+     A : Eradicate, Extract
+
+192. Intricate
+     S : Tangled, Complicated
+     A : Simple, Orderly
+
+193. Intrigue
+     S : Scheme, Conspiracy
+     A : Candor, Sincerity
+
+194. Intrinsic
+     S : Genuine, Fundamental
+     A : Extraneous, Incidental
+
+195. Invective
+     S : Accusation, Abuse
+     A : Approval, Acclamation
+
+196. Invincible
+     S : Unconquerable, Impregnable
+     A : Defeatable, Vulnerable
+
+197. Irrepressible
+     S : Uncontrollable, Irresistible
+     A : Composed, Restrained
+
+198. Immaculate
+     S : Exquisite, Impeccable
+     A : Defiled, Tarnished
+
+199. Jaded
+     S : Tired, Exhausted
+     A : Renewed, Refreshed
+
+200. Jejune
+     S : Dull, Boring
+     A : Interesting, Exciting
+
+201. Jovial
+     S : Cheerful, Frolicsome
+     A : Solemn, Morose
+
+202. Jubilant
+     S : Rejoicing, Triumphant
+     A : Melancholy, Depressing
+
+203. Judicious
+     S : Thoughtful, Prudent
+     A : Irrational, Foolish
+
+204. Just
+     S : Honest, Impartial
+     A : Unequal, Unfair
+
+205. Justify
+     S : Defend, Exculpate
+     A : Impute, Arraign
+
+206. Juvenile
+     S : Young, Immature
+     A : Mature, Aged
+
+207. Keen
+     S : Sharp, Eager
+     A : Vapid, Insipid
+
+208. Kindred
+     S : Related, Similar
+     A : Unrelated, Dissimilar
+
+209. Knave
+     S : Dishonest, Rogue
+     A : Paragon, Innocent
+
+210. Knell
+     S : Death-blow, Doom
+     A : Revival, Beginning
+
+211. Knotty
+     S : Complicated, Difficult
+     A : Simple, Manageable
+
+212. Lavish
+     S : Abundant, Excessive
+     A : Scarce, Deficient
+
+213. Lax
+     S : Slack, Careless
+     A : Firm, Strict
+
+214. Lenient
+     S : Compassionate, Merciful
+     A : Cruel, Severe
+
+215. Liable
+     S : Accountable, Bound
+     A : Unaccountable, Exempt
+
+216. Liberal
+     S : Generous, Magnanimous
+     A : Stingy, Miserly
+
+217. Linger
+     S : Loiter, Prolong
+     A : Hasten, Quicken
+
+218. Lucid
+     S : Clear, Rational
+     A : Obscure, Confused
+
+219. Lunacy
+     S : Delusion, Insanity
+     A : Normalcy, Sanity
+
+220. Lure
+     S : Attract, Entice
+     A : Repel, Dissuade
+
+221. Luscious
+     S : Palatable, Delicious
+     A : Unsavory, Tart
+
+222. Luxuriant
+     S : Profuse, Abundant
+     A : Scanty, Meagre
+
+223. Languid
+     S : Sluggish, Apathetic
+     A : Energetic, Spirited
+
+224. Malice
+     S : Vengefulness, Grudge
+     A : Goodwill, Kindness
+
+225. Mandatory
+     S : Imperative, Requisite
+     A : Optional
+
+226. Masculine
+     S : Gallant, Manly
+     A : Feminine, Meek
+
+227. Merit
+     S : Worth, Asset
+     A : Demerit, Dishonor
+
+228. Miraculous
+     S : Marvelous, Extraordinary
+     A : Ordinary, Trivial
+
+229. Mitigate
+     S : Alleviate, Relieve
+     A : Augment, Enhance
+
+230. Modest
+     S : Humble, Courteous
+     A : Arrogant, Pompous
+
+231. Molest
+     S : Harass, Tease
+     A : Console, Soothe
+
+232. Mollify
+     S : Appease, Assuage
+     A : Irritate, Infuriate
+
+233. Momentous
+     S : Notable, Eventful
+     A : Trivial, Insignificant
+
+234. Monotonous
+     S : Irksome, Tedious
+     A : Varied, Pleasant
+
+235. Morbid
+     S : Macabre, Gloomy
+     A : Healthy, Cheerful
+
+236. Munificent
+     S : Liberal, Generous
+     A : Frugal, Penurious
+
+237. Murky
+     S : Dusky, Dreary
+     A : Bright, Shining
+
+238. Mutinous
+     S : Recalcitrant, Insurgent
+     A : Submissive, Faithful
+
+239. Mutual
+     S : Joint, Shared
+     A : Separate, Distinct
+
+240. Niggardly
+     S : Miserly, Stingy
+     A : Generous, Profuse
+
+241. Nimble
+     S : Prompt, Brisk
+     A : Sluggish, Languid
+
+242. Nonchalant
+     S : Indifferent, Negligent
+     A : Attentive, Considerate
+
+243. Novice
+     S : Beginner, Tyro
+     A : Veteran, Expert
+
+244. Noxious
+     S : Baneful, Injurious
+     A : Healing, Beneficial
+
+245. Nullify
+     S : Cancel, Annul
+     A : Confirm, Uphold
+
+246. Notion
+     S : Idea, Apprehension
+     A : Reality, Fact
+
+247. Numerous
+     S : Many, Profuse
+     A : Scarce, Deficient
+
+248. Obstruct
+     S : Impede, Prevent
+     A : Hasten, Encourage
+
+249. Obliging
+     S : Complaisant, Willing
+     A : Obstinate, Unwilling
+
+250. Obscure
+     S : Arcane, Vague
+     A : Prominent, Clear
+
+251. Obstinate
+     S : Stubborn, Adamant
+     A : Pliable, Flexible
+
+252. Obtain
+     S : Acquire, Attain
+     A : Forfeit, Lose
+
+253. Obvious
+     S : Evident, Apparent
+     A : Obscure, Ambiguous
+
+254. Odious
+     S : Hateful, Obnoxious
+     A : Engaging, Fascinating
+
+255. Offensive
+     S : Abhorrent, Obnoxious
+     A : Engaging, Pleasant
+
+256. Occult
+     S : Hidden, Ambiguous
+     A : Intelligible, Transparent
+
+257. Offspring
+     S : Descendant, Child
+     A : Ancestor, Forefather
+
+258. Ominous
+     S : Menacing, Foreboding
+     A : Auspicious, Promising
+
+259. Opaque
+     S : Obscure, Cloudy
+     A : Transparent, Clear
+
+260. Optimist
+     S : Idealist, Positive Thinker
+     A : Pessimist
+
+261. Oracular
+     S : Cryptic, Vague
+     A : Lucid, Distinct
+
+262. Ordain
+     S : Order, Decree
+     A : Revoke, Abolish
+
+263. Ornamental
+     S : Decorative, Adorned
+     A : Plain, Unseemly
+
+264. Outbreak
+     S : Eruption, Insurrection
+     A : Compliance, Subjection
+
+265. Outrage
+     S : Offence, Indignation
+     A : Praise, Favor
+
+266. Pacify
+     S : Appease, Calm
+     A : Irritate, Worsen
+
+267. Persuade
+     S : Cajole, Convince
+     A : Dissuade, Deter
+
+268. Perturbed
+     S : Flustered, Anxious
+     A : Calm, Composed
+
+269. Propagate
+     S : Spread, Multiply
+     A : Suppress, Deplete
+
+270. Progress
+     S : Advance, Betterment
+     A : Retrogress, Worsen
+
+271. Prompt
+     S : Punctual, Quick
+     A : Slow, Negligent
+
+272. Prudence
+     S : Vigilance, Discretion
+     A : Indiscretion, Carelessness
+
+273. Pamper
+     S : Indulge, Spoil
+     A : Deny, Disparage
+
+274. Paramount
+     S : Foremost, Eminent
+     A : Trivial, Inferior
+
+275. Peerless
+     S : Matchless, Unrivalled
+     A : Mediocre, Commonplace
+
+276. Peevish
+     S : Perverse, Sullen
+     A : Suave, Amiable
+
+277. Pertness
+     S : Flippancy, Impudence
+     A : Modesty, Diffidence
+
+278. Perverse
+     S : Petulant, Obstinate
+     A : Complacent, Docile
+
+279. Placid
+     S : Tranquil, Calm
+     A : Turbulent, Hostile
+
+280. Pompous
+     S : Haughty, Arrogant
+     A : Unpretentious, Humble
+
+281. Precarious
+     S : Doubtful, Insecure
+     A : Assured, Safe
+
+282. Predicament
+     S : Plight, Dilemma
+     A : Resolution, Confidence
+
+283. Quack
+     S : Impostor, Deceiver
+     A : Upright, Genuine
+
+284. Quaint
+     S : Queer, Strange
+     A : Familiar, Usual
+
+285. Quarantine
+     S : Isolate, Seclude
+     A : Befriend, Socialize
+
+286. Quell
+     S : Subdue, Suppress
+     A : Exacerbate, Agitate
+
+287. Quibble
+     S : Equivocate, Prevaricate
+     A : Plain, Frank
+
+288. Raid
+     S : Incursion, Foray
+     A : Retreat, Release
+
+289. Rapidity
+     S : Quickness, Velocity
+     A : Inertia, Slowness
+
+290. Reason
+     S : Acumen, Logic
+     A : Folly, Speculation
+
+291. Rebellious
+     S : Restless, Defiant
+     A : Submissive, Compliant
+
+292. Rectify
+     S : Amend, Remedy
+     A : Falsify, Worsen
+
+293. Reluctant
+     S : Averse, Unwilling
+     A : Anxious, Eager
+
+294. Restrain
+     S : Detain, Confine
+     A : Incite, Release
+
+295. Ratify
+     S : Consent, Approve
+     A : Deny, Dissent
+
+296. Ravage
+     S : Destroy, Ruin
+     A : Reconstruct, Renovate
+
+297. Redeem
+     S : Recover, Liberate
+     A : Lose, Forfeit
+
+298. Remnant
+     S : Residue, Remainder
+     A : Entire, Whole
+
+299. Remonstrate
+     S : Protest, Object
+     A : Agree, Approve
+
+300. Remorse
+     S : Regret, Penitence
+     A : Ruthlessness, Callousness
+
+301. Rescind
+     S : Annul, Abrogate
+     A : Delegate, Permit
+
+302. Resentment
+     S : Displeasure, Wrath
+     A : Contentment, Cheer
+
+303. Retract
+     S : Recant, Withdraw
+     A : Confirm, Assert
+
+304. Reverence
+     S : Respect, Esteem
+     A : Disrespect, Affront
+
+305. Rout
+     S : Vanquish, Overthrow
+     A : Succumb, Withdraw
+
+306. Rustic
+     S : Rural, Uncivilized
+     A : Cultured, Refined
+
+307. Ruthless
+     S : Remorseless, Inhumane
+     A : Compassionate, Lenient
+
+308. Sacred
+     S : Divine, Holy
+     A : Ungodly, Profane
+
+309. Savage
+     S : Wild, Untamed
+     A : Polished, Civilized
+
+310. Startled
+     S : Frightened, Shocked
+     A : Calm, Unperturbed
+
+311. Steep
+     S : Lofty, Sharp
+     A : Flat, Gradual
+
+312. Stranger
+     S : Immigrant, Guest
+     A : Acquaintance, Native
+
+313. Sublime
+     S : Magnificent, Eminent
+     A : Ridiculous, Inferior
+
+314. Succinct
+     S : Concise, Terse
+     A : Lengthy, Verbose
+
+315. Sympathy
+     S : Tenderness, Compassion
+     A : Antipathy, Discord
+
+316. System
+     S : Scheme, Structure
+     A : Chaos, Disorder
+
+317. Sarcastic
+     S : Ironical, Derisive
+     A : Courteous, Gracious
+
+318. Saucy
+     S : Impudent, Insolent
+     A : Modest, Humble
+
+319. Shrewd
+     S : Cunning, Crafty
+     A : Simple, Imbecile
+
+320. Scanty
+     S : Scarce, Insufficient
+     A : Lavish, Plentiful
+
+321. Servile
+     S : Slavish, Submissive
+     A : Aggressive, Dominant
+
+322. Shabby
+     S : Miserable, Impoverished
+     A : Prosperous, Thriving
+
+323. Slander
+     S : Defame, Malign
+     A : Applaud, Approve
+
+324. Sneer
+     S : Mock, Scorn
+     A : Flatter, Praise
+
+325. Solicit
+     S : Entreat, Implore
+     A : Protest, Oppose
+
+326. Subterfuge
+     S : Deceit, Stratagem
+     A : Frankness, Openness
+
+327. Stain
+     S : Blemish, Tarnish
+     A : Honor, Purify
+
+328. Spurious
+     S : Fake, Counterfeit
+     A : Genuine, Authentic
+
+329. Sporadic
+     S : Intermittent, Scattered
+     A : Incessant, Frequent
+
+330. Spry
+     S : Nimble, Brisk
+     A : Lethargic, Sluggish
+
+331. Squalid
+     S : Dirty, Filthy
+     A : Tidy, Attractive
+
+332. Successful
+     S : Propitious, Felicitous
+     A : Destitute, Unsuccessful
+
+333. Sterile
+     S : Barren, Impotent
+     A : Profitable, Potent
+
+334. Stupor
+     S : Lethargy, Unconsciousness
+     A : Sensibility, Consciousness
+
+335. Subsequent
+     S : Following, Consequent
+     A : Preceding, Previous
+
+336. Substantial
+     S : Considerable, Solid
+     A : Tenuous, Fragile
+
+337. Subvert
+     S : Demolish, Sabotage
+     A : Generate, Organize
+
+338. Superficial
+     S : Shallow, Partial
+     A : Profound, Deep
+
+339. Sycophant
+     S : Parasite, Flatterer
+     A : Loyal, Honest
+
+340. Taboo
+     S : Prohibit, Ban
+     A : Permit, Consent
+
+341. Taciturn
+     S : Reserved, Silent
+     A : Talkative, Extrovert
+
+342. Tedious
+     S : Wearisome, Irksome
+     A : Exhilarating, Lively
+
+343. Temperate
+     S : Cool, Moderate
+     A : Boisterous, Violent
+
+344. Tenement
+     S : Apartment, Dwelling
+     A : Vacate, Dislodge
+
+345. Tenacious
+     S : Stubborn, Persistent
+     A : Docile, Yielding
+
+346. Throng
+     S : Assembly, Crowd
+     A : Dispersion, Sparsity
+
+347. Timid
+     S : Diffident, Cowardly
+     A : Bold, Intrepid
+
+348. Tranquil
+     S : Peaceful, Composed
+     A : Violent, Furious
+
+349. Transient
+     S : Temporary, Transitory
+     A : Lasting, Enduring
+
+350. Trenchant
+     S : Forceful, Incisive
+     A : Feeble, Ambiguous
+
+351. Treacherous
+     S : Dishonest, Duplicitous
+     A : Forthright, Reliable
+
+352. Trivial
+     S : Trifling, Insignificant
+     A : Significant, Important
+
+353. Tumultuous
+     S : Violent, Riotous
+     A : Peaceful, Harmonious
+
+354. Tyro
+     S : Beginner, Novice
+     A : Proficient, Veteran
+
+355. Tame
+     S : Compliant, Subdued
+     A : Wild, Untamed
+
+356. Terse
+     S : Incisive, Compact
+     A : Diffuse, Lengthy
+
+357. Thick
+     S : Chunky, Massive
+     A : Thin, Attenuated
+
+358. Thrifty
+     S : Frugal, Prudent
+     A : Extravagant, Wasteful
+
+359. Tranquil
+     S : Amicable, Calm
+     A : Agitated, Fierce
+
+360. Transparent
+     S : Diaphanous, Clear
+     A : Opaque
+
+361. Tremble
+     S : Vibrate, Quiver
+     A : Steady, Stabilize
+
+362. Uncouth
+     S : Awkward, Ungraceful
+     A : Elegant, Refined
+
+363. Utterly
+     S : Completely, Entirely
+     A : Partially, Incompletely
+
+364. Umbrage
+     S : Chagrin, Offense
+     A : Sympathy, Goodwill
+
+365. Uncouth
+     S : Boorish, Clownish
+     A : Elegant, Refined
+
+366. Urchin
+     S : Foundling, Orphan
+     A : Adult, Guardian
+
+367. Urge
+     S : Incite, Implore
+     A : Deter, Discourage
+
+368. Vain
+     S : Arrogant, Egoistic
+     A : Modest, Humble
+
+369. Vagrant
+     S : Wanderer, Roaming
+     A : Settled, Stable
+
+370. Valor
+     S : Bravery, Prowess
+     A : Fear, Cowardice
+
+371. Vanity
+     S : Conceit, Pretension
+     A : Modesty, Humility
+
+372. Venerable
+     S : Esteemed, Honored
+     A : Unworthy, Immature
+
+373. Venom
+     S : Poison, Malevolence
+     A : Antidote, Benevolence
+
+374. Veteran
+     S : Experienced, Skilled
+     A : Novice, Tyro
+
+375. Vicious
+     S : Corrupt, Immoral
+     A : Noble, Virtuous
+
+376. Vigilant
+     S : Cautious, Alert
+     A : Careless, Negligent
+
+377. Vivacious
+     S : Spirited, Energetic
+     A : Dispirited, Dull
+
+378. Vilify
+     S : Malign, Defame
+     A : Cherish, Commend
+
+379. Vouch
+     S : Confirm, Assure
+     A : Repudiate, Deny
+
+380. Virtue
+     S : Morality, Goodness
+     A : Vice, Dishonesty
+
+381. Vivid
+     S : Eloquent, Lucid
+     A : Dull, Dim
+
+382. Waive
+     S : Relinquish, Abandon
+     A : Impose, Enforce
+
+383. Wan
+     S : Pale, Faded
+     A : Bright, Healthy
+
+384. Wane
+     S : Decline, Dwindle
+     A : Rise, Increase
+
+385. Wary
+     S : Cautious, Circumspect
+     A : Heedless, Negligent
+
+386. Wed
+     S : Marry, Combine
+     A : Divorce, Separate
+
+387. Wicked
+     S : Vicious, Immoral
+     A : Virtuous, Noble
+
+388. Wield
+     S : Exert, Employ
+     A : Forgo, Avoid
+
+389. Wile
+     S : Trickery, Artifice
+     A : Naivety, Honesty
+
+390. Winsome
+     S : Charming, Attractive
+     A : Unpleasant, Repulsive
+
+391. Wilt
+     S : Wither, Perish
+     A : Revive, Bloom
+
+392. Yell
+     S : Shout, Shriek
+     A : Whisper, Murmur
+
+393. Yield
+     S : Surrender, Abdicate
+     A : Resist, Protest
+
+394. Yearn
+     S : Crave, Long
+     A : Content, Satisfy
+
+395. Yoke
+     S : Connect, Harness
+     A : Liberate, Release
+
+396. Zeal
+     S : Eagerness, Fervor
+     A : Apathy, Lethargy
+
+397. Zenith
+     S : Summit, Apex
+     A : Nadir, Base
+
+398. Zest
+     S : Delight, Enthusiasm
+     A : Disgust, Apathy
+
+399. Zig-zag
+     S : Oblique, Wayward
+     A : Straight, Direct
+
+400. Zany
+     S : Crazy, Foolish
+     A : Sane, Sensible

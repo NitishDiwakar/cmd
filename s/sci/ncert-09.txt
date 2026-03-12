@@ -1,0 +1,415 @@
+============================
+Title : NCERT 9
+Tags  : #nomail #noview
+Descr : 
+============================
+
+TAG:top
+GOTO:1-matter-in-our-surroundings
+GOTO:2-is-matter-around-us-pure
+GOTO:3-atoms-and-molecues
+GOTO:4-structure-of-the-atom
+GOTO:5-the-fundamental-unit-of-life
+GOTO:6-tissues
+GOTO:7-motion
+GOTO:8-force-and-laws-of-motion
+GOTO:9-gravitation
+GOTO:10-work-and-energy
+GOTO:11-sound
+GOTO:12-improvement-in-food-resources
+______________________
+Removed chapters:
+GOTO:7-diversity-in-living-organisms
+GOTO:13-why-do-we-fall-ill
+GOTO:14-natural-resources
+
+
+
+
+
+TAG:1-matter-in-our-surroundings
+*1-matter-in-our-surroundings*
+
+Kinetic Energy
+  - Energy an object has because of its motion
+
+Melting point of ice
+  -> 273.15K
+
+Boiling point of water
+  -> 373K
+
+*Sublimition* 
+  - Solid to gas
+
+*Deposition* 
+  - Gas to solid
+
+Atmosphere (atm) 
+  - Unit of measuring pressure 
+
+Acetone
+  - In nail polish
+
+Bose Einstein Condensate (BEC)
+  - 5th state of matter
+  - Nobel pr. 2001
+  - Cooling a gas of extremely low density
+  - Eric A. Cornell; Wolfgang Ketterle; Carl E. Wieman
+
+*Latent heat* of vaporisation 
+  - Heat energy required to change 1 kg of liquid to gas at atmospheric pressure at its boiling point
+
+*Quantity-Unit-Symbol*
+Temperature
+  - Kelvin (K)
+Weight
+  - Newton (N)
+Volume
+  - Cubic metre (m^3)
+Density
+  - kilogram per cubic metre (kg m^3)
+
+GOTO:top
+TAG:2-is-matter-around-us-pure
+*2-is-matter-around-us-pure*
+Brass => Zinc(30%) + Copper(70%)
+
+*Tincture of iodine*
+  - Solution of iodine in alcohol
+
+Robert Boyle
+  - "Element" (1961)
+
+Mercury, Bromine
+  - Liquid at room temperature
+
+*Kelvin = Celcius + 273.15*
+
+
+
+GOTO:top
+TAG:3-atoms-and-molecues
+*3-atoms-and-molecues*
+GOTO:3-exercises
+John Dalton
+  -> 1808: presented *atomic theory*
+
+Atomic radius is measured in nanometres.
+  -> 1/10^9 m = 1 nm
+  -> 1 m = 10^9 nm
+
+*Relative Sizes (in m)*
+Atom of Hydrogen
+  -> 10^-10 
+Molecule of water
+  -> 10^-9
+Molecule of haemoglobin
+  -> 10^-8
+Grain of sand
+  -> 10^-4
+Ant 
+  -> 10^-3
+Apple
+  -> 10^-1
+
+*Table 3.1: Symbols for some elements*
+Aluminium
+  - AL
+Argon
+  - Ar
+Barium
+  - Ba
+Boron
+  - B
+Bromine
+  - Br
+Calcium
+  - Ca
+Carbon
+  - C
+Chlorine
+  - Cl
+Cobalt
+  - Co
+
+Copper
+  - Cu
+Fluorine
+  - F
+Gold
+  - Au
+Hydrogen
+  - H
+Iodine
+  - I
+Iron
+  - Fe
+Lead
+  - Pb
+Magnesium
+  - Mg
+Neon
+  - Ne
+
+Nitrogen
+  - N
+Oxygen
+  - O
+Potassium
+  - K
+Silicon
+  - Si
+Silver
+  - Ag
+Sodium
+  - Na
+Sulphur
+  - S
+Uranium 
+  - U
+Zinc
+  - Zn
+
+
+GOTO:top
+*Table 3.2: Atomic masses of a few elements*
+Hydrogen
+  -> 1
+Carbon
+  -> 12
+Nitrogen
+  -> 14
+Oxygen
+  -> 16
+Sodium
+  -> 23
+Magnesium
+  -> 24
+Sulphur
+  -> 32
+Chlorine
+  -> 35.5
+Calcium
+  -> 40
+
+
+GOTO:top
+*Table 3.3 Atomicity of some elements*
+Argon
+  - Monoatomic
+Helium
+  - Monoatomic
+Oxygen
+  - Diatomic
+Hydrogen
+  - Diatomic
+Nitrogen
+  - Diatomic
+Chlorine
+  - Diatomic
+Phosphorus
+  - Tetra-atomic
+Sulphur
+  - Poly-atomic
+
+
+GOTO:top
+*Table 3.4 Molecules of some Compounds*
+Water (H2O)
+  - Hydrogen, Oxygen *(1:8)*
+Ammonia (NH3)
+  - Nitrogen, Oxygen *(14:3)*
+Carbon dioxide (CO2)
+  - Carbon, Oxygen *(3:8)*
+
+*Table 3.5 Some ionic compounds*
+Calcium oxide
+  -> 5:2
+Magnesium sulphide
+  -> 3:4
+Sodium chloride 
+  -> 23:35.5
+
+
+TAG:3-exercises
+*Ch-3-exercises*
+Q1. A 0.24 g sample of compound of oxygen and boron was found
+by analysis to contain 0.096 g of boron and 0.144 g of oxygen.
+Calculate the percentage composition of the compound by
+weight. (boton: 40%, oxygen: 60%)
+
+Q2. When 3.0 g of carbon is burnt in 8.00 g oxygen, 11.00 g of 
+carbon dioxide is produced. What mass of carbon dioxide will be formed when 3.00 g  of carbon is burnt in 50.00 g of
+oxygen? Which law of chemical combination will govern your
+answer? (50 - 8 = 42g of O2)
+
+Q3. What are polyatomic ions?  Give examples.
+
+Q4. Write the chemical formulae of the following.
+ (a) Magnesium chloride *MgCl2*
+ (b) Calcium oxide *CaO*
+ (c) Copper nitrate *Cu (NO3)2*
+ (d) Aluminium chloride  *AlCl3*
+ (e) Calcium carbonate  *CaCO3*
+
+Q5. Give the names of the elements present in the following
+ compounds.
+ (a) Quick lime *Calcium, oxygen*
+ (b) Hydrogen bromide *Hydrogen, bromine*
+ (c) Baking powder *Sodium, hydrogen, carbon and oxygen*
+ (d) Potassium sulphate *Potassium, sulphur and oxygen*
+
+Q6. Calculate the molar mass of the following substances.
+ (a) Ethyne, C2 H2 *26 g*
+ (b) Sulphur molecule, S8 *256 g*
+ (c) Phosphorus molecule, P4 (Atomic mass of phosphorus = 31) *124 g*
+ (d) Hydrochloric acid, HCl *36.5 g*
+ (e) Nitric acid, HNO3 *63 g*
+
+Q7. What is the mass of—
+ (a) 1 mole of nitrogen atoms? *14 g*
+ (b) 4 moles of aluminium atoms (Atomic mass of aluminium= 27)? *108 g*
+ (c) 10 moles of sodium sulphite (Na2SO3)? *1260 g*
+
+Q8. Convert into mole.
+ (a) 12 g of oxygen gas *0.375 mole*
+ (b) 20 g of water *1.11 mole*
+ (c) 22 g of carbon dioxide. *0.5 mole* 
+
+Q9. What is the mass of:
+ (a) 0.2 mole of oxygen atoms? *3.2 g*
+ (b) 0.5 mole of water molecules? *9.0 g*
+
+Q10. Calculate the number of molecules of sulphur (S8) present in 16 g of solid sulphur. *3.76 × 10^22 molecules*
+
+Q11. Calculate the number of aluminium ions present in 0.051 g
+ of aluminium oxide.
+ (Hint: The mass of an ion is the same as that of an atom of
+ the same element. Atomic mass of Al = 27 u)  *6.022 × 1020 ions*
+
+*Polyatomic ions*
+  - Ions which contain more than one atom and behave as a single unit. Eg. OH^-, SO4^2-, CO3^2-
+
+
+
+GOTO:top
+TAG:4-structure-of-the-atom
+*4-structure-of-the-atom*
+
+*JJ Thomson* (1856-1940)
+  - Nobel prize (1906)
+    - discover of electrons
+
+*E. Rutherford* (1871-1937)
+  - "father of nuclear physics"
+  - radioactivity
+  - discovery of the nucleus of atom
+  - gold foil experiment
+  - Nobel prize: 1908
+
+*Antonie Laurent Lavoiser*
+  - "father of Chemistry"
+
+*Neils Bohr* (1885-1962)
+  - Nobel prize: 1916
+    - Structure of Atom
+  - Books:
+    - The Theory of Spectra and Atomic Constitution
+    - Atomic Theory
+    - the Description of Nature
+
+*J chadwick*
+  - discovered neuton (1932)
+
+*Table 4.1* Composition of Atoms of the First 18 Elements with Electron Distribution in Various Shells
+IMG:ncert-9-table41.png
+
+
+TAG:4-exercises
+*Ch-4-exercises*
+Q1. Compare the properties of electrons, protons and neutrons.
+Q2. What are the limitations of J.J. Thomson’s model of the atom?
+Q3. What are the limitations of Rutherford’s model of the atom?
+Q4. Describe Bohr’s model of the atom.
+Q5. Compare all the proposed models of an atom given in this chapter.
+
+Q6. Summarise the rules for writing of distribution of electrons in various shells for the first eighteen elements.
+Q7. Define valency by taking examples of silicon and oxygen.
+Q8. Explain with examples 
+  (i) Atomic number
+  (ii) Mass number
+  (iii) Isotopes
+  (iv) Isobars
+Q9. Na+ has completely filled K and L shells. Explain. 
+
+IMG:ncert-9-ch-4-q-10-to-17.png
+
+Q18. Which one of the following is a correct electronic configuration of sodium?
+  (a) 2,8
+  (b) 8,2,1
+  (c) 2,1,8
+  (d) 2,8,1 ✔
+
+IMG:ncert-9-ch-4-q-19.png
+
+
+GOTO:top
+TAG:5-the-fundamental-unit-of-life
+*5-the-fundamental-unit-of-life*
+
+
+GOTO:top
+TAG:6-tissues
+*6-tissues*
+
+
+GOTO:top
+TAG:7-motion
+*7-motion*
+
+
+GOTO:top
+TAG:8-force-and-laws-of-motion
+*8-force-and-laws-of-motion*
+
+
+GOTO:top
+TAG:9-gravitation
+*9-gravitation*
+
+
+GOTO:top
+TAG:10-work-and-energy
+*10-work-and-energy*
+
+
+GOTO:top
+TAG:11-sound
+*11-sound*
+
+
+GOTO:top
+TAG:12-improvement-in-food-resources
+*12-improvement-in-food-resources*
+
+
+
+______________________
+Removed chapters:
+TAG:7-diversity-in-living-organisms
+*7-diversity-in-living-organisms*
+
+
+GOTO:top
+TAG:13-why-do-we-fall-ill
+*13-why-do-we-fall-ill*
+
+
+GOTO:top
+TAG:14-natural-resources
+*14-natural-resources*
+
+
+
+GOTO:top

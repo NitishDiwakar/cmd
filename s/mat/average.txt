@@ -1,0 +1,64 @@
+============================
+Title : Average
+Tags  : #imp
+Descr : 
+============================
+
+GOTO:top
+GOTO:pyq-upsc
+
+
+TAG:pyq-upsc
+*pyq-upsc*
+Q1. The average of  x1, x2 and x3 is 14. Twice the sum of x2 and
+ x3 is 30. What is the value of x1? [1996, UPSC]
+
+ (a) 20 (b)27 ✔ (c) 16 (d)2
+
+
+Q2. The average monthly income of person in a certain family of
+ 5 Persons is 1000. What will be monthly average income of
+ person in the same family if the income of one person
+ increased by 12000 per year? [1997]
+
+ (a) 1200 ✔ (b) 1600 (c) 2000 (d) 3400
+
+
+Q3. The average salary of 100 employees in an office is  16,000
+ per month. The management decided to raise salary of every
+ employee by 5% but stopped a transport allowance of  800
+ per month which was paid earlier to every employee. What
+ will be the new average monthly salary? [2007]
+
+ (a) 16,000
+ (b) 16,500
+ (c) 16,800 ✔
+ (d) Cannot be known since data are insufficient
+
+
+Q4. A student on her first 3 tests received an average score of N
+ points. If she exceeds her previous average score by 20
+ points on her fourth test, then what is the average score for
+ the first 4 tests ? [2011 - II]
+
+ (a) N + 20 (b) N + 10
+ (c) N + 4 (d) N + 5 ✔
+
+
+Q5.  The average monthly income of a person in a certain family of 5 is  10,000. What will be the average monthly income of a person in the same family if the income of one person increased by  1,20,000 per year?
+
+ (a) 12,000 ✔ (b) 16,000 [2016-II]
+ (c) 20,000 (d) 34,000
+
+
+Q6. The monthly average salary paid to all the employees of a company was  5000. The monthly average salary paid to male and female employees was  5200 and  4200 respectively. Then the percentage of males employed in the company is:[2016-II]
+
+ (a) 75% (b) 80% ✔ (c) 85% (d) 90%
+
+
+Q7. Suppose the average weight of 9 persons is 50 kg. The average weight of the first 5 persons is 45 kg, whereas the average weight of the last 5 persons is 55 kg, Then the weight of the 5th person will be [2017-II]
+
+ (a) 45 kg (b)47.5 kg (c) 50 kg (d)52.5 kg
+
+
+

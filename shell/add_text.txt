@@ -1,0 +1,6 @@
+# Create a file header.txt
+# Add text to existing files
+
+for f in *.txt; do
+    cat ../header.txt "$f" > tmp && mv tmp "$f"
+done

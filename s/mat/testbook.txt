@@ -1,0 +1,487 @@
+============================
+Title : Maths - Testbook
+Tags  : #imp 
+Descr : 
+============================
+
+TAG:top
+GOTO:1-percentage
+GOTO:2-profit-loss
+GOTO:3-time-and-work
+GOTO:4-speed-time-and-distance
+GOTO:5-ratio
+GOTO:6-average
+GOTO:7-simple-interest
+GOTO:8-compound-interest
+GOTO:9-number-system
+GOTO:10-problems-on-ages
+GOTO:11-geometry
+GOTO:12-mensuration
+GOTO:13-lcm-and-hcf
+GOTO:14-pipe-and-cistern
+GOTO:15-statistics
+GOTO:16-mixture-and-allegation
+GOTO:17-boat-and-stream
+GOTO:18-permutation-and-combination
+GOTO:19-probability
+GOTO:20-trigonometry
+
+
+TAG:1-percentage
+*1-Percentage*
+
+Q10. The population of a city was 5000000 in 2020. The population grows 7.5% annually. The population in 2022 is ______. (Ans: 5778125)
+
+Q9. In an election, a candidate secured 41% of the votes polled and lost the election by 97,632. What is the number of votes obtained by the winning candidate? (Ans: 3,20,016)
+
+Q8. Sumit's income in 2020 was Rs. 21,000. He gets an increment of 10% every year. What was his income in 2022? (Ans: 25,410)
+
+Q1. The income of Arun is ₹ 36,000 which is 20% less than the income of Babita. The expenditure of Babita is ₹ 30,000 which is 25% more than the expenditure of Arun. What is the difference (in ₹) between the savings of Babita and Arun? (Ans: ₹ 3000)
+
+Q2. A number is successively increased by 20% and 25%, and then successively decreased by 30%, 8% and 5%. The net percentage increase/decrease in the original number is: (Ans: decrease by 8.23%)
+
+Q3. Let a, b and c be natural numbers. If the average value of 20% of a and 30% of b is 270; that of 10% of b and 25% of c is 115 and the difference between b and c is 200, then what is the value of (a + b + 2c)? (Ans: 3,500)
+
+Q4. The population of a village increased to 44100 in year 2003 at the rate of 5% annum. What is the population of the village in year 2001 ? (Ans: 40,000)
+
+
+Q5. David gets a 5% increase in his sale amount in the first year and a 25% increase in the second year, and with that his present sale is ₹1,68,000. What was his sale (in ₹) two years ago? (Ans: 1,28,000)
+
+
+Q6. Two numbers are more than the 3rd number by 30% and 37.5% respectively. Find, the first number is what percentage less than the second number [nearest to one decimal]. (Ans: 5.45%)
+
+
+Q7. A person’s monthly income is ₹4,000. He spends 40% of his income on rent, 25% on groceries and 15% on transportation. The remaining amount is saved. However, his rent increases by 10% next month, while his grocery and transportation expenditures remain the same. How much will he save next month if his income remains the same? (Ans: 640)
+
+
+
+GOTO:top
+____________________
+TAG:2-profit-loss
+*2-Profit-loss*
+
+Q20. If the selling price of 40 articles is equal to the cost price of 50 articles, then the percentage gain is: (Ans: 25%)
+
+Q1. A trader gives 12% discount on the marked price of an article and gives 3 articles free for buying 18 articles and gains 32% in the entire transaction. Assuming a customer pays for 18 articles, the marked price of an article is what percentage more than its cost price? (Ans: 75%)
+
+Q2. A shop sells pens at INR 10 each and notebooks at INR 40 each. After a 10% discount on notebooks.A customer buys 3 pens and 2 notebooks. What is the total cost? (Ans: INR 102)
+
+
+Q3. A retailer sold an item at ₹36,750 after giving a 26.5% discount. What is 16% of the difference between the original marked price and the selling price? (₹ 2,120)
+
+
+Q4. A shopkeeper sells two watches for Rs 3000 each. On one watch he gets 20% profit and on another watch 20% loss. Find the overall profit or loss.  (Ans: Rs 250 loss)
+
+
+Q5. A fruit vendor bought some oranges 3 for a rupee and equal number 2 for a rupee. If he wants to make a profit of 20%, what should be his selling price per dozen? (Ans: 6)
+
+
+Q6. Sum of cost prices of two dogs is ₹ 26,000. Both are sold at profit of 20% and 40% respectively with their selling prices being same. What is the difference between the cost prices of both dogs? (Ans: ₹2,000)
+
+Q7. A shopkeeper has 150 articles of the same cost price. He sells two-third of them at a profit of 35% and the remaining articles at a loss of 16%. What is his profit percentage in the entire transaction? (Ans: 18%)
+
+Q8. The price of an item is successively increased by 20% and 30%, and then decreased successively by 15% and 25%. If the difference between the final price and the original price of the item is Rs. 17.60, then the original price of the item is: (Ans: Rs 3,200)
+
+Q9. The cost of 8 pens and 10 pencils is ₹132. If the cost of a pen decreases by ₹2 and the cost of a pencil increases by ₹7, then the cost of 17 pens and 6 pencils is ₹136. What is the original cost of 12 pens and 9 pencils? (Ans: 138)
+
+
+Q10. A dealer buys two articles X and Y for ₹1,500 each. He marks each of them at the same price. He sells X by giving two successive discounts of 25% and 44% and still earns ₹279 as profit. If he sells Y at a single discount of 58%, then what is the profit percentage on Y? (Ans: 18.6%)
+
+
+Q11. The cost of 13 pens and 3 notebooks is ₹234. If the cost of a pen decreases by ₹6 and the cost of a notebook increases by ₹9, then the cost of 16 pens and 2 notebooks is ₹144. What is the original cost of 6 pens and 17 notebooks? (Ans: ₹ 717)
+
+
+Q12. A man sells two articles for ₹4000 each On one, he gains 25%, and on the other, he loses 25% What is his net gain or loss percentage in the entire transaction? (Ans: 6.25 loss)
+
+
+Q13. By selling 20 markers, a shopkeeper earned a profit equal to the selling price of 5 markers. Find his profit percentage. (Ans: 1⅓)
+
+
+Q14. A shopkeeper purchased a chair whose marked price is Rs. 6600, after two successive discounts of 10 percent each. If he sold the chair for Rs. 6682.50, then what was his profit percentage? (Ans: 25%)
+
+Q14. A shopkeeper purchased a chair whose marked price is Rs. 6600, after two successive discounts of 10 percent each. If he sold the chair for Rs. 6682.50, then what was his profit percentage? (Ans: 25%)
+Q15. (Ans: 210)
+
+Q15. If by selling an article for ₹ 560, the loss is ₹50 more than the profit made by selling it for ₹720, then the cost of the article is: (665)
+
+
+Q16. If a person earns 12.5 percent profit on selling price, then what will be his profit percentage on cost price? [Give your answer correct to two decimal places.]  (Ans: 14.29%)
+
+
+Q17. Mohan bought a new cycle from the showroom and after one year he sold it to Shyam at a profit of 20 percent. Shyam sold the same cycle to Sumit at the loss of 40 percent. Finally Sumit paid Rs. 57600 for this cycle. At what price Mohan bought the cycle?  (Ans: 80,000)
+
+
+Q18. When an article is sold at 3340 of its actual selling price, there is a loss of 25%. If it is sold at 32% above its actual selling price, then the profit percentage is: (Ans: 20%)
+
+
+Q19. An article is sold for Rs. 1,955, after giving two successive discounts of 15% and 20% on its marked price. If no discount is given on the marked price, then there is a gain of 25%. The cost price (in Rs) of the article is: (Ans: 2,300)
+
+____________________
+TAG:3-time-and-work
+*3-Time-and-work*
+
+Q6. Fifteen persons working 12 hours a day earn Rs. 18,000 per week. How many rupees will 18 persons working 9 hours a day earn per week? (Ans: 16,200)
+
+Q1. 12 men can complete a work in 16 days. In how many days will 8 men complete the same work ? (Ans: 24)
+
+
+Q2. 4 men can complete a piece of work in 18 days, while 9 women can do it in 8 days. In how many days can 3 women and 6 men complete this work? (Ans: 8 days)
+
+
+Q3. A and B can do a work in 72 days. B and C can do the same work in 120 days, and A and C can do it in 90 days. In how many days can all three together do the same work? (Ans: 60)
+
+Q4. If Karan can complete ¾th of a work in 27 days, then in how many days can ⅙th of the work be completed by him? (Ans: 6 days)
+
+
+Q5. Atul and Vignesh can complete a job in 10 and 12 days, respectively, if they work separately. In how many days will the job get completed if Vignesh starts the work and they work on alternate days on the same job? (Ans: 11)
+
+____________________
+TAG:4-speed-time-and-distance
+*4-Speed-time-and-distance*
+
+Q16. A robber steals a bag from a man at 5 p.m. and starts running at 10 km/h. A policeman is informed about the robber at 5 : 12 p.m. and he chases him on a cycle at 15 km/h. At what time is the robber caught by the policeman? (Ans: 5:36 PM)
+
+Q1. In covering a distance of 156 km, Abhay takes 5 hours more than Sameer. If Abhay doubles his speed, then he would take 8 hours less than Sameer. Abhay's speed is (Ans: 6 km/h)
+
+Q2. A man travels 50 km at speed 25 km/h and next 40 km at 20 km/h and thereafter travel 90 km at 15 km/h. His average speed is– (Ans: 18)
+
+Q3. If the ratio between the two train’s speed is 8 : 9. If the second train covers 480 kms in 6 hours, then calculate the first train’s speed. (Ans: 71.11 km/h)
+
+
+Q4. What is the average speed of a truck that covers half the distance with a speed of 42 km/hr and the other half with a speed of 56 km/hr? (Ans: 48 km/hr)
+
+Q5. A train moving with the speed of 30 km/hr crosses a platform in 16 minutes. If the length of the train and the platform is same, then what is the length of the platform?  (Ans: 4,000 m)
+
+
+Q6. A 320-m long train crosses a pole in 24 seconds, and passes completely train Y, running in opposite direction at a speed of 60 km/h, in 22 seconds. What is the length (in m) of train Y? (Ans: 340)
+
+
+
+Q7. P and Q run a race of x metres. P gives Q a head start of 250 m. P is 2⅔ times as fast as Q and both finished the race simultaneously. What is the value of x? (Ans: 400)
+
+
+Q8. In covering a distance of 150 km, Pranay takes 2 hours more than Aman. If Pranay doubles his speed, then he would take 3 hours less than Aman. Pranay's speed is: (Ans: 15 km/hr)
+
+
+Q9. On a track of 100 m, A is ahead of B by 20 m. The speed of A is 10 m/sec and that of B is 14 m/sec. In how many seconds will B cover the gap of 20 metres?  (Ans: 5 seconds)
+
+
+Q10. A can beat B in a race of 800 m by 72 m or 12 seconds. Find the speed of A (in km/hr, rounded off to two decimal places). (Ans: 23.74)
+
+
+Q11. 12 men can finish a work in 15 days. After working for 5 days, 4 men leave. How many more days will the remaining men take to finish the work ? (Ans: 15 days)
+
+Q12. A 300-m long train A passes a pole in 12 seconds, and it crosses completely another train B, running in the same direction at a speed of 60 km/h in 78 seconds. What is the length (in m) of train B? (Ans: 350)
+
+Q13. A train of length 280 m passes through a tunnel of length (D)m in 40 sec. If the speed of train is 144 km/hr find the value of D ? (Ans: 1,320 m)
+
+
+Q14. A man travels from A to B at a speed of 40 km/h and then from B to C at 60 km/h, where B is between A and C. The ratio of distances AB and BC is 2 : 3. He travels back from C to A at x km/h. If his average speed for the whole journey is 61 7/13 km/h, then what is the value of x? (Ans: 80)
+
+
+Q15. In a certain race, A beats B by 35 seconds and B beats C by 45 seconds. The speed of B is the average of the speeds of A and C. What time (in minutes) does C take to run the race? (Ans: 6)
+
+
+GOTO:top
+____________________
+TAG:5-ratio
+*5-Ratio*
+Q1. The income ratio of A and B is 4:5 and their expenditure ratio is 1:2. If A saves Rs. 600 & B saves Rs. 300 then, find the income of B. (Ans: 1,500)
+
+Q2. The value of a diamond varies directly as the square of its weight. If a diamond worth ₹24,000 is divided into two pieces in the ratio 3 : 5, then what will be the loss in its value? (Ans: 11,250)
+
+Q3. The ratio of the two parallel sides of a trapezium is 3 : 2. The shortest distance between these sides is 30 cm and the area of the trapezium is 900 cm² .What is the sum of lengths of the parallel sides? (Ans: 60 cm)
+
+
+Q4. There are 5481 students in a school and the ratio of boys to girls in the school is 34 : 29, then find the number of boys in school. (Ans: 2,958)
+
+
+Q5. A, B and C started a business, five times the investment of A equals to 3 times investment of B and capital of B is twice that of C. Then, ratio of their properties. (Ans: 6:10:5)
+
+
+Q6. A sum of ₹ 6,270 is divided among A, B and C in such a way that the ratio of A's share to B and C's combined share is 3 : 7 and the ratio of B's share to A and C's combined share is 2 : 9. What is C's share? (Ans: 3,249)
+
+
+Q7. Alloy ‘A’ has three metals; metal A, B and C in the ratio 1 ∶ 2 ∶ 3. Alloy B has Metal A, B and C in the ratio 2 ∶ 3 ∶ 4. In what ratio, should the two alloys be mixed to get 20% metal A in the f inal mix? (Ans: 2:3)
+
+
+Q8. Anusha starts a business with ₹28,000 and after 4 months, Minal joins with Anusha as her partner. After a year, the profit is divided in the ratio 8 : 5. How much capital did Minal invest? (Ans: ₹ 26,250)
+
+
+Q9. Three partners A, B and C share profit such that 3 times of the A's share is equal to 6 times of the B's share and also equal to 12 times of the C's share. What is the ratio of the profits of A, B and C respectively?  (Ans: 4:2:1)
+
+
+Q10. The total income of X, Y, and Z is Rs. 75,000. The ratio of X's income to the combined income of Y and Z is 3 : 7 and the ratio of Y's income to the combined income of X and Z is 4 : 11. What is the income (in Rs) of Z? (Ans: 32,500)
+
+____________________
+TAG:6-average
+*5-Average*
+
+Q6. The average age of 18 students in a class is x, and teacher age of 43 is included, then the average age increases by 1. Find the new average age of the students including the teacher in a class. If one more student aged 25 is included in a class. (Ans: 25)
+
+Q5. Find the ratio between the bowling average and strike rate of bowler playing an ODI match with 6 overs to deliver, giving away 120 runs and taking 4 wickets. (Ans: 10:3)
+
+Q1. The monthly salary of some workers in a factory is ₹ 28,500. When four workers whose average monthly salary is ₹ 25,600 left the factory and three workers whose monthly salary is ₹ 34,400 joined the factory, the average monthly salary of workers in the factory now increases by ₹ 1,172. The number of workers initially in the factory was: (Ans: 26)
+
+Q2. The average score of 120 students in a test is 70. If the average score of the passed students is 78 and that of the failed students is 30, what is the number of failed students? (Ans: 20)
+
+Q3. The average marks of Gopal in 12 papers is 83. If he got the same highest marks in two papers and the same lowest marks in three papers, excluding the highest and lowest marks, the average of the remaining papers is 89, and the difference between the highest and the lowest marks is 39. If the highest is 2 marks less and lowest is 6 marks more, then the average of 12 papers is: (Ans: 84⅙)
+
+
+Q4. The average runs scored by a batsman in 23 matches is 41. In the next 10 matches, the batsman scored an average of 16 runs. Find his average runs scored (rounded off to two decimal places) in all the 33 matches. (Ans: 3,342)
+
+GOTO:top
+___________________
+TAG:7-simple-interest
+*7-Simple-Interest*
+
+Q6. The simple interest on the sum for 12 years is three-fifth of the sum. The rate of interest per annum is: (Ans: 5%)
+
+Q1. On a sum of Rs. 30,000, Pratik gets simple interest as follows: 10% in the first year, 20% in the second year and 30% in the third year. What is the sum total of the interest earned by him? (Ans: 18,000)
+
+Q2. Sapna invested ₹20,300 on simple interest, partly at 11% per annum and partly at 3% per annum. If she earns equal interests from the two investments after 5 years, then find the sum invested at 11% per annum (in ₹). (Ans: ₹4,350)
+
+
+Q3. A person lent Rs. 20000 to B for 3 years and Rs. 16000 to C for 4 years at the same rate of simple interest and received a total of Rs. 9300 from them as interest. What was the annual rate of interest?  (Ans: 7.5%)
+
+
+Q4. A man has invested ₹54,500 at a rate of 8% per annum simple interest for 3 years. Find the amount (in ₹) that he will receive after 3 years. (Ans: 67,580)
+
+
+Q5. The simple interest on a certain sum for 2½years at 12% per annum is Rs. 600 less than the simple interest on the same sum for 4½ years at 8% per annum, then the sum is: (Ans: Rs 10,000)
+
+GOTO:top
+___________________
+TAG:8-compound-interest
+*7-Compound-Interest*
+
+Q7. How much Rs. 60,000 amounts in three years at compound interest. If the rate of interest double itself each successive, given the rate interest for the first year is 5%? (83,160)
+
+Q1. The compound interest on ₹6,000 at a certain rate for 1½ years is ₹1,986, compounded every 6 months. What is the simple interest on the same amount for 3 years at half the previous rate? (Ans: 1800)
+
+
+Q2. A sum of ₹20,000 is borrowed for 1¼ year at 12% interest per year. If the interest is compounded every 5 months, what is the compound interest on the sum? (Ans: 3,152.50)
+  Given:
+  Principal (P) = ₹20,000
+  Time (T) = 1(1/4) year = 15 months = 15/12 years 
+  Rate of Interest (R) = 12% per year
+
+ Interest is compounded every 5 months. Hence, number of compounding periods per year (n) = 12 / 5 = 2.4
+ Formula Used:
+ *Compound Interest (CI) = P × [(1 + R/(100 × n))n×T - 1]*
+ Calculation:
+ R/(100 × n) = 12 / (100 × 2.4) = 12 / 240 = 0.05
+ n × T = 2.4 × 15/12 = 3
+ CI = 20,000 × [(1 + 0.05)3 - 1] 
+ ⇒ CI = 20,000 × [(1.05)3 - 1]
+ (1.05)3 = 1.157625
+ ⇒ CI = 20,000 × (1.157625 - 1)
+ ⇒ CI = 20,000 × 0.157625 
+ ⇒ CI = ₹3,152.50
+ The compound interest on the sum is ₹3,152.50.
+
+Q3. What will be the total amount payable on a sum of ₹3,500 after two years at the rate of 20% per annum if the interest is compounded annually? (Ans: ₹ 5,040)
+
+
+Q4. The difference between the simple interest and the compound interest, compounded annually, on a certain sum of money for 2 years at 14% per annum is ₹741. Find the sum. (Rounded off to the nearest integer.) (Ans: ₹ 34,806)
+
+
+Q5. A sum becomes Rs. 15681.6 in 2 years when invested on compound interest (compounded annually). If rate of interest is 32 percent per annum, then what is the sum? (Ans: Rs 9,000)
+
+
+Q6. A certain sum of money at r% compounded annualy after two and three years becomes ₹ 1440 and ₹ 1584 respectivaly. Find value of r. (Ans: 10%)
+
+GOTO:top
+___________________
+TAG:9-number-system
+*9-Number-System*
+
+Q8. Find the lowest positive value of (c – b) such that the 7-digit number 1738b9c is divisible by 12. (Ans: 1)
+
+Q7. The difference between two numbers is 48. The ratio of these two numbers is 7 ∶ 3. What is the sum of the two numbers? (Ans: 120)
+
+Q5. M varies inversely as (N² + 3). If M = 3 when N = 3, then what will be the value of M when N² = 69? (Ans: 1/2)
+
+Q4. Successive division of a number by 2, 3, 5 and 7 gives remainders 1, 4, 0 and 5, respectively. What will be the sum of the remainders if the same number is divided by 7, 5, 3 and 2 successively? (Ans: 9)
+
+Q1. Select the option from the following that will complete the number series given below.
+62, 73, 95, 128, 172, ___  (Ans: 227)
+
+Q2. Which of the following numbers will be a number of the given series?
+  11, 18, 25, 32, 39, …. (Ans: 347)
+
+
+Q3. Five consecutive prime numbers A, B, C, D and E are in ascending order. If product of A × C × E = 1729 and product of B × C × D = 2431, find the next prime number to E. (Ans: 23)
+
+
+
+GOTO:top
+___________________
+TAG:10-problems-on-ages
+*10-Problems-on-ages*
+Q1. A father is twice old as his son. 8 years back their ages were in the ratio 8 ∶ 3, then present ages of father and son respectively are (Ans: 40 years, 20 years)
+
+
+Q2. 8 times the present age of Anjali is 14 years more than 2 times the present age of Kamal, and 8 times the present age of Kamal is 8 years less than 8 times the present age of Anjali. The sum of the present ages (in years) of Anjali and Kamal is: (Ans: 3)
+
+
+Q3. 8 years ago, the age of father was 27 years more than twice his son's age. After how many years, from now, will he be twice his son's age? (Ans: 19)
+
+GOTO:top
+___________________
+TAG:11-geometry
+*11-Geometry*
+
+Q7. Find the diameter of a spherical ball whose volume is 38.808 cm3. (Use  π = 22/7) (Ans: 4.2 cm)
+
+Q6. The surface area of a sphere is 2464 cm². Find its volume. (Ans: 11,498⅔ cm³)
+
+Q1. The ratio of the areas of two similar triangles is 49 : 121. What is the ratio of their perimeters ? (Ans: 7:11)
+
+
+Q2. What is the surface area of a sphere of radius 8 cm? (use π = 3.14) (Ans: 803.84 cm²)
+
+
+Q3. If the radius of a cylinder is increased by 50 percent, then by how much percent its height must be reduced, so that the volume of the cylinder remains same?   (Ans: 55.56%)
+
+
+Q4. The base of a right prism is an equilateral triangle with each side measuring 4 cm. If lateral surface area is 180 cm². find the volume of prism (in cm³)? (Ans: 60√3)
+
+
+Q5. Rahul is 3 times as old as Seema. Laxmi was twice as old as Rahul four years ago. In four year's time, Rahul will be 31. What are the present ages of Seema and Laxmi?  (Ans: 9,50)
+
+GOTO:top
+___________________
+TAG:12-mensuration
+*12-Mensuration*
+
+Q2. If the side of a cube is 3,which of the following options is equal to the ratio between the surface area and the volume of the cube? (Ans: 2:1)
+
+Q1. A wall length of 48 m, 0.4 m thick and 5 m high is constructed with the bricks each of dimensions 25 cm × 16 cm × 10 cm. If mortar occupies 1/10th of the volume of the wall, then how many bricks are used in constructing the wall? (Ans: 21,600)
+
+
+
+GOTO:top
+___________________
+TAG:13-lcm-and-hcf
+*13-LCM-and-HCF*
+Q1. The sum of two numbers is 132 and their L.C.M. is 630. What are the two numbers?  (90, 42)
+
+Q2. The sum and LCM of two numbers is 132 and 360. Find the both numbers. (Ans: 60,72)
+	Given:
+	Sum (a + b) = 132; LCM(a, b) = 360
+	Formula used:
+	a = g×m, b = g×n; gcd(m, n) = 1
+	LCM = g×m×n; Sum = g(m + n)
+	Calculation:
+	⇒ g | gcd(132, 360) = 12 ⇒ try g = 12
+	⇒ m + n = 132 ÷ 12 = 11; mn = 360 ÷ 12 = 30
+	⇒ Numbers with sum 11 and product 30 ⇒ (m, n) = (5, 6)
+	⇒ a = 12×5 = 60; b = 12×6 = 72
+	Check: LCM(60, 72) = 360; Sum = 60 + 72 = 132
+	∴ The numbers are 60 and 72.
+
+Q3. If the ratio of two numbers is 9: 8 and their HCF is 31, find their LCM. (Ans: 2,232)
+
+Q4. The sum of two numbers is 1206, and their HCF is 9. Which of the following could be the two numbers? (Ans: 585, 621)
+
+
+
+GOTO:top
+___________________
+TAG:14-pipe-and-cistern
+*14-Pipe-and-Cistern*
+
+Q1. P and Q together can fill a cistern with water in 30 hours. If P alone can fill the cistern with water in 80 hours, then in how many hours will Q alone fill half of the cistern with water? (Ans: 24)
+
+
+Q2. Pipe A and Pipe B can fill a cistern together in x hours. The efficiency of A is 40% less than the efficiency of B. If B can fill 5/12 th of the cistern in 1¼ hours, find x. (Ans: 1⅞)
+
+
+Q3. A pipe can fill a tank in 24 hours. Another pipe can empty the filled tank in 27 hours. If both the pipes are opened simultaneously, then the time (in hours) in which the tank will be filled two-third is: (Ans: 144)
+
+
+Q4. A container holds a mixture of liquids A to B in the ratio 3 : 1. What fraction of the total volume must be removed and replaced with liquid B so that the new ratio of A to B becomes 1 : 1? (Ans: 1/3)
+
+
+Q5. A pipe can fill a tank in 21 hours. Another pipe can empty the filled tank in 63 hours. If both the pipes are opened simultaneously, then the time (in hours) in which the tank will be filled two-third is: (Ans: 21)
+
+
+Q6. Pipes A and B can fill a tank in 12 hours and 20 hours, respectively. Pipe C is an emptying pipe. If A, B and C are opened together for 8 hours, then 80% of tank is filled. Initially, pipe B is opened for 4 hours and then closed. Pipes A and C together will fill the remaining part of the tank in (in hours): (Ans: 16)
+
+
+
+GOTO:top
+___________________
+TAG:15-statistics
+*15-Statistics*
+Q1. If the mean of certain data is 75 and standard deviation is 18, then find the coefficient of variation? (Ans: 24)
+
+
+Q2. What is the median of the following data?
+   76, 35, 42, 49, 95, 21, 68, 41, 20, 27, 17 (Ans: 41)
+
+Q3. For a data of 10 observations, the median is 10. The smallest and largest values of the data are 0 and 15, respectively. If these values are removed from the data, the median of the remaining eight observations will be:  (Ans: 10)
+
+
+GOTO:top
+___________________
+TAG:16-mixture-and-allegation
+*16-Mixture-and-allegation*
+
+Q6. Barrel consist of 100 litres of grape juice, 10% of the grape juice present in barrel was removed and replaced with milk. This was repeated two times more. Calculate amount of milk added. (Ans: 27.1L)
+
+Q1. A milkman prepared water and milk mixture in a can with the water to milk ratio 5: 7. He accidentally spilled 18 litres of the mixture. He then filled the can with water equal to the spilled mixture. This made the water to milk ratio 9: 7. How much milk (in litres) did the can initially have? (Ans: )
+
+
+Q2. A salt solution has 60% of salt. Another salt solution has 60% of water. 63 L of the second solution is added to 27 L of the first solution to make a salt solution of x%. What is the ratio of water to salt in the final solution? (Ans: 27:23)
+
+
+Q3.  A container holds a mixture of two liquids M and N in the ratio 7 : 5. When 8 litres of the mixture is taken out and replaced with 8 litres of liquid N, the ratio of M to N becomes 7 : 9. How many litres of liquid M was there initially in the container? (Ans: 18⅔)
+
+
+Q4. If a man adds 5 litres of water to 14 litres of milk and another man adds 16 litres of milk to 22 litres of water. Find the ratio of milk in two mixtures. (Ans: 7:4)
+
+
+Q5. Rice worth ₹ 110/kg and ₹ 125/kg are mixed with third variety of rice in ratio 1 :2 : 3. If the mixture is worth ₹ 140/kg, then the price of third variety of rice is (in ₹): (Ans: 160)
+
+GOTO:top
+___________________
+TAG:17-boat-and-stream
+*17-Boat-and-Stream*
+Q1. A boat's speed in still water is 5 times the speed of the stream. It takes 5 hours for the boat to cover 36 km downstream and half the distance upstream. Find the speed (in km/hr) of the boat in still water. (Ans: 10.5)
+
+
+Q2. A man can row 30 km upstream and 55 km downstream in the same amount of time as he can row 38.5 km downstream and 37.5 km upstream. Find the ratio of the rowing speed to the speed of the current. (Ans: 8:3)
+
+
+Q3. A boat travels 40 km upstream in 4 hours and downstream in 2 hours. What is the speed of the stream?  (Ans: 5 km/hr)
+
+
+
+GOTO:top
+___________________
+TAG:18-permutation-and-combination
+*18-Permutation-and-combination*
+Q1. A group consists of 4 Boys and 3 Girls. In how many ways can a team of 4 members be selected if the team has at least one boy and one girl. (Ans: )
+
+
+
+GOTO:top
+___________________
+TAG:19-probability
+*19-Probability*
+Q1. A bag contains 3 white, 2 red and 5 blue balls. Three balls are drawn at random from the bag. The probability that all of them are blue balls is xy, then, find (x+y). (Note: Consider lowest value of x and y) (Ans: 13)
+
+Q2. A bag has coins of ₹ 1, 50 paise and 25 paise in ratio 2:3:1. What is the worth of the bag if total number of coins in the bags is 120? (Ans: 75)
+
+
+
+GOTO:top
+___________________
+TAG:19-trigonometry
+*20-Trigonometry*
+
+
+
+Q1. 12 sin2 A + 2 cos2 A = 7, where 0 < A < 180º. Then cot A is: (Ans: ±1/√2)

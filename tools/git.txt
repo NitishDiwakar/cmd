@@ -1,0 +1,35 @@
+============================
+Title : git
+Tags  : #
+Descr : 
+============================
+
+# Check status
+git status
+
+# Add files
+git add .
+
+# Add commit message 
+git commit -m "Message here"
+
+# Push
+git push
+
+# Pull
+git pull
+
+# See last n logs
+git log -3 --oneline
+
+# Ignore a remote directory on client side
+git sparse-checkout init --no-cone
+git sparse-checkout set '/*' '!/s/img/'
+
+# Ignore local changes and pull from main branch
+git fetch origin && git reset --hard origin/main && git clean -fd
+
+# Git pull from a parent directory to subdirectory
+git -C my_project pull
+
+

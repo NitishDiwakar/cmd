@@ -1,0 +1,162 @@
+============================
+Title : Percentage
+Tags  : #imp
+Descr : 
+============================
+
+TAG:top
+GOTO:basics
+GOTO:pyq-upsc
+
+TAG:basics
+Fraction to percentage
+1/2   = 50%
+1/3   = 33.33%
+1/4   = 25%
+1/5   = 20%
+1/6   = 16.67%
+1/7   = 14.28%
+1/8   = 12.5%
+1/9   = 11.11%
+1/10  = 10%
+
+1/11  = 9.09%
+1/12  = 8.33
+1/13  = 7.69%
+1/14  = 7.14%
+1/15  = 6.67%
+1/16  = 6.25%
+1/20  = 5%
+
+1/21  = 4.76%
+1/22  = 4.54%
+1/23  = 4.34%
+1/24  = 4.16%
+1/25  = 4%
+1/40  = 2.5%
+
+2/5   = 40%
+2/7   = 28.56%
+3/4   = 75%
+3/8   = 37.5%
+3/11  = 27.27%
+
+4/7   = 57.14%
+4/9   = 44.44%
+5/8   = 62.5% 
+5/11  = 45.45%
+7/8   = 87.5%
+7/9   = 77.77%
+7/11  = 63.63%
+10/11 = 90.90%
+
+
+GOTO:top
+TAG:pyq-upsc
+*pyq-upsc*
+Q1. Out of a total of 120 musicians in a club, 5% can play all the three instruments, guitar, violin and flute. If so happens that the number of musicians who can play any two or only two of the above instruments is 30. The number of musicians who can play the guitar alone is 40. What is the total number of those who can play violin alone or flute alone?[1995]
+ (a) 45 (b)44 ✔ (c) 38 (d)30
+
+Q2. A person earns  2000 per month over and above his salary as additional charge allowance. However, 30% of this additional income will be deducted as additional income tax at source. If the person would deposit  1000 per month on a long term saving fetching 12% interest his tax liability on the additional allowance would reduce to 10%. What is the effective interest for this person for money invested in the long term savings scheme? [1995]
+ (a) 12% (b)18% ✔ (c) 19% (d)20%
+
+Q3. If the price of a television set is increased by 25%, then by what percentage should the new price be reduced to bring the price back to the original level? [1996]
+ (a) 15% (b)25% (c) 20% ✔ (d)30%
+
+Q4. Out of the three annual examination, each with a total of 500 marks, a student secured average marks of 45% and 55% in the first and second annual examinations. To have an overall average of 60%, how many marks does the student need to secure in the third annual examination? [1998]
+ (a) 450 (b)400 ✔ (c) 350 (d) 300
+
+Q5. Amar, Akbar and Anthony are friends, being looked after by a matron Farah, Amar weighs 50% more than Akbar and Anthony weighs 25% less than Amar. Farah weighs a third of the combined weight of the three boys. All four together weigh 232kg. The correct arrangement of the persons in the ascending order of their weights, is : [1999]
+ (a) Anthony, Akbar, Farah, Amar
+ (b) Anthony, Akbar, Amar, Farah
+ (c) Akbar, Anthony, Amar, Farah
+ (d) Akbar, Anthony, Farah, Amar ✔
+
+Q6. In a town 25% families own a phone and 15% own a car. 65% families own neither a phone nor a car. 2000 families own both a phone and a car. Consider the following statements in this regard: [1999]
+ 1. 10% families own both a car and a phone
+ 2. 35% families own either a car or a phone
+ 3. 40,000 families live in the town
+ Which of the above statements are correct?
+ (a) 1 and 2 (b) 1 and 3
+ (c) 2 and 3 ✔ (d) 1, 2 and 3
+
+Q7. In an examination, every candidate took Physics or Mathematics or both. 65.8% took Physics and 59.2% took Mathematics. The total number of candidates was 2000. How many candidates took both Physics and Mathematics? [2000, UPSC]
+ (a) 750 (b)500 ✔ (c) 250 (d) 125
+
+Q8. A city has a population of 3,00,000 out of which 1,80,000 are males. 50% of the population is literate. If 70% of the males are literate, the number of literate females is [2001, UPSC]
+ (a) 24,000 ✔ (b) 30,000
+ (c) 54,000 (d) 60,000
+
+Q9. In a survey, it was found that 80% of those surveyed owned a car while 60% of those surveyed owned a mobile phone. If 55% owned both a car and a mobile phone, what percent of those surveyed owned a car or a mobile phone or both? [2001, UPSC]
+ (a) 65% (b) 80% 
+ (c) 85% ✔ (d) 97.5%
+
+Q10. In a company, 60% of the employees are men. Of these 40% are drawing more than  50,000 per year. If 36% of the total employees of the company draw more than  50,000 per year, what is the percentage of women who are drawing less than  50,000 per year? [2002]
+ (a) 70 ✔ (b)60 (c) 40 (d)30
+
+Q11. In an examination, 70% of the students passed in the Paper I, and 60% of the students passed in the Paper II. 15% of the students failed in both the papers while 270 students passed in both the papers. What is the total number of students? [2008]
+ (a) 600 ✔ (b)580 (c) 560 (d)540
+
+Q12. In an examination, there are three subjects A, B and C. A student has to pass in each subject. 20% students failed in A, 22% students failed in B and 16% failed in C. The total number of students passing the whole examination lies between [2009]
+ (a) 42% and 84% ✔ (b) 42% and 78%
+ (c) 58% and 78% (d) 58% and 84%
+
+Q13. Two numbers X and Y are respectively 20% and 28% less than a third number Z. By what percentage is the number Y less than the number X ? [2010]
+ (a) 8% (b) 9% (c) 10% ✔ (d) 12%
+
+Q14. A candidate attempted 12 questions and secured full marks in all of them. If he obtained 60% in the test and all questions carried equal marks, then what is the number of questions in the test? [2010]
+ (a) 36 (b) 30 (c) 25 (d) 20 ✔
+
+Q15. In a group of persons, 70% of the persons are male and 30% of the persons are married. If two-sevenths of the males are married, what fraction of the females is single ?[2011 - II]
+ (a) 2/7 (b) 1/3 (c) 3/7 (d) 2/3 ✔
+
+Q16. The tank-full pertrol in Arun’s motor-cycle lasts for 10 days.  If he starts using 25% more everyday, how many days will the tank-full pertrol last? [2013 - II]
+ (a) 5 (b) 6 (c) 7 (d) 8 ✔
+
+Q17. If Sohan, while selling two goats at the same price, makes a profit of 10% on one goat and suffers a loss of 10% on the other [2014 - II]
+ (a) he makes no profit and no loss.
+ (b) he makes a profit of 1%.
+ (c) he suffers a loss of 1%. ✔
+ (d) he suffers a loss of 2%.
+
+Q18. In a town, 45% population read magazine A, 55% read magazine B, 40% read magazine C, 30% read magazines A and B, 15% read magazines B and C, 25% read magazines A and C; and 10% read all the three magazines. What percentage do not read any magazine? [2015-II]
+ (a) 10% (b) 15% (c) 20% ✔ (d) 25%
+
+
+Q19. Candidates in a competitive examination consisted of 60% men and 40% women. 70% men and 75% women cleared the qualifying test and entered the final test where 80% men and 70% women were successful. Which of the following statements is correct? [2015-II]
+ (a) Success rate is higher for women.
+ (b) Overall success rate is below 50%.
+ (c) More men cleared the examination than women. ✔
+ (d) Both (a) and (b) above are correct.
+
+Q20. If the salary of an officer is increased by 25% and then decreased by 25%, then what is the net percentage change in his salary? (ASO Mains)
+(A) 0%
+(B) 5%
+(C) 6.25% ✔
+(D) 2.5%
+  -> *(percentage change = x^2/100)*
+
+Q21. The total emoluments of two persons are the same, but one
+ gets allowances to the extent of 65% of his basic pay and
+ the other gets allowances to the extent of 80% of his basic
+ pay. The ratio of the basic pay of the former to the basic pay
+ of the latter is: [2016-II]
+ (a) 16 : 13(b) 5 : 4 (c) 7 : 5 (d) 12 : 11 ✔
+
+Q22. Anita’s mathematics test had 70 problems carrying equal marks i.e., 10 arithmetic, 30 algebra and 30 geometry. Although she answered 70% of the arithmetic, 40% of the algebra and 60% of the geometry problems correctly, she did not pass the test because she got less than 60% marks. The number of more questions she would have to answer correctly to earn a 60% passing marks is: [2016-II]
+ (a) 1 (b) 5 ✔ (c) 7 (d) 9
+
+Q23. Two numbers X and Y are respectively 20% and 28% less than a third number Z. By what percentage is the number Y less than the number X ? [2016-II]
+ (a) 12% (b) 10% ✔ (c) 9% (d) 8%
+
+Q24.  If there is a policy that 1 / 3rd of a population of a community has migrated every year from one place to some other place, what is the leftover population of that community after the sixth year, if there is no further growth
+ in the population during this period? [2017-II]
+ (a) 16/243rd part of the population
+ (b) 32/243rd part of the population
+ (c) 32 / 729th part of the population 
+ (d) 64/ 729th part of the population ✔
+
+Q25.  In a city, 12% of households earn less than  30,000 per year, 6% households earn more than  2,00,000 per year, 22% households earn more than 1,00,000 per year and 990 house- holds earn between  30,000 and  1,00,000 per year. How many households earn between  1,00,000 and  2,00,000 per year? [2017-II]
+ (a) 250 (b) 240 ✔ (c) 230 (d) 225
+
+

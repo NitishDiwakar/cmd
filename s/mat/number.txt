@@ -1,0 +1,81 @@
+============================
+Title : Number System
+Tags  : #imp
+Descr : 
+============================
+
+GOTO:types
+GOTO:divisibility
+
+
+
+TAG:types
+*Types*
+Natural Numbers
+  - 1,2,3,4,...
+
+Whole Numbers
+  - 0,1,2,3,4,...
+
+Integers
+  - -3,-2,-1,0,1,2,3,...
+
+Prime Numbers
+  - Exactly two factors
+  - 2,3,5,7,11,13,17, 19,23,29,31,37,41, 43,47,53,59,61,67, 71,73,79,83,89,97 (till 100: 25)
+
+Composite Numbers
+  - Non prime
+
+*Perfect Numbers*
+  - Sum of whose factors (except teh number itself), is equal to the number
+  - 6,28,496
+
+Co-prime
+  - two numbers whose HCF is 1
+  - (2,3), (8,9)
+
+Twin prime
+  - two prime numbers whose difference is 2
+  - (3,5), (5,7), (11,13)
+
+Rational Numbers
+  - In p/q form
+
+Irrational Numbers
+  - When expressed in decimal would be in non-terminating and non-repeating form
+  - √2, √3, √5, √7
+
+
+*Test of prime number*
+  - 137
+  - 12^2 = 144
+  - Prime numbers less than 12
+  - 2,3,5,7,11
+  - none of the divides 137
+  - so, 137 is a prime no
+
+
+TAG:divisibility
+*Divisibility*
+
+*Divisibility of 7*
+  - x2 of last digit, the subtract from remaining
+  - 784
+  - (78-8)
+  - 70
+  - is divisible by 7
+
+Divisibility of 11
+  - Alternative sum and subtract
+
+*Divisibility of 13*
+  - x4 of last digit, then add to remaining
+  - check if result is 0 or divisible by 13
+  - 221
+  - (22+4)
+  - 26
+  - is divisible by 13
+
+
+

@@ -1,0 +1,67 @@
+============================
+Title : Poets and Scholors - court
+Tags  : #
+Descr :
+============================
+
+
+Kalidas
+  King:
+    - Chandragupta II
+  Prominent works:
+    - AbhijnaShakuntalam
+    - Meghdoot
+
+
+Banbhatt
+  King:
+    - Harshavardhana
+  Prominent works:
+    - Harshacharit
+    - Kadambari
+
+
+Chand Bardai
+  King:
+    - Prithviraj Chauhan
+  Prominent works:
+    - Prithviraj Vaso
+
+
+*Bhavabhuti*
+  King:
+    - King Yashovarman of Kannauj
+  Prominent works:
+    - Mahavircharita
+    - Malatimadhava
+    - Uttaramacharita
+
+
+Amir Khusro
+  King:
+    - Alauddin Khilji (& 6 other kings)
+  Prominent works:
+    - Tuhfatus-Sighr
+    - Qiranus-Sa'dain
+
+
+*Sri Ponna*
+  King:
+    - Rashtrakuta king Krishna III
+  Prominent works:
+    - Shantipurana
+    - Bhuvanaika-Ramabhyudaya
+
+
+*Parmanand*
+  King:
+    - Shivaji
+  Prominent works:
+    - Shivbharat
+
+
+*Ravikriti*
+  King:
+    - Pulkesin II
+  Prominent works:
+    - Aihole Inscription

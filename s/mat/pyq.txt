@@ -1,0 +1,445 @@
+============================
+Title : Mathematics PYQ
+Tags  : #imp
+Descr : PYQ of some recent exams
+============================
+TAG:top
+GOTO:Aso-Mains-2026
+GOTO:Aso-Pre-2025
+GOTO:bpsc-hm-2024
+
+
+TAG:Aso-Mains-2026
+[*ASO Mains 2026*]
+91. If the cost price of 16 tables is equal to the selling price of 12 tables, the the gain % is:
+(A) 30
+(B) 15
+(C) 33x1/3 ✔
+(D) 20
+  - 16SP = 12CP
+  - 4SP  = 3CP
+  - 1
+  - gain % = 1/3 * 100
+  - 33x1/3 
+
+92. In a mixture of 60 litres, the ratio of acid and water is 2:1. If the ratio of acid and water is to be 1:2, then the amount of water (in litres) to be added to the mixture will be
+(A) 50
+(B) 45
+(C) 55
+(D) 60 ✔
+
+93. An electronic device makes a beep after every 60 seconds. Another device makes a beep after every 62 seconds. They beeped together at 10:00 a.m. The next time they would beep together at the earliest is
+(A) 10:30 a.m.
+(B) 10:31 a.m. ✔
+(C) 10:59 a.m.
+(D) 11:00 a.m.
+
+94. A school starts at 10:00 a.m. and lasts till 01:27 p.m. Four periods are held during this interval. After every period, 5 minutes rest is given to the students. The exact duration of each period is
+(A) 42 minutes
+(B) 48 minutes ✔
+(C) 51 minutes
+(D) 53 minutes
+
+95. How many times the digit 5 will come if we write from 1 to 99 and exclude those numbers which are divisible by 3?
+(A) 19
+(B) 20
+(C) 14
+(D) 13 ✔
+  - Digit 5 from 1–99 = 19
+  - Multiples of 3 with 5 → 15, 45, 75, 51, 54, 57
+  - Remove 6 occurrences
+
+96. The value of (1 + 1/2)(1 + 1/3)(1 + 1/4) ......... (1 + 1/120) is
+(A) 40.5
+(B) 60.5 ✔
+(C) 30.3
+(D) 30.0
+
+97. The largest 4-digit number divisible by 93 is
+(A) 9971
+(B) 9961
+(C) 9981
+(D) 9951 ✔
+
+98. When it is 25 past 4 on the clock, the angle between its minute hand and hour hand is
+(A) 17.5° ✔
+(B) 13.5°
+(C) 19°
+(D) 10°
+  -> *(30H +- 11/2M)*
+  -> 30*4 +- 11/2*25
+  -> 120 +- 137.5
+  -> 17.5
+
+99. The sum of 1.2, 12.02, 122.002, 2, 1200.22, 2.02 and 0.202 is
+(A) 3339.464
+(B) 1339.446
+(C) 1339.664 ✔
+(D) 2339.664
+  -> First add integer part
+  -> then only add last most digit (4)
+
+100. If the salary of an officer is increased by 25% and then decreased by 25%, then what is the net percentage change in his salary?
+(A) 0%
+(B) 5%
+(C) 6.25% ✔
+(D) 2.5%
+  -> *(percentage change = x^2/100)*
+
+*112*. Tomy marks a price on a product in order to make 20% profit. Bony gets 10% discount on this marked price and thus saves Rs. 15. Then, the profit in rupees made by Tomy by selling the product to Bony is
+(A) 10 ✔
+(B) 15
+(C) 20
+(D) 25
+
+*113*. The median of 11 different positive integers is 15 and seven of those 11 integers are 8, 12, 20, 6, 14, 22 and 13.
+Statement I: The difference between the averages of four largest integers and four smallest integers is 13.25.
+Statement II: The average of all the 11 integers is 16.
+From which of the above statements, the largest possible integer of these numbers can be determined?
+(A) Statement I only
+(B) Statement II only
+(C) Both Statement I and Statement II
+(D) None of Statement I and Statement II
+
+*114*. From the given pair (x, y) of positive integers, such that 4x - 17y = 1 and x < 1000, how many integer values of y satisfy the given conditions?
+(A) 56
+(B) 57
+(C) 58
+(D) 59 ✔
+  -> 
+
+
+115. A and B working separately can finish a work in 8 and 12 days respectively. If they work for a day alternatively (beginning with A), then in how many days will the work be completed?
+(A) 9
+(B) 9.5 ✔
+(C) 9.8
+(D) 10
+
+
+GOTO:top
+TAG:Aso-Pre-2025
+[*ASO Pre 2025*] (Set-I)
+1. If x + 1/x = 3 then the value of x² + 1/x² is
+(A) 843
+(B) 748 ✔
+(C) 846
+(D) 746
+
+
+8. The side of a square is 12 m. Its perimeter is
+(A) 48 m ✔
+(B) 36 m
+(C) 144 m
+(D) 24 m
+
+
+14. What is the smallest number that must be subtracted from 7578 so that the result is perfectly divisible by 27, 35, 42 and 56?
+(A) 16
+(B) 12
+(C) 18 ✔
+(D) 14
+
+
+17. Find the missing value in the following.
+
+5   16   13
+2    6    7
+4    3    ?
+10   8    39
+
+(A) 14
+(B) 3
+(C) 21 ✔
+(D) 7
+
+
+18. There are 1400 students in a school, 25% of those wear spectacles and 2/7 of those wearing spectacles are boys. How many girls in the school wear spectacles?
+(A) 200
+(B) 300
+(C) 250 ✔
+(D) 100
+
+
+26. If AAAA stands for 300, what does AAA stand for?
+(A) 220
+(B) 60
+(C) 260
+(D) 225 ✔
+
+
+29. Two numbers exceed a third number by 35% and 50% respectively. What percentage of the second number is the first?
+(A) 80%
+(B) 60%
+(C) 90% ✔
+(D) 70%
+
+
+
+52. The compound interest exceeds the simple interest on a certain principal by ₹ 1.20 at an annual interest rate of 4% over 2 years. What is the principal amount?
+(A) ₹ 750 ✔
+(B) ₹ 600
+(C) ₹ 840 
+(D) ₹ 720
+
+
+54. A class of boys stands in a long line. One boy is 9th in order from both ends. How many boys are there in the class?
+(A) 20
+(B) 17 ✔
+(C) 37
+(D) 18
+
+
+60. One half of a number is 96. What is 67% of this number?
+(A) 19.296
+(B) 128.64 ✔
+(C) 198.96
+(D) 192.96
+
+
+64. A car completes a journey in 15 hrs, travelling the first half of the distance at 20 km/h and the remaining half at 30 km/h. What is the total distance covered?
+(A) 345 km
+(B) 260 km
+(C) 390 km
+(D) 360 km ✔
+
+
+81. A clock which gains 10 minutes in 24 hours, is set right at 12 AM. What will be the true time when the clock indicates 5 AM on the following day?
+(A) 4:50 AM
+(B) 4:48 AM ✔
+(C) 5:15 AM
+(D) 5:12 AM
+
+
+98. A number is greater than 5 but less than 15. Also, it is greater than 8 but less than 10. Then the number is
+(A) 8
+(B) 6
+(C) 9 ✔
+(D) 7
+
+
+101. Three metal cubes with edges of lengths 3 cm, 4 cm and 5 cm are melted together to form one larger cube. Assuming no metal is lost during melting, what will be the edge length of the resulting cube?
+(A) 10 cm
+(B) 6 cm ✔
+(C) 12 cm
+(D) 8 cm
+
+
+103. How much more heat is produced if the current is doubled?
+(A) Four times the original amount ✔
+(B) Twice the original amount
+(C) Five times the original amount
+(D) Thrice the original amount
+
+
+104. The probability that a leap year has 53 Wednesdays is
+(A) 3/7
+(B) 1/7
+(C) 1
+(D) 2/7 ✔
+
+
+109. If + means ÷, – means ×, + means + and × means –, then find the value of 96 × 12 ÷ 4 + 6 + 2 – 3.
+(A) 42 ✔
+(B) 2
+(C) 6½
+(D) 18
+
+
+114. Lalita purchased 18 pencils from the shop. She distributed equally to her two younger sisters Anita and Babita and personally kept one pencil more than them. Tell how many pencils she has.
+(A) 6 
+(B) 4
+(C) 7
+(D) 5 ✔
+
+
+127. Seema’s age after 15 years will be 5 times her age 5 years back. What is Seema’s present age?
+(A) 50 years
+(B) 5 years
+(C) 15 years
+(D) 10 years ✔
+
+
+129. Monu cycles from city A to city B at 18 km/h and returned back from city B to city A at 12 km/h. Find his average speed over the whole journey.
+(A) 14.4 km/h ✔
+(B) 12.4 km/h
+(C) 13.7 km/h
+(D) 138.6 km/h
+
+
+130. The ages of Vikas and Vinod are in the ratio 3:2. After 5 years, the ratio of their ages will be 4:3. Find the present age of each.
+(A) 10 years, 12 years
+(B) 12 years, 15 years
+(C) 16 years, 14 years
+(D) 15 years, 10 years ✔
+
+
+138. 80 copies of a book cost Rs. 600. What will 300 copies cost?
+(A) Rs. 8,000
+(B) Rs. 1,000
+(C) Rs. 5,000
+(D) Rs. 2,250 ✔
+
+
+139. If 38% of A = 52% of B then A : B = ?
+(A) 26 : 19 ✔
+(B) 5 : 4
+(C) 16 : 9
+(D) 19 : 26
+
+
+141. The sides of a triangle are in the ratio 6 : 8 : 12, then it is a
+(A) Equilateral triangle
+(B) Scalene triangle ✔
+(C) Right angled triangle
+(D) Isosceles triangle
+
+
+GOTO:top
+TAG:bpsc-hm-2024
+[*BPSC Headmaster 2024*] (Set-A)
+Q4. The ratio between the perimeter and 
+the breadth of a rectangle is 5 : 1. If 
+the area of rectangle is 216 sq.cm. 
+The length of rectangle is
+ (A) 15 cm
+ (B) 13 cm
+ (C) 17 cm
+ (D) 11 cm
+ (E) None of the above/More than one 
+of the above ✔
+
+Q8. In the series
+  7, 14, 28, .....
+  10th term will be
+ (A) 3584 ✔
+ (B) 2496
+ (C) 4096
+ (D) 1792
+ (E) None of the above/More than one 
+of the above
+
+
+Q11. The product of the lCM and the 
+HCF of two numbers is 24. If the 
+difference of the number is 2, then 
+the greater of the numbers is
+ (A) 3
+ (B) 4
+ (C) 2
+ (D) 6 ✔
+ (E) None of the above/More than one 
+of the above
+
+Q20. The difference between simple and 
+compounded interests compounded 
+annually on a certain sum of money 
+for two years at 4% per annum is  
+Re. 1. The sum (in Rs.) is
+ (A) 660
+ (B) 650
+ (C) 670
+ (D) 630
+ (E) None of the above/More than one 
+of the above ✔
+
+Q25. What should be the value of ∗ in
+  985 ∗ 865
+  if the number is divisible by 9 ?
+ (A) 5
+ (B) 6
+ (C) 3 ✔
+ (D) 7
+ (E) None of the above/More than one 
+of the above
+
+Q31. Which of the following is not 
+irrational ?
+ (A) (3 + √7) (3 - √7) ✔
+ (B) (3 - √7)
+ (C) 3 √ 7
+ (D) (3 + √7)
+ (E) None of the above/More than one 
+of the above
+
+Q39. What is the average speed of a man if he travel ½ time at a speed of 40 km/h, ⅓ the time at a speed of 50 km/h and the rest at a speed of 60 km/h ?
+ (A) 43.6
+ (B) 46.5
+ (C) 46.66 ✔
+ (D) 48
+ (E) None of the above/More than one 
+of the above
+
+Q52. Every rational number is
+ (A) Integer
+ (B) Natural number
+ (C) Real number ✔
+ (D) Whole number
+ (E) None of the above/More than one 
+of the above
+
+Q56.  The sum of  first five  prime numbers is
+ (A) 26
+ (B) 18
+ (C) 28 ✔
+ (D) 11
+ (E) None of the above/More than one 
+of the above
+
+
+Q66. Find the wrong number in the series.
+  1, 2, 6, 15, 31, 56, 91
+ (A) 56
+ (B) 31
+ (C) 91 ✔
+ (D) 15
+ (E) None of the above/More than one of the above
+
+Q68. The value of x in the 
+  12 : 30 : : 14 : x
+  will be
+ (A) 40
+ (B) 35 ✔
+ (C) 45
+ (D) 30
+ (E) None of the above/More than one of the above
+
+Q77. Which of the following is a perfect 
+square ?
+ (A) 7928
+ (B) 625 ✔
+ (C) 64000
+ (D) 1057
+ (E) None of the above/More than one 
+of the above
+
+Q80. The average of seven numbers is 
+18. If one of the number is 17 and 
+is replaced by 31, then the average 
+becomes
+ (A) 21
+ (B) 20 ✔
+ (C) 22
+ (D) 19
+ (E) None of the above/More than one  of the above
+
+Q89. What should come in place of (?) in 
+the following number series ?
+  132, 156, ?, 210, 240, 272
+ (A) 182 ✔
+ (B) 199
+ (C) 204
+ (D) 196
+ (E) None of the above/More than one of the above
+
+ Q100. The pairs of equations
+  x + 2y – 5 = 0
+  –4x – 8y + 20 = 0 have
+  (A) Infinitely  many  solutions
+ (B) Exactly two solutions
+ (C) No solution
+ (D) Unique solution
+ (E) None of the above/More than one of the above
+
+
+ GOTO:top
+ 

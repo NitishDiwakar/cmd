@@ -1,0 +1,142 @@
+============================
+Title : Olympic
+Tags  : #
+Descr :
+============================
+TAG:top
+GOTO:33-paris-olympics-2024
+GOTO:17-paris-paralympics-2024
+
+
+TAG:33-paris-olympics-2024
+*33rd-paris-olympics-2024*
+Event
+  - Paris (France) (26 July to 11 August, 2024)
+
+Mascot
+  - Phrygian Cap (Motto - Games Wide Open)
+
+Theme
+  - Let’s Move and Celebrate
+
+Total sports & events
+  - 32 and 329 (Total countries - 206)
+
+Indian Athletes
+  - 117 (Participated in 69 events in 16 sports)
+
+4 new sports
+  - Breaking, Sport Climbing, Skate Boarding, Surfing
+
+Chef-de-Mission of India
+  - Gagan Narang
+
+Main sponsor of India's Olympic team
+  - Adani Group
+
+Youngest Indian referee
+  - Kabilan Sai Ashok
+
+Olympic Order conferred (by IOC)
+  - Abhinav Bindra
+
+Oldest Indian athlete
+  - Rohan Bopanna (tennis)
+
+Youngest Indian athlete
+  - Dhinidhi Desinghu (swimmer)
+
+Flag bearers in opening ceremony
+  - PV Sindhu & Sharath Kamal
+
+Flag bearer in closing ceremony
+  - Manu Bhaker & P.R. Sreejesh
+
+Most medals
+  - Leon Marchand (france, Swimmer, 4-gold, 1-bronze)
+
+First medal for India
+  - Manu Bhaker (Haryana, bronze medal)
+
+Vinesh Phogat was disqualified in which event
+  - Women's 50 kg wrestling event due to 100 grams overweight
+
+Announcement of retirement after Paris Olympics 2024
+  - Rohan Bopanna (tennis) and P.R. Sreejesh (hockey goalkeeper)
+
+GOTO:top
+TAG:17-paris-paralympics-2024
+*17th-paris-paralympics-2024*
+
+Event:
+  - France (28 August-8 September)
+
+Motto:
+  - L'Ome Paakam Vchmad
+
+Mascot:
+  - Phrygian cap
+
+Opening:
+  - Place de la Concorde Stadium
+
+Closing:
+  - Stade de France Stadium
+
+Main sports:
+  - 22 (Other events - 549)
+
+Number of Indian athletes:
+  - 84
+
+Flagbearers in closing ceremony:
+  - Sumit Antil
+  - Bhagyashree Jadhav
+
+Flagbearers in opening ceremony:
+  - Harvinder Singh
+  - Preeti Pal
+
+Chef-de-mission of India:
+  - Satya Prakash Sangwan
+
+First gold for India:
+  - Avani Lekhara
+
+First Indian woman to win two gold medals in Paralympic:
+  - Avani Lekhara
+
+
+
+Medal Table
+
+Rank 1
+  - China
+  - Gold: 94
+  - Silver: 74
+  - Bronze: 49
+  - Total: 217
+
+Rank 2
+  - Britain
+  - Gold: 47
+  - Silver: 42
+  - Bronze: 31
+  - Total: 120
+
+Rank 3
+  - America
+  - Gold: 36
+  - Silver: 41
+  - Bronze: 26
+  - Total: 103
+
+Rank 18
+  - India
+  - Gold: 7
+  - Silver: 9
+  - Bronze: 13
+  - Total: 29
+
+
+GOTO:top

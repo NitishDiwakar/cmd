@@ -1,0 +1,5402 @@
+============================
+Title : Maths - Aditya Ranjan
+Tags  : #imp
+Descr : 45 Days Marathon
+============================
+
+TAG:top
+GOTO:1-percentage
+GOTO:2-percentage
+GOTO:3-percentage
+GOTO:4-profit-and-loss
+GOTO:5-profit-and-loss
+GOTO:6-profit-and-loss
+GOTO:7-profit-and-loss
+GOTO:8-discount
+GOTO:9-discount
+GOTO:10-algebra
+GOTO:11-algebra
+GOTO:12-algebra
+GOTO:13-mock-i
+GOTO:14-algebra
+GOTO:15-simple-interest
+GOTO:16-simple-interest
+GOTO:17-compound-interest
+GOTO:18-compound-interest
+GOTO:19-installment-si-ci
+GOTO:20-mock-ii
+GOTO:21-simplification
+GOTO:22-simplification
+GOTO:23-number-system
+GOTO:24-number-system
+
+
+GOTO:top
+______________________
+TAG:1-percentage
+*1-Percentage*
+Q1. If 35% of 60% of A is equal to 25% of 75% of B, then what is the ratio of A to B?
+
+(a) 25 : 28 ✔
+(b) 7 : 12
+(c) 12 : 7
+(d) 28 : 25
+
+
+Q2. If 45% of 50% of a number is 27, then what is the number?
+
+(a) 160
+(b) 180
+(c) 150
+(d) 120 ✔
+
+
+Q3. By how much is 60% of 75 greater than 1/5 of 25?
+
+(a) 37
+(b) 38
+(c) 40 ✔
+(d) 34
+
+
+Q4. If p% of (25 + q)% of 300 = 18% of 200 and q% of 180% of 40 = 36% of 50, then what is the value of (p – q)?
+(a) 1
+(b) -1 ✔
+(c) 3
+(d) -3
+
+
+Q5. If 18 toys out of 75 toys are for boys and the rest are for girls, what is the percentage of girls toys?
+
+(a) 18%
+(b) 67%
+(c) 57%
+(d) 76% ✔
+
+
+Q6. If a person’s salary increases from ₹200 per day to ₹234 per day, then the percentage increase in the person’s salary is:
+(a) 15%
+(b) 17% ✔
+(c) 14%
+(d) 16%
+
+
+Q7. Shantanu’s income decreased from Rs 42,800 to Rs.37,236. Find the percentage decrease in his income.
+
+(a) 13% ✔
+(b) 14%
+(c) 11%
+(d) 12%
+
+
+Q8. Arun receives a monthly salary. The ratio of his expenditure to savings is 8 : 2. What percentage of his salary does he spend?
+
+(a) 40%
+(b) 20%
+(c) 60%
+(d) 80% ✔
+
+
+Q9. Lucas's monthly income is ₹42,500. If his income increases by 18% then find his new monthly income (in ₹).
+
+(a) 47,500
+(b) 48,120
+(c) 50,150 ✔
+(d) 43,000
+
+
+Q10. Ram received an annual salary of ₹ 48,580 in the year 2008. This was 25% more than his salary in 2007. What was his salary in 2007?
+
+(a) ₹39,670
+(b) ₹38,864 ✔
+(c) ₹31,750
+(d) ₹33,864
+
+
+Q11. If 30% of Ravi's income is equal to 40% of Suresh's income, then 50% of Ravi's income is equal to what percentage of Suresh's income?
+
+(a) 62% ✔
+(b) 33 2/3 %
+(c) 61%
+(d) 33 1/3 %
+
+
+Q12. If 70 is subtracted from 70% of a number, the remainder is 70. What is the number?
+(a) 400
+(b) 100
+(c) 300
+(d) 200 ✔
+
+
+Q13. When 50% of first number is subtracted from 80% of second number, then the resultant becomes two-fifth of first number. First number is approximately ____ % of second number.
+
+(a) 88 8/9 % ✔
+(b) 77 7/9 %
+(c) 82 2/9 %
+(d) 75 5/9 %
+
+Q14. Two numbers are, respectively, 10% and 25% more than the third number. The ratio of the two numbers is:
+
+(a) 22 : 25 ✔
+(b) 19 : 25
+(c) 23 : 25
+(d) 18 : 25
+
+
+Q15. Two numbers are respectively 61% and 35% less than a third number. The first number is what percentage of the second number?
+(a) 60% ✔
+(b) 24%
+(c) 48%
+(d) 30%
+
+Q16. Let x = 6/7 and let y = 1/x. y is ____ more than x.
+(a) 33.66%
+(b) 33.33%
+(c) 36.66%
+(d) 36.11% ✔
+
+
+Q17. A quantity 4/5 is changed to 5/4. How much percentage change is given to the quantity?
+
+(a) 4.73%
+(b) 4.71%
+(c) 4.17% ✔
+(d) 4.37%
+
+
+Q18. A man multiplied a number by 8 instead of 5/8. What is the percentage error in the calculation?
+
+(a) 124%
+(b) 162%
+(c) 156% ✔
+(d) 100%
+
+
+Q19. A pupil multiplied a figure by 3 instead of 5/3. What is the percentage error in the calculation?
+
+(a) 64% ✔
+(b) 47%
+(c) 58%
+(d) 52%
+
+
+Q20. If the numerator of a fraction is increased by 140% and the denominator of the fraction is decreased by 20%, the resultant fraction is 12/7. Find the original fraction.
+
+(a) 4/9
+(b) 4/7 ✔
+(c) 7/6
+(d) 8/9
+
+
+Q21. The salary of employees in a factory was reduced by 20% due to economic crisis. In order to have their salary back to original amount, it must be raised by:
+
+(a) 25% ✔
+(b) 20%
+(c) 40%
+(d) 12.5%
+
+
+Q22. By what percentage should a racer increase the speed to reduce the time by 25% to cover a fixed distance?
+
+(a) 33 1/3 % ✔
+(b) 37 1/3 %
+(c) 41%
+(d) 31%
+
+
+Q23. If the price of rice is raised by 20%, then by what percentage should a person reduce his consumption of rice so that his expenditure remains the same? (correct to one decimal place)
+
+(a) 14.7%
+(b) 18.7%
+(c) 16.7% ✔
+(d) 12.7%
+
+
+Q24. If A earns 33 1/3 % more than B, then B earns less than A by:
+
+(a) 25% ✔
+(b) 16 2/3 %
+(c) 33 1/3 %
+(d) 50%
+
+---DPQ---
+
+Q1. 12.75% is equivalent to
+
+(a) 17/41
+(b) 200/400
+(c) 51/400 ✔
+(d) 51/400
+
+
+Q2. After a 15% decline, the income of Ajay stands at ₹2,12,500. What was his original income (₹ in)?
+
+(a) 2,25,000
+(b) 1,80,625
+(c) 2,50,000 ✔
+(d) 2,40,000
+
+
+Q3. After an increase of 9% in salary, a person received ₹6,300. What was his salary before the increase (consider integer part only)?
+
+(a) ₹5,000
+(b) ₹5,779 ✔
+(c) ₹3,879
+(d) ₹4,000
+
+
+Q4. A number increased by 20% gives 240. Find the number.
+
+(a) 200 ✔
+(b) 280
+(c) 240
+(d) 250
+
+
+Q5. If the numerator of a fraction is increased by 12% and its denominator is reduced by 8%. It gives a new fraction 16/17. What is the original fraction?
+
+(a) 92/119 ✔
+(b) 23/28
+(c) 28/23
+(d) 119/92
+
+
+Q6. If the Numerator of a fraction be increased by 50% and its denominator be diminished by 28%, the value of the fraction is 25/36. Find the original fraction.
+(a) 1/2
+(b) 2/3
+(c) 2/5
+(d) 1/3 ✔
+
+
+Q7. If the numerator of a fraction is increased by 60% and the denominator is increased by 40%, then the resultant fraction is 16/63. The original fraction is:
+
+(a) 2/9 ✔
+(b) 5/9
+(c) 2/11
+(d) 4/9
+
+Q8. If Ramu's salary is 30% less than Somu's salary, then by how much percent is Somu's salary more than Ramu's salary?
+
+(a) 45.47%
+(b) 42.86% ✔
+(c) 42.67%
+(d) 34.56%
+
+
+Q9. Shyam's income is 20% less than Ram's. How much is Ram's income more than Shyam's in percentage terms?
+
+(a) 25% ✔
+(b) 20%
+(c) 80%
+(d) 30%
+
+
+Q10. If the income of Neha is 5% more than that of Monica, then the income of Monica is what percentage less than that of Neha?
+
+(a) 4 13/21 %
+(b) 4 16/21 % ✔
+(c) 4 5/21 %
+(d) 4 5/5 %
+
+
+
+GOTO:top
+______________________
+TAG:2-percentage
+*2-Percentage*
+
+1. Ravi's salary was increased by 50%. After some time, his new salary was also increased by 50%. Find his gain percentage of salary.
+
+(a) 125% ✔
+(b) 100%
+(c) 200%
+(d) 150%
+
+
+2. If each side of a cube is decreased by 12%, then the percentage decrease in its total surface area is:
+
+(a) 25.66%
+(b) 28.23%
+(c) 22.56% ✔
+(d) 26.54%
+
+
+3. A number is increased by 25% and then decreased by 16%. By what percentage is the resulting number less than/more than the original number?
+
+(a) does not change
+(b) decreases by 5%
+(c) increases by 5% ✔
+(d) decreases by 13%
+
+
+4. The breadth of a rectangular lawn is decreased by 8% and its length is increased by 15%. Find the percentage change in the lawn area.
+
+(a) 8.5% increase
+(b) 8.5% decrease
+(c) 5.8% decrease
+(d) 5.8% increase ✔
+
+
+5. If the radius of a sphere is increased by 12%, then the volume will be increased by approximately:
+
+(a) 42.5%
+(b) 45.49%
+(c) 40.49% ✔
+(d) 41.49%
+
+
+6. If the base radius and the height of a right circular cone are increased by 10%, then the percentage increase in the volume is:
+
+(a) 33.1% ✔
+(b) 20.2%
+(c) 22.1%
+(d) 30.2%
+
+
+7. The total percentage change in the volume of a cuboid if its length and breadth are decreased by 15% and 25%, respectively, while its height is increased by 60% is:
+
+(a) 5% decrease
+(b) 2% decrease
+(c) 5% increase
+(d) 2% increase ✔
+
+
+8. A number is first decreased by 10%, then increased by 30% and then further it is decreased by 20%. What is the net decrease percentage in the number?
+
+(a) 4 1/5 %
+(b) 6 2/5 % ✔
+(c) 5 3/5 %
+(d) 3 4/5 %
+
+
+9. A number is first increased by 12% and then increased by 23%. The number, so obtained, is now decreased by 34%. What is the net increase or decrease percent in the original number (nearest to an integer)?
+
+(a) 10% increase
+(b) 9% decrease ✔
+(c) 10% decrease
+(d) 9% increase
+
+
+10. Ramnarayan's salary was reduced by 3 1/8 %, and then, the reduced salary was increased by 7 2/5 %. By what percentage (rounded off to two decimal places) is his new salary more/less as compared to his original salary?
+
+(a) 3.03% less
+(b) 4.04% more ✔
+(c) 4.04% less
+(d) 3.03% more
+
+
+11. The length and breadth of a rectangle are in the ratio 5:3. If the length is increased by 44% and Breadth is increased by 60%, What would be the percentage increase in its perimeter?
+
+(a) 45%
+(b) 46%
+(c) 49%
+(d) 50% ✔
+
+
+12. Two years ago, the population of a town was 9487500. Due to migration to big cities, it decreases every year at the rate of 8%. The present population of the town is:
+
+(a) 9060110
+(b) 7060320
+(c) 8070120
+(d) 8030220 ✔
+
+
+13. Amit gets 6% increase in his sale amount in the first year and 20% in the second year, with that his present sale is Rs.254400, what was his sale (in Rs.) two years ago?
+
+(a) 200000 ✔
+(b) 180000
+(c) 212000
+(d) 240000
+
+
+14. In the first year the population of a town decreased by 5% due to the Corona virus first wave. In the next year it decreased again by 5% due to the second wave and in the third year it increased by 5%. At the end of the third year the population was 9,47,625. What was the population at the beginning of the first year?
+
+(a) 7,00,000
+(b) 10,00,000 ✔
+(c) 8,97,993
+(d) 9,92,519
+
+
+15. A person spends 25% of his income on goods of daily uses. Furthermore, he spends 18% of the rest on house rent and 16% of the rest on travel. After that, only ₹861 is left with him. What is his salary?
+
+(a) ₹1852 1/3
+(b) ₹1666 2/3 ✔
+(c) ₹1563 1/3
+(d) ₹1426 2/3
+
+
+16. The strength of a school increases and decreases every alternate year by 20%. It started with an increase in the year 2015 and the initial strength was 3000. Find the strength of the school in the year 2017 and also the percentage of increase in strength, respectively.
+
+(a) 4556, 17.2%
+(b) 3556, 16.2%
+(c) 3456, 15.2% ✔
+(d) 4456, 14.2%
+
+
+17. A person, while trading the shares of a particular company, observes that its price has gone down by 10% from the previous day. In anticipation of increment on the next day, he holds it for the next day. But the share price further falls down by another 8% of the previous day. Then he sells his shares and gets Rs.12,420. How much could he have saved had he sold it the previous day?
+
+(a) ₹1,080 ✔
+(b) ₹1,220
+(c) ₹1,260
+(d) ₹1,140
+
+
+---DPQ---
+
+1. The salary of an employee is increased by 10% and then the increased salary is reduced by 10%. The percentage loss in the salary of the employee is:
+
+(a) 1% ✔
+(b) 3%
+(c) 2%
+(d) 4%
+
+
+2. In a company, all employees are getting equal wages. If the number of employees is increased by 20% and their wages per head are decreased by 18%, what is the percentage decrease in total wages?
+
+(a) 2.4%
+(b) 1%
+(c) 1.6% ✔
+(d) 1.4%
+
+
+3. The price of a scooter increases successively by 10%, 5% and 15%. What is the total percentage increase in price of scooter?
+
+(a) 32 33/40 % ✔
+(b) 32 34/40 %
+(c) 32 30/40 %
+(d) 32 36/40 %
+
+
+4. Instead of increasing a number successively by 20 percent and 30 percent, it is decreased by 22 percent. Resultant value is what percentage of the required correct value?
+
+(a) 55%
+(b) 60%
+(c) 48%
+(d) 50% ✔
+
+
+5. The price of an electronic machine decreased by 5%, 10% and 15% during the first three years. What will be the price of the machine after three years if the value at the beginning was Rs.8,000?
+
+(a) Rs.5000
+(b) Rs.6721
+(c) Rs.7000
+(d) Rs.5814 ✔
+
+
+6. Two successive increments of 30% each is by what percentage more than two successive decrements of 30% each? (Correct to two decimal places)
+
+(a) 32.54%
+(b) 28.15%
+(c) 25.25%
+(d) 35.29% ✔
+
+
+7. If the radius of a sphere is increased by 20%, then find the percentage increase in its volume.
+
+(a) 70.6%
+(b) 75.5%
+(c) 72.8% ✔
+(d) 68.5%
+
+
+8. During the first year the population of a village increased by 5% and during the second year it diminished by 5%. At the end of the second year its population was 47,880. What was the population at the beginning of the first year?
+
+(a) 48000 ✔
+(b) 43500
+(c) 53000
+(d) 45000
+
+
+9. If due to 12% decrease in the price of sugar, Akshat can buy 7 kg more sugar for ₹ 1,200, then find the actual price (in ₹) of sugar. (Rounded off to 2 decimal places)
+
+(a) 23.38 ✔
+(b) 25.79
+(c) 26.35
+(d) 28.25
+
+
+10. A woman spends 2/3 of her income. If her income increase by 18% and the expenditure increase by 24%, then the percentage increase in her saving will be:
+
+(a) 6% ✔
+(b) 3%
+(c) 5%
+(d) 4%
+
+
+
+GOTO:top
+______________________
+TAG:3-percentage
+*3-Percentage*
+1. If the price of rice is reduced by 24%, it allows Alok to buy 10 kg more rice for ₹2,500. The reduced rate of rice per kg is:
+
+(a) ₹25 
+(b) ₹50
+(c) ₹60 ✔
+(d) ₹75
+
+
+2. A reduction of 15% in the price of washing powder enables a purchaser to obtain 5 kg more for ₹1,275. The original price of the washing powder per kg is:
+
+(a) ₹40
+(b) ₹35
+(c) ₹45 ✔
+(d) ₹50
+
+
+3. When the price of a commodity increased by 23%, a family reduced its consumption such that the expenditure was only 5% more. By what percentage has the family reduced the consumption (correct to one decimal place)?
+
+(a) 14.20%
+(b) 15.8%
+(c) 14.6% ✔
+(d) 15.2%
+
+
+4. The price of diesel is increased by 26%. A person wants to increase his expenditure by 15% only. By what percentage should he decrease his consumption (correct to one decimal place)?
+
+(a) 7.2%
+(b) 6.5%
+(c) 8.7% ✔
+(d) 9.5%
+
+
+5. The ratio of Richa's expenditure and savings is 2 : 1. If her income and expenditure increase by 20% and 15% respectively, find the percentage increase in her savings.
+
+(a) 20%
+(b) 35%
+(c) 25%
+(d) 30% ✔
+
+
+6. A person saves 10% of his monthly income. If his monthly income increases by 30%, he saves 20% more than the previous savings. The percentage increase in his expenditure (up to two decimal places) is:
+
+(a) 37.33%
+(b) 31.11%
+(c) 40.44%
+(d) 24.89% ✔
+
+
+7. Radha saves x% of her income. If her income increases by 28% and the expenditure increases by 20%, then her savings increase by 40%. What is the value of x?
+
+(a) 35
+(b) 40 ✔
+(c) 50
+(d) 25
+
+
+8. John got 20% marks in an examination and failed by 10 marks. In the same examination, Jack got 35% marks which were 20 more than the minimum passing marks. Find the percentage of minimum marks required to pass.
+
+(a) 30%
+(b) 35%
+(c) 25% ✔
+(d) 20%
+
+
+9. In an examination a student who got 20% marks failed by 30 marks. Another student who got 32% marks got 42 marks more than the required marks to pass. Find the maximum number of marks.
+
+(a) 600 ✔
+(b) 700
+(c) 500
+(d) 400
+
+
+10. In an election between two candidates, one candidate got 38% of the votes and yet lost by 7200 votes. If all votes were valid, the total votes cast were:
+
+(a) 13,800
+(b) 13,000
+(c) 16,200
+(d) 30,000 ✔
+
+
+11. In an election between two candidates, 75% of eligible voters voted and 6% of the votes cast were invalid. A candidate got 15,228 votes which were 90% of valid votes. Find total eligible voters.
+
+(a) 24,850
+(b) 27,000
+(c) 25,600
+(d) 24,000 ✔
+
+
+12. Two candidates contested an election. 80% voters cast their votes and 5% were invalid. The winner got 70% of valid votes and won by 36,480 votes. Find total voters.
+
+(a) 1,15,000
+(b) 1,20,000 ✔
+(c) 1,25,000
+(d) 1,18,000
+
+
+13. In an election between two candidates, 3% did not vote and 5% votes were invalid. The winner got 54% of valid votes and won by 11,058 votes. Find the number of voters who did not vote.
+
+(a) 5050
+(b) 3750
+(c) 4500 ✔
+(d) 4125
+
+
+14. In an election between two candidates, 80% voters cast their votes and 53 votes were invalid. The winner got 48% of all voters and won by 1013 votes. Find total voters in the list.
+
+(a) 6000 ✔
+(b) 5600
+(c) 5000
+(d) 6500
+
+
+15. Two candidates participated in an election. 20% voters did not vote and 10% votes were invalid. The winner got 40% of total voters and won by 2400 votes. Find total voters.
+
+(a) 20000
+(b) 24000
+(c) 27500
+(d) 30000 ✔
+
+
+16. In an election, 20% voters did not vote and 80 voters cast blank ballots. The winner secured 45% of all voters and got 280 votes more than his rival. Find total voters.
+
+(a) 2000 ✔
+(b) 2800
+(c) 2500
+(d) 1500
+
+
+17. In an election, y% voters did not vote. 10% votes were invalid. The winner got 59.375% of valid votes and won by 2484 votes. If total voters were 16,000, find y.
+
+(a) 7.2
+(b) 8.4
+(c) 8 ✔
+(d) 7.5
+
+
+18. A is 25% more than B and B is 30% less than C. If C is 20% more than D, then by what percentage is A more than D?
+
+(a) 3%
+(b) 6%
+(c) 5% ✔
+(d) 2%
+
+
+19. The income of A is 30% less than B and B is 137.5% more than C. If A’s income is ₹28,500 less than B, find income of C.
+
+(a) 40,000 ✔
+(b) 50,000
+(c) 48,000
+(d) 36,000
+
+
+20. A’s income is 45% more than B. C’s income is 60% less than the sum of incomes of A and B. D’s income is 20% more than C. If difference between B and D incomes is ₹13,200, find income of C.
+
+(a) 75,000
+(b) 73,500 ✔
+(c) 72,500
+(d) 72,000
+
+
+21. Ravi initially had chocolates. Bhanu initially had 80% of Ravi’s chocolates. Ravi gave 10% of his chocolates to his sister while Bhanu received 35% more chocolates. If Bhanu finally had 54 chocolates, how many chocolates did Ravi give his sister?
+
+(a) 3
+(b) 6
+(c) 5 ✔
+(d) 4
+
+
+22. The price of an item is increased twice successively. Final price = ₹2,295, initial price = ₹1,000. The second percentage increase was twice the first. Find the second increase.
+
+(a) 35%
+(b) 65%
+(c) 70% ✔
+(d) 25%
+
+
+23. The price of an article increases by 20% every year. If the difference between price at end of third year and fourth year is ₹324, find price at end of second year.
+
+(a) ₹1350 ✔
+(b) ₹1250
+(c) ₹1260
+(d) ₹1180
+
+
+24. At the beginning of day 1 Rajesh has 500 eggs. Each day he sells 20% and next day adds b% eggs before selling again. After the third day he has 1024 eggs. Find b.
+
+(a) 20
+(b) 10
+(c) 500
+(d) 100 ✔
+
+
+---DPQ---
+Q1. In an election between two candidates, 10% of the voters did not cast their votes and 5% of  the votes polled were found invalid. The successful candidate got 52.5% of the valid  votes and won by a majority of 1710 votes. The  number of voters enrolled on the voters list was:
+
+ (a) 36000
+ (b) 40000 ✔
+ (c) 42000
+ (d) 48000
+
+
+Q2. In an election, 2% persons enrolled in the voter list did not participate and 500 votes were invalid. Two candidates A and B fought the election and A defeated B by 200 votes. If 43%  of the persons enrolled in the voter list casted  their votes in favour of A, then what is the number of the total casted votes?
+
+ (a) 2450 ✔
+ (b) 2800
+ (c) 3000
+ (d) 3250
+
+
+Q3. In an election between two candidates, 20% of the registered voter did not cast their votes and 40 votes were declared invalid. The winner received 42% of the registered votes and was declared the winner by 112 votes. What was the number of registered voter?
+
+ (a) 1200
+ (b) 1500
+ (c) 1800 ✔
+ (d) 3800
+
+
+Q4. In an election, 12% of the voter in the voter list did not cast their votes, whereas 84 voter cast their ballot papers blank. There were only two candidates: Ramagya and Shravan. The winner, Ramagya, was supported by 54% of all the voter in the list. He got 1456 more votes than his rival, Shravan. Find the total number of voter in the list.
+
+ (a) 5690
+ (b) 6670
+ (c) 7860
+ (d) 6860 ✔
+
+
+Q5. Ramu used to spend 72% of his income. His income has increased by 12%, and he increases his expenditure by 5%. If Ramu earlier saved y and after the increases he now saves x, then what is the value of (x-y/y x 100)% ?
+
+ (a) 25%
+ (b) 22%
+ (c) 27%
+ (d) 30% ✔
+
+Q6. If a number is first increased by 15%, then reduced by 15%, it results in 782. If the same number is first reduced by 25%, then  increased by 25% and again reduced by 20%, then what will be the resulting number?
+
+ (a) 712
+ (b) 150
+ (c) 759
+ (d) 600 ✔
+
+
+Q7. A fruit seller sells 45% of the oranges that he has along with one more orange to a customer. He then sells 20% of the remaining oranges and 2 more oranges to a second customer. He then sells 90% of the now remaining oranges to a third customer and is still left with 5 oranges. How many oranges did the fruit seller have initially?
+
+ (a) 100
+ (b) 120 ✔
+ (c) 111
+ (d) 121
+
+
+Q8. A person wants to buy 10 chairs. The total price of 10 chairs is Rs. 4,500. After bargaining, the shopkeeper agrees to reduce the price of each chair by 20%, after which the person buys 10% more chairs. What will be the value of the chairs purchased by him?
+
+(a) 23,260
+(b) 23,960 ✔
+(c) 24,100
+(d) 23,900
+
+
+Q9. While solving a problem, Suhas by mistake took a number as the dividend which was 10% less than the original dividend. He also mistakenly took a number as the divisor which was 20% less than the original divisor. If the correct quotient of the original question of division was 24 and the remainder was 0, then assuming that there was no error in his calculation, what was the quotient obtained by Suhas?
+
+(a) 27 ✔
+(b) 21.6
+(c) 26.4
+(d) 30
+
+
+10. The present population of a village is 15280. If the number of males increases by 25% and the number of females increases by 15%, then the population will become 18428. The difference between present population of males and females in the village is:
+
+(a) 1840 ✔
+(b) 1380
+(c) 920
+(d) 2760
+
+
+Q11. In a factory with 400 employees, the ratio of the number of male employees to that of female employees is 5 : 3. There are 87.5% regular employees in the factory. If 92% of male employees are regular employees, then what is the percentage of regular female employees?
+
+(a) 80% ✔
+(b) 78%
+(c) 87.5%
+(d) 85%
+
+
+Q12. In an examination, B obtained 20% more marks than those obtained by A, and A obtained 10% less marks than those obtained by C. D obtained 20% more marks than those obtained by C. By what percentage are the marks obtained by D more than those obtained by A?
+
+(a) 33 1/3 % ✔
+(b) 13 1/3 %
+(c) 15 1/3 %
+(d) 23 1/3 %
+
+
+Q13. An agent gets 5% commission on all sales up to ₹10000 and 4% commission on all sales exceeding this amount. He gives ₹28700 from his sales to his company after deducting his commissions. Find his total sales.
+
+(a) ₹30,000 ✔
+(b) ₹24,000
+(c) ₹28,000
+(d) ₹32,000
+
+
+Q14. A marketing agent earns a commission of 2% on first ₹2,00,000, 1.5% on next ₹ 2,00,000 and 1% on the remaining amount of sales made in a month. If the sales achieved by the agent for the month of April 2018 are ₹5,68,000. The commission earned is:
+
+(a) ₹8680 ✔
+(b) ₹7730
+(c) ₹8240
+(d) ₹7105
+
+
+Q15. If rate of income tax is increased by 27%, net income is decreased by 3%. Find the rate of income tax?
+
+(a) 6%
+(b) 8%
+(c) 12%
+(d) 10% ✔
+
+
+GOTO:top
+______________________
+TAG:4-profit-and-loss
+*4-Profit-and-loss*
+
+1. A man buys 10 identical articles for a total of ₹15. If he sells each of them for ₹1.7, then his profit percentage will be __________ % (rounded off to two decimal place).
+
+(a) 14.33% 
+(b) 12.76%
+(c) 13.33% ✔
+(d) 11.76%
+
+
+2. The cost price of an article is ₹6,450. If it sold at a profit 16%, how much would be its selling price?
+
+(a) ₹7,482 ✔
+(b) ₹7,428
+(c) ₹7,842
+(d) ₹7,282
+
+
+3. Sandeep made a profit of 22% when he sold an over cost for Rs.8540. Find the cost price of the over cost.
+
+(a) ₹6500
+(b) ₹6000
+(c) ₹7000 ✔
+(d) ₹7500
+
+
+4. If an article is sold for ₹402, there is a loss of 33%. At what price should it be sold to get 37% profit?
+
+(a) ₹911
+(b) ₹846
+(c) ₹822 ✔
+(d) ₹781
+
+
+5. When an article is sold for ₹480, there is a loss of 16 2/3%. To gain 8 1/3%, it should be sold for ₹ :
+
+(a) ₹620
+(b) ₹624 ✔
+(c) ₹605
+(d) ₹750
+
+
+6. A grocer purchased 10 kg rice for ₹700. He spends some amount on transportation and then sells it for ₹1,400. If the percentage of profit made by the grocer is 30%, then what is the amount (in ₹) he spends on transportation? (Round off to the nearest integer)
+
+(a) 350
+(b) 380
+(c) 300
+(d) 377 ✔
+
+
+7. If I gain 124% by selling an item for ₹1,232, then what would be my gain or loss percentage if I sell it for ₹572?
+
+(a) 6% Gain
+(b) 6% Loss
+(c) 4% Loss
+(d) 4% Gain ✔
+
+
+8. A man loses 28% by selling an article for Rs.144. If he sells it for Rs.288, what will be his gain/loss percentage?
+
+(a) Gain, 41%
+(b) Loss, 43%
+(c) Gain, 44% ✔
+(d) Loss, 46%
+
+
+9. If the selling price of an almirah is doubled, then the profit is tripled. Find the initial profit percentage.
+
+(a) 50%
+(b) 10%
+(c) 100% ✔
+(d) 25%
+
+
+10. If the selling price is tripled, the profit becomes 5 times. Then find the profit percentage.
+
+(a) 80%
+(b) 100% ✔
+(c) 125%
+(d) 150%
+
+
+11. A mobile phone dealer buys a phone for ₹10,000 and sells it for ₹12,000. Later, he realizes that he could have sold it for ₹13,000. What is the percentage loss that he incurs?
+
+(a) 10% ✔
+(b) 20%
+(c) 15%
+(d) 25%
+
+
+12. A shopkeeper sold an article at a 26% profit. On selling it for ₹2,250 more, he would get a profit of 41%. If this article is sold at 12% profit, then the selling price would be:
+
+(a) ₹16,800 ✔
+(b) ₹15,000
+(c) ₹15,800
+(d) ₹16,120
+
+
+13. The selling price of 80 items is equal to the cost price of 72 items. What is the percentage of loss incurred in the transaction?
+
+(a) 12%
+(b) 10% ✔
+(c) 9%
+(d) 11 1/9%
+
+
+14. If the selling price of 40 articles is equal to the cost price of 50 articles, then the percentage gain is:
+
+(a) 25%
+(b) 20% ✔
+(c) 35%
+(d) 30%
+
+
+15. The cost price of 36 articles is the same as the selling price of N articles. If the profit is 20%, then the value of N is:
+
+(a) 25
+(b) 42
+(c) 40
+(d) 30 ✔
+
+
+16. By selling 60 pens, a man gain an amount equal to the selling price of 12 pens. What is his gain percentage?
+
+(a) 20%
+(b) 22%
+(c) 25% ✔
+(d) 27%
+
+
+17. By selling two articles for ₹800, a person gains the cost price of three articles. The profit percent is:
+
+(a) 125%
+(b) 140%
+(c) 120%
+(d) 150% ✔
+
+
+18. By selling 30 meters of cloth a shopkeeper makes a profit equivalent to the selling price of 10 meters of cloth. Find the selling price of 1 meter of cloth when the cost price of 1 meter of cloth is ₹480.
+
+(a) ₹520
+(b) ₹720 ✔
+(c) ₹960
+(d) ₹820
+
+
+19. A man purchased a cell phone for ₹24,500 and sold it at a gain of 12.5% calculated on the selling price. The selling price of the cell phone was:
+
+(a) ₹25,000
+(b) ₹28,000 ✔
+(c) ₹27,500
+(d) ₹25,500
+
+
+20. By selling an article for ₹640, a person loses 15% of its selling price. At what price (in ₹) should he sell it to gain 15% on its cost price?
+
+(a) ₹835
+(b) ₹832
+(c) ₹836.60
+(d) ₹846.40 ✔
+
+
+21. By selling an article at 4/10 of its actual selling price, Nirbhay incurs a loss of 17%. If he sells it at 88% of its actual selling price, then the profit percentage:
+
+(a) 82.6% ✔
+(b) 81.3%
+(c) 83.4%
+(d) 84.4%
+
+
+22. By selling an article at 2/5 of its actual selling price, Manav incurs a loss of 27%. If he sells it at 84% of its actual selling price, then the profit percentage is:
+
+(a) 56.9%
+(b) 52.6%
+(c) 55.5%
+(d) 53.3% ✔
+
+---DPQ---
+1. A shopkeeper bought an oven for ₹25,000 and sold it for ₹29,500. He spent ₹1,500 as overheads. What is his loss or gain percentage (rounded off to the nearest integer)?
+
+(a) Gain by 13%
+(b) Gain by 11% ✔
+(c) Loss by 11%
+(d) Loss by 13%
+
+
+2. A man sells a cow for ₹22,000 and gains 10%. At what price should he sell the same cow, in order to gain 14%?
+
+(a) ₹23,000
+(b) ₹23,800
+(c) ₹22,800 ✔
+(d) ₹22,900
+
+
+3. A seller decreased the selling price of each item from ₹5,000 to ₹4,680, by which his loss percentage increased by 4%. If he has to get 4% profit, then the selling price of the item should be:
+
+(a) ₹8,320 ✔
+(b) ₹7,280
+(c) ₹7,800
+(d) ₹8,840
+
+
+4. Ram sold a chair at a profit of 7 1/2%. If he had sold it for ₹1,430 more, he would have gained 35%. What is the cost price of the chair?
+
+(a) ₹4,800
+(b) ₹5,000
+(c) ₹5,200 ✔
+(d) ₹4,000
+
+
+5. If the purchase price of 5 shirts is equal to the selling price of 3 shirts, find the profit percentage.
+
+(a) Profit 55.33%
+(b) Profit 63.33%
+(c) Profit 66.66% ✔
+(d) Profit 33.66%
+
+
+6. Raju lost 13% by selling a radio set for ₹4,524. What percentage of profit would he have earned by selling it for ₹6,400 (rounded off to two decimal places)?
+
+(a) 28.52%
+(b) 23.08% ✔
+(c) 21.05%
+(d) 25.25%
+
+
+7. By selling an article, a shopkeeper makes a profit of 30% of its selling price. Find his profit percentage.
+
+(a) 44%
+(b) 40%
+(c) 46 1/3%
+(d) 42 6/7% ✔
+
+
+8. Gopi purchased an article at 7/8 of its selling price. Had he sold it at 20% more than the selling price, then what would his profit percentage be?
+
+(a) 37 1/7% ✔
+(b) 37%
+(c) 35%
+(d) 35 1/7%
+
+
+9. A vendor buys 20 laptop bags for ₹13,000 and sells them at 15 for ₹10,125. How many laptop bags should be bought and sold to earn a profit of ₹3,225?
+
+(a) 123
+(b) 129 ✔
+(c) 120
+(d) 127
+
+
+10. A shopkeeper bought 95 dozen oranges at ₹4.50 each. 7 dozen oranges were rotten and so were discarded. He sold the remaining oranges at ₹78 per dozen. What is his profit or loss per cent (to the nearest integer)?
+
+(a) Loss, 45%
+(b) Profit, 34% ✔
+(c) Loss, 34%
+(d) Profit, 45%
+
+
+
+GOTO:top
+______________________
+TAG:5-profit-and-loss
+*5-Profit-and-loss*
+
+1. A man sells a mobile phone for Rs.680 and
+ loses something. If he had sold it for Rs.1070,
+ his gain would have been double the former loss.
+ The cost price (in ₹) of the mobile phone is:
+
+ (a) 820
+ (c) 830
+ (b) 800
+ (d) 810 ✔
+
+
+2. The percentage profit earned by James by
+ selling an article for Rs.1,920, equals the
+ percentage loss suffered by selling it at
+ Rs.1,500. What should be the selling price
+ if he wants to earn 10% profit?
+
+ (a) ₹4,000
+ (b) ₹1,881 ✔
+ (c) ₹7,000
+ (d) ₹2,000
+
+
+3.  The profit earned when a book is sold for
+ Rs. 600 is thrice the profit earned when the
+ same book is sold for Rs. 400. What should
+ be the selling price if seller wants to earn
+ 60% profit?
+
+ (a) Rs. 420
+ (b) Rs. 440
+ (c) Rs. 460
+ (d) Rs. 480 ✔
+
+4. If a man bought 6 pencils for Rs.5, and sold
+ them at 5 pencils for Rs.6, then the gain
+ percentage is______.
+
+ (a) 42 %
+ (b) 41 %
+ (c) 43 %
+ (d) 44 % ✔
+
+5. A retailer purchased at a rate of 11 mangoes
+ for Rs.100 and sold at a rate of 10 mangoes
+ for Rs.110. The percentage of profit for per
+ mango sold is:
+
+ (a) 11%
+ (b) 22%
+ (c) 21% ✔
+ (d) 15.5%
+
+6. A vendor buys 20 pens for ₹15 and sells them
+ at 15 for ₹20. How many pens should be
+ bought and sold to earn a profit of ₹245?
+
+ (a) 280
+ (b) 540
+ (c) 320
+ (d) 420 ✔
+
+7. A person bought two types of pens one at ₹8
+ for 9 pens, and the other at ₹8 per pen. He
+ bought an equal number of pens of each type.
+ If he sold all the pens at ₹6 per pen, what
+ was his profit percentage?
+
+ (a) 35% ✔
+ (b) 33%
+ (c) 32%
+ (d) 45%
+
+8. A shopkeeper bought 60 pencils at a rate
+ of 4 for ₹5 and another 60 pencils at a rate
+ of 2 for ₹3. He mixed all the pencils and
+ sold them at a rate of 3 for ₹4. Find his
+ gain or loss percentage
+
+ (a) Profit 3 1/8
+ (b) Loss 3 1/33 ✔
+ (c) Profit 2 7/8
+ (d) Loss 2 7/8
+
+
+GOTO:top
+______________________
+TAG:6-profit-and-loss
+*6-Profit-and-loss*
+
+1. A man bought three articles for ₹3,000 each. He sold the articles respectively at 10% profit, 5% profit and 15% loss. The total percentage profit/loss he earned is:
+
+(a) 10% loss
+(b) 5% loss
+(c) 5% profit
+(d) No profit no loss ✔
+
+
+2. A man bought three articles for ₹6,000 each. He sold the articles respectively at 15% profit, 12% profit and 15% loss. The total percentage profit/loss he earned is:
+
+(a) 4% profit
+(b) 3% loss ✔
+(c) 4% loss
+(d) No profit no loss
+
+
+3. If 70% of the total goods are sold at a profit of 20% and the remaining goods are sold at a loss of 10%, what will be the overall profit percentage?
+
+(a) 11%
+(b) 15%
+(c) 12% ✔
+(d) 8%
+
+
+4. A material was purchased for ₹600. If 3/4 parts of the material are sold at a 10% profit and the remaining part is sold at a 20% loss, find the overall profit or loss percentage.
+
+(a) 3% loss
+(b) 4% loss
+(c) 2.5% profit ✔
+(d) 5% profit
+
+
+5. One-third of the goods are sold at a profit of 15%, 25% of the goods are sold at a profit of 20%, and the remaining goods are sold at a loss of 10%. If a total profit of ₹350 is made in the entire transaction, what was the actual cost price of the goods (in ₹)?
+
+(a) 9,000
+(b) 7,200
+(c) 5,400
+(d) 6,000 ✔
+
+
+6. A shopkeeper sold 40% of the total pineapples at 4/5 of the cost price, 36% at half of the cost price, and the remaining at the original cost price. What is the overall loss percentage on the entire transaction?
+
+(a) 36%
+(b) 28%
+(c) 24%
+(d) 26% ✔
+
+
+7. A man sells two houses at the rate of Rs.1.995 lakhs each. On one he gains 5% and on the other he loses 5%. His gain or loss percentage in the whole transaction is:
+
+(a) 0.25% loss ✔
+(b) 0.25% profit
+(c) 25% loss
+(d) 2.5% loss
+
+
+8. Radha bought a fridge and a washing machine together for ₹57,300. She sold the fridge at a profit of 15% and washing machine at a loss of 24% and both are sold at the same price. The cost price of washing machine (in ₹) is:
+
+(a) 22800
+(b) 28650
+(c) 34500 ✔
+(d) 24500
+
+
+9. A person sells two articles for ₹5,000 each with no loss and no profit in the overall transaction. If one is sold at a 16 2/3% loss, then the other is sold at a profit of:
+
+(a) 24%
+(b) 15%
+(c) 20%
+(d) 25% ✔
+
+
+10. In a village fair, a man buys a horse and a camel for a total amount of ₹5125. He sells the horse at a 25% profit and the camel at a 20% loss. If he sells both animals at the same price, what was the cost price of the cheaper animal?
+
+(a) ₹2000 ✔
+(b) ₹6900
+(c) ₹8500
+(d) ₹2500
+
+
+11. By selling 3 dozen oranges for Rs 405, a trader loses 25%. How many oranges should he sell for 288 if he needs to earn a profit of 20% in the transaction?
+
+(a) 16 ✔
+(b) 15
+(c) 18
+(d) 12
+
+
+12. By selling 18 table fans for ₹11,664 a man incurs a loss of 10%. How many fans should he sell for ₹17,424 to earn 10% profit?
+
+(a) 23
+(b) 18
+(c) 20
+(d) 22 ✔
+
+
+---DPQ---
+1. Ramesh purchased 130 books at the rate of ₹200 each and sold half of them at the rate of ₹300 each, 1/5 of them at the rate of ₹350 each and the rest at the cost price. Find his profit percentage.
+
+(a) 35%
+(b) 40% ✔
+(c) 38%
+(d) 44%
+
+
+2. A shopkeeper sold 5/8 of his articles at a gain of 20% and the remaining at the cost price. What is his gain percentage in the whole transaction?
+
+(a) 16 2/3%
+(b) 14 1/2%
+(c) 13 1/2%
+(d) 12 1/2% ✔
+
+
+3. A fruit merchant bought some bananas. 1/5 of them got rotten and were thrown away. He sold remaining 2/5 of the bananas with him at 15% profit and the remaining bananas at 10% profit. Find his overall loss or profit percent?
+
+(a) Profit 9.6%
+(b) Loss 10.4% ✔
+(c) Loss 9.6%
+(d) Profit 10.4%
+
+
+4. A person sold two cars for ₹60,000 each. On one, he gained 20% while on the other he lost 20%. Find the percentage of his gain or loss.
+
+(a) No profit and no loss
+(b) 4% Loss ✔
+(c) 2% Loss
+(d) 4% Profit
+
+
+5. A person bought two goods for ₹19,500. He sold one at a loss of 20% and the other at a profit of 15%. If the selling price of each goods is the same, find the cost price of goods sold at profit.
+
+(a) ₹11,475
+(b) ₹9,750
+(c) ₹11,500
+(d) ₹8,000 ✔
+
+
+6. Manoj bought two T.V. for ₹2,280. He sold one at a loss of 20 percent and other at a profit of 10 percent. If each T.V. was sold for the same price, then what is the cost price of the T.V which was sold at loss?
+
+(a) ₹1,380
+(b) ₹1,320 ✔
+(c) ₹1,050
+(d) ₹1,440
+
+
+7. By selling 90 ball pens for ₹160 a person losses 20%. The number of ball pens which should be sold for ₹96 so as to have a profit of 20% is:
+
+(a) 36 ✔
+(b) 37
+(c) 46
+(d) 47
+
+
+8. After selling 4 article for ₹1 a person incurred loss of 4% if he had sold 3 articles for ₹1 his profit percentage would be?
+
+(a) 24
+(b) 28 ✔
+(c) 32
+(d) 36
+
+
+
+GOTO:top
+______________________
+TAG:7-profit-and-loss
+*7-Profit-and-loss*
+
+1. By selling 3 dozen oranges for Rs 405, a trader loses 25%. How many oranges should he sell for 288 if he needs to earn a profit of 20% in the transaction?
+
+(a) 16 ✔
+(b) 15
+(c) 18
+(d) 12
+
+
+2. By selling 18 table fans for ₹11,664 a man incurs a loss of 10%. How many fans should be sell for ₹17,424 to earn 10% profit?
+
+(a) 23
+(b) 18
+(c) 20
+(d) 22 ✔
+
+
+3. A dealer professing to sell his goods at cost price uses 950 grams weight for 1 kg. His gain percentage is (rounded off to two decimal places):
+
+(a) 5.35%
+(b) 5.26% ✔
+(c) 5.86%
+(d) 5.96%
+
+
+4. A dishonest dealer announces selling his articles with 22% loss, but uses 35% lighter weights. What is the percentage of his profit or loss?
+
+(a) 13% loss
+(b) 20% profit ✔
+(c) 20% loss
+(d) 13% profit
+
+
+5. A dishonest shopkeeper claims to sell salt at a rate of ₹25/kg. The cost price of the salt is ₹25/kg. Not satisfied with this, he tries to make profit by removing 200 gm from each 1 kg. What is the shopkeeper's gain percentage?
+
+(a) 15%
+(b) 25% ✔
+(c) 30%
+(d) 20%
+
+
+6. Ramesh sells rice at ₹36 per kg, which he purchased for ₹30 per kg. Moreover, he gives only 800 gm of rice instead of 1 kg while selling. Find the actual profit percentage of Ramesh.
+
+(a) 46%
+(b) 50% ✔
+(c) 48%
+(d) 52%
+
+
+7. A dishonest trader marks up his goods by 50% and then allows a discount of 20% on its marked price. Additionally, he uses a faulty scale which measures 900 gm for 1 kg. What will be his net profit percentage (rounded off to the nearest integer)?
+
+(a) 33 ✔
+(b) 36
+(c) 27
+(d) 24
+
+
+8. Sohan sells sugar at cost price but he uses faulty weight and thus earns a profit of 28%. How many (grams) of sugar is he giving in exchange of 3.2 kg of sugar?
+
+(a) 1900
+(b) 1500
+(c) 2500 ✔
+(d) 2200
+
+
+9. R's weighing machine shows 400 gm when the actual weight is 350 gm. The cost price of almonds is ₹880 per kg and packets of 200 gm are made using the faulty machine. What should be the selling price (in ₹) of each packet to get a profit of 25%?
+
+(a) 197.50
+(b) 175.50
+(c) 182.50
+(d) 192.50 ✔
+
+
+10. A man sells an article at a profit of 25%. If he had bought it at 20% less and sold it for Rs 10.50 less, he would have gained 30%. Find the cost price of the article.
+
+(a) ₹25
+(b) ₹125
+(c) ₹50 ✔
+(d) ₹100
+
+
+11. A man sold a horse at a profit of 25%. If he had bought it for 35% less and sold it for ₹732 less, he would have made a profit of 36%. What was the purchase price of the horse?
+
+(a) ₹1,800
+(b) ₹2,500
+(c) ₹2,000 ✔
+(d) ₹1,500
+
+
+12. Anu fixes the selling price of an article at 25% above its cost of production. If the cost of production goes up by 20% and she raises the selling price by 10%, then her percentage profit is (correct to one decimal place):
+
+(a) 16.4%
+(b) 14.6% ✔
+(c) 13.8%
+(d) 15.2%
+
+
+13. A dishonest milkman sells milk at cost price but mixes water and gains 16 2/3%. The ratio of mixture to milk is?
+
+(a) 7 : 5
+(b) 7 : 6 ✔
+(c) 6 : 5
+(d) 7 : 7
+
+
+14. A dishonest milkman sells milk at cost price but mixes water and gains 14 2/7%. The ratio of mixture to milk is?
+
+(a) 7 : 8
+(b) 7 : 6
+(c) 6 : 7
+(d) 8 : 7 ✔
+
+---DPQ---
+1. A grocer professes to sell rice at the cost price, but uses a fake weight of 870 gm for 1 kg. Find his profit percentage (correct to two decimal places).
+
+(a) 15.11%
+(b) 14.94% ✔
+(c) 18.21%
+(d) 11.11%
+
+
+2. A vendor started selling vegetables at Rs 10 per kg, but couldn't find buyers at this rate. So he reduced the price to Rs 7.2 per kg, but uses a faulty weight of 900 gm instead of 1 kg. Find the percentage change in the actual price.
+
+(a) 10%
+(b) 15%
+(c) 20% ✔
+(d) 25%
+
+
+3. R's weighing machine shows 400 gm when the actual weight is 350 gm. The cost price of almonds is ₹880 per kg and packets of 200 gm are made using the faulty machine. What should be the selling price (in ₹) of each packet to get a profit of 25%?
+
+(a) 197.50
+(b) 175.50
+(c) 182.50
+(d) 192.50 ✔
+
+
+4. A shopkeeper sells his items using a faulty balance which measures 25% less. He then marks up his items 15% above the cost price. If he also gives a discount of 10% then find his net profit percentage on 1 kg items.
+
+(a) 32%
+(b) 41%
+(c) 44%
+(d) 38% ✔
+
+
+5. A man bought an article and sold it at a gain of 10%. If he had bought the article at 20% less and sold it for ₹1,000 more, he would have made a profit of 40%. The cost price of the article (in ₹) is:
+
+(a) 50,000 ✔
+(b) 60,000
+(c) 25,000
+(d) 40,000
+
+
+6. The initial profit percentage on the sale of an item was 55%. If the cost price of the item went up by 24% but the selling price remained the same, what would be the new profit percentage?
+
+(a) 36%
+(b) 25% ✔
+(c) 28%
+(d) 33%
+
+
+7. Ritika purchased x kg wheat at ₹30/kg and sold 8 kg of this at ₹x per kg and remaining at ₹45/kg. Overall profit percent earned is 10%, then what quantity of wheat Ritika sold at ₹45/kg?
+
+(a) 18 kg
+(b) 16 kg
+(c) 10 kg ✔
+(d) 14 kg
+
+
+8. P buys an article for ₹280 and sells it to Q at a profit of 25%. Q sells it to R at some profit. R sells it to S for ₹560 marking a profit of 40%. What percentage profit (rounded off to the nearest integer) did Q make?
+
+(a) 32%
+(b) 20%
+(c) 26%
+(d) 14% ✔
+
+
+9. Harsh purchased a scooter for ₹48,000. He sold it at a loss of 15%. With that money he purchased another scooter and sold it at a profit of 22.5%. What is his overall loss/profit percentage?
+
+(a) Profit 4.125% ✔
+(b) Profit 2.25%
+(c) Loss 4.125%
+(d) Loss 2.25%
+
+
+10. An article is sold at a certain price. If it is sold at 1 1/3 of this price, there is a loss of 33 1/3%. What is the percent profit when it is sold at 60% of the original selling price?
+
+(a) 33 1/3%
+(b) 17 1/3%
+(c) 30%
+(d) 20% ✔
+
+
+GOTO:top
+______________________
+TAG:8-discount
+*8-Discount*
+
+1. A man sold an article for 405 by giving a discount of d% on its marked price. If the marked price of the article is ₹540, then what is the value of d?
+
+(a) 25 ✔
+(b) 12.5 
+(c) 20
+(d) 12
+
+
+2. The marked price of an immersion rod in an electronic store is ₹900. The store offers a discount of 12% on its sale. At what price (in ₹) can a customer buy it from the electronic store?
+
+(a) 787
+(b) 792 ✔
+(c) 782
+(d) 797
+
+
+3. A cupboard is sold for ₹6,500 after giving a discount of 20%. Find its marked price (in rupees).
+
+(a) 8,125 ✔
+(b) 8,235
+(c) 7,546
+(d) 8,000
+
+
+4. On the occasion of Republic Day, a retail store offers a scheme where customers can avail a discount of 26% on their total purchase. If Manish buys items worth Rs.2,050, how much money (in ₹) will he save through the scheme discount?
+
+(a) 533 ✔
+(b) 544
+(c) 522
+(d) 511
+
+
+5. A scheme like 'Buy 5, Get 1' on the same kind of articles with the same marked price offers a ______ discount.
+
+(a) 20%
+(b) 16 2/3 % ✔
+(c) 11 1/9 %
+(d) 17.5%
+
+
+6. A shopkeeper offers the following two discount schemes.
+
+A. Buy 3 get 4 free  
+B. Buy 5 get 6 free  
+
+Which scheme has the maximum discount percentage?
+
+(a) A ✔
+(b) A does not give any discount
+(c) A and B both have the same discount percentage
+(d) B
+
+
+7. A shopkeeper provides successive discounts of 7% and 2%, which are equivalent to a single discount of_____.
+
+(a) 9.14%
+(b) 8%
+(c) 9%
+(d) 8.86% ✔
+
+
+8. What is the equivalent discount percentage corresponding to two successive discounts of 9% and 17%?
+
+(a) 27.53% ✔
+(b) 26.47%
+(c) 26.00%
+(d) 24.47%
+
+
+9. A shopkeeper offers the following discount schemes for buyers on an article:
+
+I. Two successive discounts of 15% each  
+II. A discount of 25% followed by a discount of 5%  
+III. Two successive discounts of 20% and 10%  
+IV. A discount of 30%  
+
+Under which scheme will the selling price be maximum?
+
+(a) Scheme IV
+(b) Scheme III
+(c) Scheme II
+(d) Scheme I ✔
+
+
+10. The single discount equivalent to a series discount of 60%, 70% and 80%.
+
+(a) 97.6% ✔
+(b) 70%
+(c) 85%
+(d) 95.5%
+
+
+11. What is the single discount equivalent to the successive discounts of 20%, 35%, and 10%?
+
+(a) 53.2% ✔
+(b) 48.7%
+(c) 65.4%
+(d) 42.3%
+
+
+12. A discount of 10% is offered on the price of an article if the payment is made online. An additional discount of 5% is given to credit card holders. A person wishes to buy a watch priced at Rs 60,000 by paying online through credit card. How much does he need to pay (in Rs)?
+
+(a) 62,150
+(b) 51,300 ✔
+(c) 61,250
+(d) 53,100
+
+
+13. An article is sold at three successive discounts of 10%, 20% and 25%. If the selling price of the article is Rs.2,592 then what is the marked price of the article?
+
+(a) Rs.5,200
+(b) Rs.4,800 ✔
+(c) Rs.4,900
+(d) Rs.5,000
+
+
+14. A tractor manufacturing company sells each tractor for ₹5,00,000. Assuming that KISAN firm buys 50 tractors from them as a part of an annual contract, the company offers a trade discount of 10% to KISAN and an additional 2% discount if the payment is made within 30 days. What will be the amount payable by KISAN within 30 days for the consignment?
+
+(a) ₹20,051,000
+(b) ₹22,050,000 ✔
+(c) ₹24,050,020
+(d) ₹22,080,100
+
+
+15. The marked price of a water bottle is ₹950. A man bought the same for ₹740, after getting two successive discounts. If the first discount is 12%, then what is the second discount?
+
+(a) 13.45%
+(b) 12.46%
+(c) 14.56%
+(d) 11.48% ✔
+
+
+16. The selling price of an article marked for ₹10000 after giving three discount 20%, 10% and k% is ₹6120. What will be selling price (in ₹) of the same article if a single discount of (k + 20)% is allowed?
+
+(a) 8500
+(b) 6800
+(c) 8000
+(d) 6500 ✔
+
+
+---DPQ---
+1. In a store, an item with marked price of ₹82,500 is available at a discounted price of ₹79,200. What is the percentage of discount given on that item?
+
+(a) 4% ✔
+(b) 3%
+(c) 1%
+(d) 2%
+
+
+2. At a clearance sale, a shopkeeper gives 45% discount. If a customer paid ₹330 during the sale, then what is the marked price of that shirt?
+
+(a) ₹550
+(b) ₹600 ✔
+(c) ₹500
+(d) ₹650
+
+
+3. Murlidhar, the owner of a grocery store, offers a discount scheme 'buy 5 water bottles get 1 for free' to his customers. What is the effective percentage discount offered by Murlidhar? (correct up to two decimal places)
+
+(a) 13.67%
+(b) 20.00%
+(c) 13.33%
+(d) 16.67% ✔
+
+
+4. If the successive discount of 10%, 15%, then the single equivalent rate of discount is:
+
+(a) 32.3%
+(b) 24.2%
+(c) 43.4%
+(d) 23.5% ✔
+
+
+5. The marked price of an article is ₹50,000. From three shopkeepers, the first one allows two successive discounts of 25% and 15%. The second one allows two successive discounts 20% and 20%. The third shopkeeper allows two successive discounts of 30% and 10%. From which shopkeeper does the customer get more profit?
+
+(a) First
+(b) Same for all the shopkeepers
+(c) Third ✔
+(d) Second
+
+
+6. Find a single discount equivalent to the successive discount of 12%, 20%, 24% and 32%. (Correct to two places of decimals)
+
+(a) 43.41%
+(b) 73.71%
+(c) 63.62% ✔
+(d) 53.51%
+
+
+7. The list price of a hand mixer at a showroom is Rs 2,000 and it is being sold at successive discounts of 15% and 10%. What is its net selling price in rupees?
+
+(a) 1,530 ✔
+(b) 1,560
+(c) 1,440
+(d) 1,600
+
+
+8. After offering two successive discounts a toy with a marked price of ₹150 is sold at ₹105. If the value of the first discount is 12.5%, what is the value of the second discount?
+
+(a) 21%
+(b) 18%
+(c) 20% ✔
+(d) 22%
+
+
+9. A shopkeeper marked an article at ₹5,000. The shopkeeper allows successive discounts of 20%, 15% and 10%. The selling price of the article is:
+
+(a) ₹2,750
+(b) ₹3,000
+(c) ₹2,800
+(d) ₹3,060 ✔
+
+
+GOTO:top
+______________________
+TAG:9-discount
+*9-Discount*
+
+1. A shopkeeper lists the price of a fan at 22% above its cost price and offers a 15% discount on its list price. What is the cost price (in ₹) of the fan if he sells it at ₹5,185?
+
+(a) ₹5,000 ✔
+(b) ₹4,500
+(c) ₹4,500
+(d) ₹5,680
+
+
+2. If an item is marked 40% above its cost price, and a discount of x% is given on the marked price, a net profit of 12% is obtained. Now, if a new item's cost price is ₹2,400 and a profit of x% is desired, what should be the selling price of this new item?
+
+(a) ₹2,480
+(b) ₹2,880
+(c) ₹3,480 ✔
+(d) ₹2,400
+
+
+3. A merchant fixes the marked price of his goods at 42% above the cost price. He sells his goods at a 15% discount marked price. His percentage of profit (rounded off to the nearest integer) is:
+
+(a) 21% ✔
+(b) 35%
+(c) 27%
+(d) 42%
+
+
+4. A man sold an article for ₹420 by first giving a d% discount on its marked price, and then another discount having the same nominal value (in ₹). If the marked price of the article is ₹560, then what is the value of d?
+
+(a) 16.9
+(b) 12.5 ✔
+(c) 18.4
+(d) 14.5
+
+
+5. A shopkeeper sells an item for ₹960.4 after giving two successive discounts of 30% and 80% on its marked price. Had he not given any discount, he would have earned a profit of 40%. What is the cost price (in ₹) of the item?
+
+(a) 4920
+(b) 4900 ✔
+(c) 4931
+(d) 4908
+
+
+6. A shopkeeper sells an item by giving 25% discount on its marked price and still gains 35%. If the cost price of the item decreases by 10%, and he sells it by allowing 37.5% discount on the same marked price, then his gain percentage will be _____.
+
+(a) 25% ✔
+(b) 20.5%
+(c) 25.5%
+(d) 30%
+
+
+7. The marked price of an article is 20 percent more than its cost price. What minimum discount percentage can be offered by the shopkeeper to sell his article so that there is no loss?
+
+(a) 16.66% ✔
+(b) 12.56%
+(c) 15.33%
+(d) 13.33%
+
+
+8. The marked price of mustard oil is 10% more than its cost price. At what per cent less than the marked price should it be sold, to have no profit and no loss?
+
+(a) 2 9/11 %
+(b) 1 9/11 % ✔
+(c) 3 9/11 %
+(d) 4 9/11 %
+
+
+9. After giving a 25% discount, the selling price of a table is ₹24,750. If the cost price is 60% of the marked price, what is the cost price (in ₹)?
+
+(a) 19500
+(b) 19700
+(c) 19600
+(d) 19800 ✔
+
+
+10. The marked price of an article is ₹10,927. Due to festive season, a certain percentage of discount is declared. Raju buys an article at reduced price and sells it at ₹10,927 and makes a profit of 11.5%. What was the percentage discount offered?
+
+(a) 10.3% ✔
+(b) 11.3%
+(c) 11.5%
+(d) 10.9%
+
+
+11. Amit and Bilal buy goods for ₹1,500 and ₹2,000, respectively. Amit marks his goods up by y%, while Bilal marks his goods up by 2y% and offers a discount of y%. If both make the same profit, then find the value of y?
+
+(a) 10.5%
+(b) 12%
+(c) 11.5%
+(d) 12.5% ✔
+
+
+12. To clear a stock of items, a seller gives an 8% discount on the marked price. He spends ₹x on the promotion of the discount offer. His total cost of the items is ₹2,50,000 and the marked price is 10% more than the cost price. Finally, he earns no profit or no loss. What is the value of x?
+
+(a) 7500
+(b) 3000 ✔
+(c) 6000
+(d) 4500
+
+
+13. Shopkeeper A marks up his price for an item at 25% and offers a discount of 15%. The same item is marked at 20% by another shopkeeper B and sold at a discount of 12%. Who gets a better deal in terms of % profit and by what profit percentage he sells that item?
+
+(a) B by 5.6%
+(b) B by 0.65%
+(c) A by 0.55%
+(d) A by 6.25% ✔
+
+
+14. Ramanna purchased raw materials for a certain price to manufacture a product. However, owing to shortage of labour, 22.5% of the raw materials could not be utilised and got wasted. 80% of the cost of raw materials used was added as the cost of manufacturing. If Ramanna could sell his product at a price to earn an overall profit of 20% after offering a discount of 20%, how many times of the total cost of the raw materials purchased was the marked price of the product?
+
+(a) 2.44 times
+(b) 42 times
+(c) 2.43 times ✔
+(d) 2.40 times
+
+
+---DPQ---
+1. Anu allows a 20% discount on the marked price of an article and still makes a profit of 25%. If she gains ₹44.80 on the sale of the article, then the cost price of the article is:
+
+(a) ₹188.80
+(b) ₹192.80
+(c) ₹184.20
+(d) ₹179.20 ✔
+
+2. The cost price of a fan is Rs 4,400. A merchant wants to make a 24% profit by selling it. At the time of sale, merchant declares a discount of 12% on the marked price. Find the marked price.
+
+(a) Rs.2,600
+(b) Rs.2,060
+(c) Rs.6,200 ✔
+(d) Rs.6,020
+
+
+3. A shopkeeper sells an item for ₹287.7 after giving two successive discounts of 86% and 85% on its marked price. Had he not given any discount, he would have earned a profit of 37%. What is the cost price (in ₹) of the item?
+
+(a) 10000 ✔
+(b) 10038
+(c) 9958
+(d) 10046
+
+
+4. A man sold an article for ₹481 by first giving a d% discount on its marked price, and then another discount having the same nominal value (in ₹). If the marked price of the article is ₹1924, then what is the value of d?
+
+(a) 42.5
+(b) 37.5 ✔
+(c) 32
+(d) 33
+
+
+5. In a showroom the price of a washing machine is ₹65,000. The customer gets cash discount of ₹2,000 and gets a scratch card promising percentage discount of 10% to 15%. Determine the difference between the least and the maximum selling price of the washing machine.
+
+(a) ₹3,150 ✔
+(b) ₹3,570
+(c) ₹3,200
+(d) ₹3,650
+
+
+6. What is the discount that Rohan should offer on the remaining Rs 8,000 of a laptop priced at Rs 48,000, given that he has already given a 12% discount on the first Rs 28,000 and 8% discount on the next Rs 12,000 to match the discount amount of 9.5% given on the total price?
+
+(a) 402
+(b) 420
+(c) 240 ✔
+(d) 204
+
+
+7. The marked price of 85 items was equal to the cost price of 153 items. The selling price of 104 items was equal to the marked price of 65 items. Calculate the percentage profit or loss from the sale of each item.
+
+(a) 12.5% loss
+(b) 12.5% profit ✔
+(c) 15% profit
+(d) 12.25% profit
+
+
+8. A retailer buys 50 pens at the marked price of 44 pens. If he sells these pen at a discount of 1% on the marked price, what is profit percentage?
+
+(a) 10%
+(b) 12.5% ✔
+(c) 12%
+(d) 15%
+
+
+9. By selling an article for Rs 2,160, Prashant allows a 20% discount and earns 28% profit. If the article is sold without any discount, the profit will be:
+
+(a) 55%
+(b) 60% ✔
+(c) 65%
+(d) 50%
+
+
+10. Victoria purchased items with a combined book value of $400,000. He was offered a discount of 10% on the portion of payment made in cash and a 2% surcharge on the portion of payment made through credit card. If Victoria paid a total of $378,000, how much did she pay via credit card including surcharges?
+
+(a) $1,53,000 ✔
+(b) $1,58,100
+(c) $1,63,200
+(d) $1,47,900
+
+
+11. A shopkeeper allows 18% discount on the market price of an article and still makes a profit of 23%. If he gains ₹18.40 on the sale of the article, then what is the marked price of the article?
+
+(a) ₹140
+(b) ₹125
+(c) ₹120 ✔
+(d) ₹146
+
+
+GOTO:top
+______________________
+TAG:10-algebra
+*10-Algebra*
+
+1. If a + 1/a = 12, then find the value of a² + 1/a².
+
+(a) 144 
+(b) 146
+(c) 142 ✔
+(d) 140
+
+
+2. If (x + 1/x) = 5√2, then what is the value of (x⁴ + 1/x⁴)?
+
+(a) 2542
+(b) 2650
+(c) 2452
+(d) 2302 ✔
+
+
+3. If x + 1/x = 7, find the value of x³ + 1/x³.
+
+(a) 343
+(b) 332
+(c) 340
+(d) 322 ✔
+
+
+4. If x + 1/x = 7, then the value of x⁶ + 1/x⁶ is:
+
+(a) 113682
+(b) 103682 ✔
+(c) 103882
+(d) 103872
+
+
+5. If a + 1/a = 7, then a⁵ + 1/a⁵ is equal to:
+
+(a) 15127 ✔
+(b) 13127
+(c) 14527
+(d) 11512
+
+
+6. If x + 1/x = 3, x ≠ 0, then the value of x⁷ + 1/x⁷ is:
+
+(a) 749
+(b) 843 ✔
+(c) 746
+(d) 849
+
+
+7. If (x − 1/x) = 0.4 and x > 0, what is the value of x² + 1/x²?
+
+(a) 4.16
+(b) 3.32
+(c) 1.84
+(d) 2.16 ✔
+
+
+8. If p − 1/p = 6, then what is the value of p⁴ + 1/p⁴?
+
+(a) 1562
+(b) 1432
+(c) 1442 ✔
+(d) 1444
+
+
+9. If x − 1/x = 1, then what is the value of x⁸ + 1/x⁸?
+
+(a) 3
+(b) 119
+(c) 47 ✔
+(d) −1
+
+
+10. If (y − 1/y) = 9, then what is the value of y³ − 1/y³?
+
+(a) 729
+(b) 756 ✔
+(c) 702
+(d) 766
+
+
+11. If (x − 1/x) = (7 − 2), then the value of (x − 2)³ − 1/(x − 2)³ is:
+
+(a) 130
+(b) 115
+(c) 140 ✔
+(d) 125
+
+
+12. If y − 1/y = 4, find the value of y⁶ + 1/y⁶.
+
+(a) 5774
+(b) 4096
+(c) 5776
+(d) 5778 ✔
+
+
+13. If x² − 3x + 1 = 0, then the value of x⁵ + 1/x⁵ ÷ (x² + 1) is:
+
+(a) 9
+(b) 473 ✔
+(c) 7
+(d) 5
+
+
+14. If x² − 3x + 1 = 0, then the value of (x⁸ + 1/x⁸ − 5(x² + 1/x²)) is:
+
+(a) 4379 ✔
+(b) 4279
+(c) 3479
+(d) 4370
+
+
+15. If x⁴ + 1/x⁴ = 254, then find the value of x² + 1/x².
+
+(a) 9
+(b) 11 ✔
+(c) 12
+(d) 15
+
+
+16. If x⁸ − 433x⁴ + 16 = 0 and x > 0, then what is the value of x² + 1/x²?
+
+(a) 5 ✔
+(b) 7
+(c) 4
+(d) 9
+
+
+17. If x > 0 and x⁴ + 1/x⁴ = 2207, what is the value of x⁷ + 1/x⁷?
+
+(a) 710649
+(b) 710647 ✔
+(c) 710654
+(d) 710661
+
+
+---DPQ---
+
+1. If a + 1/a = 6, then what is the value of (3/4)(a² + 1/a²)?
+
+(a) 22.5
+(b) 34
+(c) 25.5 ✔
+(d) 36
+
+
+2. If a + 1/a = 8, then what is the value of a⁴ + 1/a⁴?
+
+(a) 4098
+(b) 3846
+(c) 3842 ✔
+(d) 4094
+
+
+3. If X + 1/X = 2K, then what is the value of X⁴ + 1/X⁴?
+
+(a) 16K⁴ − 16K² − 1
+(b) 8K⁴ + 4K² − 1
+(c) 16K⁴ − 16K² + 2 ✔
+(d) 6K⁴ − 4K² − 1
+
+
+4. If (x + 1/x) = 2√2, what is the value of x⁶ + 1/x⁶?
+
+(a) 198 ✔
+(b) 216
+(c) 180
+(d) 234
+
+
+5. If a + 1/a = 7√3, then what is the value of a⁶ + a⁻⁶?
+
+(a) 3048190 ✔
+(b) 3048542
+(c) 3048132
+(d) 3048625
+
+
+6. If x + 1/x = −6, what will be the value of x⁵ + 1/x⁵?
+
+(a) −7776
+(b) −6726 ✔
+(c) −6730
+(d) −6732
+
+
+7. If (y³ − 1/y³) = 5, find the value of y² + 1/y².
+
+(a) 47/9
+(b) 49/9
+(c) 41/9
+(d) 43/9 ✔
+
+
+8. If √x − 1/√x = √3, then what is the value of x⁴ + 1/x⁴?
+
+(a) 7
+(b) 527 ✔
+(c) 531
+(d) 623
+
+
+9. If x − 1/x = 4, then what is the value of x⁶ + 1/x⁶?
+
+(a) 4689
+(b) 4786
+(c) 5832
+(d) 5778 ✔
+
+
+10. If 1/(s − 8) = 20, then the value of (s − 8)³ − 1/(s − 8)³ is:
+
+(a) 1324
+(b) 1764 ✔
+(c) 1864
+(d) 1944
+
+
+11. If x² − 3x + 1 = 0, then the value of (x⁴ + 1/x²)/(x² + 5x + 1) is:
+
+(a) 9/4 ✔
+(b) 27/8
+(c) 5/2
+(d) 2
+
+
+12. If x − 1/x = 5, x ≠ 0, then what is the value of (x⁶ + 3x³ − 1)/(x⁶ − 8x³ − 1)?
+
+(a) 13/12 ✔
+(b) 11/13
+(c) 3/8
+(d) 4/9
+
+
+13. If x⁸ − 1442x⁴ + 1 = 0, then a possible value of x − 1/x is:
+
+(a) 5
+(b) 8
+(c) 4
+(d) 6 ✔
+
+
+14. If x⁸ − 2599x⁴ + 1 = 0, then the positive value of x − 1/x will be:
+
+(a) 8
+(b) 6
+(c) 12
+(d) 7 ✔
+
+
+15. If x > 0 and x⁴ + 1/x⁴ = 254, what is the value of x⁵ + 1/x⁵?
+
+(a) 717√2 ✔
+(b) 723√2
+(c) 720√2
+(d) 726√2
+
+
+
+GOTO:top
+______________________
+TAG:11-algebra
+*11-Algebra*
+1. If (x + 1/x) = 7, x > 0. The positive value of (x − 1/x) is:
+
+(a) 5√4
+(b) 5√5
+(c) 3√5 ✔
+(d) 4√5
+
+
+2. If a − 1/a = 4, then the value of a + 1/a is:
+
+(a) 5√5
+(b) 4√5
+(c) 2√5 ✔
+(d) 3√5
+
+
+3. If x + 1/x = −14, and x < −1, what will be the value of x² − 1/x² ?
+
+(a) −112√3
+(b) 112√3 ✔
+(c) −140√2
+(d) 140√2
+
+
+4. If x² − 7x + 1 = 0, and 0 < x < 1, what is the value of x² − 1/x² ?
+
+(a) 21√5
+(b) −21√5 ✔
+(c) 28√5
+(d) −28√5
+
+
+5. If (x² + 1/x²) = 7, and 0 < x < 1, find the value of x² − 1/x².
+
+(a) 3√5
+(b) 4√3
+(c) −4√3
+(d) −3√5 ✔
+
+
+6. If x + 1/(9x) = 3, then the value of 9x² + 1/(9x²) is:
+
+(a) 87
+(b) 81
+(c) 77
+(d) 79 ✔
+
+
+7. If x + 1/(16x) = 3, then the value of 16x³ + 1/(256x³) is:
+
+(a) 423 ✔
+(b) 441
+(c) 432
+(d) 414
+
+
+8. If x⁸ − 433x⁴ + 16 = 0, x > 0, then what is the value of (x + 2/x)?
+
+(a) 5 ✔
+(b) 7
+(c) 4
+(d) 9
+
+
+
+---DPQ---
+1. If (x + 1/x) = 5, and x > 1, what is the value of (x⁸ − 1/x⁸)?
+
+(a) 60605√21 ✔
+(b) 60615√21
+(c) 60705√21
+(d) 60725√21
+
+
+2. If x² − 9.76x + 1 = 0 and x > 1, the value of x³ − 1/x³ is:
+
+(a) 21.042
+(b) 24.024
+(c) 21.024 ✔
+(d) 24.042
+
+
+3. If (x + 1/x) = 5√2, and x > 1, what is the value of (x⁶ − 1/x⁶)?
+
+(a) 22970√23
+(b) 23030√23 ✔
+(c) 23060√23
+(d) 22960√23
+
+
+4. If 7b − 1/(4b) = 7, then what is the value of 16b² + 1/(49b²)?
+
+(a) 80/49
+(b) 104/7
+(c) 120/7 ✔
+(d) 7/2
+
+
+5. If x² − 4x − 3 = 0, then what is the value of (x⁴ − 27/x²) / (x² + 4x − 3)?
+
+(a) 9¼
+(b) 12½ ✔
+(c) 10½
+(d) 9⅛
+
+
+
+GOTO:top
+______________________
+TAG:12-algebra
+*12-Algebra*
+1. If x + 1/x = 2, then find the value of (x^2723 + 1/x^3356).
+
+(a) 1
+(b) 2 ✔
+(c) 0
+(d) −1
+
+
+2. If x = 7 − 4√3, then find the value of (x^2 + 1/x^2).
+
+(a) 195
+(b) 197
+(c) 196
+(d) 194 ✔
+
+
+3. If a = 1/( (√2 − 1)^3 ), then the value of (a − 1/a)^3 + 3(a − 1/a) is:
+
+(a) 2
+(b) −2 ✔
+(c) √2
+(d) −√2
+
+
+4. If x = (√6 − 1)^(1/3), then the value of (x − 1/x)^3 + 3(x − 1/x) is:
+
+(a) (2√6 − 6)/5
+(b) (4√6 − 6)/5 ✔
+(c) (4√6 − 6)/3
+(d) (4√3 − 6)/5
+
+
+5. If x = 8 + √5 and y = 8 − √5 then the value of x² + y² is:
+
+(a) 138 ✔
+(b) 143
+(c) 140
+(d) 124
+
+
+6. If (a/b + b/a) = 1, a ≠ 0, b ≠ 0, then find the value of (a³ + b³)/(3ab).
+
+(a) 3
+(b) 0 ✔
+(c) 2
+(d) −4
+
+
+7. If (x + y)³ − (x − y)³ − 3y(2x² − 3y²) = ky³, then find the value of k.
+
+(a) 10
+(b) 8
+(c) 10.5
+(d) 11 ✔
+
+
+8. The value of the expression (1.55² + 0.55² + 1.55 × 0.55) is equal to:
+
+(a) 1.55² − 0.55²
+(b) 1.55³ − 0.55³ ✔
+(c) 1.55³ + 0.55³
+(d) 1.55² + 0.55²
+
+
+9. If 3a + 2b = 27 and 27a³ + 8b³ = 1458, then find 2ab.
+
+(a) 72
+(b) 70
+(c) 77
+(d) 75 ✔
+
+
+10. If 2√2x³ − 3√3y³ = (√2x − √3y)(Ax² + By² + Cxy), then the value of A² + B² − C² is:
+
+(a) 11
+(b) 7 ✔
+(c) 19
+(d) 10
+
+
+11. If a² + b² + c² = 2(a + c − 1), then the value of a³ + b³ + c³ is:
+
+(a) 0
+(b) 2 ✔
+(c) 4
+(d) 1
+
+
+12. If x² + y² + z² = 2(x + z − 1), then the value of x³ + y³ + z³ is:
+
+(a) 6
+(b) 1
+(c) 2 ✔
+(d) 8
+
+
+13. If a² + b² + 9 − 6b + (a + b − 4)² = 2ab − 6a then find ab?
+
+(a) 7/4
+(b) −7/4
+(c) 7/2 ✔
+(d) 12
+
+
+14. If (x + y + z) = 23 and x² + y² + z² = 179 then find the value of (xy + yz + zx).
+
+(a) 225
+(b) 280
+(c) 175 ✔
+(d) 350
+
+
+15. If x + y + z = 19, x² + y² + z² = 133 and xz = y², x > z > 0, what is the value of (x − z)?
+
+(a) 0
+(b) 5 ✔
+(c) −2
+(d) −5
+
+
+---DPQ---
+1. If x = 7 − 4√3, then find the value of (x² + 1/x²).
+
+(a) 188
+(b) 194 ✔
+(c) 186
+(d) 196
+
+
+2. If x = √6 + 2, and y = √6 − 2, then what is the value of ((x/y + y/x)² − 3)?
+
+(a) 42
+(b) 97 ✔
+(c) 35
+(d) 22
+
+
+3. If x = (√5 − √4)/(√5 + √4) and y = (√5 + √4)/(√5 − √4) then the value of (x² − xy + y²)/(x² + xy + y²) is:
+
+(a) 361/363
+(b) 341/343
+(c) 384/387
+(d) 321/323 ✔
+
+
+4. If x² − 15x + 1 = 0, what is the value of x⁴ − 223x² + 6?
+
+(a) 9
+(b) 5 ✔
+(c) 6
+(d) 0
+
+
+5. If x² + 6x + 1 = 0, then the value of (x + 6)³ + 1/(x + 6)³ = ?
+
+(a) 245
+(b) 216
+(c) 186
+(d) 198 ✔
+
+
+6. If x/y + y/x = 1 and x + y = 2, then the value of x³ + y³ is:
+
+(a) 0 ✔
+(b) 1
+(c) 3
+(d) 2
+
+
+7. If (x + y)³ − (x − y)³ − 3y(2x² − 3y²) = ky³, then find the value of k.
+
+(a) 10
+(b) 8
+(c) 10.5
+(d) 11 ✔
+
+
+8. If 2a − b = 3 and 8a³ − b³ = 999, then the value of 4a² − b².
+
+(a) 63 ✔
+(b) 65
+(c) 61
+(d) 67
+
+
+9. If 8(x + y)³ − 27(x − y)³ = (5y − x)(Ax² + By² + Cxy), then what is the value of (A + B − C)?
+
+(a) 16
+(b) −26
+(c) 36 ✔
+(d) −16
+
+
+10. If (a − 18)² + (b − 12)² + (c − 6)² = 0, then find the value of (a + b + c)^(1/2).
+
+(a) ±3
+(b) ±6 ✔
+(c) ±4
+(d) ±2
+
+
+11. If x² + 4y² + 2x + 1 = 0, then find the value of x³⁹ + y³⁶.
+
+(a) −1 ✔
+(b) −2
+(c) 2
+(d) 1
+
+
+12. If x² + 8y² − 12y − 4xy + 9 = 0 then the value of (7x − 8y) is:
+
+(a) 9 ✔
+(b) 5
+(c) 12
+(d) 21
+
+
+13. If a² + b² + 49c² + 18 = 2(b − 28c − a) then the value of (a + b − 7c) is:
+
+(a) 4 ✔
+(b) 3
+(c) 2
+(d) 1
+
+
+14. If 9a² + 4b² + 49c² + 18 = 2(2b + 28c − 3a), then the value of (a + 2b − c) will be:
+
+(a) 2/21 ✔
+(b) 5/21
+(c) 11/21
+(d) 26/21
+
+
+15. If a³ + b³ = 218 and a + b = 2, then the value of √(1 − ab) is:
+
+(a) 5
+(b) 3
+(c) 4 
+(d) 6 ✔
+
+
+16. If a² + b² + c² = 6.25 and (ab + bc + ca) = 0.52, what is the value of (a + b + c), if (a + b + c) < 0?
+
+(a) ±2.7
+(b) −2.7 ✔
+(c) −2.8
+(d) ±2.8
+
+
+17. If x + y + z = 13, x² + y² + z² = 91 and xz = y², then the difference between z and x is:
+
+(a) 3
+(b) 8 ✔
+(c) 5
+(d) 9
+
+
+18. If 9a + 9b + 9c = 81 and 4ab + 4bc + 4ca = 160, then what is the value of 6a² + 6b² + 6c²?
+
+(a) 1
+(b) 3
+(c) 4
+(d) 6 ✔
+
+
+
+GOTO:top
+______________________
+TAG:13-mock-i
+*13-Mock-I*
+1. How many whole numbers are there between 11^2 and 12^2?
+
+(a) 23
+(b) 21
+(c) 22 ✔
+(d) 24
+
+
+2. What is the radius of a sphere having a volume of 38808 cm^3? [Use π = 22/7]
+
+(a) 27 cm
+(b) 21 cm ✔
+(c) 24 cm
+(d) 18 cm
+
+
+3. What is the least number when divided by 15, 18 and 36 leaves the same remainder 9 in each case and is divisible by 11?
+
+(a) 1269
+(b) 1089 ✔
+(c) 1080
+(d) 1071
+
+
+4. The value of:
+1 / [1 + 1/(2 − 1/(2 + 1/3))]
+
+(a) 7/15
+(b) 3/16
+(c) 7/18 ✔
+(d) 3/11
+
+
+5. Raja and Rocky together can complete painting work in 5 days. Together they both start painting, but after 2 days, Rocky falls sick and leaves the work. If Raja completes the remaining painting in 4 days, find the number of days in which Rocky alone can do the work.
+
+(a) 12 days
+(b) 15 days
+(c) 20 days ✔
+(d) 10 days
+
+
+6. The average weight of 40 students of a school is 52 kg. If the weight of the teacher is included, the average weight rises by 500 grams. Find the weight (in kg) of the teacher.
+
+(a) 73.5
+(b) 71.5
+(c) 74.5
+(d) 72.5 ✔
+
+
+7. Half litre of a solution contains 15% alcohol. To change the alcohol concentration to 50%, find the quantity of alcohol to be mixed.
+
+(a) 250 ml
+(b) 350 ml ✔
+(c) 175 ml
+(d) 400 ml
+
+
+8. What is the fourth proportional of 3√5, 5√8 and 3√10?
+
+(a) 10√5
+(b) 40√2
+(c) 30
+(d) 20 ✔
+
+
+9. The value of a stone is proportional to the square of its weight. A stone worth ₹1,20,000 is broken into two pieces in the ratio 2 : 3. What is the total price of the two small stones?
+
+(a) ₹68,400
+(b) ₹62,400 ✔
+(c) ₹66,500
+(d) ₹65,400
+
+
+10. The marked price of 85 items was equal to the cost price of 153 items. The selling price of 104 items was equal to the marked price of 65 items. Calculate the percentage profit or loss from the sale of each item.
+
+(a) 12.5% loss
+(b) 12.5% profit ✔
+(c) 15% profit
+(d) 12.25% profit
+
+
+11. A retailer purchased a batch of goods for ₹5,000. Due to a manufacturing defect, 5% of the goods were damaged. If the retailer wants to make a profit of 20% on the remaining goods, at what price should the undamaged goods be sold?
+
+(a) ₹5,700 ✔
+(b) ₹5,800
+(c) ₹6,000
+(d) ₹5,900
+
+
+12. Suresh studies the pattern of daily sale of a shop. He finds that on Monday, the sale was decreased by 10% compared to Sunday. On Tuesday, the sale was increased by 10% compared to Monday. If the sale on Tuesday was ₹1,485, how much was the sale on Sunday?
+
+(a) ₹1,495
+(b) ₹1,485
+(c) ₹1,475
+(d) ₹1,500 ✔
+
+
+13. If x = a + 1/a and y = 1/a − a then the value of x^4 + y^4 − 2x^2y^2 is:
+
+(a) 16a²
+(b) 8
+(c) 8/a²
+(d) 4 ✔
+
+
+14. The value of θ when 3cosθ + sinθ = 1 (1 ≤ θ ≤ 90°) is:
+
+(a) 20°
+(b) 60°
+(c) 90° ✔
+(d) 30°
+
+
+15. Pipe L can fill a pool in 30 hours and pipe M in 45 hours. If both the pipes are opened in an empty pool, how much time will they take to fill it?
+
+(a) 24 hrs
+(b) 17 hrs
+(c) 18 hrs ✔
+(d) 20 hrs
+
+
+16. If 2a + 2b + c = 0, then find the value of:
+
+(4a² + 4b² + 4c²) / (5c² − 8ab)
+
+(a) −1
+(b) −2/3
+(c) 1 ✔
+(d) 2/3
+
+
+17. The value of:
+(1/(sinθ + tanθ)) × (1/(sinθ − tanθ))
+
+(a) 0
+(b) 2
+(c) 3
+(d) 1 ✔
+
+
+18. R reaches office from home in 30 minutes and comes back in 20 minutes. The distance to his office from home is 12.5 km. What is his average speed (in km/h) from home to office and then back home?
+
+(a) 20
+(b) 25
+(c) 60
+(d) 30 ✔
+
+
+19. If the angles P, Q and R of ΔPQR satisfy the relation 2R − P = Q − R, then find the measure of ∠R.
+
+(a) 45° ✔
+(b) 60°
+(c) 50°
+(d) 55°
+
+
+20. A loan of ₹2,550 is to be paid back in two equal half-yearly installments. How much is each installment if the interest is compounded half-yearly at 8% p.a.?
+
+(a) ₹1250
+(b) ₹1352 ✔
+(c) ₹1745
+(d) ₹1457
+
+
+21. A and B are centres of two circles of radii 32 cm and 8 cm respectively. CD is a direct common tangent to the circles. If AB = 30 cm, find CD.
+
+(a) 10 cm
+(b) 20 cm
+(c) 9 cm
+(d) 18 cm ✔
+
+
+22. Find the area (in cm²) of the sector of a circle of radius 21 cm with central angle 60°. [Use π = 22/7]
+
+(a) 231 ✔
+(b) 289
+(c) 302
+(d) 245
+
+
+23. In a circular race of 750 m, X and Y start from the same point at the same time with speeds 9 km/h and 13.5 km/h respectively. Running in the same direction, when will they meet again first?
+
+(a) 750 sec
+(b) 900 sec
+(c) 500 sec
+(d) 600 sec ✔
+
+
+24. If the simple interest on ₹7,200 in 3 years at 16% p.a. equals the simple interest on ₹9,600 in 4 years at x% p.a., find x.
+
+(a) 9 ✔
+(b) 11
+(c) 8
+(d) 10
+
+
+25. For triangles, which of the following statements are true?
+
+1. Sum of all interior angles is 180°
+2. All interior angles can't be equal
+3. Can have at the most one obtuse angle
+4. Sum of two sides may or may not be equal to the third side
+
+(a) (i) and (ii)
+(b) (ii), (iii) and (iv)
+(c) (i), (ii) and (iv)
+(d) (i) and (iii) ✔
+
+
+
+
+GOTO:top
+______________________
+TAG:14-algebra
+*14-algebra*
+1. If x – y = 1 and x² + y² = 41 where x, y ≥ 0, then the value of x + y will be:
+
+(a) 9 ✔
+(b) 8
+(c) 6
+(d) 7
+
+
+2. If a + b = 12 and ab = 35, find the value of a⁴ + b⁴ – 103?
+
+(a) 2226
+(b) 2026 ✔
+(c) 2126
+(d) 1226
+
+
+3. If a² + b² + 1 = 2a, then the value of a⁴ + b⁷ is:
+
+(a) 1 ✔
+(b) 0
+(c) 2
+(d) 4
+
+
+4. Simplify the following:
+(3a + b)/2 – (a – 3b)/3 + 2b
+
+(a) 5(a + 3b)/6
+(b) (7a + 3b)/6
+(c) 7(a + 3b)/6 ✔
+(d) (a + 3b)/6
+
+
+5. If ab + bc + ca = 0, then find the value of:
+1/(a² – bc) + 1/(b² – ca) + 1/(c² – ab)
+
+(a) 0 ✔
+(b) 1/ab
+(c) 1
+(d) ab
+
+
+6. If x² + y² + z² = xy + yz + zx, then the value of:
+(17x⁴ + 9y⁴ + 16z⁴) / (8x²y² + 6y²z² + 10z²x²)
+is:
+
+(a) 1.75 ✔
+(b) 3.25
+(c) 2.00
+(d) 2.50
+
+
+7. The value of the following expression is:
+[q² – (p – r)²]/[(p + q)² – r²] + [q² – (p – r)²]/[(p + q)² – r²] + [r² – (p – q)²]/[(q + r)² – p²]
+
+(a) 1 ✔
+(b) 2
+(c) 0
+(d) 3
+
+
+8. Simplify the given expression:
+(a – 2b)(b – 3a) + (a + b)(a – 3b) – (b – 3a)(4a – 5b)
+
+(a) 8a² – 10ab
+(b) 8a² + 10ab
+(c) 10a² – 14ab ✔
+(d) 10a² – 4ab
+
+9. If √(a/b) = 8/3 + √(b/a) and (a + b) = 30, then what is the value of ab?
+
+(a) 64
+(b) 28
+(c) 81 ✔
+(d) 36
+
+10. If √(a/b) = 8/3 – √(b/a) and a – b = 10, then the value of ab is:
+
+(a) 32 1/7 ✔
+(b) 32 3/7
+(c) 32 4/7
+(d) 32 2/7
+
+
+11. If a² + b² = 148 and ab = 54, then find the value of (a + b)/(a – b).
+
+(a) 8/10 ✔
+(b) 2/10
+(c) 8/7
+(d) 5/3
+
+---Type 2: Cube formula ---
+12. If a + b + c = 6, a² + b² + c² = 14 and ab + bc + ca = 11,
+then what is the value of a³ + b³ + c³ – 3abc?
+
+(a) 31
+(b) 12
+(c) 18 ✔
+(d) 42
+
+
+13. If a + b + c = 15 and ab + bc + ca = 35, find the value of a³ + b³ + c³ – 3abc.
+
+(a) 2100
+(b) 1500
+(c) 1200
+(d) 1800 ✔
+
+14. If (a + b + c) = 20 and a² + b² + c² = 152, find the value of a³ + b³ + c³ – 3abc.
+
+(a) 560 ✔
+(b) 640
+(c) 480
+(d) 720
+
+
+15. If the sum of three numbers is 18 and the sum of their squares is 36, find the difference between the sum of their cubes and three times their product.
+
+(a) 1449
+(b) –1944 ✔
+(c) –1494
+(d) 4149
+
+
+16. If x = 110, y = 111, z = 112, then find the value of x³ + y³ + z³ – 3xyz.
+
+(a) 999 ✔
+(b) 991
+(c) 997
+(d) 995
+
+
+17. If (a³ + b³ + c³ – 3abc) = 405 and (a + b + c) = 15,
+find the value of (a – b)² + (b – c)² + (c – a)².
+
+(a) 27
+(b) 54 ✔
+(c) 18
+(d) 45
+
+
+18. If (5x + 1)³ + (x – 3)³ + 8(3x – 4)³ = 6(5x + 1)(x – 3)(3x – 4),
+then x is equal to:
+
+(a) 5/6 ✔
+(b) 1/3
+(c) 2/3
+(d) 3/4
+
+
+19. If ab + bc + ca = 8 and a² + b² + c² = 20,
+then the possible value of:
+½ (a + b + c) [(a – b)² + (b – c)² + (c – a)²]
+is:
+
+(a) 72 ✔
+(b) 56
+(c) 84
+(d) 80
+
+
+20. If p = 106, q = 105 and r = 104,
+then the value of p² + q² + r² – pq – qr – rp is:
+
+(a) 2
+(b) 0
+(c) 1
+(d) 3 ✔
+
+
+---DPQ---
+1. If x² + y² + z² = xy + yz + zx and x = 1,
+find the value of:
+(10x⁴ + 5y⁴ + 7z⁴) / (13x²y² + 6y²z² + 3z²x²)
+
+(a) 2
+(b) 0
+(c) –1
+(d) 1 ✔
+
+2. If α + β + γ = 0, then
+(3β² + α² + γ²) / (2β² – αγ) = ?
+
+(a) 1/2
+(b) 1
+(c) 2 ✔
+(d) 1/4
+
+
+3. Simplify:
+{[(x – 5)(x – 1)] – [(9x – 5)(9x – 1)]} ÷ 16x
+
+(a) 2x(5x – 3)
+(b) –(5x – 3) ✔
+(c) x(5x – 3)
+(d) –6x(5x – 3)
+
+
+4. If p + q + r = 0, simplify:
+(p² + q² + r²) / (p² – qr + q² – pr + r² – pq)
+
+(a) 0
+(b) 2 ✔
+(c) 1
+(d) –1
+
+
+5. Simplify:
+(x³ + y³ + z³ – 3xyz) / [(x – y)² + (y – z)² + (z – x)²]
+
+(a) (x + y + z)/3
+(b) (x + y + z)
+(c) (x + y + z)/4
+(d) (x + y + z)/2 ✔
+
+6. If (a + b + c) = 14 and (a³ + b³ + c³ – 3abc) = 98,
+find the value of (ab + bc + ca).
+
+(a) 60
+(b) 64
+(c) 65
+(d) 63 ✔
+
+
+7. If (a + b + c) = 12 and (a² + b² + c²) = 50,
+find the value of (a³ + b³ + c³ – 3abc).
+
+(a) 36 ✔
+(b) 24
+(c) 42
+(d) 48
+
+
+8. If a = 2022, b = 2021, c = 2020,
+find the value of a² + b² + c² – ab – bc – ca.
+
+(a) 2
+(b) 4
+(c) 3 ✔
+(d) 1
+
+
+9. If (a³ + b³ + c³ – 3abc) = 405 and
+(a – b)² + (b – c)² + (c – a)² = 54,
+find the value of (a + b + c).
+
+(a) 15 ✔
+(b) 45
+(c) 9
+(d) 27
+
+
+10. If (x + 6)³ + (2x + 3)³ + (3x + 5)³ = (3x + 18)(2x + 3)(3x + 5),
+find the value of x.
+
+(a) 7/3
+(b) –5/3
+(c) 5/3
+(d) –7/3 ✔
+
+
+11. If (a + b + c) = 19 and (a² + b² + c²) = 155,
+find the value of (a – b)² + (b – c)² + (c – a)².
+
+(a) 104 ✔
+(b) 108
+(c) 100
+(d) 98
+
+
+12. If a = 101, b = 102 and c = 103,
+find the value of a² + b² + c² – ab – bc – ca.
+
+(a) 2
+(b) 4
+(c) 3 ✔
+(d) 6
+
+
+13. If ax + by = 1 and bx + ay = 2ab/(a² + b²),
+then the value of x (in terms of a and b) is:
+
+(a) 2b/(a² + b²)
+(b) a/(a² + b²) ✔
+(c) b/(a² + b²)
+(d) 2a/(a² + b²)
+
+
+14. Simplify:
+(25a² – 10ab – 48b²)/(5a + 6b) × (5a + 8b)
+
+(a) 25a² – 64b² ✔
+(b) (5a – 8b)² 
+(c) (5a + 8b)²
+(d) 25a² – 36b²
+
+
+15. If x⁴ + y⁴ + x²y² = 21 and x² + y² + xy = 7,
+find the value of (1/x² + 1/y²).
+
+(a) 3/4
+(b) –3/4
+(c) –5/2
+(d) 5/4 ✔
+
+
+GOTO:top
+______________________
+TAG:15-simple-interest
+*15-simple-interest*
+1. Find the simple interest on ₹15,000 at the rate of 7% p.a. for 3 years.
+
+(a) ₹3,000
+(b) ₹3,100
+(c) ₹3,150 ✔
+(d) ₹3,120
+
+
+2. An amount invested fetched a total simple interest of ₹4,050 at the rate of 9% per annum in 5 years. What is the amount invested (in ₹)?
+
+(a) 8,300
+(b) 7,500
+(c) 9,050
+(d) 9,000 ✔
+
+
+3. A sum at the rate of 5% per annum amounts to ₹4,160 in 6 years under simple interest. Find the principal.
+
+(a) ₹2,800
+(b) ₹2,900
+(c) ₹3,200 ✔
+(d) ₹3,100 
+
+
+4. Find the simple interest (in ₹) on ₹2000 at 6.25% per annum for the period from 14 February 2023 to 28 April 2023.
+
+(a) 26
+(b) 25 ✔
+(c) 23
+(d) 24
+
+
+5. Find the simple interest (rounded off to the nearest rupee) on ₹4000 at 5.25% per annum for the period from 12 February 2024 to 13 April 2024.
+
+(a) 34
+(b) 36
+(c) 35 ✔
+(d) 33
+
+
+6. In how many years will a sum of ₹2,500 invested at 16% simple interest become ₹4,100?
+
+(a) 3
+(b) 5
+(c) 4 ✔
+(d) 6
+
+
+7. A person borrowed some money on simple interest. After 3 years, he returned 4/3 of the money to the lender. What was the rate of interest?
+
+(a) 11 2/9 % p.a.
+(b) 11 4/9 % p.a.
+(c) 11 3/9 % p.a.
+(d) 11 1/9 % p.a. ✔
+
+
+8. A sum of ₹16,875 was lent at simple interest and at the end of 1 year 8 months the amount became ₹18,000. Find the rate of interest per annum.
+
+(a) 3.7%
+(b) 4% ✔
+(c) 5%
+(d) 6.66%
+
+
+9. The difference between the simple interests on ₹500 at 5% p.a. for 3 years and 4% p.a. for 4 years is:
+
+(a) ₹7.5
+(b) ₹5 ✔
+(c) ₹15
+(d) ₹10
+
+10. A sum of ₹10,500 amounts to ₹13,825 in 4 3/5 years at a certain rate p.a. simple interest. What will be the simple interest on the same sum for 5 years at double the earlier rate?
+
+(a) ₹8,470
+(b) ₹8,750 ✔
+(c) ₹8,670
+(d) ₹8,560
+
+
+11. An amount P was invested for 4 years at a certain rate. If it had been invested at 6% higher rate for the same period, it would have earned ₹600 more interest. Find the value of 2.5P.
+
+(a) ₹3,750
+(b) ₹6,250 ✔
+(c) ₹4,850
+(d) ₹2,500
+
+
+12. A sum of money is invested at a certain rate of simple interest for 6 years. If the rate had been 7% higher, it would have fetched ₹1,512 more interest. Find the sum.
+
+(a) ₹3,200
+(b) ₹3,600 ✔
+(c) ₹3,100
+(d) ₹4,200
+
+
+13. A sum becomes 4 times itself in 12 years at simple interest. In how many years will it become 10 times itself at the same rate?
+
+(a) 60
+(b) 48
+(c) 24
+(d) 36 ✔
+
+
+14. A sum doubles itself in 4 years at simple interest. In what time will it become 7 times at the same rate?
+
+(a) 24 years ✔
+(b) 23 years
+(c) 21 years
+(d) 25 years
+
+
+15. The rate at which a sum becomes four times of itself in 12 years at simple interest will be:
+
+(a) 20%
+(b) 25% ✔
+(c) 35%
+(d) 30%
+
+
+
+---DPQ---
+1. The simple interest on ₹73,000 at the rate of 15% per annum from 12-02-2022 to 11-02-2023 is:
+
+(a) ₹13,450
+(b) ₹14,750
+(c) ₹12,050
+(d) ₹10,950 ✔
+
+
+2. A sum of ₹1,456 becomes ₹2,366 in 10 years under simple interest. Find the rate of interest per annum.
+
+(a) 5.75%
+(b) 6.5%
+(c) 6.25% ✔
+(d) 6.15%
+
+
+3. In how many years will ₹8,400 amount to ₹11,928 at 7% simple interest?
+
+(a) 8
+(b) 5
+(c) 2
+(d) 6 ✔
+
+
+4. Find the simple interest (in ₹) on ₹2000 at 6.5% per annum for the period from 13 February 2023 to 27 April 2023.
+
+(a) 27
+(b) 25
+(c) 26 ✔
+(d) 24
+
+
+5. The simple interest on a sum is 9/45 of the sum. If the number of years is numerically 5 times the rate percent per annum, find the rate percent per annum.
+
+(a) 5%
+(b) 2% ✔
+(c) 7%
+(d) 3%
+
+
+6. ₹20,000 and ₹40,000 are invested at simple interest at 10% and 15% per annum respectively for 3 years. Find the total simple interest.
+
+(a) ₹36,000
+(b) ₹32,000
+(c) ₹28,000
+(d) ₹24,000 ✔
+
+
+7. A person took a loan at 5% p.a. simple interest for the first year. The rate increases by 0.5% each year from the second year onwards. After 4 years, the total interest paid was ₹4,600. What was the loan amount?
+
+(a) ₹20,000 ✔
+(b) ₹19,000
+(c) ₹18,000
+(d) ₹21,000
+
+
+8. A person invested one-fourth of the sum of ₹ 25,000
+at a certain rate of simple interest and the rest at
+4% p.a. higher rate. If the total interest received for
+2 years is ₹ 4,125. What is the rate at which the
+second sum was invested? 
+
+ (a) 9.5%
+ (b) 9.25% ✔
+ (c) 9.255%
+ (d) 7.5%
+
+9. An amount becomes double in 7 years on simple
+interest. The amount would be four times in ____ years
+on the same rate of simple interest.
+
+ (a) 14%
+ (b) 28%
+ (c) 21% ✔
+ (d) 18%
+
+
+
+GOTO:top
+______________________
+TAG:16-simple-interest
+*16-Simple-interest*
+1. A certain sum amounts to ₹1,860 in 2 years and to ₹2,130 in 3½ years at simple interest. Find the principal and the rate of interest respectively.
+
+(a) ₹1,500, 12% ✔
+(b) ₹1,200, 10%
+(c) ₹1,500, 15%
+(d) ₹1,200, 12%
+
+
+2. A sum of money at a fixed rate of simple interest amounts to ₹1,630 in 3 years and ₹1,708 in 4 years. Find the principal.
+
+(a) 1132
+(b) 1296
+(c) 1396 ✔
+(d) 1448
+
+
+3. If a sum becomes ₹6,000 in 3 years and ₹10,500 in 7 years 6 months at the same rate of simple interest, what is the rate of interest?
+
+(a) 33⅓ % ✔
+(b) 25½ %
+(c) 45⅔ %
+(d) 66⅓ %
+
+
+4. ₹2,00,000 is divided into two parts and invested at simple interest. One part earns 4% p.a. and the other earns 6% p.a. If the overall interest equals 4.7% p.a., the amounts invested are:
+
+(a) 1,30,000 & 70,000 ✔
+(b) 1,45,000 & 55,000
+(c) 1,20,000 & 80,000
+(d) 1,60,000 & 40,000
+
+
+5. ₹8,000 is invested for 2 years, partly at 5% p.a. and the rest at 4% p.a. simple interest. If the total interest is ₹720, the amount invested at 5% is:
+
+(a) ₹3,640
+(b) ₹7,200
+(c) ₹4,400
+(d) ₹4,000 ✔
+
+
+6. A person borrowed money at 8% p.a. for the first two years, 11% p.a. for the next three years, and 16% p.a. for the remaining period. If total interest after 9 years is ₹21,400, find the principal (nearest unit).
+
+(a) ₹11,938
+(b) ₹18,738
+(c) ₹9,381.5
+(d) ₹18,938 ✔
+
+
+7. Ramesh borrowed money at 5% p.a. for the first four years, 8% p.a. for the next six years, and 12% p.a. thereafter. If total interest after 12 years is ₹9,016, find the principal.
+
+(a) ₹9,800 ✔
+(b) ₹9,616
+(c) ₹9,816
+(d) ₹9,016
+
+
+8. Ramesh has ₹18,000. He invested ₹7,000 at 5% p.a. and ₹6,000 at 6% p.a. simple interest. If total interest after one year is ₹1,160, find the rate of interest on the remaining amount.
+
+(a) 10%
+(b) 11%
+(c) 9% ✔
+(d) 8%
+
+
+9. ₹9,000 is invested in three parts at 3%, 4% and 6% p.a. simple interest. After one year, the interest from each part is equal. The amount invested at 6% is:
+
+(a) ₹2,000 ✔
+(b) ₹3,000
+(c) ₹4,000
+(d) ₹5,000
+
+
+10. ₹1,05,750 is invested in the name of a son, daughter and wife such that they receive equal interest after 3, 4 and 5 years respectively at 5% p.a. simple interest. Find the amount invested for the wife.
+
+(a) ₹25,000
+(b) ₹28,000
+(c) ₹27,000 ✔
+(d) ₹30,000
+
+
+11. S borrowed money from R at 8% interest and invested it elsewhere, earning a profit of 5% after paying R. If R had invested directly in the scheme, what percentage gain would he have earned?
+
+(a) 13.4%
+(b) 13% ✔
+(c) 14.4%
+(d) 14%
+
+
+12. Rajesh borrowed ₹10,000 at 15% p.a. simple interest for 2 years. He could not repay on time and the lender added the interest to the principal for the next two years at the same rate. Find the total amount after 4 years.
+
+(a) ₹18,590
+(b) ₹16,900 ✔
+(c) ₹17,650
+(d) ₹15,630
+
+
+---DPQ---
+1. A sum amounts to ₹12,600 in 2 years and ₹16,200 in 4 years at simple interest. Find the rate of interest.
+
+(a) 25%
+(b) 20% ✔
+(c) 6 12/7 %
+(d) 17½ %
+
+
+2. A sum amounts to ₹14,522 in 7 years and ₹18,906 in 11 years at simple interest. Find the principal.
+
+(a) 6850 ✔
+(b) 6900
+(c) 6800
+(d) 6750
+
+
+3. ₹13,900 is invested partly at 14% and partly at 11% p.a. simple interest. If total interest in 2 years is ₹3,508, find the amount invested at 11%.
+
+(a) ₹7,200
+(b) ₹7,500
+(c) ₹6,400 ✔
+(d) ₹6,500
+
+
+4. Ravi borrowed money at 5% p.a. for 3 years, 8% p.a. for next 2 years and 10% p.a. thereafter. If total simple interest after 7 years is ₹12,750, find the principal.
+
+(a) ₹25,000 ✔
+(b) ₹26,000
+(c) ₹27,000
+(d) ₹24,000
+
+
+5. ₹5,000 is invested at simple interest for 5 years: first 2 years at 10% and next 3 years at 12%. Find the interest earned.
+
+(a) 2800 ✔
+(b) 2450
+(c) 3000
+(d) 3180
+
+
+6. Reshma borrowed ₹12,00,000 for as many years as the rate of interest. If the interest paid was ₹9,72,000, find the rate of interest.
+
+(a) 9% ✔
+(b) 7.5%
+(c) 8%
+(d) 8.7%
+
+
+7. Simple interest on a sum is one-fourth of the sum and the rate is four times the number of years. If the rate increases by 2%, find the simple interest on ₹5,000 for 3 years.
+
+(a) 300
+(b) 1500
+(c) 2000
+(d) 1800 ✔
+
+
+8. A sum is invested at x% for 2½ years. If invested at (x+3)% it would give ₹585 more interest. Find the simple interest on the same sum for 4⅔ years at 14%.
+
+(a) ₹4,732
+(b) ₹5,096 ✔
+(c) ₹4,900
+(d) ₹5,460
+
+
+
+
+GOTO:top
+______________________
+TAG:17-compound-interest
+*17-Compound-interest*
+1. Shiva borrowed a sum of ₹12,000 from a finance company at the rate of 20% p.a. compound interest, compounded annually. What is the compound interest for 2 years?
+
+(a) ₹5,280 ✔
+(b) ₹4,800
+(c) ₹4,280
+(d) ₹2,400
+
+
+2. What is the compound interest on ₹62,500 for 2 years at 8% per annum compounded yearly?
+
+(a) ₹10,500
+(b) ₹10,300
+(c) ₹10,400 ✔
+(d) ₹10,600
+
+
+3. Aruna borrowed ₹9,000 at 10% per annum compound interest compounded annually. Find the total amount after 2 years.
+
+(a) ₹10,098
+(b) ₹10,890 ✔
+(c) ₹10,980
+(d) ₹10,089
+
+
+4. Find the compound interest on ₹24,000 at 10% per annum for 3 years.
+
+(a) ₹7,944 ✔
+(b) ₹7,200
+(c) ₹7,494
+(d) ₹7,044
+
+
+5. A sum of money was lent at 12.5% compound interest for 3 years. If the amount after 3 years is ₹13,851, find the principal.
+
+(a) ₹8,728
+(b) ₹10,000
+(c) ₹10,278
+(d) ₹9,728 ✔
+
+
+6. Kalyan invested ₹12,000 for two years at the rates of 5% and 10% respectively. What is the compound interest at the end of two years?
+
+(a) ₹1,920
+(b) ₹1,860 ✔
+(c) ₹1,900
+(d) ₹1,880
+
+
+7. Find the compound interest on ₹11,000 in 2 years at 4% per annum compounded yearly.
+
+(a) ₹875.80
+(b) ₹906.50
+(c) ₹786.60
+(d) ₹897.60 ✔
+
+
+8. The compound interest on ₹2,500 after 2 years at 6% per annum compounded annually will be:
+
+(a) ₹309 ✔
+(b) ₹320
+(c) ₹318
+(d) ₹322
+
+
+9. A sum of ₹30,000 is lent at compound interest for 3 years. The interest rates are 10% for the first year, 20% for the second year and 30% for the third year. Find the compound interest.
+
+(a) ₹21,480 ✔
+(b) ₹19,270
+(c) ₹20,560
+(d) ₹22,580
+
+
+10. A sum of ₹15,000 is lent for 3 years at compound interest at rates 4%, 5%, and 6% respectively for the first, second, and third year. Find the compound interest for 3 years.
+
+
+(a) ₹2,335.60
+(b) ₹2,338.80
+(c) ₹2,362.80 ✔
+(d) ₹2,388.60
+
+11. What will be the amount after 1 year if ₹7,500 is invested at 8% compound interest per annum compounded half-yearly?
+
+(a) ₹8,300
+(b) ₹8,112 ✔
+(c) ₹8,220
+(d) ₹28,140
+
+
+12. Richa took a loan of ₹1,20,000 for 1 year at 20% per annum compounded quarterly. What amount will she pay after 1 year?
+
+(a) ₹1,45,860.75 ✔
+(b) ₹1,45,863.75
+(c) ₹1,45,862.75
+(d) ₹1,45,861.75
+
+
+13. The compound interest on ₹5,500 at 15% per annum for 2 years when compounded every 8 months is:
+
+(a) ₹1,880
+(b) ₹1,820.50 ✔
+(c) ₹1,773.75
+(d) ₹1,850
+
+
+14. A moneylender borrows money at 4% per annum and pays interest at year end. He lends it at 8% compound interest compounded half-yearly and receives interest at year end. If his annual gain is ₹166.4, find the amount borrowed.
+
+(a) ₹6,500
+(b) ₹4,000 ✔
+(c) ₹5,050
+(d) ₹4,500
+
+
+---DPQ---
+1. Find the compound interest on ₹32,000 for 6 months at 12% per annum compounded quarterly.
+
+(a) ₹1,947.80
+(b) ₹1,948.80 ✔
+(c) ₹1,947
+(d) ₹1,948
+
+
+2. Rita invested ₹50,000. In two years how much compound interest will she get if the first-year rate is 10% and the second year rate is 4% more than the first year?
+
+(a) ₹12,720
+(b) ₹12,710
+(c) ₹12,690
+(d) ₹12,700 ✔
+
+
+3. The compound interest on a sum at 8% per annum for 3 years is ₹4,058. Find the simple interest on the same sum for 4 years at 10% per annum.
+
+(a) ₹6,520
+(b) ₹6,025
+(c) ₹6,250 ✔
+(d) ₹6,052
+
+
+4. The simple interest on ₹24,000 at a certain rate for 3 years is ₹7,200. What will be the compound interest at the same rate for the same time?
+
+(a) ₹7,854
+(b) ₹7,954
+(c) ₹7,845
+(d) ₹7,944 ✔
+ 
+
+5. The compound interest on a sum at 8% for 2 years is ₹6,656. What will be the simple interest on the same sum at the same rate for 2 years?
+
+(a) ₹6,224
+(b) ₹6,336
+(c) ₹5,600
+(d) ₹6,400 ✔
+
+
+6. Rajveer invested ₹16,000 at 10% per annum for 1 year compounded half-yearly. Find the amount.
+
+(a) ₹16,354
+(b) ₹17,830
+(c) ₹16,542
+(d) ₹17,640 ✔
+
+
+7. Rodney invested ₹15,000 at 8% per annum for 1 year compounded half-yearly. Find the amount.
+
+(a) ₹15,840
+(b) ₹16,224 ✔
+(c) ₹16,354
+(d) ₹15,960
+
+
+8. A man invested ₹96,000 at 20% per annum compounded half-yearly for 1 year. Find 80% of the maturity amount.
+
+(a) ₹1,16,160
+(b) ₹92,928 ✔
+(c) ₹1,09,856
+(d) ₹98,922
+
+
+9. The compound interest on ₹8,000 becomes ₹9,261 in 18 months when compounded half-yearly. Find the rate of interest.
+
+(a) 8%
+(b) 10% ✔
+(c) 20%
+(d) 12%
+
+
+
+GOTO:top
+______________________
+TAG:18-compound-interest
+*18-Compound-interest*
+1. The difference between the simple interest and the compound interest on a certain amount at 9% per annum for two years is ₹162, what is the principal?
+
+(a) ₹19700
+(b) ₹19000
+(c) ₹20000 ✔
+(d) ₹18500
+
+
+2. Calculate the difference between the compound interest and the simple interest on a sum of ₹5,000 at the rate of 8% for 3 years (to nearest integer).
+
+(a) ₹108
+(b) ₹105
+(c) ₹102
+(d) ₹99 ✔
+
+
+3. A sum of ₹9,500 becomes ₹11,704.95 in 2 years at compound interest. What is the rate of interest?
+
+(a) 9%
+(b) 7%
+(c) 11% ✔ 
+(d) 10%
+
+
+4. At what rate percentage per annum will ₹14,400 amount to ₹15,876 in one year, if interest is compounded half-yearly?
+
+(a) 15%
+(b) 12%
+(c) 8%
+(d) 10% ✔
+
+
+5. Suman invested a sum of ₹3500 at 20% per annum compound interest, compounded annually. If she received an amount of ₹6048 after n years, the value of n is:
+
+(a) 3 ✔
+(b) 2.6
+(c) 4
+(d) 2
+
+
+6. In what time will Rs.3,200 invested at 10% per annum compounded quarterly become Rs.3,362?
+
+(a) 2 years
+(b) 1/2 year ✔
+(c) 2 1/2 years
+(d) 1/4 year
+
+
+7. What is the compound interest (in Rs.) on a sum of Rs.15600 at 20% p.a. for 2 1/4 years, the interest being compounded annually? [Give your answer correct to the nearest Rs.]
+
+(a) 7993
+(b) 7884
+(c) 7895
+(d) 7987 ✔
+
+
+8. A certain amount of money was lent for a period of 1 year 9 months at a rate of 10% per annum compounded annually. If the compound interest is ₹1460, find the amount of money lent?
+
+(a) ₹8200
+(b) ₹7500
+(c) ₹6000
+(d) ₹8000 ✔
+
+
+9. A sum of money, on compound interest, amounts to ₹5,290 in 2 years and to ₹6,083.50 in 3 years. If interest is compounded annually, then the rate of interest per annum is:
+
+(a) 16 2/3 %
+(b) 15% ✔
+(c) 14%
+(d) 12%
+
+
+10. The amount received on a certain sum after 3 years and 5 years on compound interest (compounded annually) is ₹20,736 and ₹29,859.84 respectively. What is that sum?
+
+(a) ₹9000
+(b) ₹14000
+(c) ₹15000
+(d) ₹12000 ✔
+
+
+11. A sum amounts to ₹7,562 in 4 years and to ₹8,469.44 in 5 years, at a certain rate percent per annum when the interest is compounded yearly. If ₹10,000 at the same rate of interest is borrowed for two years, then what will be the compound interest (in ₹)?
+
+(a) 2,544 ✔
+(b) 2,764
+(c) 1,965
+(d) 1,736
+
+
+12. A sum of money at compound interest doubles itself in 4 years. In how many years does the sum become 8 times of itself at the same rate of interest?
+(a) 15 years
+(b) 12 years ✔
+(c) 8 years
+(d) 10 years
+
+
+13. A sum of money on compound interest becomes double of itself in 3 years. How many years will it take for the amount to become eight times of itself at the same rate of interest?
+
+(a) 8
+(b) 9 ✔
+(c) 5
+(d) 7
+
+
+---DPQ---
+1. The difference between the simple interest and the compound interest, compounded annually, on a certain sum of money for 2 years at 14% per annum is ₹633. Find the sum. (Give your answer to integral number without rounded off.)
+
+(a) ₹32282
+(b) ₹32288
+(c) ₹32313
+(d) ₹32295 ✔
+
+
+2. If the difference between the compound interest and simple interest on a certain sum of money for 3 years at the rate of 4% per annum is ₹76, then what is the sum?
+
+(a) ₹16,725
+(b) ₹12,925
+(c) ₹15,625 ✔
+(d) ₹18,825
+
+
+3. In how many years will a sum of ₹18,000 amount to ₹23,958 at the annual rate of 20% compounded half yearly?
+
+(a) 1 1/4
+(b) 1 1/2 ✔
+(c) 2 1/2
+(d) 1 3/2
+
+
+4. The compound interest on ₹18,000 at 7% per annum, compounded annually, is ₹1,260. What is the period of time?
+
+(a) 1 years ✔
+(b) 2 years
+(c) 3 years
+(d) 4 years
+
+
+5. Find the yearly rate of compound interest at which ₹2,400 amounts to ₹3650.1 in a duration of 3 years.
+
+(a) 13%
+(b) 12%
+(c) 14%
+(d) 15% ✔
+
+
+6. At what rate of annual compound interest, the interest on ₹20000 compounded half-yearly in 1 year 6 months becomes ₹23152.50?
+
+(a) 10% yearly ✔
+(b) 5% yearly
+(c) 12% yearly
+(d) 8% yearly
+
+
+7. Find the compound interest on Rs.1,00,000 at 20% per annum for 3 years 3 months, compounded annually.
+
+(a) Rs.82360
+(b) Rs.81440 ✔
+(c) Rs.65000
+(d) Rs.71650
+
+
+8. What is the compound interest (in ₹) on a sum of ₹8192 for 1 1/4 years at 15% per annum, if interest is compounded 5-monthly?
+
+(a) 1,640
+(b) 1,740
+(c) 1,634 ✔
+(d) 1,735
+
+
+9. A sum of money, on compound interest, amounts to ₹578.40 in 2 years and to ₹614.55 in 3 years. The rate of interest per annum, in case of annual compounding, is:
+
+(a) 8 1/3 %
+(b) 6 1/4 % ✔
+(c) 4%
+(d) 5%
+
+
+10. A certain sum at compound interest amounts to Rs.3,025 in 2 years and Rs.3,327.5 in 3 years, interest compounded annually. The sum and the rate of interest p.a. are respectively:
+
+(a) 2,800 & 9%
+(b) 2,200 & 10%
+(c) 2,000 & 8.5%
+(d) 2,500 & 10% ✔
+
+
+11. A certain amount of money becomes thrice in 5 years at compound interest. How many years it will take to become 9 times?
+
+(a) 15 years
+(b) 8 years
+(c) 10 years ✔
+(d) 25 years
+
+
+12. Money is doubled in a bank account in 7 years, when the interest is compounded annually. What time in years is needed to make an amount 8 times in the bank?
+
+(a) 35 years
+(b) 28 years
+(c) 21 years ✔
+(d) 14 years
+
+
+13. If at same rate of interest, in 2 years, the simple interest is Rs.56 and compound interest is Rs.72, then what is the principal (in Rs.)?
+
+(a) 53
+(b) 42
+(c) 49 ✔
+(d) 44
+
+
+14. A man invested a total of ₹12,050 in two parts, one at 10% p.a. simple interest for 2 years and the other at the same rate at compound interest, interest being compounded annually, for the same time. The amount he received from both the parts are equal. The sum (in ₹) invested at the compound interest is:
+
+(a) ₹5,850
+(b) ₹6,000 ✔
+(c) ₹5,780
+(d) ₹5,800
+
+
+15. Divide ₹66,300 between A and B in such a way that the amount that A receives after 8 years is equal to the amount that B receives after 10 years; with compound interest being compounded annually at a rate of 10% per annum.
+
+(a) A = ₹35,200, B = ₹31,100
+(b) A = ₹36,300, B = ₹30,000 ✔
+(c) A = ₹37,000, B = ₹29,300
+(d) A = ₹35,520, B = ₹30,810
+
+
+16. A sum of money becomes two times of itself in 8 years at simple interest, and it becomes four times of itself in 2 years at compound interest, when interest is compounded annually. Find the ratio of the rate of simple interest to the rate of compound interest offered per year.
+
+(a) 2 : 3
+(b) 3 : 5
+(c) 3 : 5
+(d) 1 : 8 ✔
+
+
+17. If at same rate of interest, in 2 years, the simple interest is ₹60 and compound interest is ₹64, then what is the principal (in ₹)?
+
+(a) 218
+(b) 220
+(c) 225 ✔
+(d) 229
+
+18. Joseph deposited a total of ₹52,500 in a bank in the names of his two daughters aged 15 years and 16 years in such a way that they would get equal amounts when they become 18 years old. If the bank gives 10% compound interest compounded annually, then what is the amount (in ₹) that Joseph had deposited in the name of his younger daughter ?
+
+(a) 25,500
+(b) 26,000
+(c) 24,500
+(d) 25,000 ✔
+
+
+GOTO:top
+______________________
+TAG:19-installment-si-ci
+*19-Installment-si-ci*
+1. What annual installment will discharge a debt of ₹26,160 due in 4 years at 6% simple interest p.a.?
+
+(a) ₹4,500
+(b) ₹5,500
+(c) ₹6,000 ✔
+(d) ₹5,800
+
+
+2. Find the total amount of debt that will be discharged by 5 equal instalments of ₹200 each, if the debt is due in 5 years at 5% p.a. at simple interest.
+
+(a) ₹1400
+(b) ₹1100 ✔
+(c) ₹1200
+(d) ₹1255
+
+
+3. An annual installment of ₹3,500 will discharge a debt of ₹16,310 due in 4 years at y% simple interest per annum. What is the value of y?
+[Note: Installments will be paid at the end of Year 1, Year 2, Year 3 and Year 4.]
+
+(a) 10.5
+(b) 16.5
+(c) 11.5
+(d) 11 ✔
+
+
+4. Naman borrows a sum of Rs.3,48,020 at the rate of 8% per annum simple interest. At the end of the first year, he repays Rs.15,090 towards return of principal amount borrowed. If Naman clears all pending dues at the end of the second year, including interest payment that accrued during the first year, how much does he pay (in Rs.) at the end of the second year?
+
+(a) 3,79,386
+(b) 3,87,406 ✔
+(c) 3,88,931
+(d) 3,92,733
+
+
+5. An electric bike is available for ₹1 lakh. A customer has to pay ₹20,800 down payment, followed by 4 equal installments. If the rate of interest charged is 25% per annum simple interest, calculate the 4 yearly installments.
+
+(a) ₹28,800 ✔
+(b) ₹21,210
+(c) ₹22,110
+(d) ₹21,120
+
+
+6. A mobile phone is available for ₹25,000 or ₹5,200 down payment, followed by 4 equal monthly instalments. If the rate of interest is 25% p.a. simple interest, calculate the amount of each instalment.
+
+(a) ₹5,020
+(b) ₹5,200 ✔
+(c) ₹5,362
+(d) ₹5,355
+
+
+7. A laptop charger is sold for ₹2,540 in cash or for a down payment of ₹1,340 in cash together with ₹1,205 to be paid after one month. Find the rate of interest charged in the instalment scheme.
+
+(a) 20% p.a.
+(b) 10% p.a.
+(c) 5% p.a. ✔
+(d) 15% p.a.
+
+
+8. A cell phone is available for ₹600 or for ₹300 cash down payment together with ₹360 to be paid after two months. Find the rate of interest charged under this scheme.
+
+(a) 60%
+(b) 120% ✔
+(c) 20%
+(d) 50%
+
+
+---CI Installment---
+9. An item is bought on a condition that three equal installments of ₹3,993 are to be paid at a rate of 10% compound interest, compounded annually. The cost of the item is:
+
+(a) ₹10,000
+(b) ₹9,050
+(c) ₹9,590
+(d) ₹9,930 ✔
+
+10. A sum of ₹66,550 is taken on loan. This is to be paid back in two equal instalments. If the rate of interest is 20% compounded annually, find the value of each instalment.
+
+(a) ₹43,560 ✔
+(b) ₹44,550
+(c) ₹42,560
+(d) ₹40,550
+
+
+11. A loan of ₹2,550 is to be paid back in two equal half-yearly installments. How much is each installment if the interest is compounded half-yearly at 8% p.a.?
+
+(a) ₹1250
+(b) ₹1352 ✔
+(c) ₹1745
+(d) ₹1457
+
+
+12. A sum of ₹5,19,500 was borrowed at 4 7/5 % per annum compound interest and paid back in 2 years in two equal annual instalments. What is the installment?
+
+(a) ₹2,90,521 ✔
+(b) ₹2,70,521
+(c) ₹2,80,521
+(d) ₹3,00,521
+
+
+13. A man borrowed a sum of money and agreed to pay off by paying ₹4,200 at the end of the first year and ₹4,410 at the end of the second year. If the rate of compound interest was 5% per annum. Find sum borrowed.
+
+(a) ₹4,500
+(b) ₹8,000 ✔
+(c) ₹6,500
+(d) ₹5,000
+
+
+14. A mobile phone is available for ₹79,860 by cash payment or by paying cash of ₹60,000 as down payment and the remaining amount in three equal annual installments. If the shopkeeper charges interest at the rate of 10% per annum compounded annually, then the amount of each installment (in ₹) will be:
+
+(a) ₹6,789
+(b) ₹7,986 ✔
+(c) ₹6,000
+(d) ₹6,689
+
+
+15. Ramesh borrowed ₹1,20,000 interest free from Aman. If he pays back 6.25% of this amount quarterly and has already paid ₹30,000, then for how many months does he need to pay back his loan for the rest of the amount?
+
+(a) 24 months
+(b) 42 months
+(c) 36 months ✔
+(d) 38 months
+
+
+
+---DPQ SI Installment---
+
+1. What annual installment will discharge a debt of ₹3,270 due in 3 years at 9% per annum simple interest?
+
+(a) ₹1,000 ✔
+(b) ₹1,050
+(c) ₹1,090
+(d) ₹1,075
+
+
+2. What is the amount (in ₹) of debt that will be discharged in 6 equal installments of ₹800 each, if the debt is due in 6 years at 5% per annum?
+
+(a) 6600
+(b) 7500
+(c) 8000
+(d) 5400 ✔
+
+
+3. Sohan borrows a sum of Rs.1,41,545 at the rate of 11% per annum simple interest. At the end of the first year, he repays Rs.25,490 towards return of principal amount borrowed. If Sohan clears all pending dues at the end of the second year, including interest payment that accrued during the first year, how much does he pay (in Rs.) at the end of the second year?
+
+(a) 1,44,391 ✔
+(b) 1,36,453
+(c) 1,41,222
+(d) 1,37,407
+
+
+4. A customer pays Rs.975 in instalments. The payment is done each month Rs.5 less than the previous month. If the first instalment is Rs.100, how much time will be taken to pay the entire amount?
+
+(a) 14 months
+(b) 15 months ✔
+(c) 27 months
+(d) 26 months
+
+
+5. A man has to discharge a debt of ₹15,600 which is due in 3 years at 4% simple interest per annum. If he pays this amount in equal installments of annual payment, find the amount for annual payment.
+
+(a) ₹5,100
+(b) ₹5,000 ✔
+(c) ₹5,400
+(d) ₹5,200
+
+
+
+---DPQ CI Installment---
+6. A person borrowed a sum of ₹30800 at 10% p.a. for 3 years, interest compounded annually. At the end of two years, he paid a sum of ₹13268. At the end of 3rd year, he paid ₹x to clear of the debt. What is the value of x?
+
+(a) 26200
+(b) 26620
+(c) 26400 ✔
+(d) 26510
+
+
+7. A music player is sold for ₹4,510 cash, or ₹1,200 cash down payment and the balance in three equal easy installments. If 10% is the rate of interest compounded annually, find the amount of instalment.
+
+(a) ₹1,330
+(b) ₹1,332
+(c) ₹1,331 ✔
+(d) ₹1,333
+
+
+8. A person takes a loan of ₹4,000 for 3 years at 8% per annum compound interest. He repaid ₹2,000 in each of the first and second years. The amount he should pay at the end of the third year to clear all his debt is:
+
+(a) ₹567.12
+(b) ₹525.34
+(c) ₹500.20
+(d) ₹546.05 ✔
+
+
+9. A person borrowed some money on compound interest and returned it in 3 equal annual instalments. If the rate of interest is 15% per annum and the annual instalment is ₹12,167, then find the sum borrowed.
+
+(a) ₹26,970
+(b) ₹28,530
+(c) ₹27,780 ✔
+(d) ₹25,780
+
+
+10. A man borrowed a certain sum and agrees to repay it by paying ₹4000 at the end of first year and ₹7700 at the end of second year. If the rate of compound interest compounded annually is 10% per annum, then find the sum (in ₹)
+
+(a) 11500
+(b) 11000
+(c) 9000
+(d) 10000 ✔
+
+
+11. A mobile phone is available for ₹39,300 cash payment, or for ₹7,450 cash down payment and three equal yearly instalments. If the shopkeeper charges interest at the rate of 20% per annum, compounded annually, what is the amount of instalment (in ₹)?
+
+(a) 16240
+(b) 14060
+(c) 15000
+(d) 15120 ✔
+
+
+
+GOTO:top
+______________________
+TAG:20-mock-ii
+*20-Mock-II*
+1. If a number is first increased by 15%, then reduced by 15%, it results in 782. If the same number is first reduced by 25%, then increased by 25% and again reduced by 20%, then what will be the resulting number?
+
+(a) 712
+(b) 150
+(c) 750
+(d) 600 ✔
+
+
+2. If (x + 20)% of 250 is 25% more than x% of 220, then 10% of (x + 50) is what percent less than 15% of x?
+
+(a) 13 1/3 %
+(b) 8 1/3 %
+(c) 16 2/3 % ✔
+(d) 33 1/3 %
+
+
+3. When an article is sold at 35 percent discount, then there is a loss of 9 percent. What should be the discount percent to earn a profit of 12 percent?
+
+(a) 18%
+(b) 24%
+(c) 16%
+(d) 20% ✔
+
+4. A, B and C are prime numbers. LCM of A and B is 259 while the LCM of B and C is 481. What is the HCF of (B – A) and (B + C)?
+
+(a) 2
+(b) 5
+(c) 10 ✔
+(d) 6
+
+
+5. In a bank, 6% interest is given on the deposited amount. The bank then invests the money in the stock market and is able to earn Rs.30,000 for every Rs.3,00,000. How much money is the bank earning finally if the total amount deposited in the bank is ₹60,00,000?
+
+(a) Rs.3,00,000
+(b) Rs.6,40,000
+(c) Rs.2,40,000 ✔
+(d) Rs.3,60,000
+
+
+6. A sum of ₹4,000 is lent at 10% p.a., interest compounded annually. What is the difference between the compound interest for the 2nd year and the 3rd year?
+
+(a) ₹44.00 ✔
+(b) ₹45.40
+(c) ₹46.50
+(d) ₹45.00
+
+
+7. When digit 'a' is added to the number 5578, then it is divisible by 9 and when digit 'b' is subtracted from the number 2715, then it is divisible by 9. Find (a + b).
+
+(a) 8 ✔
+(b) 7
+(c) 9
+(d) 10
+
+
+8. A sum of Rs. 14400 amounts to Rs. 23400 after 5 years at R% per annum simple interest. What is the simple interest after 3 years on the sum of Rs. 8000 at the same rate?
+
+(a) Rs. 3600
+(b) Rs. 2400
+(c) Rs. 3000 ✔
+(d) Rs. 3200
+
+
+9. If A : B = 6 : 8 and B : C = 7 : 10, then A : B : C is:
+
+(a) 21 : 28 : 40 ✔
+(b) 21 : 23 : 40
+(c) 23 : 32 : 40
+(d) 14 : 31 : 20
+
+
+10. The mean proportional between (3 + 5) and (15 – 125) is ____.
+
+(a) 3√5
+(b) 5√2
+(c) 9√5
+(d) 2√5 ✔
+
+
+11. There is a 32L mixture of milk and water. The ratio of milk and water in this mixture is 5 : 3. How many litres of water should be added to this mixture so that the resultant mixture has 50% water in it?
+
+(a) 8 ✔
+(b) 6
+(c) 5
+(d) 4
+
+
+12. The average monthly expenditure of a family was ₹2,500 during the first 4 months, ₹2,750 during the next 5 months and 3,550 during the last 3 months of a year. If the total saving during the year was ₹5,500, what was the average monthly income of the family?
+
+(a) Rs.3,325 ✔
+(b) Rs.4,375
+(c) Rs.5,790
+(d) Rs.7,355
+
+
+13. The numbers 21, a, 43, b, 57, c, 12, 34, 51, and 30 in that order are serially numbered from 1 to 10 from left to right. When serial number of each number is subtracted from the numbers, then average of new numbers become 25, then find the average of a, b, and C.
+
+(a) 18
+(b) 21
+(c) 19 ✔
+(d) 20
+
+
+14. P and Q can do a job in 24 days, Q and R can do it in 30 days, while P and R can do it in 40 days. X is four times as efficient as P, Y is half as efficient as Q, and Z is 2.5 times as efficient as R. Determine the number of days required to complete the same job if X, Y and Z work together.
+
+(a) 9
+(b) 12
+(c) 8
+(d) 10 ✔
+
+
+15. A group of men decided to complete a job in 4 days. However, since 10 men dropped out every day, the job got completed at the end of the 7th day. How many men were there in the beginning?
+
+(a) 90
+(b) 70 ✔
+(c) 140
+(d) 35
+
+
+16. Moving at 6/7 of its usual speed, a bus is 20 minutes late. What is its usual time to cover the journey?
+
+(a) 2 hours ✔
+(b) 4 hours
+(c) 1.5 hours
+(d) 3 hours
+
+
+17. The speed of a boat in still water is 6 km/h and the speed of the stream is 1.5 km/h. In going from point A to point B and returning to A, the boatman takes 2 hours 40 min. Find the distance between points A and B.
+
+(a) 7.5 km ✔
+(b) 7 km
+(c) 8 km
+(d) 8.5 km
+
+
+18. Which of the following statement is true?
+I. 167 + 116 is odd  
+II. 155 – 124 is even
+
+(a) Only I ✔
+(b) Only II
+(c) Both I and II
+(d) Neither I nor II
+
+
+19. In a garden, there are 6 daisy plants in first year. Each year, a gardener adds 3 new daisy plants. He has 26 jasmine plants in first year and loses 2 each year. When will the number of daisy plants equal to the number of jasmine plants after the first year?
+
+(a) 5 years
+(b) 4 years ✔
+(c) 2 years
+(d) 6 years
+
+
+20. Which of the following can be the value of k, if (88 + 8 × k – 3 × 3) / (6² – 7 × 5 × k²) = 1?
+
+(a) 1,10 ✔
+(b) 4,7
+(c) 3,10
+(d) 2,7
+
+
+21. If r/13 + 13/r = 1 then the value of r³ is:
+
+(a) –2157
+(b) 2197
+(c) 2157
+(d) –2197 ✔
+
+
+22. What is the value of tan 570°?
+
+(a) –1/√3
+(b) –√3
+(c) 1/√3 ✔
+(d) √3
+
+
+23. If a = cotA + cosA and b = cotA – cosA, then find the value of a² – b² – 4ab
+
+(a) 0 ✔
+(b) –1
+(c) 1
+(d) –4
+ 
+
+24. In a ΔPQR, bisector of angle ∠Q and ∠R meet at point I. QI is extended up to S, where S is a point on PR. If ∠P = 68°, then what is the measure of ∠RIS?
+
+(a) 52°
+(b) 48°
+(c) 56° ✔
+(d) 42°
+
+
+25. A roller 150cm long has diameter 70cm. To level a playground, it takes 750 complete revolutions. The cost of levelling a playground at the rate of Rs. 2 per m² is.
+
+(a) Rs. 5000
+(b) Rs. 2950
+(c) Rs. 4500
+(d) Rs. 4950 ✔
+
+
+
+GOTO:top
+______________________
+TAG:21-simplification
+*21-Simplification*
+
+1. Simplify
+
+(2023)^(2024) + (2023)^(2023) + 2024
+------------------------------------
+        (2023)^(2023) + 1
+
+(a) 2023
+(b) 2025
+(c) 2024 ✔
+(d) 4047
+
+
+2. Simplify the following expression:
+
+9991 × 10009
+
+(a) 9999999
+(b) 91999919
+(c) 9999919
+(d) 99999919 ✔
+
+3. Find the value of (1001+12) (1001–12).
+
+(a) 1000019857
+(b) 1001857 ✔
+(c) 1000190857
+(d) 100019857
+
+
+4. Simplify the following expression:
+
+((32)^4 – 1)
+--------------------------
+33 × 31 × (2^10 + 1)
+
+(a) 2
+(b) 1 ✔
+(c) –2
+(d) –1
+
+
+5. Simplify
+
+(25)^4 + 1250 + 1 – (25)^2
+---------------------------
+(25)^2 + 25 + 1
+
+(a) 602 ✔
+(b) 601
+(c) 603
+(d) 604
+
+
+6. Simplify
+
+(379 + 276)^2 + (379 – 276)^2
+------------------------------
+379 × 379 + 276 × 276
+
+(a) 2 ✔
+(b) 655
+(c) 103
+(d) 1 
+
+
+7. Simplify the following expression:
+(525 + 175)^2 – (525 – 175)^2
+------------------------------
+(525 × 175)
+(a) 350
+(b) 700
+(c) 2
+(d) 4 ✔
+
+8. The value of
+
+(25.1^3 + 24.9^3)
+------------------------------
+(25.1 × 25.1 – 624.99 + 24.9 × 24.9)
+
+is 5 × 10^k, where the value of k is ____.
+
+(a) 4 ✔
+(b) 5
+(c) 3
+(d) 6
+
+
+9. The value of
+
+(157 × 157) + (157 × 133) + (133 × 133)
+---------------------------------------
+(157 × 157 × 157) – (133 × 133 × 133)
+
+(a) 24
+(b) 1/290
+(c) 290
+(d) 1/24 ✔
+
+
+10. Solve the following expression:
+
+6.5^3 – 5^3
+-------------------------
+42.25 + 32.5 + 25
+
+(a) 3.5
+(b) 2.5
+(c) 1.5
+(d) 0.5 ✔
+
+
+---Type-2---
+11. The ascending order of
+
+4/5 , 7/8 , 6/7 , 5/6 .
+
+(a) 4/5 , 7/8 , 6/7 , 5/6
+(b) 7/8 , 6/7 , 5/6 , 4/5
+(c) 4/5 , 5/6 , 6/7 , 7/8 ✔
+(d) 5/6 , 6/7 , 7/8 , 4/5
+
+
+12. Arrange
+
+3/5 , 7/9 , 11/13
+
+in descending order.
+
+(a) 13/5 , 7/9 , 11/13
+(b) 7/9 , 3/5 , 11/13
+(c) 11/13 , 7/9 , 3/5 ✔
+(d) 11/13 , 3/5 , 7/9
+
+
+13. When the given terms are arranged in descending order, which term will come exactly in the middle?
+
+7/8 , 6/7 , 11/13 , 17/20 , 23/25
+
+(a) 6/7 ✔
+(b) 11/13
+(c) 17/20
+(d) 7/8
+
+
+14. Which of the following fractions is the largest?
+
+9/31 , 3/17 , 6/23 , 6/11
+
+(a) 3/17
+(b) 6/11 ✔
+(c) 9/31
+(d) 6/23
+
+
+
+---Type-3---
+15. The value of the following is:
+
+7
+---------
+1 – 1/(1 + 7/(1 – 7))
+
+(a) 2
+(b) 0 ✔
+(c) 1
+(d) –1 
+
+16. The value of:
+
+1 – 1
+-----------
+1 + 1/(2 – 1/(2 + 1/3))
+
+(a) 7/15
+(b) 3/16
+(c) 7/18 ✔
+(d) 3/11
+
+
+17. Simplify the following.
+
+1
+--------------------
+2 – 1/(5 + 1/(6 – 2/5))
+
+(a) 262/145
+(b) 145/262 ✔
+(c) 51/28
+(d) 165/325
+
+
+18. If
+
+A + 1/(1 + 1/(2 + 1/3)) = 9/10
+
+then the value of A is:
+
+(a) 3/10
+(b) 2/5
+(c) 1/10
+(d) 1/5 ✔
+
+
+
+---DPQ---
+1. Simplify the following expression.
+
+(1243 × 1243 – 928 × 928) / 315
+
+(a) 2171 ✔
+(b) 928
+(c) 1243
+(d) 315
+
+2. Simplify the following expression.
+
+(0.2 × 0.2 × 0.2 + 0.04 × 0.04 × 0.04)
+---------------------------------------
+(0.4 × 0.4 × 0.4 + 0.08 × 0.08 × 0.08)
++ 9
+
+(a) 17
+(b) 10 ✔
+(c) 1
+(d) 8
+
+
+3. Simplify the following.
+
+(2.31 × 2.31 + 2 × 2.31 × 1.69 + 1.69 × 1.69)
+---------------------------------------------
+2.31 + 1.69
+
+(a) 3
+(b) 4 ✔
+(c) 2
+(d) 5
+
+
+4. What is the correct ascending order of the following ratios?
+
+8/15 , 19/20 , 23/60 , 27/35
+
+(a) 23/60 < 8/15 < 27/35 < 19/20 ✔
+(b) 23/60 < 27/35 < 8/15 < 19/20
+(c) 23/60 < 8/15 < 19/20 < 27/35
+(d) 8/15 < 23/60 < 27/35 < 19/20
+
+
+5. Which of the following is the smallest fraction?
+
+(a) 11/16
+(b) 7/12
+(c) 12/15
+(d) 4/7 ✔
+
+
+6. Simplify
+
+2 + 1/(3 + 1/(4 + 1/5))
+
+(a) 7/4 ✔
+(b) 4/7
+(c) 7/5
+(d) 3/7
+
+
+7. Simplify the expression:
+15 × 15 × 15 + 3 × 15 × 12 × 12 – 3 × 15 × 15 × 12 – 12 × 12 × 12
+
+(a) 36
+(b) 9
+(c) 18
+(d) 27 ✔
+
+
+8. Simplify the following expression:
+
+(8.25^3 – 3 × 8.25^2 × 0.25 + 3 × 8.25 × 0.25^2 – 0.25^3)
+--------------------------------------------------------
+4 × 4 × 4
+
+(a) 8 ✔
+(b) 6
+(c) 4
+(d) 2
+
+
+9. Simplify
+
+(7.3^3 – 4.7^3)
+-------------------------------
+(7.3^2 + 7.3 × 4.7 + 4.7^2)
+
+(a) 12
+(b) 3.2
+(c) 2.6 ✔
+(d) 11
+
+
+10. Simplify
+
+52 × 52 – 48 × 48
+
+(a) 400 ✔
+(b) 386
+(c) 424
+(d) 326
+
+
+
+GOTO:top
+______________________
+TAG:22-simplification
+*22-Simplification*
+1. 0.63 (bar on 63) is expressed in the form of p/q.
+
+(a) 6/11
+(b) 7/11 ✔
+(c) 3/11
+(d) 9/11
+
+
+2. The correct expression of 6.4646464646 ....... in the fractional form is:
+
+(a) 646/99
+(b) 640/99 ✔
+(c) 6464/1000
+(d) 640/100
+
+
+3. Convert 0.454 (bar on 454) into a fraction
+
+(a) 11/7
+(b) 11/5
+(c) 5/11 ✔
+(d) 7/11
+
+
+4. When 0.234343434… is expressed in the form of A/B (in lowest terms), then what is the value of B – A?
+
+(a) 379 ✔
+(b) 376
+(c) 378
+(d) 377
+
+
+5. Express 0.346 as a simple fraction.
+
+(a) 315/900
+(b) 314/900
+(c) 312/900 ✔
+(d) 313/900
+
+
+6. Correct expression of 1.427̅ (the bar indicates repeating decimal)
+
+(a) 1427/1000
+(b) 157/110 ✔
+(c) 1427/10000
+(d) 157/111
+
+
+7. 2.8768 (bar on 768) = ?
+
+(a) 2 878/999
+(b) 2 9/10
+(c) 2 292/333 ✔
+(d) 2 4394/4995
+
+
+8. Express the following into vulgar fraction.
+0.123 + 0.39
+
+(a) 568/1100
+(b) 569/1100 ✔
+(c) 578/1100
+(d) 579/1100
+
+
+9. Find the value of 2.38 (bar on 8) ÷ 0.54 (bar on 4).
+
+(a) 4 19/49 ✔
+(b) 3 17/21
+(c) 5 26/51
+(d) 6 29/57
+
+
+10. Express the following into vulgar fraction.
+
+0.23 (bar on 23) + 0.2 (bar on 2) + 4
+
+(a) 4 45/11
+(b) 4 5/11 ✔
+(c) 4 5/99
+(d) 4 42/11
+
+
+
+11. The result obtained after simplifying
+
+(1 – 1/2)(1 – 1/3)(1 – 1/4).....(1 – 1/23) will be _____.
+
+(a) 1/23 ✔
+(b) 1/22
+(c) 1/3
+(d) 1/2
+
+
+12. The sum of
+
+1/2 + 1/6 + 1/12 + ..... + 1/[n(n+1)] is:
+
+(a) (n+1)/n
+(b) (n+1)/(2n)
+(c) n(n+1)/2
+(d) n/(n+1) ✔
+
+
+13.
+
+1/(11×12) + 1/(12×13) + 1/(13×14) + ..... + 1/(80×81)
+
+(a) 69/890
+(b) 70/891 ✔
+(c) 71/790
+(d) 72/891
+
+
+14. What will be the value of the following?
+
+2/(1×3) + 2/(3×5) + 2/(5×7) + ... + 2/(99×101)
+
+(a) 100/101 ✔
+(b) 99/101
+(c) 101/102
+(d) 99/100
+
+
+15.
+1/(1×2×3) + 1/(2×3×4) + 1/(3×4×5) + ..... + 1/(98×99×100)
+
+(a) 4949/19800 ✔
+(b) 1980/49490
+(c) 9898/19800
+(d) 1980/47490
+
+
+16. Simplify
+
+6 × [28 ÷ 84 × {36 × 49 ÷ (6 × 7)}]
+
+(a) 84 ✔
+(b) 74
+(c) 64
+(d) 94
+
+
+17. Simplify the following expression.
+133 ÷ 19 × 3 – 48 × 2 ÷ 24 + 841 ÷ {45 – 16}
+
+(a) 46 ✔
+(b) 21
+(c) 12
+(d) 42
+
+
+18. The simplified form of the expression
+
+(x² – 9)(9x² – 1) × 9
+-----------------------------------------
+(x – 1/3)(1 – x/3)(x + 1/3)(1 + x/3)
+
+(a) –729 ✔
+(b) 81
+(c) 729
+(d) –81
+
+
+---DPQ---
+1. Which of the following statement is true?
+
+I. 1/2 + 1/6 + 1/12 = 3/4  
+II. 1/6 + 1/12 + 1/20 = 3/5
+
+(a) Neither I nor II
+(b) Only II
+(c) Only I ✔
+(d) Both I and II
+
+2. What is the value of
+
+7/2 + 11/3 + 7/6 + 11/15 + 7/12 + 11/35 + .... + 7/156 + 11/575 ?
+
+(a) 3216/315
+(b) 3816/325 ✔
+(c) 3917/355
+(d) 3714/345
+
+
+3. The value of
+
+3/70 + 1/42 + 1/66 + 3/286 + 1/130 + 1/170 is:
+
+(a) 7/85
+(b) 3/85
+(c) 11/85
+(d) 9/85 ✔
+
+
+4.
+1/(1×4) + 1/(4×7) + 1/(7×10) + ....... + 1/(97×100)
+
+(a) 33/100 ✔
+(b) 34/99
+(c) 35/99
+(d) 37/100
+
+
+5.
+1/(3×7) + 1/(7×11) + 1/(11×15) +....+ 1/(899×903)
+
+(a) 21/509
+(b) 18/409
+(c) 25/301 ✔
+(d) 29/31
+
+
+6.
+1/(4×9) + 1/(9×14) + 1/(14×19) + ....... + 1/(99×104)
+
+(a) 7/104
+(b) 9/100
+(c) 5/104 ✔
+(d) 8/105
+
+
+7. Simplify the following expression.
+
+3 1/5 of 2 3/4 ÷ 11/3 + (2 1/5 + 1 2/5 of 1/3 – 2 1/3)
+
+(a) 4 1/6
+(b) 2 1/6
+(c) 3 1/6
+(d) 1 1/6 ✔
+
+
+8. What is the value of the given expression ?
+
+(a⁴ – 5 × a² + 4) / (15 × a⁴ – 2² × a⁴)
+
+(a) 16 ✔
+(b) 64
+(c) 20
+(d) 24
+
+
+9. Simplify the following expression.
+
+[85/34 × 1/18 – {(46/69 ÷ 27/135) – (86/129 × 91/14)}] of 112/36 = ?
+
+(a) 3 1/5
+(b) 3 3/4
+(c) 3 1/2
+(d) 3 1/4 ✔
+
+
+10. Simplify
+
+5 1/3 – {4 1/3 ÷ (3 1/3 + 2 1/3 – 1/3)}
+
+(a) –2/3 ✔
+(b) –1/3
+(c) 2/3
+(d) 1/3
+
+
+11. Which of the following can be the value of k, if
+
+(88 + 8 × k – 3 × 3) / (6² – 7 × 5 + k²) = 1?
+
+(a) 1,10 ✔
+(b) 4,7
+(c) 3,10
+(d) 2,7
+
+
+12. Simplify
+
+1020 + [4/3 of (26 + 4) – 11 2/3]
+
+(a) 28
+(b) 36 ✔
+(c) 17
+(d) 31
+
+
+13. Simplify
+
+4 4/5 × 3/8 + (3 1/2 + 2/3) × 4/5
+
+(a) 15/77
+(b) 77/15 ✔
+(c) 3/10
+(d) 10/3
+
+
+14. Solve the following.
+
+[(2.5 + 1.5)² ÷ 4 of 1/2 × 8 – 1]
+
+(a) 0
+(b) 81
+(c) 27.1
+(d) 63 ✔
+
+
+
+GOTO:top
+______________________
+TAG:23-number-system
+*23-Number-system*
+1. The largest 3-digit prime number is:
+
+(a) 983
+(b) 991
+(c) 987
+(d) 997 ✔
+
+
+2. The sum of the smallest three-digit prime number and the largest three-digit prime number is:
+
+(a) 1104
+(b) 1098 ✔
+(c) 1100
+(d) 1093
+
+
+3. If m is the number of prime numbers between 0 and 50; and n is the number of prime numbers between 50 and 100, then what is (m – n) equal to?
+
+(a) 4
+(b) 5 ✔
+(c) 6
+(d) 7
+
+
+4. What is the sum of the first 10 prime numbers?
+
+(a) 101
+(b) 129 ✔
+(c) 111
+(d) 131
+
+
+5. Which of the following is a prime number?
+
+(a) 437
+(b) 161
+(c) 221
+(d) 373 ✔
+
+
+6. Which of the following is a pair of co-prime numbers?
+
+(a) 455, 49
+(b) 81, 16 ✔
+(c) 363, 77
+(d) 52, 24
+
+
+7. In which of the pairs of the following numbers is none of the two numbers a prime number, but the two numbers are co-primes?
+
+(a) (21, 35)
+(b) (11, 17)
+(c) (19, 27)
+(d) (8, 25) ✔
+
+
+8. Find the unit digit of the product
+127 × 137 × 413 × 291 × 342 × 533 × 342.
+
+(a) 6
+(b) 8
+(c) 10
+(d) 4 ✔
+
+
+9. What is the unit digit in the multiplication of
+1 × 3 × 5 × 7 × 9...× 999?
+
+(a) 1
+(b) 3
+(c) 5 ✔
+(d) 9
+
+
+10. Find the unit's digit in
+(263)149 + (263)150 + (263)151.
+
+(a) 3
+(b) 9 ✔
+(c) 7
+(d) 1
+
+
+11. What is the unit digit in the expansion of
+(57242)9 × 7 × 5 × 3 × 1 ?
+
+(a) 2 ✔
+(b) 4
+(c) 6
+(d) 8
+
+
+12. A perfect square number can never have the digit _______ at the unit's place.
+
+(a) 1
+(b) 9
+(c) 4
+(d) 8 ✔
+
+
+13. Find the number of factors in 1540.
+
+(a) 20
+(b) 24 ✔
+(c) 22
+(d) 23
+
+
+14. Consider the following statements in respect of all factors of 360:
+
+1. The number of factors is 24.  
+2. The sum of all factors is 1170.
+
+Which of the above statements is/are correct?
+
+(a) 1 only
+(b) 2 only
+(c) Both 1 and 2 ✔
+(d) Neither 1 nor 2
+
+
+15. Consider the number N = 126 × 38 × 53.
+
+Which of the following statements is/are correct?
+
+1. The number of odd factors of N is 60.  
+2. The number of even factors of N is 720.
+
+(a) Only 1
+(b) Only 2
+(c) Both 1 and 2 ✔
+(d) Neither 1 nor 2
+
+
+
+---DPQ---
+1. The smallest three-digit prime number is:
+
+(a) 103 ✔
+(b) 107
+(c) 109
+(d) 101
+
+
+2. How many prime numbers are there between 20 and 80?
+
+(a) 15
+(b) 14 ✔
+(c) 13
+(d) 16
+
+
+3. The sum of all the prime numbers between 51 and 100 is:
+
+(a) 724
+(b) 732 ✔
+(c) 683
+(d) 687
+
+
+4. The sum of the first 8 prime numbers divided by 7 is equal to:
+
+(a) 14
+(b) 13
+(c) 11 ✔
+(d) 10
+
+
+5. What is the unit digit in the product (658 × 539 × 476 × 312)?
+
+(a) 4 ✔
+(b) 2 
+(c) 8
+(d) None of these
+
+
+6. Find the unit digit in (3451)51 × (531)43.
+
+(a) 6
+(b) 4
+(c) 1 ✔
+(d) 9
+
+
+7. What is the unit digit of
+[45231632 × 22241632 × 32251632]?
+
+(a) 1
+(b) 0 ✔
+(c) 4
+(d) 5
+
+
+8. For any natural number n, what is always the last digit of the result 6n – 5n?
+
+(a) 1 ✔
+(b) 3
+(c) 7
+(d) 5
+
+
+9. The total number of factors of 1156 is:
+A. 9  
+B. 8  
+C. 10   
+D. 11  
+
+(a) D
+(b) C
+(c) A ✔
+(d) B
+
+
+10. How many factors of 29 × 35 × 54 × 76 are odd numbers?
+
+(a) 288
+(b) 144
+(c) 210 ✔
+(d) 140
+
+
+
+GOTO:top
+______________________
+TAG:24-number-system
+*24-Number-system*
+1. Which of the following numbers is divisible by both 2 and 5 ?
+
+(a) 63840 ✔
+(b) 20792
+(c) 37915
+(d) 37254
+
+
+2. Find the difference between squares of the greatest value and the smallest value of P if the number 5306P2 is divisible by 3.
+
+(a) 60 ✔
+(b) 68
+(c) 36
+(d) 6
+
+
+3. Find the smallest value that must be assigned to number 'a' in order for 91876a2 to be divisible by 8.
+
+(a) 3 ✔
+(b) 0
+(c) 1
+(d) 2
+
+
+4. If 'a' is the smallest positive integer and the number 8764a529 is completely divisible by 9, then find the value of 17(3a +5).
+
+(a) 116
+(b) 289 ✔
+(c) 126
+(d) 236
+
+
+5. A 9-digit number 846523X7Y is divisible by 9, and Y – X = 6. Find the value of √(2X + 4Y).
+
+(a) 4
+(b) 2
+(c) 6 ✔
+(d) 8
+
+
+6. Which of the following numbers is divisible by all the natural numbers from 1 to 10 (both included)?
+
+(a) 1000
+(b) 2520 ✔
+(c) 504
+(d) 608
+
+
+7. 58k764 is a number which is divisible by 11, then find the value of k² – 3k.
+
+(a) 40 ✔
+(b) 60
+(c) 52
+(d) 48
+
+
+8. The least number which must be subtracted from 7278745 so as to obtain a sum that is divisible by 11 is:
+
+(a) 3
+(b) 1 ✔
+(c) 5
+(d) 2
+
+
+9. If 3c2933k is divisible by both 5 and 11, where c and k are single digit natural numbers, then c + k = _____.
+
+(a) 7
+(b) 8
+(c) 6 ✔
+(d) 5
+
+
+10. If the 9-digit number 5x79856y6 is divisible by 36, then what is the negative value (2y + x) for the largest possible value of y, given x and y are natural numbers?
+
+(a) –7
+(b) –2
+(c) –4
+(d) –5 ✔
+
+
+---DPQ---
+1. The number 4,29,714 is divisible by:
+
+(a) 3 and 5
+(b) 6 and 5
+(c) 4 and 6
+(d) 3 and 6 ✔
+
+2. Which of the following numbers is NOT divisible by 8?
+
+(a) 7344
+(b) 5544
+(c) 7497 ✔
+(d) 4608
+
+
+3. What digit must be in place of k so that the 7-digit number 451k603 is exactly divisible by 9?
+
+(a) 8 ✔
+(b) 3
+(c) 5
+(d) 2
+
+
+4. What least digit must be in place of k so that the 7-digit number 86325k6 is divisible by 11?
+
+(a) 1
+(b) 3 ✔
+(c) 4
+(d) 2
+
+
+5. The smallest 1-digit number to be added to the 6-digit number 723265 so that it is completely divisible by 11 is:
+
+(a) 7 ✔
+(b) 2
+(c) 4
+(d) 6
+
+
+6. A 6-digit number has digits as consecutive natural numbers. The number is always divisible by ____.
+
+(a) 4
+(b) 5
+(c) 2
+(d) 3 ✔
+
+
+7. If the number 87m6203m is divisible by 6, then find the sum of all possible values of ‘m’.
+
+(a) 20
+(b) 15
+(c) 16
+(d) 10 ✔
+
+
+8. If a number 2x64y is completely divisible by 88, then what is the value of 6x – 5y?
+
+(a) 38
+(b) –40
+(c) 18
+(d) –34 ✔
+
+
+9. If 7A425B is divisible by 36, then what is the value of A – B ?
+
+(a) 0
+(b) 5 ✔
+(c) 1
+(d) 2
+
+
+10. 5⁷¹ + 5⁷² + 5⁷³ + 5⁷⁴ + 5⁷⁵ is divisible by which of the following number?
+
+(a) 71 ✔
+(b) 69
+(c) 89
+(d) 73
+
+
+

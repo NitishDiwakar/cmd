@@ -1,0 +1,737 @@
+============================
+Title : Maths - Imp topics
+Tags  : #imp
+Descr : A quick recap of important topics
+============================
+
+TAG:top
+GOTO:1-number-system
+GOTO:2-hcf-and-lcm-of-numbers
+GOTO:3-decimal-fractions
+GOTO:4-simplification
+GOTO:5-square-roots-and-cube-roots
+GOTO:6-average
+GOTO:7-problems-on-numbers
+GOTO:8-problems-on-ages
+GOTO:9-surds-and-indices
+GOTO:10-logarithms
+GOTO:11-percentage
+GOTO:12-profit-and-loss
+GOTO:13-ratio-and-proportion
+GOTO:14-partnership
+GOTO:15-chain-rule
+GOTO:16-pipes-and-cisterns
+GOTO:17-time-and-work
+GOTO:18-time-and-distance
+GOTO:19-boats-and-streams
+GOTO:20-problems-on-trains
+GOTO:21-mixture-and-alligation
+GOTO:22-simple-interest
+GOTO:23-compound-interest
+GOTO:24-area
+GOTO:25-volume-and-surface-area
+GOTO:26-races-and-games-of-skill
+GOTO:27-calendar
+GOTO:28-clocks
+GOTO:29-stocks-and-shares
+GOTO:30-permutations-and-combinations
+GOTO:31-probability
+GOTO:32-true-discount
+GOTO:33-bankers-discount
+GOTO:34-height-and-distances
+GOTO:35-odd-man-out-and-series
+GOTO:36-problems-on-trains
+GOTO:37-alligation-or-mixture
+GOTO:38-simple-interest
+GOTO:39-geometry
+GOTO:40-misc
+
+
+____________________
+TAG:1-number-system
+*1-Number-system*
+
+Q12. Complete teh series:
+  7, 26, 63, 124, 215, 342, ?
+
+  (A) 511 ✔
+  (B) 391
+  (C) 421
+  (D) 481
+
+
+Q11. The sum of 5 consecutive odd numbers A,B,C,D and E is 225. What is the product of B and D? (BPSC, System Analyst)
+
+ (A) 2205
+ (B) 1935
+ (C) 2021 ✔
+ (D) 2107
+
+
+1. The value of (1 + 1/2)(1 + 1/3)(1 + 1/4) ......... (1 + 1/120) is: (ASO Mains)
+
+(A) 40.5
+(B) 60.5 ✔
+(C) 30.3
+(D) 30.0
+
+
+2. The largest 4-digit number divisible by 93 is
+
+(A) 9971
+(B) 9961
+(C) 9981
+(D) 9951 ✔
+
+
+Q3. What is the number of terms in the series 117, 120, 123,
+ 126,.............., 333? [2008]
+
+ (a) 72 (b) 73 ✔ (c) 76 (d) 79
+
+
+Q4. While adding the first few continuous natural numbers, a
+ candidate missed one of the numbers and wrote the answer
+ as 177. What was the number missed?   [2009]
+
+ (a) 11 (b) 12 (c) 13 ✔ (d) 14
+
+
+Q5. How many numbers from 0 to 999 are  divisible by either
+ 5 or 7 ?   [2010]
+
+ (a) 313 (b) 341 (c) 686 ✔ (d) 786
+
+
+Q6. If R and S are different integers both divisible by 5, then which of the following is not necessarily true?
+
+ (a) R – S is divisible by 5 [2016-II]
+ (b) R + S is divisible by 10 ✔
+ (c) R × S is divisible by 25
+ (d) R2 + S2 is divisible by 5
+
+
+Q7. There are thirteen 2-digit consecutive odd numbers. If 39
+ is the mean of the first five such numbers, then what is
+ the mean of all the thirteen numbers? [2017-II]
+
+ (a) 47 ✔ (b) 49 (c) 51 (d) 45
+
+
+Q8. There are certain 2-digit numbers. The difference between
+ the number and the one obtained on reversing it is always
+ 27. How many such maximum 2-digit numbers are there?
+
+ (a) 3 (b) 4 [2017-II]
+ (c) 5 (d) None of the above ✔
+
+
+Q9. A 2-digit number is reversed. The larger of the two
+ numbers is divided by the smaller one. What is the largest
+ possible remainder [2017-II]
+
+ (a) 9 (b) 27 (c) 36 (d) 45 ✔
+
+
+Q10. If x – y = 8, then which of the following must be true?
+ 1. Both x and y must be positive for any value of x and y.
+ 2. If x is positive, y must be negative for any value of x and y.
+ 3. If x is negative, y must be positive for any value of x and y.
+
+
+ Select the correct answer using the code given below.
+ (a) 1 only (b) 2 only [2018-II]
+ (c) Both 1 and 2 (d) Neither 1 nor 2 nor 3 ✔
+
+
+____________________
+GOTO:top
+TAG:2-hcf-and-lcm-of-numbers
+*2-HCF-and-LCM-of-numbers*
+Q1. An electronic device makes a beep after every 60 seconds. Another device makes a beep after every 62 seconds. They beeped together at 10:00 a.m. The next time they would beep together at the earliest is: (ASO Mains)
+
+(A) 10:30 a.m.
+(B) 10:31 a.m. ✔
+(C) 10:59 a.m.
+(D) 11:00 a.m.
+
+
+Q2. Three bells toll at intervals of 9, 12 and 15 minutes respectively. All the three begin to toll at 8 a.m. At what time will they toll together again? [2003]
+
+ (a) 8.45 a.m. (b) 10. 30 a.m.
+ (c) 11.00 a.m. ✔ (d) 1. 30 p.m.
+
+
+Q3. Three persons start walking together and their steps measure 40 cm, 42 cm and 45 cm respectively. What is the minimum distance each should walk so that each can cover the same distance in complete steps ? [2011 - II]
+
+ (a) 25 m 20 cm ✔ (b) 50 m 40 cm
+ (c) 75 m 60 cm (d) 100 m 80 cm
+
+
+Q4. Five persons fire bullets at a target at an interval of 6, 7, 8, 9 and 12 seconds respectively. The number of times they would fire the bullets together at the target in an hour is [2014 - II]
+
+ (a) 6 (b) 7 ✔ (c) 8 (d) 9
+
+
+Q5. A bell rings every 18 minutes. A second bell rings every 24
+ minutes. A third bell rings every 32 minutes. Ifall the three
+ bells ring at the same time at 8 o'clock in the morning, at
+ what other time will they all ring together? [2014 - II]
+
+ (a) 12 : 40 hrs (b) 12 : 48 hrs ✔
+ (c) 12 : 56 hrs (d) 13 : 04 hrs
+
+
+Q6. A clock strikes once at 1o'clock, twice at 2o'clock and
+ thrice at 3 o'clock, and so on. If it takes 12 seconds to
+ strike at 5 o'clock, what is the time taken by it to strike
+ at 10 o'clock? [2017-II]
+ (a) 20 seconds (b) 24 seconds ✔
+ (c) 28 seconds (d) 30 seconds
+
+
+GOTO:top
+TAG:3-Decimal-fractions
+*3-Decimal-fractions*
+
+GOTO:top
+TAG:4-simplification
+*4-Simplification*
+
+Q1. If 2/x + 3/y = 13 and 5/x - 4/y = -2, then x + y equals
+
+  (A) -1/6
+  (B) 5/6
+  (C) -5/6
+  (D) 1/6
+
+
+GOTO:top
+TAG:5-square-roots-and-cube-roots
+*5-Square-roots-and-cube-roots*
+
+GOTO:top
+TAG:6-average
+*6-Average*
+-> Check /average.txt
+
+GOTO:top
+TAG:7-problems-on-numbers
+*7-Problems-on-numbers*
+
+GOTO:top
+TAG:8-problems-on-ages
+*8-Problems-on-ages*
+
+Q6. Tarun's brother is two years younger than Ravi's Brother but is eight years younger than Tarun. If Ravi's only brother was born in 1982, the in which year was Tarun born? (BPSC System Analyst)
+
+ (A) 1978
+ (B) 1972
+ (C) 1976 ✔
+ (D) 1974
+
+
+Q1. In a family, a couple has a son and daughter. The age of the father is three times that of his daughter and the age of the son is half of his mother. The wife is nine years younger to her husband and the brother is seven years older than his sister. What is the age of the mother? [1998, UPSC]
+
+ (a) 40 years (b) 45 years
+ (c) 50 years (d) 60 years ✔
+
+
+Q2. In 1930, a person’s age was 8 times that of his Son. In 1938, the father's age became ten times that of his son’s age in 1930. The ages of the son and father in 1940 were respectively [2001]
+
+ (a) 16 years, 58 years (b) 15 years, 50 years
+ (c) 14 years, 42 years ✔ (d) 13 years, 34 years
+
+
+Q3. The age of a man is three times the sum of the ages of his two sons. Five years hence, his age will be double of the sum of the ages of his sons. The father's present age is [2002]
+
+ (a) 40 years (b) 45 years ✔
+ (c) 50 years (d) 55 years
+
+
+Q4. The sum of the ages of 5 members comprising a family, 3 years ago, was 80 years. The average age of the family today is the same as it was 3 years ago, because of an addition of a baby during the intervening period. How old is the baby ? [2016-II]
+
+ (a) 6 months (b) 1 year ✔
+ (c) 2 years (d) 2 years and 6 months
+
+
+Q5. The age of Mr. X last year was the square of a number
+ and it would be the cube of a number next year. What is
+ the least number of years he must wait for his age to
+ become the cube of a number again? [2017-II]
+
+ (a) 42 (b) 38 ✔ (c) 25 (d) 16
+
+
+____________________
+GOTO:top
+TAG:9-surds-and-indices
+*9-Surds-and-indices*
+
+GOTO:top
+TAG:10-logarithms
+*10-Logarithms*
+
+GOTO:top
+TAG:11-percentage
+*11-Percentage*
+-> check /percentage.txt
+
+GOTO:top
+TAG:12-profit-and-loss
+*12-Profit-and-loss*
+-> Check /profit-loss.txt
+
+
+GOTO:top
+TAG:13-ratio-and-proportion
+*13-Ratio-and-proportion*
+Q1. The monthly income of Komal and Asha are in the ratio of 4: 3. Their monthly expenses are in the ratio of 3 : 2. However, both save  600 per month. What is their total monthly income? [2000]
+
+ (a) 8,400 (b) 5,600
+ (c) 4,200 ✔ (d) 2,800
+
+
+Q2. In a rare coin collection, there is one gold coin for every three non-gold coins. 10 more gold coins are added to the collection and the ratio of gold coins to non-gold coins would be 1 : 2. Based on the information, the total number of coins in the collection now becomes [2013 - II]
+
+ (a) 90 ✔ (b) 80 (c) 60 (d) 50 
+
+
+Q3. Out of 120 applications for a post, 70 are male and 80 have a driver’s license. What is the ratio between the minimum to maximum number of males having driver’s license? [2013 - II]
+
+ (a) 1 to 2 (b) 2 to 3
+ (c) 3 to 7 ✔ (d) 5 to 7
+
+
+Q4. Two equal glasses of same type are respectively 1/3 and 1/4 full of milk. They are then filled up with water and the contents are mixed in a pot. What is the ratio of milk and water in the pot? [2015-II]
+ (a) 7 : 17 ✔ (b) 1 : 3 (c) 9 : 21 (d) 11 : 23
+
+
+Q5. The monthly incomes of Peter and Paul are in the ratio of 4 : 3. Their expenses are in the ratio of 3 : 2. If each saves ₹6,000 at the end of the month, their monthly incomes respectively are (in ₹) [2015-II]
+
+ (a) 24,000 and 18,000 ✔ (b) 28,000 and 21,000
+ (c) 32,000 and 24,000 (d) 34,000 and 26,000
+
+
+Q6. The monthly incomes of X and Y are in the ratio of 4 : 3 and their monthly expenses are in the ratio of 3 : 2. However, each saves  6,000 per month. What is their
+ total monthly income? [2017-II]
+
+ (a) 28,000 (b) 42,000 ✔
+ (c) 56,000 (d) 84,000
+
+
+
+GOTO:top
+TAG:14-partnership
+*14-Partnership*
+
+GOTO:top
+TAG:15-chain-rule
+*15-Chain-rule*
+
+GOTO:top
+TAG:16-pipes-and-cisterns
+*16-Pipes-and-cisterns*
+Q1. If 15 pumps of equal capacity can fill a tank in 7 days, then how many extra pumps will be required to fill the tank in 5 days? [1998, UPSC]
+
+ (a) 6 ✔ (b)7 (c) 14 (d)21
+
+
+GOTO:top
+TAG:17-time-and-work
+*17-Time-and-work*
+Q1. A and B working separately can finish a work in 8 and 12 days respectively. If they work for a day alternatively (beginning with A), then in how many days will the work be completed?
+
+(A) 9
+(B) 9.5 ✔
+(C) 9.8
+(D) 10
+
+
+Q2. Ram and Shyam work on a job together for four days and complete 60% of it. Ram takes leave then and Shyam works for eight more days to complete the  job.  How long would Ram take to complete the entire job alone? [2016-II]
+
+ (a) 6 days (b) 8 days
+ (c) 10 days ✔ (d) 11 days
+
+
+Q3. W can do 25% of a work-in 30 days, X can do 1/4 of the work in 10 days, Y can do 40% of the work in 40 days and Z can do 1/3 of the work in 13 days. Who will complete the work first? [2016-II]
+
+ (a) W (b) X (c) Y (d) Z ✔
+
+Q4.  P works thrice as fast as Q, whereas P and Q together can
+ work four times as fast as R. If P, Q and R together work
+ on a job, in what ratio should they share the earnings?
+
+ (a) 3 : 1 : 1 ✔ (b) 3 : 2 : 4 [2017-II]
+ (c) 4 : 3 : 4 (d) 3 : 1 : 4
+
+
+______________________
+GOTO:top
+TAG:18-time-and-distance
+*18-Time-and-distance*
+
+GOTO:top
+TAG:19-boats-and-streams
+*19-Boats-and-streams*
+
+GOTO:top
+TAG:20-problems-on-trains
+*20-Problems-on-trains*
+
+GOTO:top
+TAG:21-mixture-and-alligation
+*21-Mixture-and-alligation*
+Q1. In a mixture of 60 litres, the ratio of acid and water is 2:1. If the ratio of acid and water is to be 1:2, then the amount of water (in litres) to be added to the mixture will be: (ASO Mains)
+
+(A) 50
+(B) 45
+(C) 55
+(D) 60 ✔
+
+
+Q2. A person has to completely put each of three liquids: 403 litres of petrol, 465 litres of diesel and 496 litres of Mobile Oil in bottles of equal size without mixing any of the above three types of liquids such that each bottle is completely filled. What is the least possible number of bottles required? [2007]
+
+ (a) 34 (b) 44 ✔
+ (c) 46 (d) None of the above
+
+
+Q3.  30g of sugar was mixed in 180 ml water in a vessel A, 40 g of sugar Was mixed in 280 ml of water in vessel B and 20 g of sugar was mixed in 100 ml of water in vessel C. The solution in vessel B is : [2016-II]
+
+ (a) sweeter than that in C
+ (b) sweeter than that in A
+ (c) as sweet as that in C 
+ (d) less sweet than that in C ✔
+
+
+Q4. There is a milk sample with 50% water in it. If 1/3rd of this
+ milk is added to equal amount of pure milk, then water in
+ the new mixture will fall down to [2017-II]
+
+ (a) 25% ✔ (b) 30% (c) 35% (d) 40%
+
+GOTO:top
+TAG:22-simple-interest
+*22-Simple-interest*
+Q1. As per agreement with a bank, a businessman had to refund a loan in some equal instalments without interest. After paying  18 instalments he found that 60 percent of his loan was refunded. How many instalments were there in the agreement ? [2014 - II]
+
+ (a) 22 (b) 24 (c) 30 ✔ (d) 33
+
+
+GOTO:top
+TAG:23-compound-interest
+*23-Compound-interest*
+Q1. A person bought a refrigerater worth  22,800 with 12.5% interest compounded yearly. At the end of first year he paid  8,650 and at the end of second year 9,125. How much will he have to pay at the end of third year to clear the debt? [2018-II]
+
+ (a) 9,990 (b)  10,000 (c)  10,590 (d)  11 ,250 ✔
+
+
+Q2. The compound interest on ₹6,000 at a certain rate for 1½ years is ₹1,986, compounded every 6 months. What is the simple interest on the same amount for 3 years at half the previous rate? (Ans: 1800)
+
+
+GOTO:top
+TAG:24-area
+*24-Area*
+
+GOTO:top
+TAG:25-volume-and-surface-area
+*25-Volume-and-surface-area*
+
+GOTO:top
+TAG:26-races-and-games-of-skill
+*26-Races-and-games-of-skill*
+
+GOTO:top
+TAG:27-calendar
+*27-Calendar*
+Q1. March 1, 2008 was Saturday. Which day was it on March 1, 2002? [2008]
+
+ (a) Thursday (b) Friday ✔
+ (c) Saturday (d) Sunday
+
+
+GOTO:top
+TAG:28-clocks
+*28-Clocks*
+1. When it is 25 past 4 on the clock, the angle between its minute hand and hour hand is: (ASO Mains)
+
+(A) 17.5° ✔
+(B) 13.5°
+(C) 19°
+(D) 10°
+
+  -> *(30H +- 11/2M)*
+  -> 30 x 4 +- 11/2 x 25
+  -> 120 +- 137.5
+  -> 17.5
+
+Q2. The number of times in a day the Hour-hand and the Minute hand of a clock are at right angles, is [1997, UPSC]
+
+ (a) 44 (b) 48 ✔ (c) 24 (d)12
+
+
+Q3. An accurate clock shows the time as 3.00. After hour hand has moved 135°, the time would be [1998, UPSC]
+
+ (a) 7.30 ✔ (b)6. 30 (c) 8.00 (d)9.30
+
+Q4. An accurate clock shows 8 o' clock in the morning. Throughout how many degrees will the hour hand rotate,
+ when the clock shows 2 o'clock in the afternoon?     [2000]
+
+ (a) 150° (b)144° (c) 168° (d)180° ✔
+
+
+Q5. When the time in the wall-clock is 3.25 p.m., the acute angle between the hours-hand and the minutes-hand is [2002]
+
+ (a) 60° (b)52.5° (c) 47.5° ✔ (d)42°
+
+
+Q6. How many times are an hour hand and a minute hand of a clock at right angles during their motion from 1.00 p.m. to
+ 10.00 p.m.? [2009]
+
+ (a) 9 (b) 10 (c) 18 ✔ (d) 20
+
+
+Q7. A watch loses 2 minutes in every 24 hours. while another watch gains 2 minutes in every 24 hours. At a particular instant, the two watches showed an identical time. Which of the following statements is correct if 24-hour clock is followed? [2017-II]
+
+ (a) The two watches show the identical time again on
+ completion of 30 days.
+ (b) The two watches show the identical time again on
+ completion of 90 days.
+ (c) The two watches show the identical time again on
+ completion of 120 days.
+ (d) None of the above statements is correct. ✔
+
+____________________
+GOTO:top
+TAG:29-stocks-and-shares
+*29-Stocks-and-shares*
+
+GOTO:top
+TAG:30-permutations-and-combinations
+*30-Permutations-and-combinations*
+Q1. How many times the digit 5 will come if we write from 1 to 99 and exclude those numbers which are divisible by 3? (ASO Mains)
+
+(A) 19
+(B) 20
+(C) 14
+(D) 13
+
+
+Q2. How many numbers are there in all from 6000 to 6999 (Both 6000 and 6999 included) having all digits same?      [2006, UPSC]
+
+ (a) 216 (b) 356
+ (c) 496 ✔ (d) 504
+
+
+Q3. If all the numbers from 501 to 700 are written, what is the total number of times does the digit 6 appear?   [2007]
+
+ (a) 138 (b) 139 (c) 140 ✔ (d) 141
+
+
+Q4. In a tournament 14 teams play league/matches. If each team plays against every other team only once then how many matches are played? [2010]
+
+ (a) 105 (b) 91 ✔ (c) 85 (d) 78
+
+
+Q5. A person has only  1 and  2 coins with her. If the total number of coins that she has is 50 and the amount of money with her is  75, then the number of  1 and  2 coins are, respectively [2011 - II]
+
+ (a) 15 and 35 (b) 35 and 15
+ (c) 30 and 20 (d) 25 and 25 ✔
+
+
+Q6. How many numbers are there between 100 and 300 which either begin with or end with 2? [2016-II]
+
+ (a) 110 ✔ (b) 111
+ (c) 112 (d) None of the above
+
+
+Q7. What is the total number of digits printed, if a book containing 150 pages is to be numebred from 1 to 150 [2017-II]
+
+ (a) 262 (b) 342 ✔ (c) 360 (d) 450
+
+
+Q8.  There are 4 horizontal and 4 vertical lines, parallel and equidistant to one another on a board. What is the maximum number of rectangles and squares that can be formed? [2017-II]
+
+ (a) 16 (b) 24 (c) 36 ✔ (d) 42
+
+
+Q9. Certain 3-digit numbers have the following characteristics:
+ 1. All the three digits are different. [2017-II]
+ 2. The number is divisible by 7.
+ 3. The number on reversing the digits is also divisible by 7.
+ How many such 3-digit numbers are there?
+
+ (a) 2 (b) 4 ✔ (c) 6 (d) 3
+
+
+10. How many numbers are there between 99 and 1000 such that the digit 8 occupies the units place? [2017-II]
+
+ (a) 64 (b) 80 (c) 90 ✔ (d) 104
+
+____________________
+GOTO:top
+TAG:31-probability
+*31-Probability*
+
+Q4. In a simultaneous throw of three coins, what is the probability of getting atleast one head?
+
+  (A) 6/8
+  (B) 7/8 ✔
+  (C) 3/8
+  (D) 1/8
+
+
+Q1. There are 240 balls and n number of boxes B1, B2, B3, ...... Bn. The balls are to be placed in the boxes such that B1 should contain 4 balls more than B2, B2 should contain 4 balls more than B3, and so on. Which one of the following cannot be the possible value of n? [2009, UPSC]
+
+ (a) 4 (b) 5 (c) 6 (d) 7 ✔
+
+
+Q2. A man fills a basket with eggs in such a way that the number of eggs added on each successive day is the same as the number already present in the basket. This way the basket gets completely filled in 24 day. After how many days the basket was 1/4 th full? [2010, UPSC]
+
+ (a) 6 (b) 12 (c) 17 (d) 22 ✔
+
+
+Q3. There are some balls of red, green and yellow colour lying on a table. There are as many red balls as there are yellow balls. There are twice as many yellow balls as there are green ones. The number of red balls. [2013 - II]
+
+ (a) is equal to the sum of yellow and green balls
+ (b) is double the number of green balls. ✔
+ (c) is equal to yellow balls minus green balls.
+ (d) cannot be ascertained.
+
+
+
+GOTO:top
+TAG:32-true-discount
+*32-true-discount*
+
+GOTO:top
+TAG:33-bankers-discount
+*33-Bankers-discount*
+
+GOTO:top
+TAG:34-height-and-distances
+*34-Height-and-distances*
+
+GOTO:top
+TAG:35-odd-man-out-and-series
+*35-Odd-man-out-and-series*
+
+GOTO:top
+TAG:36-problems-on-trains
+*36-Problems-on-trains*
+
+GOTO:top
+TAG:37-alligation-or-mixture
+*37-Alligation-or-mixture*
+
+GOTO:top
+TAG:38-simple-interest
+*38-Simple-interest*
+Q1. The difference between the simple interest received from two banks on 500 for two years is  2.50. What is the difference between their rates? [2010, UPSC]
+
+ (a) 0.25% ✔ (b) 0.5%
+ (c) 1 % (d) 2.5%
+
+
+GOTO:top
+TAG:39-geometry
+*39-Geometry*
+
+Q1. A tower stands vertically on the ground. From a point on the ground, which is 15 m away from foot of the tower, the angle of elevation of the top of the tower if found to be 60°. What is the height of the tower?
+
+ (A) 15∛m ✔
+ (B) 15/∛m
+ (C) 10∛
+ (D) 15m
+
+GOTO:top
+_____________________
+TAG:40-misc
+*40-Misc*
+Q1. A contract on construction job specifies a penalty for delay in completion of the work beyond a certain date is as follows: 200 for the first day,  250 for the second day,  300 for the third day etc., the penalty for each succeeding day being  50 more than that of the preceding day. How much penalty should the contractor pay if he delays the work by 10 days? [2011 - II, UPSC]
+
+ (a) 4950 (b) 4250 ✔
+ (c) 3600 (d) 650
+
+
+Q2. A gardener has 1000 plants. He wants to plant them in such a way that the number of rows and the number of columns remains the same. What is the minimum number of plants that he needs more for this purpose?       [2013 - II, UPSC]
+
+ (a) 14 (b) 24 ✔ (c) 32 (d) 34
+
+
+Q3. A sum of  700 has to be used to give seven cash prizes to the students of a school for their overall academic performance. If each prize is  20 less than its preceding prize, what  is the least value of the prize? [2013 - II, UPSC]
+
+ (a) 30 (b) 40 ✔ (c) 60 (d) 80
+
+
+Q4. In a garrison, there was food for 1000 soldiers for one month. After 10 days, 1000 more soldiers joined the garrison. How long would the soldiers be able to carry on with the remaining food? [2013 - II]
+
+ (a) 25 days (b) 20 days
+ (c) 15 days (d) 10 days ✔
+
+
+Q5.  For a charity show, the total tickets sold were 420. Half of these tickets were sold at the rate of  5 each, one-third at the rate of  3 each and the rest for  2 each. What was the total amount received? [2014 - II]
+
+ (a) 900 (b) 1,540
+ (c) 1,610 ✔ (d) 2,000
+
+
+Q6. A person is standing on the first step from the bottom of a ladder. If he has to climb 4 more steps to reach exactly the middle step, how many steps does the ladder have? [2016-II]
+
+ (a) 8 (b) 9 ✔ (c) 10 (d) 11
+
+Q7.  AB is a vertical trunk of a huge tree with A being the point where the base of the trunk touches the ground. Due to a cyclone, the trunk has been broken at C which is at a height of 12 meters, broken part is partially attached to the vertical portion of the trunk at C. If the end of the broken part B touches the ground at D which is at a distance of 5 meters from A, then the original height of the trunk is: [2016-II]
+
+ (a) 20 m (b) 25 m ✔ (c) 30 m (d) 35 m
+
+
+Q8.  In a race, a competitor has to collect 6 apples which are kept in a straight line on a track and a bucket is placed at the beginning of the track which is a starting point. The  condition is that the competitor can pick only  one apple at a time, run back with it and drop it in the bucket. If he has to drop all the apples in the bucket, how much total  distance he has to run if the bucket is 5 meters from the first apple and all other apples are placed 3 meters apart? [2016-II]
+
+ (a) 40 m (b) 50 m (c) 150 m ✔ (d) 75 m
+
+
+Q9. A round archery target of diameter 1 m is marked with four scoring regions from the centre outwards as red, blue, yellow and white. The radius of the red band is 0.20 m. The width of all the remaining bands is equal. If archers throw arrows towards the target, what is the probability, that the arrows fall in the red region of the archery target? [2016-II]
+
+ (a) 0.40 (b) 0.20 (c) 0.16 ✔ (d) 0.04
+
+
+Q10. A class starts at 11:00 am and lasts till 2:27 pm. Four periods of equal duration are held during this interval. After every period, a rest of 5 minutes is given to the students. The exact duration of each period is: [2016-II]
+
+ (a) 48 minutes ✔ (b) 50 minutes
+ (c) 51 minutes (d) 53 minutes
+
+
+Q11.  In aid of charity, every student in a class contributes as many rupees as the number of students in that class. With the additional contribution of  2 by one student only, the total collection is  443. Then how many students are there in the class? [2016-II]
+
+ (a) 12 (b) 21 ✔ (c) 43 (d) 45
+
+
+Q12. In a class, there are 18 very tall boys. If these constitute three-fourths of the boys and the total number of boys is two-thirds of the total number of students in the class, what is the number of girls in the class? [2016-II]
+
+ (a) 6 (b) 12 ✔ (c) 18 (d) 21
+
+
+Q13. There are three pillars, X, Y and Z of different heights. Three spiders A, B and C start to climb on these pillars simultaneously. In one chance. A climbs on X by 6cm but slips down 1 cm. B climbs on Y by 7 cm but slips down 3 cm. C climbs on Z by 6.5 cm but slips down 2 cm. If each of the requires 40 chances to reach the top of the pillars, what is the height of the shortest pillar? [2017-II]
+
+ (a) 161 cm(b) 163 cm ✔ (c) 182 cm (d) 210 cm
+
+
+Q14.  If for a sample data [2017-II]
+ Mean < Median < Mode
+ then the distribution is
+ (a) symmetric
+ (b) skewed to the right
+ (c) neither symmetric nor skewed
+ (d) skewed to the left ✔
+
+
+Q15. Two walls and a ceiling of a room meet at right angles at a point P. A fly is in the air 1 m from one wall, 8 m from the other wall and 9 m from the point P. How many meters is the fly from the ceiling? [2017-II]
+
+ (a) 4 ✔ (b) 6 (c) 12 (d) 15
+
+
+Q16. A lift has the capacity of 18 adults or 30 children. How many children can board the lift with 12 adults? [2018-II]
+
+ (a) 6 (b) 10 ✔ (c) 12 (d) 15
+
+

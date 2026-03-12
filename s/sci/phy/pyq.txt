@@ -1,0 +1,7 @@
+============================
+Title : Physics - PYQ
+Tags  : #
+Descr : 
+============================
+
+Check also: ../pyq.txt

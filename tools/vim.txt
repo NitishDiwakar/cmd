@@ -1,0 +1,186 @@
+============================
+Title : Vim
+Tags  : #
+Descr : Some common vim commands 
+============================
+
+# [Text objects]
+w-words, s-sentence, p-paragraph, t-tags
+
+# [Motions]
+a-all, i-in, t-till, f-find forward, F-find backward
+
+# [Commands]
+d-delete (also cut), c-change (delte, then place in insert mode), 
+y-yank (copy), yy (copy the line)
+
+# Scroll
+Ctrl + f (Scroll downl a full page)
+Ctrl + b (Scroll up a full page)
+Ctrl + d (Scroll down a half page)
+Ctrl + u (Scroll up a half page)
+Ctrl + e (Scroll window down one line)
+Ctrl + y (Scroll windows up one line)
+
+# Copy word under cursor
+yiw (yank inner word)
+
+# Delete word
+diw (Delte inner word)
+
+# Delete inner word and go in insert mode
+ciw
+
+# Yank all words inside 
+yi( 
+
+# Repeat the last command
+.
+
+# Delete 3 words
+3dw
+
+# Go to start of line
+0
+
+# Go to end of line
+$
+
+# Go to line 12
+12G
+
+# Delete word
+dw
+
+# Change inside paranthesis (inside)
+ci(
+
+# Change inside double quotes
+ci"
+
+#Search
+/pattern
+n (go to next match)
+
+# Move down 5 lines
+5j
+
+# Move forward 3 words
+3w
+
+# Delete 4 lines (current + 3 lines below)
+4dd
+
+# Find and replace word inside a directory and subdirectory
+:vimgrep /oldword/ **/*
+:cdo %s/oldword/newword/gc | update
+
+# Delete from lines (cursor + 3 above)
+3dk
+
+# Duplicate current line
+yyp
+
+# Uppercase entire line
+gUU
+
+# Replace a characeter 
+r
+
+# Change what is inside next double quote
+ci"
+
+# Save the current file and close it
+ZZ
+
+# Uppercase a word
+gUw
+
+# Lowercase
+guw
+
+# Cursor to end of in inserst mode
+GA
+
+# Copy 3 word before cursor
+y3b
+
+yf<space>
+yF<space> (backward yank)
+
+# Add two space and - to line range
+:2,5normal! I  -
+:+1,+4normal! I  - (cursor based)
+
+# Add ; from line 10 to 20
+:10,20normal! A;
+
+# Select a word, forward from cursor (visually)
+vw
+
+# Select inner word
+viw
+
+# Select sentence
+vis
+
+# Select inside "
+vi"
+
+# Select line 
+V
+
+# Remove a character from opened file
+:%s/character//g
+
+# Remove everything right of cursor
+D
+
+
+
+# Cut 2 lines (current + below)
+2dd
+
+
+
+
+-----------Plugins----------
+# Auto pair
+mkdir -p ~/.vim/pack/plugins/start
+git clone https://github.com/jiangmiao/auto-pairs.git \
+~/.vim/pack/plugins/start/auto-pairs
+
+----------------------------
+
+
+# Insert
+i (a)
+
+# Insert - beggining of the line
+I (or Shift + i)
+
+# Insert end of line
+A
+
+# Save and quit
+esc + :
+wq
+
+# Quit
+:q!
+
+# Duplicate current line
+:t.
+
+# Cursor at end of file
+G
+
+
+# Paste
+p (below)
+P (above)
+
+# Cursor at beginning of the file
+gg
+
+

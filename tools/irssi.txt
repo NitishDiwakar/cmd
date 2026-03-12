@@ -1,0 +1,11 @@
+============================
+Title : irssi
+Tags  : #irssi #freenode
+Descr : Chat from terminal
+============================
+
+irssi
+
+/connect chat.freenode.net
+
+/join #Linux

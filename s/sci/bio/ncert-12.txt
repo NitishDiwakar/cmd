@@ -1,0 +1,102 @@
+============================
+Title : Biology - NCERT 12
+Tags  : #nomail #noview
+Descr : 
+============================
+
+UNIT VI : REPRODUCTION
+GOTO:1-reproduction-in-organisms
+GOTO:2-sexual-reproduction-in-flowering-plants
+GOTO:3-human-reproduction
+GOTO:4-reproductive-health
+
+UNIT VII  : GENETICS AND EVOLUTION
+GOTO:5-principles-of-inheritance-and-variation
+GOTO:6-molecular-basis-of-inheritance
+GOTO:7-evolution
+
+UNIT VIII : BIOLOGY IN HUMAN WELFARE
+GOTO:8-human-health-and-disease
+GOTO:9-strategies-for-enhancement-in-food-production
+GOTO:10-microbes-in-human-welfare
+
+UNIT IX  : BIOTECHNOLOGY
+GOTO:11-biotechnology-principles-and-processes
+GOTO:12-biotechnology-and-its-applications
+
+
+UNIT X   : ECOLOGY
+GOTO:13-organisms-and-populations
+GOTO:14-ecosystem
+GOTO:15-biodiversity-and-conservation
+GOTO:16-environmental-issues
+
+
+
+UNIT VI : REPRODUCTION
+TAG:1-reproduction-in-organisms
+*1-reproduction-in-organisms*
+
+
+TAG:2-sexual-reproduction-in-flowering-plants
+*2-sexual-reproduction-in-flowering-plants*
+
+
+TAG:3-human-reproduction
+*3-human-reproduction*
+
+
+TAG:4-reproductive-health
+*4-reproductive-health*
+
+
+UNIT VII  : GENETICS AND EVOLUTION
+TAG:5-principles-of-inheritance-and-variation
+*5-principles-of-inheritance-and-variation*
+
+
+TAG:6-molecular-basis-of-inheritance
+*6-molecular-basis-of-inheritance*
+
+
+TAG:7-evolution
+*7-evolution*
+
+
+UNIT VIII : BIOLOGY IN HUMAN WELFARE
+TAG:8-human-health-and-disease
+*8-human-health-and-disease*
+
+
+TAG:9-strategies-for-enhancement-in-food-production
+*9-strategies-for-enhancement-in-food-production*
+
+
+TAG:10-microbes-in-human-welfare
+*10-microbes-in-human-welfare*
+
+
+UNIT IX : BIOTECHNOLOGY
+TAG:11-biotechnology-principles-and-processes
+*11-biotechnology-principles-and-processes*
+
+
+TAG:12-biotechnology-and-its-applications
+*12-biotechnology-and-its-applications*
+
+
+UNIT X : ECOLOGY
+TAG:13-organisms-and-populations
+*13-organisms-and-populations*
+
+
+TAG:14-ecosystem
+*14-ecosystem*
+
+
+TAG:15-biodiversity-and-conservation
+*15-biodiversity-and-conservation*
+
+
+TAG:16-environmental-issues
+*16-environmental-issues*
