@@ -29,6 +29,8 @@ GOTO:21-simplification
 GOTO:22-simplification
 GOTO:23-number-system
 GOTO:24-number-system
+GOTO:25-number-system
+GOTO:26-number-system
 
 
 GOTO:top
@@ -5088,7 +5090,7 @@ TAG:23-number-system
 
 
 10. Find the unit's digit in
-(263)149 + (263)150 + (263)151.
+(263)^149 + (263)^150 + (263)^151.
 
 (a) 3
 (b) 9 ✔
@@ -5097,7 +5099,7 @@ TAG:23-number-system
 
 
 11. What is the unit digit in the expansion of
-(57242)9 × 7 × 5 × 3 × 1 ?
+(57242)^9 × 7 × 5 × 3 × 1 ?
 
 (a) 2 ✔
 (b) 4
@@ -5134,7 +5136,7 @@ Which of the above statements is/are correct?
 (d) Neither 1 nor 2
 
 
-15. Consider the number N = 126 × 38 × 53.
+15. Consider the number N = 12^6 × 3^8 × 5^3.
 
 Which of the following statements is/are correct?
 
@@ -5189,7 +5191,7 @@ Which of the following statements is/are correct?
 (d) None of these
 
 
-6. Find the unit digit in (3451)51 × (531)43.
+6. Find the unit digit in (3451)^51 × (531)^43.
 
 (a) 6
 (b) 4
@@ -5198,7 +5200,7 @@ Which of the following statements is/are correct?
 
 
 7. What is the unit digit of
-[45231632 × 22241632 × 32251632]?
+[4523^1632 × 2224^1632 × 3225^1632]?
 
 (a) 1
 (b) 0 ✔
@@ -5226,7 +5228,7 @@ D. 11
 (d) B
 
 
-10. How many factors of 29 × 35 × 54 × 76 are odd numbers?
+10. How many factors of 2^9 × 3^5 × 5^4 × 7^6 are odd numbers?
 
 (a) 288
 (b) 144
@@ -5399,3 +5401,708 @@ TAG:24-number-system
 (d) 73
 
 
+
+GOTO:top
+______________________
+TAG:25-number-system
+*25-Number-system*
+1. The five-digit number 45yz0 is divisible by 40. What is the maximum possible value of (y + z)?
+
+(a) 15
+(b) 18
+(c) 16 ✔
+(d) 17
+
+
+2. If a 9-digit number 389x6378y is divisible by 72, then the value of 6x + 7y is:
+
+(a) 16
+(b) 32
+(c) 28
+(d) 64 ✔
+
+
+3. If the number 6p5157q is divisible by 88, then p × q = ______, where p and q are single digit numbers.
+
+(a) 15
+(b) 18 ✔
+(c) 20
+(d) 12
+
+
+4. 19^342 + 17^342 – 13^342 – 11^342 is divisible by?
+
+(a) 189
+(b) 143
+(c) 180 ✔
+(d) 169
+
+
+5. If n is any natural number, then 5²ⁿ – 1 is always divisible by how many natural numbers?
+
+(a) 1
+(b) 4
+(c) 6
+(d) 8 ✔
+
+
+6. If 3236A187B is divisible by 144, find the values of A and B respectively.
+
+(a) (2, 4)
+(b) (4, 2) ✔
+(c) (4, 4)
+(d) None of these
+
+
+7. If x2945y is divisible by 176, find the values of x and y respectively.
+
+(a) (6, 6)
+(b) (7, 0)
+(c) (5, 8) ✔
+(d) (9, 6)
+
+
+8. If the five-digit number 457ab is divisible by 3, 7 & 11, then what is the value of a² + b² – ab?
+
+(a) 24
+(b) 36
+(c) 33
+(d) 49 ✔
+
+
+9. If the 5-digit number 676xy is divisible by 3, 7 and 11, then what is the value of (3x – 5y)?
+
+(a) 10
+(b) 7
+(c) 9 ✔
+(d) 11
+
+
+10. The number 823p2q is exactly divisible by 7, 11 and 13. What is the value of (p – q)?
+
+(a) 8
+(b) 3
+(c) 5 ✔
+(d) 11
+
+
+11. If the 6–digit number 57zxy8 is divisible by each of 7, 11 and 13, then (x – 2y + z) is:
+
+(a) –1 ✔
+(b) 2
+(c) 1
+(d) –2
+
+
+12. For any choices of values of X, Y and Z, the 6-digit number of the form XYZXYZ is divisible by:
+
+(a) 7 and 11 only
+(b) 11 and 13 only
+(c) 7 and 13 only
+(d) 7, 11 and 13 ✔
+
+
+14. What will be the greatest number 32a78b, which is divisible by 3 but NOT divisible by 9? (Where a and b are single digit number).
+
+(a) 324781
+(b) 329787
+(c) 326787
+(d) 329784 ✔
+
+
+15. What is the value of x in the number 3426x if the number is divisible by 6 but not divisible by 5?
+
+(a) 3
+(b) 4
+(c) 6 ✔
+(d) 8
+
+
+16. 7¹⁵ + 7¹⁶ + 7¹⁷ is divisible by which of the following given numbers?
+
+(a) 3 ✔
+(b) 5
+(c) 2
+(d) 4
+
+
+17. 6²⁵ + 6²⁶ + 6²⁷ + 6²⁸ is divisible by:
+
+(a) 255
+(b) 254
+(c) 259 ✔
+(d) 256
+
+
+18. Identify a single-digit number other than 1, which may exactly divide the number
+17³ + 18³ – 16³ – 15³.
+
+(a) 2 ✔
+(b) 3
+(c) 5
+(d) 7
+
+
+19. 27⁵ + 3^13 is divisible by
+
+(a) 8
+(b) 10 ✔
+(c) 12
+(d) 21
+
+
+20. 32⁵ + 2²⁷ is divisible by
+
+(a) 3
+(b) 7
+(c) 10 ✔
+(d) 11
+
+
+21. The expression 555^777 + 777^555 is divisible by which of the following?
+
+1. 2  
+2. 3  
+3. 37  
+
+Select the correct answer using the code given below:
+
+(a) 1 and 2 only
+(b) 2 and 3 only
+(c) 1 and 3 only
+(d) 1, 2 and 3 only ✔
+
+
+22. 222^333 + 333^222 is divisible by which of the following numbers?
+
+(a) 2 and 3 but not 37
+(b) 3 and 37 but not 2 ✔
+(c) 2 and 37 but not 3
+(d) 2, 3 and 37
+
+
+23. The number of three digit numbers (all digits are different) which are divisible by 7 and also divisible by 7 on reversing the order of the digits, is
+
+(a) 6
+(b) 5
+(c) 4 ✔
+(d) 3
+
+
+---DPQ---
+1. If the 5-digit number 535ab is divisible by 3, 7 and 11, then what is the value of (a² – b² + ab) ?
+
+(a) 95 ✔
+(b) 83
+(c) 89
+(d) 77
+
+
+2. The sum of 3-digit numbers abc, cab and bca is not divisible by:
+
+(a) a + b + c
+(b) 37
+(c) 31 ✔
+(d) 3
+
+
+3. 4⁶¹ + 4⁶² + 4⁶³ + 4⁶⁴ is divisible by
+
+(a) 7
+(b) 9
+(c) 11
+(d) 17 ✔
+
+
+4. 41⁴³ + 43⁴³ is divisible by
+
+(a) 80
+(b) 84 ✔
+(c) 86
+(d) 88
+
+
+5. Consider the following statements:
+
+I. 61 divides 107¹⁰⁰ − 76¹⁰⁰  
+II. 100 divides 67⁵ + 33⁵  
+
+Which of the statements given above is/are correct?
+
+(a) I only
+(b) II only
+(c) Both I and II ✔
+(d) Neither I nor II
+
+
+6. If a seven-digit number 42971K2 is divisible by 44, then the value of K is:
+
+(a) 4
+(b) 7 ✔
+(c) 3
+(d) 4
+
+
+7. If the 9-digit number 5y97405x2 is divisible by 72, find the value of (x – 2y) for the greatest value of x.
+
+(a) 1 ✔
+(b) 8
+(c) 8
+(d) 4
+
+
+8. If a 10-digit number 643x1145y2 is divisible by 88, then the value of (2x – 3y) for the largest value of y is:
+
+(a) 15
+(b) 27
+(c) –27 ✔
+(d) –15
+
+
+9. If the seven digit number 5728p9 is exactly divisible by 11, then what is the value of (11 – p), where p > 0 ?
+
+(a) 10
+(b) 8
+(c) 5 ✔
+(d) 2
+
+
+10. If 'x' is divisible by 3 and 2, then 2x³ + 3x² is divisible by
+
+(a) 428
+(b) 214
+(c) 72
+(d) 108 ✔
+
+
+GOTO:top
+______________________
+TAG:26-number-system
+*26-Number-system*
+
+1. A number when divided by 78 gives the quotient 280 and the remainder 0. If the same number is divided by 65, what will be the value of the remainder?
+
+(a) 1
+(b) 3
+(c) 0 ✔
+(d) 2
+
+
+2. In a division problem, the divisor is 4 times the quotient and 2 times the remainder. If the remainder is 32, then find the dividend.
+
+(a) 1056 ✔
+(b) 1650
+(c) 3240
+(d) 1065
+
+
+3. On dividing a number by 55, we get 28 as the remainder. On dividing the same number by 11, what is the remainder?
+
+(a) 5
+(b) 8
+(c) 7
+(d) 6 ✔
+
+
+4. A natural number n divides 732 and leaves 12 as a remainder. How many values of n are possible?
+
+(a) 18
+(b) 20 ✔
+(c) 16
+(d) 22
+
+
+5. When 200 is divided by a positive integer x, the remainder is 8. How many values of x are there?
+
+(a) 6
+(b) 7
+(c) 8 ✔
+(d) 5
+
+
+6. Find the remainder when 179 × 172 × 173 is divided by 17?
+
+(a) 16
+(b) 3 ✔
+(c) 10
+(d) 11
+
+
+7. What is the remainder when 85 × 87 × 89 × 91 × 95 × 96 is divided by 100 ?
+
+(a) 0 ✔
+(b) 1
+(c) 2
+(d) 4
+
+
+8. What is the remainder after dividing the number 371000 by 9?
+
+(a) 1 ✔
+(b) 3
+(c) 7
+(d) 9
+
+
+9. What is the remainder when 7^35 is divided by 342?
+
+(a) 49 ✔
+(b) 34
+(c) 42
+(d) 62
+
+
+10. The remainder when 25^1000 is divided by 13 is
+
+(a) 0
+(b) 12
+(c) 2
+(d) 1 ✔
+
+
+11. What is the remainder when 65^99 is divided by 11?
+
+(a) 0
+(b) 5
+(c) 9
+(d) 10 ✔
+
+
+12. Find the remainder when (35^366 + 35^231) is divided by 36.
+
+(a) 23
+(b) 0 ✔
+(c) 17
+(d) 12
+
+
+13. What is the remainder if 2^192 is divided by 6?
+
+(a) 0
+(b) 1
+(c) 2
+(d) 4 ✔
+
+
+14. What is the remainder when 27^27 – 15^27 is divided by 6?
+
+(a) 0 ✔
+(b) 1
+(c) 3
+(d) 4
+
+
+15. What is the remainder when (256)^182 – (135)^182 is divided by 253?
+
+(a) 0 ✔
+(b) 3
+(c) 5
+(d) 7
+
+
+16. What is the remainder when (15^23 + 23^23) is divided by 19.
+
+(a) 4
+(b) 15
+(c) 0 ✔
+(d) 18
+
+
+17. What is the remainder when (127^97 + 97^97) is divided by 32?
+
+(a) 4
+(b) 2
+(c) 7
+(d) 0 ✔
+
+
+18. If a, b, c, d are natural numbers, then how many possible remainders are there when 1ᵃ + 2ᵇ + 3ᶜ + 4ᵈ is divided by 10?
+
+(a) 3
+(b) 4
+(c) 5 ✔
+(d) 6
+
+
+19. If n is a natural number, then what is the sum of all distinct remainders of 4ⁿ + 6ⁿ + 9ⁿ + 11ⁿ when divided by 10 for various values of n?
+
+(a) 3
+(b) 4 ✔
+(c) 6
+(d) 7
+
+
+20. What is the remainder when 2ᵖ – 1 is divided by p, where p > 5 is a prime number?
+
+(a) 1 ✔
+(b) 2
+(c) 3
+(d) 4
+
+
+21. What is the remainder when 2¹⁰¹ is divided by 101 ?
+
+(a) 1
+(b) 2 ✔
+(c) 5
+(d) 7
+
+
+22. What is the remainder when 9³ + 9⁴ + 9⁵ + 9⁶ + ... + 9¹⁰⁰ is divided by 6?
+
+(a) 0
+(b) 1 ✔
+(c) 2
+(d) 3
+
+
+---Successive Division---
+
+23. When a number is successively divided by 3, 4 and 7, the remainder obtained are 2, 3 and 5 respectively. What will be the remainder when 84 divides the same number?
+
+(a) 71 ✔
+(b) 53
+(c) 30
+(d) 48
+
+
+24. A number on being divided by 3, 4 and 5 successively the remainder 2, 1 and 2 respectively. Find the remainders when the number successively divided by 5, 4 and 3.
+
+(a) 4, 0, 1
+(b) 4, 2, 1
+(c) 4, 1, 1 ✔
+(d) 4, 1, 2
+
+
+25. A 4-digit number N is such that when divided by 3, 5, 6, 9 leaves a remainder 1, 3, 4, 7 respectively. What is the smallest value of N?
+
+(a) 1068
+(b) 1072
+(c) 1078 ✔
+(d) 1082
+
+
+26. When positive number x, y and z are divided by 31, the reminders are 17, 24 and 27 respectively. When (4x – 2y + 3z) is divided by 31, the remainder will be :
+
+(a) 9
+(b) 8 ✔
+(c) 16
+(d) 19
+
+
+27. When positive number a, b and c are divided by 13, the reminders are 9, 7 and 10 respectively. What will be the remainder when (a + 2b + 5c) is divided by 13?
+
+(a) 10
+(b) 5
+(c) 9
+(d) 8 ✔
+
+
+28. The sum of two-digit number and the number obtained by interchanging the digit is 77. If the difference of digits is 1, then the number is:
+
+(a) 67
+(b) 45
+(c) 34 ✔
+(d) 12
+
+
+29. Consider a 2-digit number N. Let P be the product of the digits of the number. If P is added to square of the digit in the tens place of N, we get 84. If P is added to the square of the digit in the unit place of N, we get 60. What is the value of P + N?
+
+(a) 100
+(b) 110 ✔
+(c) 115
+(d) 120
+
+
+30. What is the number of digits required for numbering a book with 428 pages?
+
+(a) 1176 ✔
+(b) 1500
+(c) 2000
+(d) 988
+
+
+
+---DPQ---
+1. On dividing a certain number by 459, we get 19 as remainder. What will be the remainder, when the same number is divided by 17?
+
+(a) 13
+(b) 11
+(c) 2 ✔
+(d) 1
+
+
+2. The divisor is 10 times the quotient and 5 times the remainder in a division sum. What is the dividend if the remainder is 46?
+
+(a) 5972
+(b) 4286
+(c) 4874
+(d) 5336 ✔
+
+
+3. In a division sum, the divisor is 13 times the quotient and 6 times the remainder. If the remainder is 39, then the dividend is:
+
+(a) 4,240
+(b) 4,800
+(c) 4,251 ✔
+(d) 4,576
+
+
+4. On dividing 8675123 by a certain number, the quotient is 33611 and the remainder is 3485. The divisor is
+
+(a) 538
+(b) 258 ✔
+(c) 248
+(d) 356
+
+
+5. What is the remainder when the product of 335, 608 and 853 is divided by 13?
+
+(a) 11
+(b) 12
+(c) 6
+(d) 7 ✔
+
+
+6. What is the remainder when 2^1000000 is divided by 7?
+
+(a) 1
+(b) 2 ✔
+(c) 4
+(d) 6
+
+
+7. What is the remainder when 2^75 is divided by 15?
+
+(a) 0
+(b) 8 ✔
+(c) 14
+(d) 1
+
+
+8. What is the remainder when (37)^47 is divided by 19?
+
+(a) 18 ✔
+(b) 17
+(c) 1
+(d) 0
+
+
+9. Find the remainder when 34^413 is divided by 9.
+
+(a) 6
+(b) 8
+(c) 4 ✔
+(d) 4
+
+
+10. What is the remainder when 5^150 is divided by 150?
+
+(a) 25 ✔
+(b) 15
+(c) 1
+(d) 0
+
+
+11. What is the remainder when 4^96 is divided by 6?
+
+(a) 0
+(b) 2
+(c) 3
+(d) 4 ✔
+
+
+12. What is the remainder when (341)^218 – (156)^218 is divided by 259?
+
+(a) 0 ✔
+(b) 3
+(c) 5
+(d) 7
+
+
+13. What is the remainder when (101)^36 – (3)^144 is divided by 20?
+
+(a) 0 ✔
+(b) 3
+(c) 5
+(d) 7
+
+
+14. What is the remainder when (756^273 – 412^273) is divisible by 86?
+
+(a) 5
+(b) 2
+(c) 0 ✔
+(d) 3
+
+
+15. What is the remainder when (25^12 – 4^24) is divisible by 123?
+
+(a) 5
+(b) 2
+(c) 3
+(d) 0 ✔
+
+
+16. What is the remainder when (17^29 + 19^29) is divided by 18?
+
+(a) 6
+(b) 2
+(c) 1
+(d) 0 ✔
+
+
+17. What is the remainder when (32^17 + 2^68) is divided by 48?
+
+(a) 6
+(b) 2
+(c) 1
+(d) 0 ✔
+
+
+18. What is the remainder when (18^23 + 20^34 + 39^56) is divided by 19?
+
+(a) 0
+(b) 1 ✔
+(c) 2
+(d) 7
+
+
+19. What is the remainder when the sum 1^5 + 2^5 + 3^5 + 4^5 + 5^5 is divided by 4?
+
+(a) 0
+(b) 1 ✔
+(c) 2
+(d) 3
+
+
+20. What is the remainder when (12^3 + 14^3 +16^3 + 18^3) is divided by 13.
+
+(a) 5
+(b) 7
+(c) 8
+(d) 9 ✔
+
+
+21. What is the sum of all digits which appear in all the integers from 10 to 100?
+
+(a) 855
+(b) 856 ✔
+(c) 910
+(d) 911
+
+
+22. What is the number of fives used in numbering a 260-page book?
+
+(a) 55
+(b) 56 ✔
+(c) 57
+(d) 60
+
+
+23. The sum of the digits of a two-digit number is 9. The number obtained by interchanging its digits exceeds the given number by 45, then the original number is:
+
+(a) 18
+(b) 27 ✔
+(c) 36
+(d) 54
