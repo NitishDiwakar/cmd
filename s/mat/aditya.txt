@@ -31,6 +31,14 @@ GOTO:23-number-system
 GOTO:24-number-system
 GOTO:25-number-system
 GOTO:26-number-system
+GOTO:32-ratio
+GOTO:33-proportion
+GOTO:34-mixture-and-allegation
+GOTO:35-average
+GOTO:36-time-and-work
+GOTO:38-pipe-and-cistern
+GOTO:42-time-and-distance
+GOTO:43-train-boat-stream
 
 
 GOTO:top
@@ -5047,7 +5055,7 @@ TAG:23-number-system
 (d) 131
 
 
-5. Which of the following is a prime number?
+*5.* Which of the following is a prime number?
 
 (a) 437
 (b) 161
@@ -5055,7 +5063,7 @@ TAG:23-number-system
 (d) 373 ✔
 
 
-6. Which of the following is a pair of co-prime numbers?
+*6.* Which of the following is a pair of co-prime numbers?
 
 (a) 455, 49
 (b) 81, 16 ✔
@@ -5089,7 +5097,7 @@ TAG:23-number-system
 (d) 9
 
 
-10. Find the unit's digit in
+*10.* Find the unit's digit in
 (263)^149 + (263)^150 + (263)^151.
 
 (a) 3
@@ -5098,7 +5106,7 @@ TAG:23-number-system
 (d) 1
 
 
-11. What is the unit digit in the expansion of
+*11.* What is the unit digit in the expansion of
 (57242)^9 × 7 × 5 × 3 × 1 ?
 
 (a) 2 ✔
@@ -5115,7 +5123,7 @@ TAG:23-number-system
 (d) 8 ✔
 
 
-13. Find the number of factors in 1540.
+*13.* Find the number of factors in 1540.
 
 (a) 20
 (b) 24 ✔
@@ -5123,7 +5131,7 @@ TAG:23-number-system
 (d) 23
 
 
-14. Consider the following statements in respect of all factors of 360:
+*14.* Consider the following statements in respect of all factors of 360:
 
 1. The number of factors is 24.  
 2. The sum of all factors is 1170.
@@ -5136,7 +5144,7 @@ Which of the above statements is/are correct?
 (d) Neither 1 nor 2
 
 
-15. Consider the number N = 12^6 × 3^8 × 5^3.
+*15.* Consider the number N = 12^6 × 3^8 × 5^3.
 
 Which of the following statements is/are correct?
 
@@ -6106,3 +6114,4270 @@ TAG:26-number-system
 (b) 27 ✔
 (c) 36
 (d) 54
+
+
+
+
+GOTO:top
+______________________
+TAG:32-ratio
+*32-Ratio*
+TYPE - 1
+
+1. The strength of a school is 640, with the number of boys being 400. Find the ratio of girls to boys.
+
+(a) 5 : 6
+(b) 3 : 5 ✔
+(c) 8 : 5
+(d) 4 : 5
+
+
+2. A sum of money is to be distributed among A, B, C, and D in the ratio of 10 : 4 : 8 : 5. If C gets Rs.24 more than B, how much did A receive?
+
+(a) Rs.63
+(b) Rs.59
+(c) Rs.60 ✔
+(d) Rs.58
+
+
+3. If a : b = 5 : 7, then (6a² – 2b²) : (b² – a²) will be:
+
+(a) 12 : 5
+(b) 21 : 5
+(c) 13 : 6 ✔
+(d) 17 : 8
+
+
+4. If a : b = c : d = e : f = 5 : 7, then what is the ratio of (3a + 5c + 11e) : (3b + 5d + 11f)?
+
+(a) 7 : 11
+(b) 3 : 7
+(c) 5 : 7 ✔
+(d) 11 : 7
+
+
+5. If (7x + y) : (7x – y) = 7 : 2, then what is the value of x : y?
+
+(a) 9 : 35 ✔
+(b) 11 : 42
+(c) 6 : 41
+(d) 17 : 52
+
+
+6. If 674 bananas were distributed among three monkeys in the ratio 17/2 : 14/6 : 2/5 respectively, how many bananas did the third monkey get?
+
+(a) 24 ✔
+(b) 23
+(c) 22
+(d) 25
+
+
+7. If 1/M : 1/N : 1/O = 3 : 4 : 5, then M : N : O is equal to:
+
+(a) 20 : 15 : 12 ✔
+(b) 15 : 20 : 12
+(c) 12 : 15 : 20
+(d) 20 : 12 : 15
+
+
+8. If 2P = 3Q = 4R = 5S, then find P : Q : R : S.
+
+(a) 30 : 20 : 12 : 15
+(b) 12 : 20 : 30 : 15 ✔
+(c) 20 : 30 : 15 : 12
+(d) 30 : 20 : 15 : 12
+
+
+9. If A : B = 6 : 8 and B : C = 5 : 10, then A : B : C is:
+
+(a) 3 : 4 : 8 ✔
+(b) 1 : 3 : 4
+(c) 4 : 3 : 2
+(d) 1 : 2 : 4
+
+
+10. A total profit of Rs.25,300 is to be distributed amongst P, Q, and R such that P : Q = 9 : 7 and Q : R = 3 : 12. The share (in Rs.) of R in the profit is:
+
+(a) 16,150
+(b) 16,100 ✔
+(c) 16,000
+(d) 16,050
+
+
+11. If a : b = 3 : 4, b : c = 2 : 3, and c : d = 5 : 6, then a : b : c : d is:
+
+(a) 10 : 20 : 30 : 36
+(b) 15 : 20 : 35 : 36
+(c) 15 : 20 : 30 : 36 ✔
+(d) 15 : 25 : 30 : 36
+
+
+12. If P : Q = 3 : 4 and Q : R = 4 : 7, then find the value of (P + Q) : (Q + R) : (R + P).
+
+(a) 10 : 3 : 11
+(b) 11 : 4 : 7
+(c) 3 : 4 : 7
+(d) 7 : 11 : 10 ✔
+
+
+13. If (a + b) : (b + c) : (c + a) = 15 : 14 : 11, and a + b + c = 40, then what is the value of (3a + b – 4c)?
+
+(a) 15
+(b) 14 ✔
+(c) 17
+(d) 18
+
+
+14. If a, b and c are positive numbers such that (a² + b²) : (b² + c²) : (c² + a²) = 34 : 61 : 45, then b – a : c – b : c – a = ______.
+
+(a) 1 : 2 : 3
+(b) 2 : 1 : 3 ✔
+(c) 3 : 1 : 2
+(d) 3 : 2 : 1
+
+
+15. A sum of ₹46,800 is divided among A, B, C and D in such a way that the ratio of the combined share of A and D to the combined share of B and C is 8 : 5. The ratio of the share of B to that of C is 5 : 4. A receives ₹18,400. If x is the difference between the shares of A and B and y is the difference between the shares of C and D, then what is the value of (x – y) (in ₹)?
+
+(a) 6500
+(b) 7000
+(c) 5000
+(d) 6000 ✔
+
+
+16. What should be added to each term of the ratio 5 : 11 so that the ratio becomes 3 : 5 ?
+
+(a) 2
+(b) 4 ✔
+(c) 6
+(d) 5
+
+
+17. The ratio between male and female members in a club is 2 : 3. If the number of male members is increased by 200, the ratio becomes 5 : 6. How many female members are there in the club?
+
+(a) 1200 ✔
+(b) 900
+(c) 1400
+(d) 1000
+
+
+18. The students in three batches of a dance class are in ratio 2 : 3 : 5. If 20 students increase in each batch the ratio changes to 4 : 5 : 7. Find the total number of students in the three batches before the increase.
+
+(a) 120
+(b) 100 ✔
+(c) 150
+(d) 80
+
+
+19. Two numbers are in the ratio of 3 : 7. If 11 is subtracted from each, the ratio between the numbers becomes 7 : 20. Find the smaller number.
+
+(a) 39 ✔
+(b) 21
+(c) 36
+(d) 27
+
+
+20. Two numbers are in the ratio 7 : 11. If the first number is increased by 10 and the second number is decreased by 20, then the ratio becomes 2 : 3. What is the sum of the original two numbers?
+
+(a) 1240
+(b) 1254
+(c) 1260 ✔
+(d) 1268
+
+
+21. In an examination, the number of students who passed and the number of students who failed were in the ratio 25 : 4. If one more student had appeared and passed and the number of failed students was 3 less than earlier, the ratio of passed students to failed students would have become 22 : 3. What is the difference between the number of students who, initially, passed the examination and the number of students who failed the examination?
+
+(a) 132
+(b) 126 ✔
+(c) 174
+(d) 150
+
+
+22. R pays ₹100 to P with ₹5, ₹2 and ₹1 coins. The total number of coins used for paying are 40. What is the number of coins of denomination ₹5 in the payment?
+
+(a) 16
+(b) 17
+(c) 18
+(d) 13 ✔
+
+
+23. A bag contains 50 Paisa, 25 Paisa and 10 Paisa coins in the ratio 16 : 8 : 20, amounting to Rs.384. Find the number of 10 Paisa coins.
+
+(a) 660
+(b) 668
+(c) 640 ✔
+(d) 696
+
+
+24. In a bag there are coins of ₹5, ₹10 and ₹20 denominations. The total number of coins in the bag is 240. If the number of coins of ₹5, ₹10 and ₹20 denominations are in the ratio of 2 : 3 : 5, then what is the total amount of money in the bag?
+
+(a) ₹3540
+(b) ₹4600
+(c) ₹4620
+(d) ₹3360 ✔
+
+
+25. A payment of ₹120 is made with ₹10, ₹5 and ₹2 coins. A total of 25 coins are used. Which of the following is the number of ₹10 coins used in the payment?
+
+(a) 6
+(b) 4
+(c) 10
+(d) 8 ✔
+
+
+26. The monthly income of two persons is in the ratio of 4 : 5 and their expenditures are in the ratio 7 : 9. If each saves ₹ 50 per month, then their monthly incomes are:
+
+(a) ₹ 900; ₹ 500
+(b) ₹ 400; ₹ 500 ✔
+(c) ₹ 700; ₹ 900
+(d) ₹ 400; ₹ 700
+
+
+27. The expenditure and savings of a person are in ratio of 4 : 3. His savings increase by 1/5 of his income and income remains the same. What is the new ratio of his expenditure and savings?
+
+(a) 12 : 17
+(b) 14 : 17
+(c) 13 : 22 ✔
+(d) 15 : 13
+
+
+28. The monthly incomes of A, B and C are in the ratio 2 : 9 : 3 and their expenses are in the ratio 3 : 9 : 5. If A's saving is half of his total income, then savings of A, B and C are, respectively, in the ratio of:
+
+(a) 3 : 9 : 2
+(b) 2 : 5 : 2
+(c) 3 : 18 : 4 ✔
+(d) 5 : 18 : 4
+
+
+29. The ratio of the incomes of A and B in 2020 was 5 : 4. The ratios of their individual incomes in 2020 and 2021 were 4 : 5 and 2 : 3 respectively. If the total income of A and B in 2021 was ₹7,05,600, then what was the income (in ₹) of B in 2021?
+
+(a) ₹3,45,600 ✔
+(b) ₹2,79,700
+(c) ₹3,60,000
+(d) ₹4,25,900
+
+
+30. The ratio of market prices of jowar and gram is 2 : 5 and the ratio of quantities consumed in a family is 4 : 7. Find the ratio of expenditure of jowar and gram.
+
+(a) 9 : 36
+(b) 1 : 2
+(c) 8 : 35 ✔
+(d) 37 : 10
+
+
+31. The ratio of prices of coffee and tea is 3 : 4 and the ratio of their quantities consumed by a family is 4 : 7. Find the ratio of expenditure on coffee and tea.
+
+(a) 7 : 4
+(b) 3 : 7 ✔
+(c) 4 : 7
+(d) 7 : 3
+
+
+32. Rice worth, ₹504 per kg and, ₹540 per kg are mixed with the third variety in the ratio 1 : 1 : 2. If the mixture is worth, ₹612 per kg. Find the price (per kg in ₹) of the third variety.
+
+(a) 630
+(b) 702 ✔
+(c) 764
+(d) 522
+
+
+33. By mistake, instead of dividing ₹702 among Ram, Ramesh, and Naresh in the ratio 1/3 : 1/4 : 1/6, it was divided in the ratio of 3 : 4 : 6. Who gained the most and by how much?
+
+(a) Ram ₹158
+(b) Ramesh ₹158
+(c) Naresh ₹168 ✔
+(d) Ram ₹168
+
+
+34. There are 'y' yellow marbles and 'b' blue marbles in a box. 18% of the yellow marbles were added to 24% of the blue marbles, and the total was 30. Three times the number of yellow marbles exceeds two times the number of blue marbles by 200. What is the ratio of y² to b²?
+
+(a) 6 : 5
+(b) 4 : 1 ✔
+(c) 2 : 1
+(d) 5 : 2
+
+
+35. A blended tea in a barrel contains Assam, Darjeeling and Nilgiri Hills tea in the ratio 2 : 3 : 1. Another barrel contains Darjeeling, Nilgiri Hills and Kangra Valley tea in the ratio 5 : 4 : 3. If equal weights of both blended tea mix together to make a new brand, then the weight of Kangra valley per kilogram in the new brand is:
+
+(a) 500 gm
+(b) 100 gm
+(c) 250 gm
+(d) 125 gm ✔
+
+
+---PYQ---
+
+1. The prices of a school bag and a school dress are in the ratio of 8 : 7. The price of the school bag is ₹400 more than the price of the school dress. Find the price of the school dress.
+
+(a) ₹3400
+(b) ₹2800 ✔ 
+(c) ₹3800
+(d) ₹2400
+
+
+2. A box filled with gift articles weight 25 kg. If the weight of the box and the gift articles, respectively, are in the ratio 1 : 9, then the weight of the articles (in grams) is:
+
+(a) 24500
+(b) 23500
+(c) 21500
+(d) 22500 ✔
+
+
+3. A sum of money is to be distributed among A, B, C and D in the ratio of 14 : 7 : 11 : 10. If C gets Rs.196 more than B, how much did A receive?
+
+(a) Rs.684
+(b) Rs.686 ✔
+(c) Rs.688
+(d) Rs.685
+
+
+4. If (5 + 3y)/(5 – 3y) = x/x , then find x : y.
+
+(a) 5 : 3
+(b) 3 : 2 ✔
+(c) 3 : 5
+(d) 2 : 3
+
+
+5. If x : y : z = 3 : 4 : 5, then what will be the ratio of (y/x) : (z/x) : (y/z) ?
+
+(a) 49 : 37 : 100
+(b) 45 : 48 : 100 ✔
+(c) 41 : 37 : 100
+(d) 37 : 47 : 100
+
+
+6. If 15x = 24y = 32z, then x : y : z is equal to:
+
+(a) 32 : 15 : 20
+(b) 15 : 24 : 32 
+(c) 32 : 20 : 15 ✔
+(d) 24 : 15 : 4
+
+
+7. Four numbers are in the ratio of 11 : 19 : 5 : 7 respectively. If the sum of these four numbers is 2289, then what is the sum of the first and the third number?
+
+(a) 872 ✔
+(b) 848
+(c) 816
+(d) 887
+
+
+8. If A : B = 8 : 13, B : C = 5 : 8 and C : D = 4 : 5, then A : B : C : D is equal to:
+
+(a) 40 : 65 : 104 : 130 ✔
+(b) 20 : 50 : 105 : 119
+(c) 38 : 65 : 111 : 120
+(d) 40 : 60 : 103 : 112
+
+
+9. A sum of money is divided among P, Q, R and S in the Ratio of 4 : 9 : 2 : 3. If Q gets ₹560 more than R, then the share of S is:
+
+(a) Rs.140
+(b) Rs.340
+(c) Rs.240 ✔
+(d) Rs.440
+
+
+10. A sum of ₹ x is divided between A, B, C and D such that the ratio of the shares of A and B is 3 : 2, that of B and C is 9 : 8 and that of C and D is 4 : 3. If the difference between the shares of B and D is ₹ 708, then what is the value of x?
+
+(a) 8732
+(b) 8496
+(c) 8850
+(d) 8614 ✔
+
+
+11. The salaries of A, B and C are in ratio of 3/2 : 6/5 : 4/3. The salary of A and B together is ₹ 40,500. By what percentage is the salary of A more than that of C?
+
+(a) 12%
+(b) 13%
+(c) 11.5%
+(d) 12.5% ✔
+
+
+12. In Class 8 of a school, the ratio of students playing cricket to those playing football is 27 : 13, while the ratio of those playing football to those playing hockey is 26 : 14. If the total number of students in Class 8 is 470, and each student plays exactly one game, find the percentage of students of the class playing cricket.
+
+(a) 55.47%
+(b) 54.75%
+(c) 57.45% ✔
+(d) 56.35%
+
+
+13. Sum of 6,300 is divided among A, B, C and D such that the ratio of the combined share of A and D to the combined share of B and C is 11 : 10 and the ratio of the share of B and D is 8 : 9. If C receives ₹1,560, then what is the difference (in ₹) between the share of A and B ?
+
+(a) 180
+(b) 240 ✔
+(c) 120
+(d) 160
+
+
+14. Rewa has some hens and some goats. If the total number of animal heads is 100 and the total number of animal feet is 348, then what is the total number of goats with Rewa?
+
+(a) 76
+(b) 74 ✔
+(c) 55
+(d) 80
+
+
+15. Monthly salaries of Anil and Kumud are in the ratio 19 : 17. If Anil and Kumud get salary hike of ₹ 2000 and ₹1000 respectively, then the ratio in their salaries become 8 : 7. What is the present salary of Kumud after increase (in ₹)?
+
+(a) 38000
+(b) 18000
+(c) 34000
+(d) 35000 ✔
+
+
+16. In a company, the ratio of men and women is 5 : 3, respectively. When 150 additional women are employed in the company, the ratio becomes 5 : 4. How many men are employed in the company?
+
+(a) 850
+(b) 750 ✔
+(c) 550
+(d) 950
+
+
+17. In a collection of rare coins, there is one gold coin for every four non-gold coins. If 20 more gold coins are added to the collection, the ratio of the number of gold coins to that of non-gold coins will be 2 : 3. The total number of coins in the collection will now become ____.
+
+(a) 80 ✔
+(b) 60
+(c) 100
+(d) 48
+
+
+18. The ratio of number of boys and girls in a college is 3 : 2. If 40 boys leave the college and 40 girls join the college, then their ratio will becomes 2 : 3. What is the initial number of boys in the college?
+
+(a) 120 ✔
+(b) 150
+(c) 225
+(d) 75
+
+
+19. The ratio of boys to girls initial in a college is 5 : 6. If 40 boys leave the college and 50 girls join the college, the ratio will become 8 : 11. Find the number of girls (initial) in the college.
+
+(a) 740
+(b) 860
+(c) 720 ✔
+(d) 640
+
+
+20. On a tree, there are some parrots and some pigeons in the ratio of 7 : 9, respectively. After an hour, 8 parrots fly away, and 6 pigeons and 10 sparrows come and sit on the tree. The ratio of the parrots and the pigeons on the tree now is 1 : 4. What is the ratio of the parrots and the sparrows that are now on the tree?
+
+(a) 1 : 1
+(b) 1 : 2
+(c) 3 : 5 ✔
+(d) 4 : 5
+
+
+21. The salaries of A, B and C are in the ratio 3 : 10 : 8. If increments of 10%, 61%, and 20% are allowed respectively in their salaries, what will be the new ratio of their salaries?
+
+(a) 30 : 165 : 98
+(b) 35 : 163 : 102
+(c) 34 : 167 : 103
+(d) 33 : 161 : 96 ✔
+
+
+22. Radhika requested the cashier of a bank to get her coins in lieu of her cheque worth ₹1,845. Cashier gave her a packet containing ₹5, ₹10 and ₹20 coins in the ratio of 3 : 5 : 7. What is the total worth of the smallest coin received by her?
+(a) ₹125
+(b) ₹105
+(c) ₹145
+(d) ₹135 ✔
+
+23. Pooja, Chameli and Anju have a total of ₹450 in their purses. Pooja has ₹50 more than Chameli. Anju has two times what Pooja has. How much do Pooja, Chameli and Anju, respectively, have in their purses?
+(a) ₹125, ₹50 and ₹275
+(b) ₹100, ₹50 and ₹300
+(c) ₹150, ₹75 and ₹225
+(d) ₹125, ₹75 and ₹250 ✔
+
+
+24. The incomes of P, Q and R are in the ratio 10 : 12 : 9 and their expenditures are in the ratio 12 : 15 : 8. If Q saves 25% of his income, then what is the ratio of the savings of P, Q and R?
+
+(a) 15 : 14 : 21
+(b) 14 : 15 : 21 ✔
+(c) 21 : 15 : 14
+(d) 21 : 14 : 15
+
+
+25. The salaries of P and Q together amount to ₹ 6,40,000. P and Q save 60% and 40%, respectively, of their individual salaries. If their expenditures are the same, then what is the ratio of P's salary to Q's salary?
+
+(a) 2 : 3
+(b) 3 : 2 ✔
+(c) 3 : 4
+(d) 4 : 3
+
+
+26. The ratio of income of A to that of B is 4 : 3. The expenditure of A is 5/12 of his income and the expenditure of B is 7/15 of his income. The difference between their expenditures is ₹4,500. Find the income of B.
+
+(a) ₹49,625
+(b) ₹48,625
+(c) ₹51,625
+(d) ₹50,625 ✔
+
+
+27. The income of A is 2/3 of B's income and the expenditure of A is 3/4 of B's expenditure. If 1/3 of the income of B is equal to the expenditure of A, then the ratio of the savings of A to those of B is:
+
+(a) 5 : 3
+(b) 3 : 5 ✔
+(c) 4 : 3
+(d) 3 : 4
+
+
+28. Wheat worth ₹80 per kg and ₹50 per kg is mixed with a third variety in the ratio 1 : 2 : 3. If the mixture is worth ₹75 per kg, then the price of the third variety per kg will be equal to:
+
+(a) ₹95
+(b) ₹85
+(c) ₹80
+(d) ₹90 ✔
+
+
+29. The ratio of the number of employees (male and female) in offices A and B is 2 : 3. The ratio of the female employees in A and B is 1 : 2, and the ratio of the female employees in A to the total employees in A is 1 : 3. What is the ratio of the male employees in A and B?
+
+(a) 6 : 7
+(b) 5 : 6
+(c) 4 : 5 ✔
+(d) 3 : 2
+
+
+30. In a party hall, there are people in blue and red dresses. The ratio of number of men in blue to the number of women in red is 3 : 7. The ratio of men in red to the number of women in blue is 2 : 1. If the ratio of number of people in blue to the number of people in red is 35 : 76, then what is the ratio of number of men to the number of women?
+
+(a) 47 : 51
+(b) 40 : 43
+(c) 62 : 57
+(d) 52 : 59 ✔
+
+
+31. A sum of money was divided between Cyrus, Rohan and Mishti. The ratio of the sums received by Cyrus and Rohan was 3 : 2, while the ratio of the sums received by Rohan and Mishti was 7 : 12. If the sum received by Cyrus was ₹1,800 less than the sum received by Mishti, how many rupees did Rohan receive as his share?
+
+(a) ₹7,560
+(b) ₹9,240
+(c) ₹6,300
+(d) ₹8,400 ✔
+
+
+32. Two numbers are in the ratio 4 : 5. If 3 is added to the smaller and 7 is subtracted from the larger number, they are in the ratio 1 : 1. Find the numbers.
+
+(a) 60, 75
+(b) 20, 25
+(c) 40, 50 ✔
+(d) 55, 44
+
+
+33. In a school of 720 students, the ratio of boys to girls is 3 : 5. Find how many new boys may be allowed to the school if 18 new girls are admitted, so that the ratio of boys to girls changes to 2 : 3.
+
+(a) 42 ✔
+(b) 50
+(c) 44
+(d) 38
+
+
+34. P pays Q a sum of ₹150 using coins of ₹2, ₹5 and ₹10. He uses a total of 50 coins. If the ratio of ₹2 and ₹5 coins used is 5 : 2, then how many coins of ₹10 are used in the payment?
+
+(a) 1 ✔
+(b) 4
+(c) 5
+(d) 2
+
+
+35. Aman has certain number of notes of denomination ₹20 and ₹10 which amount to ₹390. If the numbers of notes of each kind are interchanged, then the new amount is ₹90 less than before. Find the number of notes of ₹20 denomination.
+
+(a) 16 ✔
+(b) 12
+(c) 15
+(d) 14
+
+
+36. A pouch contains 50 Paisa, 25 Paisa and 10 Paisa coins in the ratio 18 : 12 : 10, amounting to ₹130. Find the number of 10 Paisa coins.
+
+(a) 149
+(b) 184
+(c) 100 ✔
+(d) 180
+
+
+37. The annual incomes of Anand and Bharath are in the ratio 3 : 5 and their annual expenses are in the ratio 1 : 3. If each of them saves ₹ 10,000 at the end of the year, then the annual income of Bharath is:
+
+(a) ₹25,000 ✔
+(b) ₹12,000
+(c) ₹15,000
+(d) ₹30,000
+
+
+38. The ratio of the incomes of A and B in the last year was 4 : 3. The ratios of their individual incomes in the last year and the present year are 3 : 4 and 5 : 6, respectively. If their total income in the present year is ₹ 24.12 lakhs, then the sum of the income (in ₹ lakhs) of A in the last year and that of B in the present year is:
+
+(a) 22.17
+(b) 21.28
+(c) 10.98
+(d) 20.52 ✔
+
+
+GOTO:top
+______________________
+TAG:33-proportion
+*33-Proportion*
+Proportion
+TYPE - 1
+
+1. The first proportional of three numbers 6, 12 and 24 is :
+
+(a) 3 ✔
+(b) 4
+(c) 7
+(d) 6
+
+
+2. The second proportional of three numbers 28, 4 and 5 is :
+
+(a) 39
+(b) 48
+(c) 35 ✔
+(d) 40
+
+
+3. Find the third proportional of 9, 7, ?, 14.
+
+(a) 18 ✔
+(b) 16
+(c) 24
+(d) 21
+
+
+4. Find the fourth proportional to 4, 9 and 16.
+
+(a) 18
+(b) 27
+(c) 36 ✔
+(d) 16
+
+
+5. Find the ratio between the fourth proportional of 42, 56, 63 and the fourth proportional of 189, 273, and 153.
+
+(a) 33 : 84
+(b) 217 : 42
+(c) 33 : 221
+(d) 84 : 221 ✔
+
+
+TYPE - 2
+
+6. The mean proportional of 2 & 32 is:
+
+(a) 16
+(b) 8 ✔
+(c) 12
+(d) 6
+
+
+7. The mean proportional between (18 + 8√2) and (15 – 2√2) is:
+
+(a) √238 + 36√2 ✔
+(b) √238 + 120√2
+(c) √238 + 84√2
+(d) √238 + 110√2
+
+
+8. Find the third proportion to 36 & 48.
+
+(a) 54
+(b) 36
+(c) 48
+(d) 64 ✔
+
+
+9. If the mean proportional between p and q is 12, then the possible values of p and q respectively, are:
+
+(a) 3, 38
+(b) 3, 28
+(c) 24, 6 ✔
+(d) 24, 16
+
+
+10. If 28.9 : x :: x : 36.1, and x > 0, then find the value of x.
+
+(a) 38.3
+(b) 32.3 ✔
+(c) 30.4
+(d) 35
+
+
+11. If p is the third proportional to 8, 20 and q is the fourth proportional to 3, 5, 24 , then find the value of (2p + q).
+
+(a) 140 ✔
+(b) 126
+(c) 90
+(d) 104
+
+
+TYPE - 3
+
+12. Which number should be added to 3, 11, 4 and 14 to make them in proportion?
+
+(a) 2
+(b) 1 ✔
+(c) 3
+(d) 4
+
+
+13. When x is added to each of 22, 26, 19 and 21, then the numbers so obtained, in this order, are in proportion. Then, if 2x : y :: y : (4x – 8), and y > 0, what is the value of y?
+
+(a) 48 ✔
+(b) 37
+(c) 46
+(d) 54
+
+
+14. If x is subtracted from each of 24, 40, 33 and 57, the numbers, so obtained are in proportion. The ratio of (5x + 12) to (4x + 15) is
+
+(a) 4 : 3
+(b) 14 : 13 ✔
+(c) 7 : 4
+(d) 7 : 5
+
+
+15. When x is subtracted from each of 24, 33, 20 and 26, the number so obtained in this order are in proportion. What is the mean proportional between (2x + 1 ) and (5x – 11)?
+
+(a) 30
+(b) 35 ✔
+(c) 20
+(d) 42
+
+
+
+TYPE - 4
+
+16. A varies directly as (B + 18) and A = 108 when B = 36. Find the value of A when B = 68.
+
+(a) 75
+(b) 86
+(c) 127
+(d) 172 ✔
+
+
+17. M varies inversely as (N² + 3). If M = 3 when N = 3, then what will be the value of M when N² = 69?
+
+(a) 1/2 ✔
+(b) 1
+(c) 69
+(d) 1/4
+
+
+18. X is directly proportional to A² and A is inversely proportional to Y. If X is 97 when Y is 6, find X when Y is 2.
+
+(a) 873 ✔
+(b) 871
+(c) 872
+(d) 875
+
+
+19. A function of two variable varies directly with x and inversely with y. Determine function when x = 5 and y = 3. Given that, for x = 0 and y = 1, f = 15 and for x = 1 and y = 15, f = 2.
+
+(a) 10 ✔
+(b) 2
+(c) 5
+(d) 15
+
+
+20. The weight of a cube varies directly as the product of its volume and its density. The ratio of densities of the materials of the first cube and second cube is 27 : 16. If the weight of the first cube is 4 times the weight of the second cube, then what is the ratio of the edges of the first cube and second cube?
+
+(a) 3 : 2
+(b) 2 : 3
+(c) 3 : 4
+(d) 4 : 3 ✔
+
+
+
+---Age---
+
+21. Rahul’s age is three times the age of his daughter. After 8 years from now, his age will be 5 years more than twice the age of his daughter. Find the present age of Rahul.
+
+(a) 36 years
+(b) 30 years ✔
+(c) 33 years
+(d) 39 years
+
+
+22. The sum of the ages of a son and father is 52 years. After four years, the father's age will be four times the son's age. What is the present age (in years) of the son?
+
+(a) 9 years
+(b) 12 years
+(c) 10 years
+(d) 8 years ✔
+
+
+23. If the age of a person is four times the sum of the ages of his three children and after 6 years, his age will be twice the sum of the ages of his three children, then what is the present age of that person?
+
+(a) 60 years ✔
+(b) 56 years
+(c) 45 years
+(d) 30 years
+
+
+24. One year ago, the age of B was twice that of A. After 9 years, if the ratio of the ages of B and A would be 4 : 3, then the sum of their present ages is _____ years.
+
+(a) 30 years
+(b) 15 years
+(c) 17 years ✔
+(d) 21 years
+
+
+25. The ratio of the ages of A and B, 3 years ago, was 5 : 7. The ratio of their ages, 13 years from now, will be 9 : 11. If the present age of C is 11 years less than that of B, then the present age of C, in years, is:
+
+(a) 23
+(b) 36
+(c) 31
+(d) 20 ✔
+
+
+26. In a family, the combined age of husband, wife and a son is 90 years. The husband is the oldest. The difference in the ages of the husband and wife is 1/3 rd the age of their son. After 10 years, the age of the son would be half the age of his father. What is the present age of his mother (in years)?
+
+(a) 40
+(b) 45
+(c) 35 ✔
+(d) 30
+
+
+27. Anil and Beena are friends and the difference between their ages is 5 years. Anil's father Dinesh is three times as old as Anil and Beena is twice as old as her sister Charu. The ages of Dinesh and Charu differ by 45 years. If Beena is older than Anil, then find the sum of the present ages of both Dinesh and Charu.
+
+(a) 78 years
+(b) 69 years ✔
+(c) 91 years
+(d) 100 years
+
+
+Partnership
+
+28. X, Y and Z invested ₹4,000, ₹6,000 and ₹8,000 respectively in a business. They invested the money for 3,2 and 4 years respectively. If the total profit is ₹56,000, then what is the share of Y in the profit?
+
+(a) ₹12000 ✔
+(b) ₹18000 
+(c) ₹15000
+(d) ₹9000
+
+
+29. A and B start a business jointly. The investment made by A is equal to seven times the investment made by B. Find A's share (in ₹) in the annual profit of ₹2,75,000.
+
+(a) 2,41,225
+(b) 2,40,625 ✔
+(c) 2,42,365
+(d) 2,45,625
+
+
+30. A, B and C did certain investments and the ratio of their time periods is 3 : 2 : 7 respectively. Ratio of the profits of A, B and C is 4 : 3 : 14 respectively. What is the ratio of the investments of A, B and C?
+
+(a) 1 : 3 : 4
+(b) 7 : 9 : 11
+(c) 8 : 9 : 12 ✔
+(d) 2 : 3 : 11
+
+
+31. A starts a business with ₹45,000 and was joined afterwards by B with ₹30,000. When did B join if the profit at the end of the year was divided in the ratio 2 : 1?
+
+(a) After 6 months
+(b) After 12 months
+(c) After 9 months
+(d) After 3 months ✔
+
+
+32. A and B enter into a partnership with ₹25,000 and ₹50,000, respectively, in a company for a year. After 7 months, C gets into a partnership with them with ₹30,000 and A withdraws his contribution after 9 months. What would be C's share in the profit, assuming a total profit of ₹3,900 at the end of the year?
+
+(a) ₹1,200
+(b) ₹800
+(c) ₹600 ✔
+(d) ₹1,000
+
+
+33. A, B and C started a business with the investment of ₹100000, ₹140000 and ₹200000 respectively. After 3 months, C left the business. 7 months after C left the business, B also left the business. B and C took their investments with them. At the end of the year, C received his share of profit as ₹1155. What is the total share of profits of A and B?
+
+(a) ₹6150
+(b) ₹5555
+(c) ₹5005 ✔
+(d) ₹4995
+
+
+34. X and Y enter into a partnership with capital in the ratio 3 : 5. After 5 months X adds 50% of his capital, while Y withdraws 60% of his capital. What is the share (in lakhs ₹) of X in the annual profit of ₹6.84 lakhs?
+
+(a) 3.72 ✔
+(b) 4.2
+(c) 3.6
+(d) 3.12
+
+
+35. A, B and C jointly started a business in which A invested ₹7,000 for 12 months, B invested ₹8,000 for 10 months and C invested Rs.12,000 for 6 months. A was the working member for which he received 20% of the profits as his remuneration. The total profit earned at the end of one year was ₹14,750. What is C's share (in ₹) in the profit?
+
+(a) 2950
+(b) 3600 ✔
+(c) 4000
+(d) 4200
+
+
+
+---DPQ---
+Daily Practice Questions (DPQ)
+
+1. Find the fourth proportional to 2, 6, 8.
+
+(a) 36
+(b) 48
+(c) 12
+(d) 24 ✔
+
+
+2. Find the fourth proportion to 10, 12, and 15.
+
+(a) 16
+(b) 20
+(c) 18 ✔
+(d) 22
+
+
+3. Find the fourth proportion to 1.25, 5.75 and 3.5.
+
+(a) 16.1 ✔
+(b) 12.5
+(c) 6.5
+(d) 4.5
+
+
+4. The fourth proportional to 0.3, 0.8 and 0.108 is:
+
+(a) 0.482
+(b) 0.124
+(c) 0.144
+(d) 0.288 ✔
+
+
+5. What is the fourth proportional of
+1/72 , 1/168 , 1/150 ?
+
+(a) 1/250
+(b) 1/275
+(c) 1/375
+(d) 1/350 ✔
+
+
+6. Find the mean proportional between 25 and 81.
+
+(a) 45 ✔
+(b) 81
+(c) 12
+(d) 36
+
+
+7. Find the natural number obtained when the number 13 is subtracted from the mean proportional of 75 and 12.
+
+(a) 14
+(b) 30
+(c) 27
+(d) 17 ✔
+
+
+8. The fourth proportion to 12 , 24 and 27 is the same as the third proportion to A and 36. What is the value of A?
+
+(a) 22
+(b) 24 ✔
+(c) 26
+(d) 20
+
+
+9. What is the ratio of the mean proportional between 1.2 and 10.8 to the third proportional to 0.2 & 1.2?
+
+(a) 3 : 1
+(b) 2 : 1
+(c) 1 : 3
+(d) 1 : 2 ✔
+
+
+10. When x is added to each of the numbers 7, 11, 18 and 23, then the number so obtained are in proportion. What is the mean proportional between the (x – 1) and (2x – 10)?
+
+(a) 68
+(b) 78
+(c) 98
+(d) 48 ✔
+
+
+11. When x is added to each of 2, 3, 30 and 35, then the numbers obtained in this order, are in proportion. What is the mean proportional between (x + 7) & (x – 2)?
+
+(a) 7
+(b) 4
+(c) 6 ✔
+(d) 5
+
+
+12. M is inversely proportional to N. If M is 20, then N is 70. If N = 50, then what is the value of M?
+
+(a) 20
+(b) 700
+(c) 28 ✔
+(d) 600
+
+
+13. A varies directly as the positive square root of B, and inversely as the cube of C. If A = 15, when B = 27 and C = 2, then find B when A = 9 and C = 2.
+
+(a) 281/42 ✔
+(b) 243/25
+(c) 264/37
+(d) 275/51
+
+
+14. 'x' varies directly with the cube of 'y', and inversely with the square of 'z'. If x = 1/36 when y = 2 and z = 3, then what is the value of 800x when y = 3 and z = 5?
+
+(a) 9/800
+(b) 27 ✔
+(c) 800/9
+(d) 9
+
+
+15. X varies inversely as Y and Y varies inversely as Z. In a particular case, X = 1/2 and Z = 1/74. What will be the value of X when Z = 7?
+
+(a) 259 ✔
+(b) 262
+(c) 260
+(d) 275
+
+
+16. When x is added to each of 20, 34, 11 and 16, then the numbers so obtained, in this order, are in proportion. Then, if 3x : y :: y : (2x-6), and y > 0, what is the value of y?
+
+(a) 29
+(b) 10
+(c) 18 ✔
+(d) 2
+
+
+17. 5 times the present age of Sujatha is 5 years more than 2 times the present age of Vanita. After 4 years, 3 times the age of Vanita will be 8 years less than 5 times the age of Sujatha. The age of Vanita is k years more than that of Sujatha. What is the value of k?
+
+(a) 2 ✔
+(b) 3
+(c) 4
+(d) 5
+
+
+18. The ratio of a father’s age to his son’s age is 7 : 4. The product of the numbers representing their ages is 1372. The ratio of their ages after 8 years will be:
+
+(a) 19 : 13
+(b) 19 : 12 ✔
+(c) 19 : 11
+(d) 19 : 14
+
+
+19. Hema is 20 years old and her sister Neha is 30 years old. How many years ago were their ages in the ratio of 3 : 5?
+
+(a) 3 years
+(b) 2 years
+(c) 7 years
+(d) 5 years ✔
+
+
+20. The current average age of a family of five members is 24. If the present age of the youngest member in the family is 8 years, what was the average age of the family members just before the birth of this youngest member?
+
+(a) 24 years
+(b) 20 years ✔
+(c) 28 years
+(d) 16 years
+
+
+21. Four years ago, Ravi was four times as old as Kavya. Seven years from now, Ravi will be three times as old as Kavya. Find the sum of their present ages.
+
+(a) 118 years ✔
+(b) 122 years
+(c) 117 years
+(d) 115 years
+
+
+22. The ages of two friends, Ram and Ravi, difference by 7 years. Ram's mother Mayadevi is three times as old as Ram, and Ravi is four times as old as his brother Soham. The ages of Mayadevi and Soham difference by 65 years. Find the age of Mayadevi (in years).
+
+(a) 69 years ✔
+(b) 36 years
+(c) 85 years
+(d) 45 years
+
+
+23. A, B and C started a business investing amounts of ₹13,750 ₹16,250 and ₹18,750 respectively. If B's share in the profit is ₹5,200. What is the difference in the profit (in ₹) earned by A and C?
+
+(a) ₹1520
+(b) ₹1600 ✔
+(c) ₹1800
+(d) ₹1200
+
+
+24. A, B and C invested their capitals in the ratio of 2 : 3 : 5. The ratio of months for which A, B and C invested is 4 : 2 : 3. If C gets a share of profit which is ₹147,000 more than that of A, then B's share of profit is:
+
+(a) 126000 ✔
+(b) 168000
+(c) 105000
+(d) 189000
+
+
+25. A, B and C start a business. A invests 33⅓% of the total capital. B invests 25% of the remaining, and C invests the rest. If the total profit at the end of the year is ₹1,86,000, then A’s share of the profit (in ₹) is:
+
+(a) 62,000 ✔
+(b) 59,000
+(c) 61,000
+(d) 64,000
+
+
+26. A, B and C start a business. A invests 33⅓% of the total capital, B invests 25% of the remaining and C, the rest. If the total profit at the end of the year is ₹219000, then A's share (in ₹) is:
+
+(a) 65000
+(b) 71000
+(c) 73000 ✔
+(d) 79000
+
+
+27. A, B and C start a business. A invests 33⅓% of the total capital, B invest 25% of the remaining and C invests the rest. If the total profit at the end of a year is ₹162,000, then A's share in profit is:
+
+(a) ₹81000
+(b) ₹60000
+(c) ₹54000 ✔
+(d) ₹90000
+
+
+28. P invested ₹4000 for one year. Q joined him with an investment of ₹6000 after a few months. If at the end of one year the profits of P and Q is 4 : 3, then Q joined after how many months?
+
+(a) 4 months
+(b) 3 months
+(c) 8 months
+(d) 6 months ✔
+
+
+29. Suresh, Dinesh and Ramesh became partners in a business by investing money in the ratio of 3 : 6 : 8. If their investments is increased by 5%, 15% and 20%, respectively, then what will be the ratio of their profits for one year?
+
+(a) 7 : 46 : 64
+(b) 19 : 46 : 64
+(c) 21 : 46 : 64 ✔
+(d) 35 : 46 : 64
+
+
+30. A, B and C started a business with initial investments of ₹20000, ₹25000 and ₹10000, respectively. After 5 months from start, A invested ₹4000 more. After 6 months from start, C invested ₹8000 more. After 4 months from start, B withdrew ₹8000. At the end of the year, they will receive a profit of ₹x’. In what ratio they will share the profits?
+
+(a) 59 : 68 : 42
+(b) 71 : 59 : 42
+(c) 67 : 59 : 42 ✔
+(d) 71 : 57 : 42
+
+
+31. Three people, A, B and C, invest in a business in the ratio 2 : 3 : 5. It was decided that 9% of the profits will go to charity. If the total profit was ₹2,50,000, then find the share of C in the profit (in ₹).
+
+(a) 1,26,950 
+(b) 1,11,650
+(c) 1,21,850
+(d) 1,13,750 ✔
+
+
+32. Three partners decided to start a business. They decided to donate 10% of the profit to a charity organisation and then the remaining profit would be shared among first, second and third partner in the ratio 1 : 2 : 2. The total profit received was ₹1,80,000. Find the share of the first partner.
+
+(a) ₹31,800
+(b) ₹29,600
+(c) ₹33,200
+(d) ₹32,400 ✔
+
+
+33. Keshav, Surjeet and Thomas started a business with investments in the ratio 2 : 3 : 4. The ratio of their period of investments is 5 : 6 : 9. Twenty percent of the profit was spent on rent and maintenance of the office. Remaining profit was distributed among themselves. If the difference in the shares of profit of Keshav and Surjeet is ₹7264, then how much is the total profit (in ₹)?
+
+(a) 51060
+(b) 58112
+(c) 46490
+(d) 72640 ✔
+
+
+34. Two friends A and B started a business by investing ₹1,50,000 and ₹2,50,000, respectively. They agreed to distribute their earnings in the same ratio of their investments. After an year, the profit earned was ₹6,00,000. Each of them added ₹50,000 to their respective profits and invested in a different project. If this project gave an yield of ₹4,20,000, then A’s share in the profit is:
+
+(a) 1,97,000
+(b) 2,35,000
+(c) 1,65,000 ✔
+(d) 1,84,000
+
+
+35. Three partners X, Y and Z started their business by investing ₹40,000, ₹38,000 and ₹30,000, respectively. After 6 months, X and Z made additional investments of ₹20,000 and ₹15,000 respectively, whereas Y withdrew ₹8,000. Find the share of Y (in ₹) in the total profit of ₹38,880 made at the end of the year.
+
+(a) 10,950
+(b) 10,200
+(c) 9,800
+(d) 10,880 ✔
+
+
+GOTO:top
+______________________
+TAG:34-mixture-and-allegation
+*34-Mixture-and-allegation*
+
+1. In a mixture of 25 litres, the ratio of acid to water is 4 : 1. Another 3 litres of water is added to the mixture. The ratio of acid to water in the new mixture is
+
+(a) 5 : 2 ✔
+(b) 2 : 5
+(c) 3 : 5
+(d) 5 : 3
+
+
+2. There is a 32 litres mixture of milk and water. The ratio of milk and water in this mixture is 5 : 3. How many litres of water should be added to this mixture so that the resultant mixture has 50% water in it?
+
+(a) 8 ✔
+(b) 6
+(c) 5
+(d) 4
+
+
+3. In a mixture, milk and water are in ratio of 7 : 9. Some milk is added to the mixture because of which ratio of milk and water becomes 11 : 9. How much milk was added as a percentage of initial mixture?
+
+(a) 10%
+(b) 60%
+(c) 30%
+(d) 25% ✔
+
+
+4. A mixture contains alcohol and water in the ratio of 12:5. On adding 14 liters of water, the ratio of alcohol to water becomes 4:3. The quantity of alcohol in the mixture is:
+
+(a) 18 L
+(b) 28 L
+(c) 30 L
+(d) 42 L ✔
+
+
+5. A mixture of acid and water contains 20 percent acid. When 10 litres of water is added to the mixture, then the percentage of acid becomes 15 percent. What is the original quantity of mixture?
+
+(a) 25 litres
+(b) 40 litres
+(c) 35 litres
+(d) 30 litres ✔
+
+
+6. A vessel contains 18 litres mixture of milk and water in the ratio 5 : 1. If 3 litres of milk is added to the vessel, then how much water (in litres) should be added to the vessel to have milk and water in the ratio 9 : 2?
+
+(a) 2
+(b) 1.5
+(c) 0.5
+(d) 1 ✔
+
+
+7. A beaker contains acid and water in the ratio 1 : x. When 50 ml of water is mixed in 300 ml of the mixture the ratio of acid to water becomes 2 : 5. What is the value of x?
+
+(a) 2 ✔
+(b) 1
+(c) 3
+(d) 4
+
+
+---Type 2---
+8. A vessel contains 20 litres of acid. 5 litres of acid is taken out of the vessel and replaced by the same quantity of water. Next 5 litres of the mixture are withdrawn, and again the vessel is filled with the same quantity of water. The ratio of acid left in the vessel with the quantity of acid initially in the vessel is :
+
+(a) 4 : 5
+(b) 4 : 25
+(c) 16 : 25
+(d) 9 : 16 ✔
+
+
+
+9. A container contains 36 liters of water. 6 liters of water was taken out from this container and replaced with oil. This process was repeated twice. How much water is inside the container?
+
+(a) 30 litres
+(b) 28 litres
+(c) 25 litres ✔
+(d) 20 litres
+
+
+10. A milk container contains 100 litre of milk. 10 litres of milk is taken out from it and 10 litres of water is added. This process is replaced 3 times. find the quantity of milk left in the container at the end?
+
+(a) 72.9 litres ✔
+(b) 70.9 litres
+(c) 74.8 litres
+(d) 68.2 litres
+
+
+11. The ratio of milk to water in a 100 litres mixture is 2 : 3. 10 litres of this mixture is withdrawn and replaced with milk. This process is repeated 2 more times. What is the percentage of milk in final mixture?
+
+(a) 56.26 percent ✔
+(b) 58.21 percent
+(c) 51.24 percent
+(d) 54.27 percent
+
+
+12. The ratio of milk and water in a 100 litre container is 1 : 4. 10 litre of mixture is taken out from it and 10 litre of milk is added. This process is repeated 2 time. Find the quantity of milk left in the end? (in %)
+
+(a) 36.4
+(b) 35.2 ✔
+(c) 35.0
+(d) 37.5
+
+
+13. The ratio of glycerine and water in a mixture is 3 : 1, how much portion of the mixture should be removed and how much water should be replaced so that the ratio of glycerine and water becomes 1 : 1?
+
+(a) 3/4
+(b) 1/3 ✔
+(c) 1/2
+(d) 2/3
+
+
+14. A mixture of milk and water contains 18 parts of milk and 8 parts of water. How much fraction of the mixture should be removed and replaced by water so the ratio of water and milk are equal?
+
+(a) 1/18
+(b) 12/18
+(c) 10/18
+(d) 5/18 ✔
+
+
+---Type 3---
+15. A vessel contained a solution of acid and water, in which water was 64%. Four litres of the solution was taken out of the vessel and the same quantity of water was added. If the resulting solution contains 30% acid, the quantity (in litres) of the water in the solution, at the beginning in the vessel, was:
+
+(a) 11.36
+(b) 15.36 ✔
+(c) 8.64
+(d) 12.64
+
+
+16. A jar contained a mixture of two liquids A and B in the ratio 4 : 1. When 10 litres of the mixture was taken out and 10 litres of liquid B was poured into the jar, this ratio became 2 : 3. The quantity of liquid A contained in the jar initially was
+
+(a) 4 litres
+(b) 8 litres
+(c) 16 litres ✔
+(d) 40 litres
+
+
+17. A container contains a mixture of two liquids, A and B, in the ratio 7 : 5. If 9 liters of the mixture is replaced by 9 liters of Liquid B, then the ratio of the two liquids becomes 7 : 9. How much of liquid A was there in the container initially?
+
+(a) 21 liters ✔
+(b) 35 liters
+(c) 40 liters
+(d) 19 liters
+
+
+---Type 4---
+18. Two containers of equal capacity are full of mixture of milk and water. In the first, the ratio of milk to water is 3 : 7 and in the second it is 7 : 9. Now both the mixtures are mixed in a bigger container. What is the resulting ratio of milk to water?
+
+(a) 59 : 101 ✔
+(b) 57 : 107
+(c) 61 : 97
+(d) 58 : 103
+
+
+19. The compositions of two mixtures A and B are as follows: The ratio of copper and tin in mixture A is 1 : 2. The ratio of copper and tin in mixture B is 1 : 3. If mixture C is made by using equal quantities of mixture A and B, then find the ratio of copper and tin in mixture C.
+
+(a) 2 : 5
+(b) 7 : 17 ✔
+(c) 7 : 12
+(d) 1 : 5
+
+
+20. In two types of brass, the ratios of Copper to Zinc are 8:3 and 15:7 respectively. If the two types of brass be melted and mixed in the ratio 5:2 a new type of brass is obtained. The ratio of Copper to Zinc in this new type of brass is
+
+(a) 3 : 2
+(b) 2 : 3
+(c) 3 : 4
+(d) 5 : 2 ✔
+
+
+21. Mixture A contains chocolate and milk in the ratio 4:3 and mixture B contains chocolate and milk in the ratio 5 : 2. A and B are taken in the ratio 5:6 and mixed to form a new mixture. The percentage of chocolate in the new mixture is closest to:
+
+(a) 35%
+(b) 69%
+(c) 31%
+(d) 65% ✔
+
+
+22. Vessel A contains milk and water in the ratio 4: 5. Vessel B contains milk and water in the ratio 2 : 1. If x litres mixture of A is mixed with y litres mixture of B, then the ratio of milk to water in the mixture becomes 8 : 5. Find the ratio x : y.
+
+(a) 3 : 10 ✔
+(b) 5 : 6
+(c) 2 : 5
+(d) 3 : 4
+
+
+---Type 5---
+23. A drink is made by mixing water and juice in the ratio 9 : 7. If x litres of water and 2x litres of juice are mixed in 160 litres of drink, then the new ratio becomes 13 : 15. The quantity of drink (in litres) is:
+
+(a) 240
+(b) 280 ✔
+(c) 300
+(d) 260
+
+
+24. A mango juice is made by mixing water and mango concentrate in the ratio 9 : 7. If x litres of water and 3x litres of mango concentrate is mixed in 160 litres of mango juice, then the new ratio becomes 13 : 14. What is the quantity of the new mango juice (in litres)?
+
+(a) 197 litre
+(b) 212 litre ✔
+(c) 206 litre
+(d) 216 litre
+
+
+25. Two containers have mixtures of milk and water, respectively, in the ratios 3 : 2 and 6 : 5. In what ratio should the contents be mixed so that the ratio of milk to water in the final mixture is 4 : 3?
+
+(a) 10 : 11 ✔
+(b) 6 : 13
+(c) 5 : 8
+(d) 9 : 14
+
+
+26. A chemist has two solutions of alcohol and water. Solution A contains 70% alcohol, and solution B contains 30% alcohol. In what ratio should he mix them to get a solution containing 50% alcohol?
+
+(a) 2 : 1
+(b) 1 : 1 ✔
+(c) 1 : 2
+(d) 1 : 3
+
+
+27. In what ratio, sugar costing Rs.78 per kg be mixed with sugar costing Rs.46 per kg such that by selling the mixture at Rs.75 per kg there is a gain of 20%?
+
+(a) 33 : 37
+(b) 31 : 29
+(c) 37 : 31
+(d) 33 : 31 ✔
+
+
+---Type 6---
+28. The concentrations of three acids, A, B, and C, are specified as 20%, 30%, and 40%, respectively. They are blended in a ratio of 3 : 5 : a, yielding a solution with a concentration of 30%. What is the value of 'a'?
+
+(a) 3 ✔
+(b) 1
+(c) 2
+(d) 4
+
+
+29. Two vessels A and B, each with the capacity of 8 litres, are full of solutions of acid and water. The ratio of acid and water in Vessel A is 3 : 1 and that in case of Vessel B is 5 : 3. Two litres of solution are taken out from B and added to A. After mixing thoroughly, 2 litres of solution are taken out from A and added to B. What is the ratio of acid and water in the final solution in B?
+
+(a) 11 : 8
+(b) 13 : 7 ✔
+(c) 7 : 3
+(d) 9 : 4
+
+
+30. 80 litres of a mixture of spirit and water in the ratio 7 : 9 is present in a container A. 20 litres of the mixture is transferred to another container B. Then the container A is filled with 20 litres of water. Then 32 litres of the mixture is again transferred to container B. The ratio of water to spirit of the mixture in container B is equal to:
+
+(a) 87 : 41
+(b) 131 : 77
+(c) 77 : 131 ✔
+(d) 41 : 87
+
+
+---DPQ---
+1. If a mixture of 60 liters of milk contains 40% milk, how much more milk needs to be added to make the amount of milk in the mixture 60%?
+
+(a) 30 liter ✔
+(b) 20 liter
+(c) 35 liter
+(d) 25 liter
+
+
+2. A vessel contains liquid A and liquid B in the ratio 4 : 9. If 8 litres of liquid A is added to the vessel, the new ratio becomes 8 : 9. Find the quantity of liquid A (in litres) in the original mixture.
+
+(a) 12
+(b) 9
+(c) 8 ✔
+(d) 6
+
+
+3. A bottle is filled with liquid of which 4 parts are water and 5 parts are fruit extract. How much of the mixture must be drawn off and replaced with water so that the mixture may be half water and half fruit extract?
+
+(a) 1/10 ✔
+(b) 9/10
+(c) 4/9
+(d) 5/9
+
+
+4. A container contains a mixture of two liquids, A and B, in the proportion 7 : 5. If 9 liters of the mixture is replaced by 9 liters of Liquid B, then the ratio of the two liquids becomes 7 : 9. How much of liquid A was there in the container initially?
+
+(a) 21 liters ✔
+(b) 35 liters
+(c) 40 liters
+(d) 19 liters
+
+
+5. A solution contains acid and water in the ratio of 4 : 5. If 20% of the solution is replaced by water, then what will be the ratio of acid and water in the new solution?
+
+(a) 10 : 7
+(b) 5 : 17
+(c) 16 : 29 ✔
+(d) 8 : 15
+
+
+6. A vessel contains some milk. 6 litre of the milk was taken out of the vessel and replaced with 6 litre of water and again 6 litre of mixture was taken out and was replaced with water. Now the ratio of milk to water become 100 : 69. Find the initial quantity of milk in the vessel.
+
+(a) 28 litre
+(b) 26 litre ✔
+(c) 36 litre
+(d) 46 litre
+
+
+7. A vessel contains a solution of two liquids A and B in the ratio 5 : 3. When 10 litres of the solution is taken out and replaced by the same quantity of B, the ratio of A and B in the vessel becomes 10 : 11. The quantity (in litres) of the solution, in the vessel was ____.
+
+(a) 48
+(b) 52
+(c) 42 ✔
+(d) 44
+
+
+8. A vessel contains a 32 litre solution of acid and water in which the ratio of acid and water is 5: 3. If 12 litres of the solution are taken out and 1 7/2 litres of water are added to it, then what is the ratio of acid and water in the resulting solution?
+
+(a) 4 : 7
+(b) 5 : 6 ✔
+(c) 4 : 9
+(d) 8 : 11
+
+
+9. From a cask of milk containing 64 litres. 8 litres are drawn out and the cask is filled up with water. If the same process is repeated a second, then a third time, what will be the proportion of milk to water in the resulting mixture?
+
+(a) 343 : 179
+(b) 333 : 169
+(c) 443 : 179
+(d) 343 : 169 ✔
+
+
+10. A 10-litre solution of milk and water contains 8 litres of milk. 2 litres of the solution is replaced by pure milk and mixed. The process is repeated two more times. How much milk (in litres) is present in the mixture so obtained?
+
+(a) 8.976 ✔
+(b) 8.597
+(c) 8.796
+(d) 8.679
+
+
+11. In alloys A and B, the ratio of lead to tin is 5 : 3 and 3 : 1, respectively. 80 kg of alloy A and 100 kg of alloy B are mixed together to form a new alloy. What is the amount of tin (in kg) in the new alloy?
+
+(a) 90
+(b) 55 ✔
+(c) 68
+(d) 81.3
+
+
+12. In two alloys, the ratio of aluminum and zinc are 5:6 and 3:5. If 242 kg of the first alloy and 144 kg of the second alloy are mixed, then ratio of aluminum and zinc in the new alloy will be:
+
+(a) 76 : 117
+(b) 82 : 111 ✔
+(c) 93 : 100
+(d) 68 : 125
+
+
+
+13. One cup has juice and water in the ratio 5 : 2, while another cup of the same capacity has them in the ratio 7: 4, respectively. If contents of both the cups (when full) are poured in a vessel, then what will be the final ratio of water to juice in the vessel?
+
+(a) 52 : 25
+(b) 25 : 26
+(c) 26 : 25
+(d) 25 : 52 ✔
+
+
+
+14. Two vessels of equal capacity contain juice and water in the ratio of 3 : 5 and 3 : 1 respectively. The mixture of both the vessels are mixed and transferred into a bigger vessel. What is the ratio of juice and water in the new mixture?
+
+(a) 13 : 9
+(b) 9 : 7 ✔
+(c) 8 : 9
+(d) 7 : 3
+
+
+15. Alloy A contain metals x and y in the ratio 5 : 2 and alloy B contains these metals in the ratio 3 : 4. Alloy C is prepared by mixing A and B in the ratio 4 : 5. The percentage of y in alloy C is:
+
+(a) 44 4/9 % ✔
+(b) 33 4/9 %
+(c) 66 4/9 %
+(d) 55 4/9 %
+
+
+
+16. A and B are solutions of acid and water. The ratios of water and acid in A and B are 4 : 5 and 1 : 2, respectively. If x litres of A is mixed with y litres of B, then the ratio of water and acid in the mixture becomes 8 : 13. What is x : y?
+
+(a) 5 : 6
+(b) 2 : 5
+(c) 3 : 4 ✔
+(d) 2 : 3
+
+
+
+17. An alloy contains the metals A, B and C in the ratio 2 : 3 : 1 and another contains the metals B, C and D in the ratio 5 : 4 : 3. If equal weights of both alloys are mixed together to form a third alloy, then how much part of the metal B is in new alloy?
+
+(a) 1/8
+(b) 1/6
+(c) 3/24
+(d) 11/24 ✔
+
+
+
+18. There are three cups of mixture of milk and water in ratio 4 : 5, 5 : 6, 9 : 7. 36 liters of first and 44 liters of second cup are taken. How much quantity from third cup is to be taken so that final mixture from the three cups will have milk and water in ratio 1 : 1?
+
+(a) 32 litres
+(b) 64 litres ✔
+(c) 54 litres
+(d) 60 litres
+
+
+
+19. A chemistry laboratory requests for a 25% solution of ferrous sulphate. A supplier has 40 millilitres of 20% solution. How many millilitres of 40% solution should be added to make it a 25% solution (correct to two decimal places)?
+
+(a) 14.30
+(b) 15.20
+(c) 16.40
+(d) 13.33 ✔
+
+
+
+20. P and Q are two alloys of aluminum and copper. The ratios of aluminum and copper in P and Q are 5 : 11 and 3 : 5, respectively. If a third alloy is formed by mixing alloys P and Q in the ratio of 1 : 3, then aluminum is what percentage (rounded off to the nearest integer) of the copper in the third alloy?
+
+(a) 63%
+(b) 52%
+(c) 48%
+(d) 56% ✔
+
+
+
+21. A milk vendor has 2 vessels of milk and water. The first contains 80% milk and the rest is water. The second contains 50% milk. How much mixture (in L) should he mix from each of the vessels so as to get 9 litres of mixture such that the ratio of water to milk is 1 : 2? (Write your answer in the order of vessel 1 and vessel 2)
+
+(a) 4 : 5
+(b) 6 : 3
+(c) 5 : 4 ✔
+(d) 3 : 6
+
+
+22. Pomegranate juice contains 10% sugar solution and orange juice contains 30% sugar solution. What is the percentage of sugar solution in a mixture of two litres of pomegranate juice and three litres of orange juice?
+
+(a) 22% ✔
+(b) 25%
+(c) 20%
+(d) 40%
+
+
+
+GOTO:top
+______________________
+TAG:35-average
+*35-Average*
+1. The temperatures recorded over five consecutive days in a town were: 28°C, 30°C, 32°C, 31°C and 29°C. What was the average temperature during these five days?
+
+(a) 29º C
+(b) 30º C ✔
+(c) 31º C
+(d) 32º C
+
+
+2. The weights of the five friends are 67 kg, 85 kg, 70 kg, 90 kg and 103 kg. Find the average of their weights in kg.
+
+(a) 80
+(b) 90
+(c) 87
+(d) 83 ✔
+
+
+3. The average of 11 results is 59 and that of the first 10 is 58. The 11th result is:
+
+(a) 58
+(b) 68
+(c) 69 ✔
+(d) 59
+
+
+4. A student scored the following marks: 78, 85, 69, and 90 in four subjects. What score is required in the fifth subject to achieve an average of 80 marks across all five subjects?
+
+(a) 68
+(b) 82
+(c) 78 ✔
+(d) 83
+
+
+5. The weights (in kg) of 9 members of a school cricket team are 50, 63, x, 62, 64, 48, 51, 55, 48. If the mean weight is 56 kg, then the value of x is _______.
+
+(a) 48
+(b) 63 ✔
+(c) 64
+(d) 57
+
+
+6. The average score of a batsman in twenty matches is 15 and in twenty-five other matches is 24. Find the average score in all the forty-five matches.
+
+(a) 21
+(b) 20 ✔
+(c) 19.5
+(d) 22
+
+
+7. The university has 750 faculty (male and female only), out of which the females are 60%. The average height of females is 162 cm and that of males is 168 cm. What is the average height of the faculty (in cm) of the university?
+
+(a) 164.4 ✔
+(b) 166.4
+(c) 163.4
+(d) 161.4
+
+
+8. The average monthly expenditure of a family was ₹2,500 during the first 4 months, ₹2,750 during the next 5 months and ₹3,550 during the last 3 months of a year. If the total saving during the year was ₹5,500, what was the average monthly income of the family?
+
+(a) ₹3,325 ✔
+(b) ₹4,375
+(c) ₹5,790
+(d) ₹7,355
+
+
+9. The average of twelve numbers is 25. If 6 is added to each number, what will be the new average?
+
+(a) 31 ✔
+(b) 20
+(c) 25
+(d) 19
+
+
+10. The average of 50 numbers is 23. If each number is multiplied by 13, then the new average is:
+
+(a) 299 ✔
+(b) 88
+(c) 219
+(d) 650
+
+
+11. If the average of 50 numbers N1, N2 … N50 is M. Then the average of the numbers N1 − 100, N2 − 100 … N50 − 100 will be:
+
+(a) 50M
+(b) 100M
+(c) M − 50
+(d) M − 100 ✔
+
+
+12. The average of 'n' numbers is 45. If 60% of the numbers are increased by 5 each and the remaining numbers are decreased by 10 each, then what is the average of the numbers so obtained?
+
+(a) 42
+(b) 43
+(c) 46
+(d) 44 ✔
+
+
+---Type 2---
+13. Find the average of first 125 natural numbers.
+
+(a) 62.5
+(b) 63 ✔
+(c) 62
+(d) 63.5
+
+
+14. The average of first 14 whole numbers is:
+
+(a) 6.5 ✔
+(b) 7.5
+(c) 7
+(d) 5.5
+
+
+15. The average of the squares of the first 47 natural numbers is:
+
+(a) 760 ✔
+(b) 761
+(c) 759
+(d) 762
+
+
+16. Find the average of cubes of first 49 positive integers.
+
+(a) 30625 ✔
+(b) 1225
+(c) 30125
+(d) 6235
+
+
+17. The average of first 91 even numbers is:
+
+(a) 92 ✔
+(b) 90
+(c) 91
+(d) 93
+
+
+18. The average of first 120 odd natural numbers is:
+
+(a) 120 ✔
+(b) 119.5
+(c) 120.5
+(d) 121
+
+
+19. What is the average of the first 10 prime numbers?
+
+(a) 15.8
+(b) 14
+(c) 16
+(d) 12.9 ✔
+
+
+20. The average of a set of 18 consecutive integers is 22.5. What is the largest integer in the set?
+
+(a) 13
+(b) 17
+(c) 31 ✔
+(d) 14
+
+
+21. If the average of 6 consecutive odd numbers is 30, the difference between the largest and the smallest numbers is:
+
+(a) 15
+(b) 16
+(c) 10 ✔
+(d) 18
+
+
+---Type 3---
+22. Average weight of 20 persons is 60 kg. A new person joins the group and average weight of 21 persons becomes 59 kg. What will be the weight of new person?
+
+(a) 41 kg
+(b) 29 kg
+(c) 39 kg ✔
+(d) 40 kg
+
+
+23. Average age of a team having 12 players is 24 years. If the age of the coach is also included, then the average age increases by 2 years. What is the age of the coach?
+
+(a) 53 years
+(b) 57 years
+(c) 50 years ✔
+(d) 52 years
+
+
+24. The average weight of a certain number of students in a class is 55.5 kg. If 4 students with average weight 60 kg join the class, then the average weight of all students in the class increases by 360 gm. The number of students in the class, initially, is:
+
+(a) 41
+(b) 31
+(c) 36
+(d) 46 ✔
+
+
+25. In a class with a certain number of students, if one student weighing 30 kg is added, then the average weight of the class increases by 1 kg. If one more student weighing 30 kg is added, then the average weight of the class increases by 1.5 kg over the original average. What is the original average weight (in kg) of the class?
+
+(a) 27 ✔
+(b) 26.5
+(c) 25.5
+(d) 24
+
+
+---Type 4---
+26. The average age of 10 students and their class teacher is 17 years. If the age of the class teacher is excluded, the average age of the 10 students is reduced by 2 years. What is the age of the class teacher?
+
+(a) 38 years
+(b) 36 years
+(c) 37 years ✔
+(d) 35 years
+
+
+27. In a hotel, there are 120 staff members. Their average weight is 62.5 kg. When one of the staff members leaves the hotel, the average weight is reduced by 250 gm. Find the weight of the staff member who left the hotel.
+
+(a) 64.25 kg
+(b) 78.75 kg
+(c) 90.50 kg
+(d) 92.25 kg ✔
+
+
+---Type 5---
+28. The average weight of 10 students is increased by half a kg when one of the students weighing 51 kg is replaced by a new student. Find the weight of the new student.
+
+(a) 56 kg ✔
+(b) 75 kg
+(c) 45 kg
+(d) 66 kg
+
+
+29. The average weight of 49 students in a class is 39 kg. Seven of them whose average weight is 40 kg leave the class and other seven students whose average weight is 54 kg join the class. What is the new average weight (in kg) of the class?
+
+(a) 41 ✔
+(b) 39
+(c) 42
+(d) 40
+
+
+30. The average height of a certain number of students in a group is 155.6 cm. If 12 students having an average height of 150.5 cm join the group and 7 students having an average height of 159 cm leave the group, the average height of the students in the group will decrease by 34 mm. What is the number of students, initially, in the group?
+
+(a) 40
+(b) 30
+(c) 20 ✔
+(d) 25
+
+
+---Type 6---
+31. The average of 45 numbers was found to be 39. Later on, it was detected that a number 65 was misread as 56. Find the correct average of the given numbers.
+
+(a) 36.2
+(b) 37.2
+(c) 38.2
+(d) 39.2 ✔
+
+
+32. Anwesha's marks in a class test of Sanskrit were incorrectly entered as 99 instead of 66. If there are 55 students in the class, then what is the increment in the average marks of the class in Sanskrit because of this typing error?
+
+(a) 0.2
+(b) 0.8
+(c) 0.4
+(d) 0.6 ✔
+
+
+33. The average age of a number of persons in a group was calculated as 35 years, which was 2.5 years more than the correct average as there was an error in recording the age of two persons as 38.5 years and 40 years instead of 29 years and 22 years respectively. The number of persons in the group was:
+
+(a) 11 ✔
+(b) 12
+(c) 15
+(d) 13
+
+
+---Type 7---
+34. A batsman in his 13th innings makes a score of 97 runs, thereby increasing his average score by 5. What is his average score after the 13th innings?
+
+(a) 37 ✔
+(b) 57
+(c) 77
+(d) 67
+
+
+35. The average runs scored by Sumit in the first 3 matches is 122. In the 4th match, he scored some runs such that his average runs now become 130. In the 5th match, he scored 14 less runs than those in the 4th match, and now the average of his last 4 matches becomes 164. The runs scored by Sumit in the 1st match is:
+
+(a) 9
+(b) 3
+(c) 5
+(d) 4 ✔
+
+
+36. The bowling average of cricketer is 12.4. He improves his bowling average by 0.2 points when he takes 5 wickets for 26 runs in his last match. The number of wickets taken by him before the last match is:
+
+(a) 125
+(b) 150
+(c) 175 ✔
+(d) 200
+
+
+---Type 8---
+37. If the average age of three persons is 56 years and their ages are in the ratio 2 : 5 : 7, then find the age of the youngest person.
+
+(a) 20 years
+(b) 22 years
+(c) 24 years ✔
+(d) 26 years
+
+
+38. Average age of 7 students of a class is 28 years. Average age of first three students is 30 years. Age of fourth student is 4 years less than the age of fifth student. Ages of last two students is same and is 5 more than the average age of first three students. What is the average age of fourth and fifth student?
+
+(a) 20 years
+(b) 18 years ✔
+(c) 36 years
+(d) 16 years
+
+
+39. Eleven friends spent ₹18 each on a tour and the twelfth friend spent ₹11 less than the average expenditure of all twelve of them. What is the total money spent by twelve friends?
+
+(a) ₹204 ✔
+(b) ₹215
+(c) ₹212
+(d) ₹208
+
+
+40. There are 90 students in a hostel. Due to new admissions, 30 new students join the mess and the daily expenses of the mess increases by ₹560, while the average expenditure per head diminishes by ₹10. What was the original daily expenditure (in ₹) of the mess?
+
+(a) 4,980
+(b) 4,280
+(c) 5,280 ✔
+(d) 3,680
+
+
+41. The average of 15 results is 21. The average of the first 7 of those is 21 and the average of the last 7 is 20. What is the 8th result?
+
+(a) 25
+(b) 31
+(c) 28 ✔
+(d) 22
+
+
+42. The average of 12 numbers is 48. The average of the first 5 numbers is 45 and the average of next 4 numbers is 52. If the 10th number is 10 less than the 11th number and is 5 more than the 12th number, then the average of the 11th and 12th numbers is:
+
+(a) 50.5
+(b) 46.5
+(c) 47.5
+(d) 48.5 ✔
+
+
+---DPQ---
+1. Consider ten consecutive odd numbers starting from 5. Multiply each of them, except the first and the second, with three. What will be the average of the ten numbers so formed?
+
+(a) 39.6 ✔
+(b) 39
+(c) 42
+(d) 38.4
+
+
+2. Find the average of the prime numbers lying between 50 and 76.
+
+(a) 66
+(b) 60
+(c) 62
+(d) 64 ✔
+
+
+3. What is the average of first 1947 even numbers?
+
+(a) 1948 ✔
+(b) 1
+(c) 1947
+(d) 325
+
+
+4. The average of first 17 multiples of 13 is:
+
+(a) 127
+(b) 137
+(c) 117 ✔
+(d) 128
+
+
+5. If the average weight of 40 apples is 33 kg and that of 32 apples is 60 kg, then the average weight (in kg) of all the apples is:
+
+(a) 45 ✔
+(b) 45.2
+(c) 46.5
+(d) 44
+
+
+6. A fruit seller has 10 kg of apples and 5 kg of grapes. The price of 1 kg of apples is ₹94.50 and that of grapes is ₹105. He sold all the fruits with him. What is the average amount (in ₹) received by the fruit seller?
+
+(a) 101.50
+(b) 98 ✔
+(c) 100
+(d) 97.50
+
+
+7. If the average marks of three batches of 55, 60 and 45 students are 50, 55 and 60 respectively, then what are the average marks of all the students?
+
+(a) 51.23
+(b) 55.98
+(c) 57.42
+(d) 54.68 ✔
+
+
+8. A class of 30 students appeared in a test. The average score of 12 students is 62 and that of the rest is 72. What is the average score of the class?
+
+(a) 66
+(b) 68 ✔
+(c) 67
+(d) 69
+
+
+9. There are two sections A and B of a class, consisting of 22 and 44 students, respectively. If the average weight of section A is 40 kg and that of section B is 34 kg, find the average weight of the whole class (in kg).
+
+(a) 35.5
+(b) 36 ✔
+(c) 37
+(d) 36.5
+
+
+10. The average height of 5 boys is 175 cm. A sixth boy joined the group and the average height of all the boys in the group now increased by one centimeter. The height of the sixth boy is:
+
+(a) 180 cm
+(b) 181 cm ✔
+(c) 179 cm
+(d) 175 cm
+
+
+11. The average weight of 8 students is 48 kg. If four students of average weight 44 kg and four students of average weight 58 kg is also added, then find the average weight of 16 students.
+
+(a) 49.5 kg ✔
+(b) 49 kg
+(c) 48.5 kg
+(d) 48 kg
+
+
+12. The average age of the boys in the class was 16 years. When 4 boys whose average age was 13 years are admitted to the class, the average age of the class was reduced by 6 months. How many boys were there initially in the class?
+
+(a) 18
+(b) 25
+(c) 22
+(d) 20 ✔
+
+
+13. The average weight of 5 boys is increased by 9 kg when one of them, whose weight is 39 kg is replaced by another boy. What is the weight (in kg) of the new boy?
+
+(a) 65
+(b) 70
+(c) 69
+(d) 84 ✔
+
+
+14. The average weight of three men is increased by 4 kg when one of them, whose weight is 100 kg is replaced by another man. What is the weight of the new man?
+
+(a) 107 kg
+(b) 103 kg
+(c) 104 kg
+(d) 112 kg ✔
+
+
+15. The average score in an English exam of a class of 45 students in a coaching center is 52. A group of 6 boys having an average score of 40 leaves the class and another group of eight boys having an average score of 43 joins the class. What is the new average score of the class?
+
+(a) 48
+(b) 53
+(c) 49.5
+(d) 52 ✔
+
+
+16. There are some children in a camp and their average weight is 40 kg. If 5 children with average weight 36 kg join the camp or if 5 children with average weight 43.2 kg leave the camp, the average weight of children in both cases is equal. How many children are there in the camp, initially?
+
+(a) 35
+(b) 45 ✔
+(c) 40
+(d) 50
+
+
+17. The average weight of a certain number of students in a group is 72 kg. If 10 students having an average weight of 78 kg leave and 4 students having an average weight of 80 kg join the group, the average weight of the students in the group decreases by 0.7 kg. The number of students initially in the group is:
+
+(a) 56
+(b) 46 ✔
+(c) 44
+(d) 54
+
+
+18. The average weight of 7 persons increases by 3 kg when a new person comes in place of one of them weighing 56 kg. What might be the weight of the new person?
+
+(a) 66 kg
+(b) 77 kg ✔
+(c) 59 kg
+(d) 71 kg
+
+
+19. The average of 16 numbers is 35. It was found later that four numbers 18, 17, 24 and 35 were taken by mistake. What is the new average after removing these numbers?
+
+(a) 38.83 ✔
+(b) 42.33
+(c) 46.66
+(d) 33.33
+
+
+20. The average salary of a group of 12 employees in an institution is ₹3,950 per month and that of another group of employees is ₹1,850. If the average salary of all employees is ₹2,150, then the total number of employees is:
+
+(a) 100
+(b) 88
+(c) 84 ✔
+(d) 72
+
+
+21. The average weight of 50 students in a class is 48 kg. The average weight of 30 of them is 45 kg. What is the average weight (in kg) of the remaining students?
+
+(a) 52.5
+(b) 53 ✔
+(c) 51.5
+(d) 50
+
+
+22. The average marks obtained by 25 candidates in an examination is 68. The average marks of the first 15 candidates is 64 and that of the last 9 candidates is 72. What are the marks obtained by the 16th candidate?
+
+(a) 62 ✔
+(b) 68
+(c) 66
+(d) 70
+
+
+23. The average of 20 numbers is 45. If 5 is subtracted from each of the first ten numbers and 10 is added to each of the remaining numbers, then the average of the new numbers is:
+
+(a) 47.5
+(b) 45 ✔
+(c) 46.5
+(d) 44.5
+
+
+24. The average of 40 numbers is 38. If the average of the first 20 numbers is 42 and that of the last 20 numbers is 34, then what is the difference between the sums of the first 20 numbers and the last 20 numbers?
+
+(a) 160
+(b) 180 ✔
+(c) 140
+(d) 200
+
+
+25. The average age of a group of 20 boys is 16 years. When 5 new boys join the group, the average age decreases by 1 year. What is the average age (in years) of the new boys?
+
+(a) 11
+(b) 12
+(c) 13 ✔
+(d) 14
+
+
+26. The average of 10 numbers is 28. If each number is multiplied by 2 and 5 is added to each of them, what will be the new average?
+
+(a) 61 ✔
+(b) 60
+(c) 56
+(d) 57
+
+
+27. The average marks of 15 students in a class is 72. If the marks of one student were wrongly taken as 92 instead of 62, then what is the correct average?
+
+(a) 70 ✔
+(b) 72
+(c) 74
+(d) 68
+
+
+28. The average of the first 10 multiples of 7 is:
+
+(a) 38.5
+(b) 35
+(c) 42
+(d) 45 ✔
+
+
+29. The average age of 8 persons is increased by 2 years when a person aged 24 years is replaced by a new person. What is the age (in years) of the new person?
+
+(a) 40
+(b) 38
+(c) 42 ✔
+(d) 36
+
+
+30. The average of 12 numbers is 50. The average of the first 6 numbers is 48 and that of the next 5 numbers is 52. What is the 12th number?
+
+(a) 58
+(b) 60
+(c) 56 ✔
+(d) 54
+
+
+31. The average of 25 numbers is 32. If one number is excluded, the average becomes 31. What is the excluded number?
+
+(a) 56
+(b) 57 ✔
+(c) 58
+(d) 59
+
+
+32. The average of 30 numbers is 45. If each number is increased by 3, what will be the new average?
+
+(a) 48
+(b) 47 ✔
+(c) 46
+(d) 49
+
+
+33. The average of 8 numbers is 12. If each number is multiplied by 3, what will be the new average?
+
+(a) 36 ✔
+(b) 24
+(c) 18
+(d) 48
+
+
+34. The average of 5 numbers is 16. If each number is increased by 4, then what is the new average?
+
+(a) 20 ✔
+(b) 22
+(c) 18
+(d) 24
+
+
+35. The average of 6 numbers is 25. If each number is decreased by 3, what will be the new average?
+
+(a) 23
+(b) 22 ✔
+(c) 21
+(d) 20
+
+
+36. The average of 10 numbers is 35. If 5 is added to each number, what will be the new average?
+
+(a) 40
+(b) 45
+(c) 42 ✔
+(d) 38
+
+
+37. The average of 20 numbers is 18. If 4 numbers whose average is 10 are removed, what will be the average of the remaining numbers?
+
+(a) 20
+(b) 19
+(c) 21
+(d) 22 ✔
+
+
+38. The average of 15 numbers is 40. If one number 25 is removed, what will be the new average?
+
+(a) 41
+(b) 42 ✔
+(c) 39
+(d) 43
+
+
+39. The average of 9 numbers is 30. If one number is replaced by 45, the average becomes 32. What was the replaced number?
+
+(a) 12
+(b) 14
+(c) 18
+(d) 20 ✔
+
+
+40. The average of 20 numbers is 50. If two numbers 40 and 60 are removed, what will be the new average?
+
+(a) 50
+(b) 49 ✔
+(c) 48
+(d) 51
+
+
+
+GOTO:top
+______________________
+TAG:36-time-and-work
+*36-Time-and-Work*
+1. Akhil can complete a work in 24 days. Shyam can complete the same work in 12 days. If both of them work together, in how many days can they complete the same work?
+
+(a) 6 days
+(b) 8 days ✔
+(c) 10 days
+(d) 12 days
+
+
+2. A can complete 1/3 of a work in 7 days and B can complete 2/7 of the same work in 10 days. In how many days can both A and B together complete the work?
+
+(a) 12 3/8
+(b) 11 7/8
+(c) 13 1/8 ✔
+(d) 15 1/7
+
+
+3. Sumit and Rajiv, working together, can do a work in 20 hours whereas Sumit alone can do the same work in 25 hours. In how many hours can Rajiv alone do the work?
+
+(a) 70
+(b) 90
+(c) 80 
+(d) 100 ✔
+
+
+4. A and B complete a work in 18 days. If A alone can do it in 24 days, then B alone can do one-fourth of the same work in ______ days.
+
+(a) 18 ✔
+(b) 72
+(c) 36
+(d) 54
+
+
+5. A can do 20% of a work in 7 days and B can do 25% of the work in 7 days if they worked alone. How much of the work (in percentage) can they complete in 7 days if they worked together?
+
+(a) 38%
+(b) 52%
+(c) 56%
+(d) 45% ✔
+
+
+6. Vipin can do a piece of work in 2 days; Vaibhav can do the same work in 3 days and Chirag can do the same work in 6 days. If they start working together, how many days will they take to complete the work?
+
+(a) 3
+(b) 5
+(c) 1 ✔
+(d) 4
+
+
+7. A can do 20% of a work in 4 days and B can do 33 1/3% of the same work in 10 days. They worked together for 9 days and then C finished the remaining work in 6 days. In how many days will B and C together complete 75% of the same work?
+
+(a) 12 days
+(b) 9 days
+(c) 11 days
+(d) 10 days ✔
+
+
+8. A can do 1/3 of a work in 15 days, B can do 3/4 of the same work in 18 days and C can do the same work in 36 days. B and C work together for 8 days. In how many days will A alone complete the remaining work?
+
+(a) 24 days
+(b) 18 days
+(c) 20 days ✔
+(d) 16 days
+
+
+9. A and B can do a piece of work in 10 days. B and C can do the same work in 12 days. C and A can do the same work in 15 days. If all the three work together, find the number of days required to complete the work.
+
+(a) 6
+(b) 10
+(c) 8
+(d) 12 ✔
+
+
+10. A and B together can finish a piece of work in 12.5 days; B and C together can finish the same piece of work in 18.75 days, while C and A together can finish the same piece of work in 15 days. Taking along D, who is only 40% as efficient as C, in how many days will A, B and C together be able to finish the same piece of work?
+
+(a) 1 3/9
+(b) 17/27
+(c) 2 3/9
+(d) 7/27 ✔
+
+
+11. A can do a piece of work in 57 hours, B and C together can do it in 28 hours, while A and C together can do it in 19 hours. How long (in hours) will B alone take to do it?
+
+(a) 1597
+(b) 1595
+(c) 1596 ✔
+(d) 1598
+
+
+12. Virat can complete a work in 30 days and Daniel is 60% more efficient than Virat to complete the same work. Find the total time taken by Daniel to complete the work.
+
+(a) 3 16/5 days
+(b) 3 18/4 days ✔
+(c) 5 19/3 days
+(d) 5 17/3 days
+
+
+13. P takes twice as long as Q or thrice as long as R to complete a piece of work. If they work together, they can finish the work in two days. How much time will Q take to finish the work alone?
+
+(a) 8 days
+(b) 6 days ✔
+(c) 5 days
+(d) 7 days
+
+
+14. To do a certain work, the ratio of efficiencies of X and Y is 5 : 7. Working together, X and Y can complete the same work in 70 days. X alone started the work and left after 42 days. Y alone will complete the remaining work in:
+
+(a) 90 days ✔
+(b) 96 days
+(c) 80 days
+(d) 72 days
+
+
+15. A and B together can finish a work in 12 days. If A worked half as efficiently as he usually does and B works thrice as efficiently as he usually does, the work gets completed in 9 days. How long would A take to finish the task if he worked independently?
+
+(a) 12 days
+(b) 24 days
+(c) 27 days ✔
+(d) 18 days
+
+
+16. When they work alone, B needs 25% more time to finish a work than A does. They two finish the work in 13 days in the following manner: A works alone till half the work is done, then A and B work together for four days, and finally B works alone to complete the remaining 5% of the work. In how many days can B alone finish the entire work?
+
+(a) 16
+(b) 20 ✔
+(c) 22
+(d) 18
+
+
+17. A and B can do a work in 13 days and 26 days, respectively. If they work for a day alternately, starting with A, then in how many days will the work be completed?
+
+(a) 17 ✔
+(b) 16
+(c) 13
+(d) 14
+
+
+18. A, B and C can complete a work in 10, 15 and 20 days, respectively. They work on alternate days such that 1st day A, 2nd day B and 3rd day C. Again 4th day A, 5th day B and so on. If they work in the same way, in how many days will the work be completed?
+
+(a) 13 1/2 ✔
+(b) 14
+(c) 13 1/4
+(d) 15
+
+
+19. A can do a piece of work in 24 days and B can do it in 80 days. B works alone for 2 days and A works alone on the 3rd day. This process continues till the work is completed. In how many days will the work be completed?
+
+(a) 42
+(b) 45 ✔
+(c) 48
+(d) 44
+
+
+20. P, Q and R can finish a work in 5 days, 10 days and 15 days, respectively, working alone. P and Q works on first day, P and R works on second day and P and Q works on third day and so on till the work is completed. In how many days the work will be completed?
+
+(a) 13/2
+(b) 9/2
+(c) 7/2 ✔
+(d) 5/2
+
+
+21. A and B complete a work in 24 and 30 days, respectively, working 10 hours per day. The work is to be done in two shifts. The morning shift is for 6 hours and the evening shift is for 4 hours. On the first day, A works in the morning and B works in the evening and they interchange their shifts every day. On which day did the work get completed?
+
+(a) 24th day
+(b) 27th day ✔
+(c) 30th day
+(d) 21th day
+
+
+22. A and B are equally efficient and each can individually complete a piece of work in 36 days, if none takes any holiday. A and B started working together on this piece of work but A took a day off after every five days of work, while B took a day off after every seven days of work. If they had started work on 1 July 2021, on which date was the work completed?
+
+(a) 19 July 2021
+(b) 20 July 2021
+(c) 22 July 2021
+(d) 21 July 2021 ✔
+
+
+23. To do a certain work, Ajay and Bharat work on alternate days, with Bharat starting the work on the first day. Ajay can finish the work alone in 32 days. If the work gets completed in exactly 8 days, then Bharat alone can finish 7 times the same work in ____ days.
+
+(a) 28/8
+(b) 4
+(c) 32/7
+(d) 32 ✔
+
+
+24. To do a certain work, A and B work on alternate days with B beginning the work on the first day. A alone can complete the same work in 24 days. If the work gets completed in 1 11/3 days, then B alone can complete 7/9 part of the original work in:
+
+(a) 15/2 days
+(b) 4 days ✔
+(c) 1 4/2 days
+(d) 6 days
+
+
+25. Aman and Rajan are working at a construction site. In some engineering experiment, Aman is constructing a wall, while Rajan is demolishing that wall. Aman can completely build the wall in 15 days, while Rajan will take 20 days to completely demolish the wall. In how many days will the complete wall be built for the first time if they work on alternate days, with Aman working on the 1st day?
+
+(a) 57
+(b) 117
+(c) 113 ✔
+(d) 120
+
+
+26. In a computer game, a builder can build a wall in 10 hours while a destroyer can completely demolish such a wall in 25 hours. Both builders and destroyers were initially designed to work together on level ground. But after 15 hours the destroyers were removed. How much time did it take to build the entire wall?
+
+(a) 16 hours 20 min.
+(b) 16 hours ✔
+(c) 17 hours 2 min.
+(d) 18 hours 24 min.
+
+
+27. A and B can do a work in 15 days and 30 days, respectively. They start working together, but A leaves after 3 days. How much time will B take to complete the remaining work?
+
+(a) 21 days ✔
+(b) 28 days
+(c) 24 days
+(d) 32 days
+
+
+28. A and B can do a piece of work in 12 days and 18 days, respectively. Both work for 2 days and then A goes away and B completed the remaining work alone. The whole work was completed in__________ days.
+
+(a) 13
+(b) 14
+(c) 15 ✔
+(d) 16
+
+
+29. Nirbhay can complete a piece of work alone in 19 days and Vismay can complete the same piece of work alone in 6 days. They started the work together, but Nirbhay had to leave 4 days before the completion of the work. In how many days will the work get completed?
+
+(a) 13 5/25 days ✔
+(b) 6 5/25 days
+(c) 8 5/25 days
+(d) 24 5/25 days
+
+
+30. Robert, Chris and Jeremy can finish a certain piece of work in 10, 14 and 21 days, respectively. All three of them started the work together. Robert left the work after 5 days and Chris left just 2 days before the work was completed. Find the total number of days taken for the work to be completed.
+
+(a) 9.5
+(b) 1.7
+(c) 10.9
+(d) 5.4 ✔
+
+
+31. A group of 25 tourists consume 5 containers of food in 8 days in a hotel. How many containers will be required for 10 tourists to eat for 16 days?
+
+(a) 6
+(b) 3
+(c) 5
+(d) 4 ✔
+
+
+32. (N + 15) persons, each working for 9 hours a day, can complete 36% of a work in 8 days. (N + 9) persons can complete the remaining work in 20 days, if each of them works for 7 hours per day. Determine the value of N.
+
+(a) 55 ✔
+(b) 52
+(c) 64
+(d) 50
+
+
+33. 18 workers can complete a piece of work in 96 days. They start working together and after 26 days 10 more workers join them. In how many days in all will the work be completed?
+
+(a) 69
+(b) 71 ✔
+(c) 72
+(d) 70
+
+
+34. 64 men working 8 hours a day plan to complete a piece of work in 9 days. However, 5 days later they found that they had completed only 40% of the work. They now wanted to finish the remaining work in 4 more days. How many hours per day should they need to work in order to achieve the target?
+
+(a) 11
+(b) 12
+(c) 13
+(d) 15 ✔
+
+
+35. Each one of five men independently can complete a work in 20 days. The work is started by one person. Next day one more person joins and every next day one more person joins. From the fifth day, five persons continued working as a team. In how many days, will the work be completed?
+
+(a) 2
+(b) 6 ✔
+(c) 3
+(d) 5
+
+
+36. 15 men and 25 women can complete a piece of work in 9.6 days. If 16 women can complete the same work in 27 days, find the number of days in which 16 men can complete the same work.
+
+(a) 22.50
+(b) 20.25 ✔
+(c) 19.20
+(d) 21.60
+
+
+37. 2 men and 7 women can complete a work in 28 days, whereas 6 men and 16 women can do the work in 11 days. In how many days will 5 men and 4 women, working together, complete the work?
+
+(a) 18
+(b) 14
+(c) 22 ✔
+(d) 20
+
+
+38. 9 men or 8 women can do a job in 19 days. 9 men work for 9 days and leave. The number of women required to complete the remaining work in 8 days is:
+
+(a) 12
+(b) 11
+(c) 10 ✔
+(d) 8
+
+
+39. 4 women or 6 men can finish a work in the same number of days. A man can finish it in 60 days. In how many days can 5 women finish the work, working together every day?
+
+(a) 4
+(b) 10
+(c) 8 ✔
+(d) 6
+
+
+40. 3 men can finish a work in 10 days, 4 women can finish it in 12 days and 10 qualified workers can finish it in 6 days. In how many days can the work finished by 4 men, 4 women and 4 qualified workers, working together every day?
+
+(a) 30/19
+(b) 45/17
+(c) 60/19
+(d) 60/17 ✔
+
+
+---DPQ---
+1. A can do 1/4 part of a work in 9 days. B can do 2/3 part of the same work in 28 days. Working together, in how many days can A and B complete the whole work?
+
+(a) 261/15 days
+(b) 198/17 days
+(c) 252/13 days ✔
+(d) 262/11 days
+
+
+2. A and B can do a piece of work in 25 days. B alone can do 2 66 2/3 % of the same work in 30 days. In how many days can A alone do 4/15 part of the same work?
+
+(a) 15 ✔
+(b) 20
+(c) 18
+(d) 12
+
+
+3. George can do 35% of the total work in 6 days. Jim and George together completed a piece of work in 12 days. In how many days could Jim, working alone, complete the entire task?
+
+(a) 36
+(b) 40 ✔
+(c) 42
+(d) 45
+
+
+4. Ram alone can do a work in 5 days working 4 hours a day. Seema alone can do the same work in 3 days working 10 hours a day. How many hours do they need to work together in a day to complete the same work in 6 days?
+
+(a) 1 hour
+(b) 3 hours 
+(c) 5 hours
+(d) 2 hours ✔
+
+
+5. X, Y and Z can do a work in 24 days, 5 days and 12 days, respectively. In how many days can they do the same work if they work together?
+
+(a) 1 24 days
+(b) 1 3/13 days ✔
+(c) 4 days
+(d) 7/24 days
+
+
+6. X can do a work in 3 days, Y does three times the same work in 8 days, and Z does five times the same work in 12 days. If they have to work together for 6 hours in a day, then in how much time can they complete the work?
+
+(a) 4 hours
+(b) 5 hours
+(c) 5 hours 20 minutes ✔
+(d) 4 hours 10 minutes
+
+
+7. A can do 1/3 of work in 30 days, B can do 2/5 part of the same work in 24 days. They worked together for 20 days. C completed the remaining work in 8 days. In how many days will A, B and C together complete the work?
+
+(a) 10
+(b) 12 ✔
+(c) 18
+(d) 15
+
+
+8. A and B together can complete a piece of work in 25 days, B and C together can complete the same piece of work in 36 days, while C and A together can complete it in 30 days. If A, B, C, and D together can complete this piece of work in 18 days, then in how many days can D alone complete this piece of work?
+
+(a) 225
+(b) 210
+(c) 200 ✔
+(d) 180
+
+
+9. Rani and Adya, working separately, can finish a task in 12 days and 16 days, respectively. They work in stretches of one day alternately. If Rani starts working first, then the task will be completed in:
+
+(a) 1 12/3 days
+(b) 2 13/3 days ✔
+(c) 1 13/3 days
+(d) 2 12/3 days
+
+
+10. Avi and Bindu can complete a project in 4 and 12 hours, respectively. Avi begins project at 5 a.m., and they work alternately for one hour each. When will the project be completed?
+
+(a) 9 am 
+(b) 11 am ✔
+(c) 1 pm
+(d) 10 am
+
+
+11. A and B complete a work in 24 and 30 days, respectively, working 10 hours per day. The work is to be done in two shifts. The morning shift is for 6 hours and the evening shift is for 4 hours. On the first day, A works in the morning and B works in the evening, and they interchange their shifts every day. On which day did the work get completed?
+
+(a) 24th day
+(b) 27th day ✔
+(c) 30th day
+(d) 21th day
+
+
+12. A can complete a piece of work alone in 200 days, while B can complete the same piece of work alone in 100 days. In every three-day cycle, both A and B work on day 1, only A works on day 2, and only B works on day 3. This cycle continues till the work is completed. How many days in all does it take the duo to complete the work?
+
+(a) 100 1/3
+(b) 99 2/3 ✔
+(c) 100 1/2
+(d) 100
+
+
+13. A alone can do a work in 11 days. B alone can do the same work in 22 days. C alone can do the same work in 33 days. They work in the following manner:
+Day 1: A and B work.
+Day 2: B and C work.
+Day 3: C and A work.
+Day 4: A and B work.
+In how many days will the work be completed?
+
+(a) 12 days
+(b) 3 days
+(c) 6 days
+(d) 9 days ✔
+
+
+14. A and B can complete a work in 36 days and 45 days respectively. They worked together for 2 days and then A left the work. In how many days will B complete the remaining work?
+
+(a) 41.5
+(b) 40
+(c) 41
+(d) 40.5 ✔
+
+
+15. A and B can individually complete a piece of work in 18 days and 30 days, respectively. A and B started working together, but A left 2 16/3 days before the work is completed and B alone completed the rest of the work. For how many days did A work?
+
+(a) 4
+(b) 5 ✔
+(c) 6
+(d) 3
+
+
+16. A can do 1/5 of a piece of work in 20 days, B can do 30% of the same work in 36 days, while C can do 80% of the same work in 160 days. B and C together started and worked for x days. After x days B left the work, and A joined C and both completed the remaining work in (x − 41) days. If the ratio between the work done by (B + C) together to the work done by (A + C) together is 19 : 6, then what fraction of the same work can be completed by C alone in 2x days?
+
+(a) 57/100 ✔
+(b) 19/25
+(c) 13/25
+(d) 6/25
+
+
+17. Tarun is twice as good as Tripti in doing a work. Together, they can complete the work in 16 days. In how many days can Tripti alone complete the same work?
+
+(a) 24
+(b) 48 ✔
+(c) 25
+(d) 50
+
+
+18. Working 5 hours a day, A can complete a task in 8 days and working 6 hours a day, B can finish the same task in 10 days. Working 8 hours a day, they can jointly complete the task in:
+
+(a) 5 days
+(b) 3 days ✔
+(c) 4.5 days
+(d) 6 days
+
+
+19. P can do one-fourth piece of some work in 18 days. She completed 37.5% of that work and left it. Q completed the remaining work in 40 days. Working together they will complete 17/48 part of the same work in:
+
+(a) 10 days
+(b) 8 days
+(c) 12 days ✔
+(d) 6 days
+
+
+20. The ratio of work efficiency of A, B and C is 2 : 5 : 3. Working together, they can complete a work in 27 days. In how many days will B and C together complete 4/9 parts of the work?
+
+(a) 27 days
+(b) 15 days ✔
+(c) 1 17/7 days
+(d) 24 days
+
+
+21. A takes twice as much time as B and thrice as much time as C to finalise a task. Working together, they can complete the task in 8 days. The time (in days) taken by A, B and C, respectively, to complete the task is:
+
+(a) 42, 21, 14
+(b) 60, 30, 20
+(c) 54, 27, 18
+(d) 48, 24, 16 ✔
+
+
+22. 47 masons can dig a 35 m long trench in one day. How many masons should be employed for digging a 105 m long trench of the same type in one day?
+
+(a) 94
+(b) 141 ✔
+(c) 125
+(d) 70
+
+
+23. 30 men working 5 hours a day can do work in 18 days. In how many days will 20 men working 7 hours a day do the same work?
+
+(a) 5 16/7
+(b) 1 13/7
+(c) 2 19/7 ✔
+(d) 3 11/7
+
+
+24. 100 workers working 8 hours a day can dig a canal 2000 metres long in 25 days. Find the number of workers required to dig a similar canal of 2800 metres long in 32 days working 5 hours a day.
+
+(a) 165
+(b) 170
+(c) 175 ✔
+(d) 180
+
+
+25. A hostel had food provision for 300 students for a month. After 20 days, 50 students left the hostel. How long would the remaining food last? (1 month = 30 days)
+
+(a) 10 days
+(b) 14 days
+(c) 12 days ✔
+(d) 16 days
+
+
+26. A work can be completed by N men in 15 days. 5 men leave the work after 3 days. The remaining work was completed in 18 days. What is the value of N?
+
+(a) 18
+(b) 15 
+(c) 20 ✔
+(d) 25
+
+
+27. 2 men can finish a work in 6 days and 3 women can finish the same work in 4 days. In how many days will the work be finished by 1 man and 2 women, working together every day?
+
+ (a) 4 ✔
+ (b) 6
+ (c) 8
+ (d) 9
+
+
+28.  1 man and 4 women can complete a work in 65/4  days, while 3 men and 4 women can complete it in 13/2 days. In how many days will be 13 women complete the same.
+ 
+ (a) 20 ✔
+ (b) 16
+ (c) 14
+ (d) 18
+
+
+29. The one-day work of 2 men is equal to the one-day work of 4 women or the one-day work of 8 qualified workers. 10 qualified workers can finish a work in 8 days. If a man, a woman and a qualified worker work in the same order on three different days, the work is finished in ____ days.
+
+ (a) 203/6
+ (b) 135/4 ✔
+ (c) 131/4
+ (d) 166/5
+
+
+30. 4 men and 8 women complete a job in 10 days and 5 men and 24 women complete the same work in 4 days. In how many days will 1 man and 1 women complete the same work?
+
+ (a) 66 ¹/₃
+ (b) 69 ⁷/₉
+ (c) 67 ¹/₃
+ (d) 62 ²/₉ ✔
+
+
+
+GOTO:top
+______________________
+TAG:38-pipe-and-cistern
+*38-Pipe-and-cistern*
+
+1. Pipe L can fill a pool in 30 hours and pipe M in 45 hours. If both the pipes are opened in an empty pool, how much time will they take to fill it?
+
+(a) 24 hrs.
+(b) 17 hrs.
+(c) 18 hrs. ✔
+(d) 20 hrs.
+
+
+2. A tank can be filled by pipe A in 4 hours and pipe B in 6 hours. At 8:00 a.m., pipe A was opened. At what time will the tank be filled if pipe B is opened at 9:00 a.m.?
+
+(a) 10:16 a.m.
+(b) 10:22 a.m.
+(c) 10:48 a.m. ✔
+(d) 10:18 a.m.
+
+
+3. Pipes A, B and C can fill a tank in 20, 30 and 60 hours, respectively. Pipes A, B and C are opened at 7 a.m., 8 a.m., & 9 a.m., respectively, on the same day. When will the tank be filled?
+
+(a) 4:40 p.m.
+(b) 5:40 p.m. ✔
+(c) 6:20 p.m.
+(d) 7:20 p.m.
+
+
+4. Two pipes P1 and P2 together can fill a cistern in 8 hours. Had they been opened separately, then P2 would have taken 12 hours more than P1 to fill the cistern. How much time will be taken by P1 alone to fill the cistern?
+
+(a) 12 hours ✔
+(b) 10 hours
+(c) 8 hours
+(d) 11 hours
+
+
+5. A tap can fill a cistern in 10 minutes and another tap can empty it in 12 minutes. If both the taps are open, the time (in hours) taken to fill the tank will be:
+
+(a) 1.5 hours
+(b) 2.5 hours
+(c) 2 hours
+(d) 1 hour ✔
+
+
+6. Pipes P and Q can completely fill a water tank in 10 hours and 15 hours, respectively. A pipe R can empty a tank filled completely with water in 12 hours. Initially, the tank is empty and only pipes P and Q are opened at 6 a.m. and pipe R is also opened at 9 a.m. By what time will the tank be completely filled?
+
+(a) 1 p.m
+(b) 2 p.m
+(c) 11 p.m
+(d) 3 p.m ✔
+
+
+7. An inlet pipe can fill an empty tank in 140 hours while an outlet pipe drains a completely filled tank in 63 hours. If 8 inlet pipes and y outlet pipes are opened simultaneously, when the tank is empty, then the tank gets completely filled in 105 hours. Find the value of y.
+
+(a) 1
+(b) 4
+(c) 3 ✔
+(d) 2
+
+
+8. Inlet Pipes A and B can together fill an empty tank in 1.5 hours. Outlet Pipe C, when opened alone, can empty the completely filled tank, in 4.5 hours. When only Pipes A and C are opened together, the empty tank is filled in 6 hours. Find the time taken by Pipe B, when opened alone, to fill the empty tank.
+
+(a) 3 hours 30 min.
+(b) 3 hours 36 min. ✔
+(c) 3 hours 32 min.
+(d) 3 hours 40 min.
+
+
+9. Pipe Q can fill the tank in 60 hours while pipe R may fill in 45 hours. Q and R pipes are opened together for 6 hours after which pipe W is also opened to empty the tank. All three pipes are opened simultaneously for 24 hours to reach the half level mark. How much time (in hours) will pipe W alone take to empty the entire tank?
+
+(a) 48
+(b) 42
+(c) 36 ✔
+(d) 30
+
+
+10. Pipe P can fill 4/9 of a tank in 28 hours, and pipe Q can fill 3/5 of the same tank in 27 hours. Both pipes P and Q are opened for 3 hours, then both are closed. After that, only pipe R is opened, which empties the tank in 8 hours. If pipes P, Q, and R are opened together, how long will it take to fill the empty tank?
+
+(a) 51 hours
+(b) 57 hours
+(c) 40 hours
+(d) 42 hours ✔
+
+
+11. There are two water taps in a tank which can fill the empty tank in 12 hours and 18 hours respectively. It is seen that there is a leakage point at the bottom of the tank which can empty the completely filled tank in 36 hours. If both the water taps are opened at the same time to fill the empty tank and the leakage point was repaired after 1 hour, then in how much time the empty tank will be completely filled?
+
+(a) 7 hours 12 min.
+(b) 8 hours 24 min.
+(c) 7 hours
+(d) 7 hours 24 min. ✔
+
+
+12. Two pipes A and B can fill a cistern in 12 1/2 hours and 25 hours, respectively. The pipes were opened simultaneously, and it was found that, due to leakage in the bottom, it took one hour 40 minutes more to fill the cistern. If the cistern is full, in how much time (in hours) will the leak alone empty 70% of the cistern?
+
+(a) 35 ✔
+(b) 40
+(c) 30
+(d) 50
+
+
+13. Two pipes A and B can fill a tank in 20 and 30 hours, respectively. Both pipes are opened to fill the tank, but when the tank is one-third full, a leak develops through which one-fourth of the water supplied by both pipes goes out. Find the total time (in hours) taken to fill the tank.
+
+(a) 14 2/3 ✔
+(b) 14
+(c) 11 2/5
+(d) 12 1/3
+
+
+14. An inlet pipe can fill an empty tank in 4 1/2 hours while an outlet pipe drains a completely filled tank in 7 1/5 hours. The tank is initially empty, and the two pipes are alternately opened for an hour each, till the tank is completely filled, starting with the inlet pipe. In how many hours will the tank be completely filled?
+
+(a) 24
+(b) 20 1/3
+(c) 20 3/4 ✔
+(d) 22 1/2
+
+
+15. A tank when full can be emptied by an outlet pipe A in 5.6 hours, while an inlet pipe B can fill the same empty tank in 7 hours. If pipes A and B are turned on alternately for 1 hour each starting with pipe A when the tank is full, how long will it take to empty the tank?
+
+(a) 48 hours
+(b) 47 hours ✔
+(c) 56 hours
+(d) 55 hours
+
+
+16. A tank is filled through three pipes x, y, and z. Pipe x and y alone can fill the tank in 30 hours and 45 hours, respectively. In the first hour, pipes x and z fill the tank, and in the second hour, pipes y and z fill the tank, and this process continues in this way, filling 70% of the tank in 15 hours. If pipe z, when opened along with pipes x and y, provides 75% of the original supply, how much time will pipe z take to fill the tank by itself?
+
+(a) 40.5 hours ✔
+(b) 56.25 hours
+(c) 54 hours
+(d) 45 hours
+
+
+17. Two pipes can fill a tank separately in 36 minutes and 45 minutes respectively. A drain pipe installed in the tank can remove 40 liters of water per minute. If all three pipes are opened together, the tank is filled in one hour. Find the capacity/holding (in litres) of the tank.
+
+(a) 600
+(b) 400
+(c) 300
+(d) 1200 ✔
+
+
+18. Pipes A and B can fill an empty cistern in 72 minutes and 76 minutes, respectively. Both Pipe A and B are opened together. After how much time should Pipe B be turned off so that the empty cistern is completely filled in a total of 54 minutes?
+
+(a) 13 min.
+(b) 17 min.
+(c) 19 min. ✔
+(d) 23 min.
+
+
+19. Pipes A and B can fill a tank in 18 hours and 27 hours, respectively, whereas pipe C can empty the full tank in 54 hours. All three pipes are opened together, but pipe C is closed after 12 hours. In how much time (in minutes) will the one-third of the remaining part of the tank be filled by A and B together?
+
+(a) 24 ✔
+(b) 36
+(c) 30
+(d) 15
+
+
+20. Pipes M, N and S can fill a tank in 25, 50 and 100 minutes, respectively. Initially, pipes N and S are kept open for 10 minutes, and then pipe N is shut while pipe M is opened. Pipe S is closed 15 minutes before the tank overflows. How much time (in minutes) will it take to fill the tank if the three pipes work in this pattern?
+
+(a) 30
+(b) 33
+(c) 42
+(d) 27 ✔
+
+
+21. A cistern can be filled by two pipes in 8 minutes and 10 minutes, separately. Both the pipes are opened together for a certain time, but due to an obstruction, only 5/8 of the full quantity of water flowed through the former pipe and 3/5 through the latter pipe. However, the obstruction was suddenly removed, and the cistern was filled in 3 minutes from that moment. How long did it take before the full flow began?
+
+(a) 3 1/16 minutes
+(b) 2 6/17 minutes ✔
+(c) 9 6/7 minutes
+(d) 2 30/37 minutes
+
+
+22. Pipe A takes 4/5 of the time required by pipe B to fill an empty tank individually. When an outlet pipe C is also opened simultaneously with pipes A and B, it takes 4/5 more time to fill the empty tank than it takes when only pipe A and pipe B are opened together. If it takes 40 hours to fill the tank when all the three pipes are opened simultaneously, in what time (in hours) will pipe C empty the full tank, operated alone?
+
+(a) 50 hours ✔
+(b) 45 hours
+(c) 65 hours
+(d) 75 hours
+
+
+23. The tank is filled by three pipes with different uniform flow rates. While the first two pipes are operating simultaneously, they fill the tank in the same duration that the third pipe takes to fill it alone. The second pipe can fill the tank 5 hours quicker than the first pipe, yet 4 hours slower than the third pipe. What is the time (in hours) needed for the first pipe to fill the tank?
+
+(a) 18
+(b) 12
+(c) 9
+(d) 15 ✔
+
+
+24. There are 30 pipes connected to a tank, some of which are filling pipes, and the remaining are draining pipes. Each filling pipe can completely fill the tank in 24 hours, and each emptying pipe takes 18 hours to empty the tank and tank is completely filled in 1/2 hour. What is the number of emptying pipes among the given pipes?
+
+(a) 6
+(b) 8 ✔
+(c) 10
+(d) 12
+
+
+25. Pipes A and B are connected to a tank. A is the filling pipe and B can be used to fill or dispense at the same rate. When B is used for filling, it takes 't' time to fill the tank. If A is used for filling and B is used for dispensing, it takes '5t' time to fill the tank. Find the ratio of rates of A and B.
+
+(a) 5 : 1
+(b) 1 : 3
+(c) 3 : 2 ✔
+(d) 2 : 3
+
+
+
+---DPQ---
+
+1. Two pipes X and Y can fill a tank in 14 hours and 21 hours, respectively. Both pipes are opened simultaneously to fill the tank. In how many hours will the empty tank be filled?
+
+(a) 8 2/5 hours ✔
+(b) 6 2/5 hours
+(c) 7 2/5 hours
+(d) 5 2/5 hours
+
+
+2. 5 pipes are required to fill a tank in 1 hour and 40 minutes. How long (in minutes) will it take to fill the same tank if 4 pipes of the same type are used?
+
+(a) 115
+(b) 140
+(c) 125 ✔
+(d) 150
+
+
+3. A tank is filled in 4 hours by three pipes A, B and C. The pipe C is 1 1/2 times as fast as B and B is 3 times as fast as A. How many hours will pipe A alone take to fill the tank?
+
+(a) 17
+(b) 34 ✔
+(c) 30
+(d) 15
+
+
+4. Fill pipe P is 21 times faster than fill pipe Q. If Q can fill a cistern in 110 minutes, find the time it takes to fill the cistern when both fill pipes are opened together.
+
+(a) 5 minutes ✔
+(b) 4 minutes
+(c) 3 minutes
+(d) 6 minutes
+
+
+5. An inlet can fill an empty tank in 51 hours while an outlet pipe drains a completely-filled tank in 76.5 hours. If both the pipes are opened simultaneously when the tank is empty, in how many hours will the tank get completely filled?
+
+(a) 178.5
+(b) 127.5
+(c) 102
+(d) 153 ✔
+
+
+6. Pipe A can fill a tank in 12 minutes; pipe B can fill it in 18 minutes, while pipe C can empty the full tank in 36 minutes. If all the pipes are opened simultaneously, how much time will it take to fill the empty tank completely?
+
+(a) 7 min. 30 sec.
+(b) 10 min.
+(c) 9 min. ✔
+(d) 6 min.
+
+
+7. An inlet pipe can fill an empty tank in 120 hours while an outlet pipe drains a completely-filled tank in 54 hours. If 8 inlet pipes and 3 outlet pipes are opened simultaneously, when the tank is empty, then in how many hours will the tank get completely filled?
+
+(a) 81
+(b) 96
+(c) 72
+(d) 90 ✔
+
+
+8. Two pipes S1 and S2 alone can fill an empty tank in 15 hours and 20 hours respectively. Pipe S3 alone can empty that completely filled tank in 40 hours. Firstly both pipes S1 and S2 are opened and after 2 hours pipe S3 is also opened. In how much time tank will be completely filled after S3 is opened?
+
+(a) 90/17 hours
+(b) 89/12 hours
+(c) 90/13 hours
+(d) 92/11 hours ✔
+
+
+9. A water tank can be filled using 44 pipes of the same capacity in 38 minutes. If we use 37 pipes of the same capacity as mentioned above, in how many minutes (rounded off to two decimal places) will the water tank be filled?
+
+(a) 49.75
+(b) 39.05
+(c) 43.91
+(d) 45.19 ✔
+
+
+10. A pipe can fill an overhead tank in 12 hours. But due to a leak at the bottom, it is filled in 18 hours. If the tank is full, how much time will the leak take to empty it?
+
+(a) 3.6 hours
+(b) 63 hours
+(c) 7.2 hours
+(d) 36 hours ✔
+
+
+11. Pipe A usually fills a tank in 6 hours. But due to a leak at the bottom of the tank, it takes extra 2 hours to fill the tank. If the tank is full, then how much time will it take to get emptied due to the leak?
+
+(a) 16 hours
+(b) 20 hours
+(c) 12 hours
+(d) 24 hours ✔
+
+
+12. Pipe A and B can fill a tank in 10 hours and 40 hours, respectively. C is an outlet pipe attached to the tank. If all the three pipes are opened simultaneously, it takes 80 minutes more time than what A and B together take to fill the tank. A and B are kept open for 7 hours and then closed and C is opened. C will now empty the tank in:
+
+(a) 45.5 hours
+(b) 38.5 hours
+(c) 42 hours
+(d) 49 hours ✔
+
+
+13. Two pipes can fill a cistern in 12 hours and 16 hours, respectively. The pipes are opened simultaneously and it is found that due to leakage at the bottom, it takes 90 minutes more to fill the cistern. How much time will the leakage take to empty the completely filled tank?
+
+(a) 39 13/49 h
+(b) 36 29/49 h
+(c) 37 15/49 h
+(d) 38 10/49 h ✔
+
+
+14. There is a leak in a tank which empties it in 6 hours. A tap is turned on which fills the tank with 10 liters of water per minute. When it is full, it now takes 10 hours to empty. What is the capacity (in litres) of the tank?
+
+(a) 8000
+(b) 8500
+(c) 9000 ✔
+(d) 10000
+
+
+15. At a school building, there is an overhead tank. To fill this tank 50 buckets of water are required. Assume that the capacity of the bucket is reduced to two-fifth of the present. How many buckets of water are required to fill the same tank?
+
+(a) 62.5
+(b) 20
+(c) 125 ✔
+(d) 60
+
+
+16. Pipes A and B can fill a tank in 12 hours and 16 hours respectively and pipe C can empty the full tank in 24 hours. All three pipes are opened together, but after 4 hours pipe B is closed. In how many hours, the empty tank will be completely filled?
+
+(a) 18 ✔
+(b) 32
+(c) 28
+(d) 14
+
+
+17. Pipe A and B can fill a tank in 16 hours and 24 hours respectively, and pipe C alone can empty the full tank in x hours. All the pipes were opened together at 10.30 a.m., but C was closed at 2.30 p.m. If the tank was full at 8.30 p.m. on the same day, then what is the value of x?
+
+(a) 64
+(b) 48
+(c) 45
+(d) 96 ✔
+
+
+18. Three pipes P, Q and R can fill a cistern in 40 minutes, 80 minutes and 120 minutes, respectively. Initially, all the pipes are opened. After how much time (in minutes) should the pipes Q and R be turned off so that the cistern will be completely filled in just half an hour?
+
+(a) 14
+(b) 10
+(c) 16
+(d) 12 ✔
+
+
+19. There are 3 taps A, B and C in a tank. These can fill the tank in 10 hours, 20 hours and 25 hours, respectively. At first, all three taps are opened simultaneously. After 2 hours, tap C is closed and tap A and B keep running. After 4 hours, tap B is also closed. The remaining tank is filled by tap A alone. Find the percentage of work done by tap A itself.
+
+(a) 75%
+(b) 52%
+(c) 72% ✔
+(d) 32%
+
+
+20. There are two pipes used to fill a tank and when operated together, they can fill the tank in 20 minutes. If one pipe can fill the tank two and a half time as quickly as the other, then the faster pipe alone can fill the tank in:
+
+(a) 30 min
+(b) 32 min
+(c) 34 min
+(d) 28 min ✔
+
+
+21. Pipes A and B can fill a rectangular tank in 40 minutes and 120 minutes, respectively. Pipe C can empty the completely filled same tank in 240 minutes. If pipes A, B and C are opened at the same time, then how many minutes will it take to fill the tank?
+
+(a) 34 2/8
+(b) 32 2/7
+(c) 34 2/7 ✔
+(d) 34 3/7
+
+
+22. A pump can fill a tank with water in 1 hour. Because of a leak, it took 1 1/3 hours to fill the tank. In how many hours can the leak alone drain all the water of the tank when it is full?
+
+(a) 2
+(b) 1
+(c) 4 ✔
+(d) 5
+
+
+23. Pipe X can fill a tank in 9 hours and Pipe Y can fill it in 21 hours. If they are opened on alternate hours and Pipe X is opened first, in how many hours shall the tank be full?
+
+(a) 10 3/7
+(b) 12 3/7 ✔
+(c) 9 3/7
+(d) 11 3/7
+
+
+24. Two taps P and Q can fill a tank alone in 10 hours and 12 hours respectively. If the two taps are opened at 9 a.m., then at what time should the tap P be closed to completely fill the tank at exactly 3 p.m.?
+
+(a) 2 p.m ✔
+(b) 1 p.m
+(c) 3 p.m
+(d) 12 p.m
+
+
+25. Pipes A, B and C can fill a tank in 30 hours, 36 hours and 28 hours, respectively. All the three pipes were opened simultaneously. If A and C were closed 5 hours and 8 hours, respectively, before the tank was filled completely, then in how many hours was the tank filled?
+
+(a) 14
+(b) 15 ✔
+(c) 12
+(d) 16
+
+
+26. Mohit and Rohit undertook a work for ₹4400. Mohit alone can do that work in 10 days and Rohit alone can do the same work in 15 days. If they work together, then what will be the difference in the amount they receive?
+
+(a) ₹ 800
+(b) ₹ 1050
+(c) ₹ 900
+(d) ₹ 880 ✔
+
+
+27. X, Y and Z can do a piece of work in 4 days, 5 days and 7 days, respectively. They get ₹415 for completing the work. If X,Y and Z have worked together to complete the work, what is X's share?
+
+(a) ₹ 275
+(b) ₹ 175 ✔
+(c) ₹ 200
+(d) ₹ 225
+
+
+28. Samir and Puneet can complete the same work in 10 days and 15 days respectively. The work was assigned for Rs. 4500. After working together for 3 days Samir and Puneet involved Ashok. The work was completed in total 5 days. What amount (in Rs.) was paid to Ashok?
+
+(a) 750 ✔
+(b) 1500
+(c) 1071
+(d) 800
+
+
+29. A and B undertake a project worth ₹36,000. A alone can do the work in 25 days. They worked together for 5 days. For the next five days, B worked alone. After that, A substituted B and completed the remaining work in 5 days. The share of A in the earnings is:
+
+(a) ₹21,600
+(b) ₹14,400 ✔
+(c) ₹14,600
+(d) ₹21,400
+
+
+30. Two pipes can fill a tank in 15 hours and 4 hours, respectively, while a third pipe can empty it in 12 hours. How long (in hours) will it take to fill the empty tank if all the three pipes are opened simultaneously?
+
+(a) 20/7
+(b) 15/7
+(c) 50/7
+(d) 30/7 ✔
+
+
+31. Each inlet pipe can fill an empty cistern in 84 hours while each drain pipe can empty the same cistern from a filled condition in 105 hours. When the cistern is empty, 9 inlet pipes and 10 outlet pipes are simultaneously opened. After how many hours will the cistern be completely filled?
+
+(a) 84 ✔
+(b) 88
+(c) 80
+(d) 90
+
+
+32. A drunkard walks 5 steps forward in a narrow lane and comes back 3 steps, then again takes 5 steps forward and comes back 3 steps, and so on. Each of his steps is 1 meter long and takes 1 second. There is a pit at a distance of 11 meters from the starting point in the lane. After how many seconds will the drunkard fall into this pit?
+
+(a) 21 sec.
+(b) 29 sec. ✔
+(c) 31 sec.
+(d) 37 sec.
+
+
+33. Pipe A and B fill a tank in 43.2 minutes and 108 minutes respectively. Pipe C can empty it at 3 litres/minute. When all the three pipes are opened together, they will fill the tank in 54 minutes. The capacity (in litres) of the tank is:
+
+(a) 160
+(b) 180
+(c) 216 ✔
+(d) 200
+
+
+34. A booster pump can be used for filling as well as for emptying a tank. The capacity of the tank is 1800 m³. The emptying capacity of the tank is 10 m³/min higher than its filling capacity, and the pump needs 6 minutes lesser to empty the tank than it needs to fill it. What is the filling capacity of the pump in m³/min?
+
+(a) 65
+(b) 27
+(c) 50 ✔
+(d) 18
+
+
+35. A and B worked together and received a total of Rs 18,000 for 15 days. A's efficiency in the work was 5 times that of B's. The daily wage of A (in Rs) was:
+
+(a) 800
+(b) 600
+(c) 1200
+(d) 1000 ✔
+
+
+36. A, B and C can do a work in 10 days, 15 days, and 20 days, respectively. They finished that work together and got ₹2,600 as wages. Find C's wage.
+
+(a) ₹550
+(b) ₹600 ✔
+(c) ₹575
+(d) ₹625
+
+
+37. A and B undertake a contract of a task for Rs. 7,500. A can do complete the task all alone in 50 days and B can complete the same task all by himself in 60 days. However, to finish the work early, they take C's help and complete the entire work in 20 days. What is the difference (in Rs.) between B's and C's share for their contribution in completing the task?
+
+(a) 2,000
+(b) 250
+(c) 500 ✔
+(d) 1500
+
+
+38. A can complete a task in 18 days and B can complete the same task in 32 days. They start working together but B works only for 8 days. There after the work is completed by A. If they received Rs.8,800 after completion of the work, then what is A's share (in Rs.)?
+
+(a) 5500
+(b) 6600 ✔
+(c) 6400
+(d) 7200
+
+
+39. 4 women and 7 men earn a total of ₹ 11,480 in 7 days, while 10 women and 17 men earn a total of ₹ 36,360 in 9 days. How much will 11 women and 9 men together earn (in ₹) in 13 days?
+
+(a) ₹42770
+(b) ₹42640 ✔
+(c) ₹42510
+(d) ₹42900
+
+
+40. A tank is filled by three tankers with uniform flow. The first two tankers operating simultaneously fill the sump in the same time during which the sump is filled by the third tanker alone. The second tanker fills the sump 7 hours faster than the first tanker and 9 hours slower than the third tanker. The time required by the first tanker is:
+
+(a) 28 hours / 16hours ✔
+(b) 21 hours / 9 hours
+(c) 25 hours / 10hours
+(d) 30 hours / 15 hours
+
+
+
+GOTO:top
+______________________
+TAG:42-time-and-distance
+*42-time-and-distance*
+
+1. Which of the following is NOT a correct statement?
+
+(a) The speed of 20 m/s is less than the speed of 85 km/h.
+(b) Time may be calculated by dividing the distance by the speed.
+(c) Covering the same distance in lesser time implies a higher speed.
+(d) The speed of 99 km/h is less than the speed of 24 m/s. ✔
+
+
+2. To reach at a destination, D takes 45 minutes if he drives at a speed of 60 km/h. Due to some urgency, he is to reach the destination in 30 minutes. What should be his speed in km/h?
+
+(a) 80
+(b) 75
+(c) 90 ✔
+(d) 60
+
+3. Walking at 5/7 of his normal speed, Manish is 20 minutes late in reaching his office. The usual time taken by him to cover the distance between his home and his office is:
+
+(a) 56 minutes
+(b) 42 minutes
+(c) 50 minutes ✔
+(d) 49 minutes
+
+
+4. A train can travel 75% faster than a car. Both start from point A at the same time and reach point B, 70 km from A, at the same time. However, the train loses about 18 minutes in stopping at stations on the way. What is the speed of the car?
+
+(a) 90 km/h
+(b) 100 km/h ✔
+(c) 80 km/h
+(d) 110 km/h
+
+
+5. Devender leaves his home everyday at 8 : 25 am and reaches office at 9:55 am. One day, he left his home at 8 : 25 am but travelled 3/10 of the total distance at 6/7 of the usual speed and the rest of the distance at 7/6 of the usual speed. At what time did Devender reach office on that day?
+
+(a) 9 : 50 : 30 (am) ✔
+(b) 9 : 50 : 40 (am)
+(c) 9 : 50 : 50 (am)
+(d) 9 : 50 : 20 (am)
+
+
+6. To cover a distance of 416 km, a train A takes 2/3 hours more than train B. If the speed of A is doubled, It would take 1/3 hours less than B. What is the speed (in km/h) of train A?
+
+(a) 56
+(b) 54
+(c) 52 ✔
+(d) 65
+
+
+7. Jia takes 50 minutes less than Pia to cover 50 km. However, if Jia reduces her speed to half of her previous speed, then she takes 1 2/3 hrs more than Pia to cover the same distance. What is the speed of Pia (in km/hr)?
+
+(a) 20
+(b) 10
+(c) 15 ✔
+(d) 12
+
+
+8. A person travels from one place to another at 60 km/hr and returns at 75 km/hr. If the total time taken is 6 hours, then find the total distance travelled.
+
+(a) 300 km
+(b) 240 km
+(c) 250 km
+(d) 400 km ✔
+
+
+9. A student goes to school at a speed of 5 1/2 km/h and returns at a speed of 4 km/h. If he takes 4 3/4 hours for the entire journey, then the total distance covered by the student (in km) is:
+
+(a) 11
+(b) 22 ✔
+(c) 16
+(d) 24
+
+
+10. A person cycles from the hostel to the college at a speed of 20 km/h and reaches 13.5 minutes late. If he cycles at a speed of 24 km/h and reaches 13.5 minutes early, find the distance (in km) between the hostel and the college.
+
+(a) 50
+(b) 52
+(c) 54 ✔
+(d) 48
+
+
+11. A boy when goes to his school by 12 km/hr speed, reaches 20 mins late and when he covers the distance by 16 km/hr, reaches 5 mins late. Find speed by which he may reach on time and also find distance of his school.
+
+(a) 16 km/hr, 12 km
+(b) 18 km/hr, 12 km ✔
+(c) 20 km/hr, 10 km
+(d) 15 km/hr, 10 km
+
+
+12. Annu covers certain distance with her own speed, but when she reduces her speed by 10 km/hr, her time duration for the journey increases by 40 hr, but when she increases her original speed by 15 km/hr time taken by her is 10 hours less than the original time. Find the distance covered by her.
+
+(a) 300 km ✔
+(b) 280 km
+(c) 320 km
+(d) 350 km
+
+
+13. A person had to cover a certain distance with bike in 48 min but after travelling for 36 min his speed is reduced by 10 km/h and he takes 3 min more than usual to cover the remaining distance, then find actual speed of bike.
+
+(a) 50 km/h ✔
+(b) 48 km/h
+(c) 54 km/h
+(d) 51 km/h
+
+
+14. Time taken by car A to cover 32 km is 8 min less than that taken by car B to cover the same distance. If speed of car B is increased by 36 km/h, then it takes 4 min less than car A to cover the same distance, then find the actual speed of car B.
+
+(a) 66 km/h
+(b) 72 km/h
+(c) 60 km/h ✔
+(d) 63 km/h
+
+
+15. Time taken by Piyush to finish a race of 7.5 km is 1 min more than that taken by Ayush to finish that race. If Piyush increases his speed by one - third, then he can finish the race 1.5 min prior to Ayush, then find the time taken Piyush to finish the race with actual speed.
+
+(a) 7.5 min
+(b) 12.5 min
+(c) 8 min
+(d) 10 min ✔
+
+
+16. A journey of 600 km takes 11 hours if 120 km is covered by train and the rest by car. If the same journey is covered 200 km by train and the rest by car, it takes 40 minutes more. What is the ratio of the speed of the car to the speed of the train?
+
+(a) 3 : 2 ✔
+(b) 2 : 3
+(c) 3 : 4
+(d) 4 : 3
+
+
+17. A person ride one-third of a journey at 60 km/hr, one-third at 50 km/hr and the rest at 40 km/hr. Had the person ridden half of the journey at 60 km/hr and the rest at 40 km/hr, he would have taken 4 minutes longer to complete the journey. What distance did the person ride?
+
+(a) 180 km
+(b) 210 km
+(c) 240 km ✔
+(d) 300 km
+
+
+18. Rama walks to her office 5 km away from home. In the morning, she covers the distance in 1 hour whereas, while returning home in the evening, she takes 15 more minutes to cover the same distance. Find her average speed (in km/h) during the two-way journey.
+
+(a) 3 5/7
+(b) 4 8/9 ✔
+(c) 3 7/8
+(d) 4 4/7
+
+
+19. A person covers 1/4 of his journey at the speed of 25 km/h, 1/2 of the journey at 40km/h and the remaining at the speed of 50 km/h. Find his average speed per hour for the whole journey (in km/h).
+
+(a) 36 4/11 ✔
+(b) 34 6/11
+(c) 36 6/11
+(d) 34 4/11
+
+
+20. The ratio of the distance between two places A and B to the distance between places B and C is 3 : 5. A man travels from A to B at a speed of x km/h and from B to C at a speed of 50 km/h. If his average speed for the entire journey is 40 km/h, then what is the value of (x - 10) : (x + 1)?
+
+(a) 20 : 31 ✔
+(b) 31 : 20
+(c) 11 : 10
+(d) 10 : 11
+
+
+21. Yash travels 204 km at 68 km/hr, the next 424 km at 53 km/hr and the next 366 km at 61 km/hr. What is his average speed (in km/hr) for the whole journey? (Corrected to two decimal places)
+
+(a) 67.92
+(b) 57.62
+(c) 58.47 ✔
+(d) 65.87
+
+
+22. A man has to cover a distance of 549 km in 8 hours. If he covers 2/3 of this distance in 3/4 of the time, then what should be his speed (in km/hr) to cover the remaining distance in the time left?
+
+(a) 91.5 ✔
+(b) 96.5
+(c) 71.5
+(d) 82.5
+
+
+23. A local train without stoppages runs at an average speed of 88 km/hr, and with stoppages, at an average speed of 24 km/hr. What is the total time (in hours) taken by the local train for stoppages on a route of length 528 km?
+
+(a) 7
+(b) 10
+(c) 16 ✔
+(d) 25
+
+
+---DPQ---
+
+1. Dipak goes to his office covering half of the distance by auto and rest by metro. Total time taken by him to cover complete distance is 50 min. If he covers complete distance by metro, it would take 35 minutes to reach the office. On a particular day he goes to his office and returns by auto, find total time taken in complete journey.
+
+(a) 110 min
+(b) 120 min
+(c) 130 min ✔
+(d) 140 min
+
+
+2. Daksh travels 445 km at 89 km/hr, the next 495 km at 55 km/hr and the next 250 km at 50 km/hr. What is his average speed (in km/hr) for the whole journey? (Corrected to two decimal places)
+
+(a) 62.63 ✔
+(b) 66.77
+(c) 57.21
+(d) 61.14
+
+
+3. A takes 2 hours more than B to cover a distance of 40 km. If A doubles his speed, he takes 1 1/2 hours more than B to cover 80 km. To cover a distance of 90 km, how much time will B take travelling at his same speed ?
+
+(a) 1 1/8 hours ✔
+(b) 1 3/8 hours
+(c) 1 1/6 hours
+(d) 1 1/3 hours
+ 
+
+4. A man walking at the speed of 4 km/h covers a certain distance in 6 hours and 15 minutes. If he covers the same distance by cycle in 5 hours and 10 minutes, then the speed of the cycle in km/h is:
+
+(a) 3 21/31
+(b) 3 11/31
+(c) 2 9/13
+(d) 4 26/31 ✔
+
+
+5. A car moves at a speed of 108 km/hr after repairing and moves at the speed of 72 km/hr before repairing. It covers a distance of x km in 3 hours after repairing. How much time will it take to cover a distance of 5x km before repairing ?
+
+(a) 25 hrs 20 min
+(b) 24 hrs
+(c) 20 hrs 40 min
+(d) 22 hrs 30 min ✔
+
+
+6. Tom travelled 285 km in 6 hours. In his total travelling, he travelled the first part by bus at 40 km/ hr and the remaining part by train at 55 km/hr. How much distance has he travelled by train?
+
+(a) 155 km
+(b) 120 km
+(c) 165 km ✔
+(d) 135 km
+
+
+7. A takes 30 minutes more than B to cover a distance of 15 km at a certain speed. But if A doubles his speed, he takes one hour less than B to cover the same distance. What is the speed (in km/hr) of B?
+
+(a) 6 ✔
+(b) 5
+(c) 6 1/2
+(d) 5 1/2
+
+
+8. A man completes a journey in ten hours. He travels at a speed of 21 km/h for the first half of the journey and at a speed of 24 km/h for the second half. Calculate the total distance travelled (in kilometres).
+
+(a) 212
+(b) 224 ✔
+(c) 235
+(d) 230
+
+
+9. Two cities P and Q are 181 km apart on a straight road. One man starts from P at 8 : 30 A.M. and travels toward Q at 30 km/h. If another man starts from Q at 8 : 54 A.M. and travels towards P at a speed of 35 km/h. then at what time will they meet?
+
+(a) 11 : 30 AM ✔
+(b) 10 : 00 AM
+(c) 10 : 30 AM
+(d) 11 : 00 AM
+
+
+10. Two places A and B are 60 km apart from each other on a highway. A car starts from A and another car from B at the same time. If they move in the same direction, they meet each other in 6 hours. If they move in the opposite direction towards each other, they meet in 1 hour 30 minutes. Find the speeds of the cars (in km/h).
+
+(a) 15, 20
+(b) 25, 20
+(c) 15, 18
+(d) 25, 15 ✔
+
+
+11. In a 100-km journey, the average speed of S is 40 km/h. He covers the first 60 km in 40 minutes and the next 20 km in 50 minutes. What is his speed in the last 20 km (in km/h)?
+
+(a) 20 ✔
+(b) 40
+(c) 25
+(d) 30
+
+
+12. Rajinder drives his car at an average speed of 40 km per hour to cover half of his total distance and thereafter he increases his speed to 60 km per hour. He covers his journey in 7 hours. What is the average speed of Rajinder in this journey?
+
+(a) 52 km per hour
+(b) 48 km per hour ✔
+(c) 50 km per hour
+(d) 54 km per hour
+
+
+13. A motorcycle covered the first 60 km of its journey at an average speed of 40 km/h. The speed of the motorcycle for covering the rest of the journey, i.e. 90 km, was 45 km/h. During the whole journey, the overall average speed of the motorcycle was:
+
+(a) 42 6/7 km/h ✔
+(b) 42 km/h
+(c) 42 1/2 km/h
+(d) 42 1/3 km/h
+
+
+14. A policeman chases a thief who is 630 metres ahead of him. If they run at a speed of 9.5 km/hr and 6.5 km/hr, respectively, then what distance (in km, rounded off to 1 decimal place) does the thief run before he is nabbed by the policeman?
+
+(a) 1.4 ✔
+(b) 2.0
+(c) 1.2
+(d) 1.8
+
+
+15. A thief noticed a policeman at a distance of 600 metres. The thief started running and the policeman chased him. The thief and policeman are running at speeds of 12 km/h and 15 km/h, respectively. Find the time (in minutes) required for the policeman to catch the thief.
+
+(a) 8
+(b) 10
+(c) 12 ✔
+(d) 15
+
+
+16. A thief is noticed by a policeman from a distance of 300 m. The thief starts running and the policeman starts chasing him. The thief and policeman run at the rate of 11 km/h and 13 km/h, respectively. After running for how many kilometres will the policeman be able to catch the thief?
+
+(a) 1.85
+(b) 1.75
+(c) 1.65
+(d) 1.95 ✔
+
+
+17. A thief is spotted by a policeman from a distance of 400m. When the policeman starts chasing, the thief also starts running. If the speed of the thief is 32 km/h and that of the policeman is 40 km/h, then how far would the thief have run before he is overtaken?
+
+(a) 1500 m
+(b) 1000 m
+(c) 1200 m
+(d) 1600 m ✔
+
+
+18. On a straight road, a bus is 30 km ahead of a car travelling in the same direction. After 3 hours, the car is 60 km ahead of the bus. If the speed of the bus is 42 km/h, then find the speed of the car.
+
+(a) 67 km/h
+(b) 72 km/h ✔
+(c) 65 km/h
+(d) 59 km/h
+
+
+19. Two stations T1 and T2 are 300 km apart. A car starts from station T1 at 8 am and moves towards station T2 at a speed of 45km/hr. and at 10 am another car starts from station T2 towards T1 at a speed of 60km/hr. Then the cars will meet at:
+
+(a) 10 : 00 am
+(b) 12 : 00 pm ✔
+(c) 1 : 00 pm
+(d) 11 : 00 am
+
+
+20. Excluding stoppages, the speed of a train is 45 km/hr and including stoppages, it is 36 km/hr. How many minutes does the train stop per hour?
+
+(a) 11 min
+(b) 10 min
+(c) 15 min
+(d) 12 min ✔
+
+
+21. The distance between two points on a map is 5 cm. The scale of the map is 1 : 6,00,000. The actual distance between the two points is (in km):
+
+(a) 30,000
+(b) 3,000
+(c) 30 ✔
+(d) 300
+
+
+22. Train A leaves station M at 6:20 am and reaches station N at 3:20 pm on the same day. Train B leaves station N at 8:20 am and reaches station M at 2:20 pm on the same day. Find the time when trains A and B meet.
+
+(a) 7:38 pm
+(b) 9:51 am
+(c) 11:08 am ✔
+(d) 3:30 pm
+
+
+23. In covering a distance of 126 km, Anirudh takes 5 hours more than Burhan. If Anirudh doubles his speed, then he would take 4 hours less than Burhan. Anirudh's speed is:
+
+(a) 5 km/hr
+(b) 2 km/hr
+(c) 7 km/hr ✔
+(d) 15 km/hr
+
+
+24. A man travels 360 km in 4 hours, partly by air and partly by train. If he had travelled all the way by air, he would have saved 4/5 of time taken by train and he would have arrived at his destination 2 hours early. Find the distance he travelled by air.
+
+(a) 270 km ✔
+(b) 280 km
+(c) 290 km
+(d) 260 km
+
+
+25. A train travels a distance of 400 km with uniform speed. Had the speed been 10 km/hr more, it would have taken 2 hours less for the same journey. Find the speed of the train.
+
+(a) 45 km/hr
+(b) 55 km/hr
+(c) 40 km/hr ✔
+(d) 50 km/hr
+
+
+
+GOTO:top
+______________________
+TAG:43-train-boat-stream
+*43-Train-boat-stream*
+
+1. A train running at 40 1/2 km/h takes 24 second to cross a pole. How much time (in second) will it take to pass a 450 m long bridge?
+
+(a) 56
+(b) 52
+(c) 60
+(d) 64 ✔
+
+
+2. Two trains of lengths 250 metres and 200 metres run on parallel tracks. When running in the same direction, the faster train crosses the slower one in 37.5 seconds. When running in opposite directions at speeds the same as their earlier speeds, they pass each other completely in 7.5 seconds. Then the ratio of the speeds of the faster train to the slower train is:
+
+(a) 3 : 2 ✔
+(b) 5 : 4
+(c) 4 : 3
+(d) 6 : 5
+
+
+3. Train A running at 81 km/h takes 72 sec to overtake train B, when both the trains are running in the same direction, but it takes 36 sec to cross each other if the trains are running in the opposite direction. If the length of train B is 600 metres, then find the length of train A. (in metres)
+
+(a) 600
+(b) 480 ✔
+(c) 590
+(d) 900
+
+
+4. A 240m long train X passes a pole in 18 seconds and completely crosses another train Y running at a speed of 72 km/h in the opposite direction in 21 seconds. How much time (in seconds) will train Y take to completely cross a 140m long train Z running at a speed of 42 km/h in the same direction?
+
+(a) 68 sec.
+(b) 65 sec.
+(c) 72 sec. ✔
+(d) 70 sec.
+
+
+5. Train A, running at a speed of 48 km/h, passes a pole in 24 seconds and completely passes a 280 m long train B in 18 seconds. Train B is running in the opposite direction of train A. In how much time (in minutes) will train B completely cross Train C of length 220 m running at a speed of 52 km/h in the same direction?
+
+(a) 2
+(b) 1
+(c) 1 1/4
+(d) 1 1/2 ✔
+
+
+6. A train A of length 100 meters less than that of train B and speed 25 km/h more than that of train B can cross train B running in the opposite direction in 24 seconds. If train A can cross a bridge of length 300 meters in 36 seconds, then what is the time taken by train B to cross the same bridge?
+
+(a) 72 seconds
+(b) 86.4 seconds ✔
+(c) 78.6 seconds
+(d) 90 seconds
+
+
+7. Train A running at a speed of 99 km/hr takes 46 seconds to completely cross train B running at 72 km/hr in the opposite direction. The length of train B is 1.5 times the length of train A. Train B crosses a bridge completely in 82 seconds. The length of the bridge (in m) is:
+
+(a) 426
+(b) 424
+(c) 369
+(d) 329 ✔
+
+
+8. A train overtakes two persons walking along a railway track. The first one walks at 12.6 km/hr. The other one walks at 30.6 km/hr. The train takes 19.8 and 25.8 seconds, respectively, to overtake them. What is the speed of the train if both the persons are walking in the same direction as the train?
+
+(a) 94 km/hr
+(b) 96 km/hr
+(c) 90 km/hr ✔
+(d) 80 km/hr
+
+
+9. The speed of the railway engine is 42 km/hr when no compartment is attached, and the reduction in speed is directly proportional to square root of the number of compartments attached. If the speed of the train carried by this engine is 24 km/hr when 9 compartments are attached then the maximum number of compartments that can be carried by the engine is:
+
+(a) 46
+(b) 47
+(c) 48 ✔
+(d) 50
+
+
+10. Which of the following statements is correct?
+I. A boat travels 30 km downstream in 6 hours. If it travels 40 km upstream in 10 hours, then the speed of the stream is 1 km/hr.
+II. The length of a train is 1200 m. If it can cross a 1500 m long platform in 120 seconds, then the speed of the train is 90 km/h.
+
+(a) Neither I nor II ✔
+(b) Both I and II
+(c) Only II
+(d) Only I
+
+
+11. A question is given, followed by three statements I, II and III. Identify which statement(s) is/are sufficient to answer the question
+Question: How much time (in hours) will a boat take to travel 25 km downstream?
+Statement I: The time taken by a boat to travel a certain distance downstream is 7/10 of the time taken to cover the same distance in still water.
+Statement II: The boat takes 6 hours to travel 49 km downstream and 14 km upstream.
+Statement III: The ratio of the speed of the boat in still water to the speed of the current is 7 : 3.
+
+(a) Only I and II
+(b) Only II and III
+(c) I and II or II and III ✔
+(d) Only I and III
+
+
+12. A boat takes 20 hours to travel downstream from point P to point Q and to come back to a point R which is at midway between P and Q. If the velocity of the stream is 6 km/ h and the speed of the boat in still water is 18 km/h, what is the distance between P and Q?
+
+(a) 280 km
+(b) 240 km ✔
+(c) 320 km
+(d) 180 km
+
+
+13. The speed of a boat in still water is 7 km/hr and the speed of the stream is 5 km/hr. A man rows to a place at a distance of 52.8 km and comes back to the starting point. Find the total time (in hours) taken by him.
+
+(a) 40.6
+(b) 23.6
+(c) 29.9
+(d) 30.8 ✔
+
+
+14. A boat takes 18 minutes to go 59.4 km upstream. The ratio of the speed of the boat in still water to that of the stream is 3 : 2. How much total time (in hours) will the boat take to go 29.3 km upstream and 51.5 km downstream?
+
+(a) 3.5
+(b) 2.6
+(c) 4.5
+(d) 0.2 ✔
+
+
+15. The speed of the boat in still water is 200% more than that of the stream. The boat has to cover a distance of 430 m downstream. After traveling for 160 m the speed of the stream is increased by 50% and the time taken by boat to cover the remaining distance is 5 seconds more than that taken by boat to cover the first 160 m. Find the initial downstream speed of the boat.
+
+(a) 12 m/s
+(b) 13 m/s
+(c) 16 m/s ✔
+(d) 18 m/s
+
+
+16. Two boats go downstream from point X to Y. The faster boat covers the distance 1.5 times as fast as the slower boat. It is known that doing so, every hour the slower boat lags behind the faster boat by 8 km. However, if they go upstream, then the faster boat covers the distance from Y to X in half the time as the slower boat. Find the speed of the faster boat in still water ?
+
+(a) 24 km/h
+(b) 28 km/h
+(c) 26 km/h
+(d) 20 km/h ✔
+
+
+17. A boat covers 24 km upstream and 36 km downstream in 10 hours, and 36 km upstream and 24 km downstream in 12 hours. The speed of the current is:
+
+(a) 26/9 km/h
+(b) 33/13 km/h
+(c) 25/8 km/h ✔
+(d) 24/7 km/h
+
+
+18. A and B leave from point M at the same time towards point N. B reaches N and starts towards M instantly. He meets A at point O (between M and N). The distance between M and N is 245 km. If the speeds of A and B are 26 km/h and 65 km/h, respectively, then what is the distance between O and N?
+
+(a) 115 km ✔
+(b) 105 km
+(c) 95 km
+(d) 140 km
+
+
+19. Vivek starts moving at the speed of 70 km/ hr at 8:00 a.m. Neeraj starts moving in the same direction after 4 hours of Vivek at the speed of 120 km/hr. Which of the following statement(s) is/are correct?
+I. Neeraj and Vivek meet each other at 5:36 p.m.
+II. Total distance covered by both Neeraj and Vivek till 4 p.m. is 1080 km.
+
+(a) Neither I nor II
+(b) Only II
+(c) Both I and II
+(d) Only I ✔
+
+
+20. A car starts from point A towards point B, travelling at the speed of 20 km/h. 1 1/2 hours later, another car starts from point A and travelling at the speed of 30 km/h and reaches 2 1/2 hours before the first car. Find the distance between A and B.
+
+(a) 300 km
+(b) 240 km ✔
+(c) 260 km
+(d) 280 km
+
+
+21. A and B leave from point M at the same time towards point N. B reaches N and starts towards M instantly. He meets A at point O (between M and N). The distance between M and N is 245 km. If the speeds of A and B are 26 km/h and 65 km/h, respectively, then what is the distance between O and N?
+
+(a) 115 km
+(b) 105 km ✔
+(c) 95 km
+(d) 140 km
+
+
+22. The distance between two places A and B is 140 km. Two cars x and y start simultaneously from A and B, respectively. If they move in the same direction, they meet after 7 hours. If they move towards each other, they meet after one hour. What is the speed (in km/h) of car y if its speed is more than that of car x?
+
+(a) 60
+(b) 100
+(c) 80 ✔
+(d) 90
+
+
+23. A train leaves station A at 8 am and reaches station B at 12 noon. Another train leaves station B at 8:30 am and reaches station A at the same time when the train reaches station B. At what time do they meet?
+
+(a) 9 : 38 am
+(b) 10 : 22 am
+(c) 10 : 08 am ✔
+(d) 9 : 52 am
+
+
+24. Ram starts from point A at 8 a.m. and reaches point B at 2 p.m. on the same day. On the same day, Raju starts from point B at 8 a.m. and reaches point A at 6 p.m. on the same day. Both points A and B are separated by only a straight line track. At what time they both meet?
+
+(a) 11:45 a.m. ✔
+(b) 9:42 a.m.
+(c) 10:42 a.m.
+(d) 12:42 p.m.
+
+
+25. A policeman noticed a thief at some distance. The policeman started running to catch the thief and the thief also started running at the same time. The speed of both policeman and the thief was 12 km/hour and 10 km/hour, respectively. It took 30 minutes for the policeman to catch the thief. Find the initial distance (in metres) between them.
+
+(a) 1000
+(b) 1200
+(c) 900 ✔
+(d) 600
+
+
+26. A thief takes off on his bike at a certain speed, after seeing a police car at a distance of 250 m. The police car starts chasing the thief and catches him. If the thief runs 1.5 km before being caught and the speed of the police car is 70 km/h, then what is the speed of thief's bike (in km/h)?
+
+(a) 65
+(b) 60 ✔
+(c) 55
+(d) 50
+
+
+27. A thief steals a car parked in a house and goes away with a speed of 40 kmph. The theft was discovered after half an hour and immediately the owner sets off in another car with a speed of 60 kmph. When will the owner meet the thief?
+
+(a) 55 km from the owner's house and one hour after the theft.
+(b) 60 km from the owner's house and 1.5 hours after the theft. ✔
+(c) 60 km from the owner's house and 1.5 hours after the discovery of the theft.
+(d) 55 km from the owner's house and 1.5 hours after the theft.
+
+
+28. Radha walks with the speed of 40 km/h from A to meet Shyam and Shyam Walks towards her from B. After meeting each other at C they reach at each other's home in 9 hours and 16 hours respectively. Find the distance between A and B and speed of Shyam.
+
+(a) 1120 km, 40 km/hr
+(b) 1120 km, 30 km/hr
+(c) 840 km, 30 km/hr ✔
+(d) 840 km, 40 km/hr
+
+
+29. Two guns are fired from the same place at an interval of 9 minutes. A person coming to that place finds that 8 minutes 48 seconds have elapsed between hearing the sound of the two guns. If the velocity of sound is 330 m/s, then at what speed (in km/hr) was that person coming to that place?
+
+(a) 36
+(b) 27 ✔
+(c) 33
+(d) 29
+
+
+30. A gun is fired from a place with a line gap of 30 minutes. A person going away from this point hears the second shot 33 minutes after he heard the first shot. What is the speed of the man if the sound travelled at 330 m/s?
+
+(a) 162 km/hr
+(b) 72 km/hr
+(c) 144 km/hr
+(d) 108 km/hr ✔
+
+
+---DPQ---
+
+1. The lengths of two trains are 380 m and 220 m. The faster of these two trains takes 20 seconds to overtake the other, when travelling in same direction. The trains take 12 seconds to cross each other, when travelling in opposite directions. What is the speed (in km/h) of the faster train?
+
+(a) 108
+(b) 126
+(c) 144 ✔
+(d) 90
+
+
+2. A 234 m long train passes a person running at 9 km/h in the opposite direction, in 6 seconds. In how much time (in seconds) will it pass another person who is moving at 23.4 km/h, in the same direction?
+
+(a) 8
+(b) 8.4
+(c) 7.2
+(d) 7.8 ✔
+
+
+3. A 750 metres long train crosses a stationary pole in 15 sec. Travelling at the same speed, this train crosses a bridge completely in 25 sec. What is the length of this bridge?
+
+(a) 1000 m
+(b) 750 m
+(c) 1250 m
+(d) 500 m ✔
+
+
+4. A 240 m long train overtakes a man walking at 6 km/h, in the same direction, in 9 seconds. How much time (in seconds) will it take to pass a 372 m long tunnel with the same speed?
+
+(a) 21.6 ✔
+(b) 20
+(c) 18
+(d) 20.4
+
+
+5. A train running at 48 km/h crosses a man going with the speed of 12 km/h, in the same direction, in 18 seconds and passes a woman coming from the opposite direction in 12 seconds. The speed (in km/h) of the woman is:
+
+(a) 8
+(b) 9
+(c) 6 ✔
+(d) 10
+
+
+6. A train travelling at the speed of x km/h crossed a 300 m long platform in 30 seconds, and overtook a man walking in the same direction at 6 km/h in 20 seconds. What is the value of x?
+
+(a) 60
+(b) 96 ✔
+(c) 48
+(d) 102
+
+
+7. Train A running at 81 km/h takes 72 sec to overtake train B, when both the trains are running in the same direction, but it takes 36 sec to cross each other if the trains are running in the opposite direction. If the length of train B is 600 metres, then find the length of train A. (in metres)
+
+(a) 600
+(b) 480 ✔
+(c) 590
+(d) 900
+
+
+8. Trains P and Q are running in the same direction on parallel tracks with speeds of x km/h and 90 km/h (90 > x), respectively. The faster train passes a man sitting in the slower train in 30 seconds. If the length of train Q is 225 m, then what is the value of x?
+
+(a) 65
+(b) 60
+(c) 68
+(d) 63 ✔
+
+
+9. Train ‘A’ requires 15 seconds to cross train ‘B’ of length 300 m moving in the opposite direction at a speed of 36 km/h. Further, train ‘A’ requires 30 seconds to cross a 500 m long stationary train ‘C’. Find the length (in m) of train ‘A’.
+
+(a) 275
+(b) 200 ✔
+(c) 250
+(d) 300
+
+
+10. Two trains of lengths 150 m and 250 m run on parallel lines. When they run in the same direction, they take 20 seconds to cross each other and, when they run in the opposite direction, they take 5 seconds to cross each other. What is the speed of the two trains?
+
+(a) 150 km/h and 105 km/h
+(b) 150 km/h and 250 km/h
+(c) 180 km/h and 108 km/h ✔
+(d) 160 km/h and 106 km/h
+
+
+11. Train A leaves station X at 8.00 am and travels towards station Y which is 250 km away. Another train B leaves station Y at 10.00 am and goes towards station X. The ratio of speed of train A to that of train B is 8 : 9. The distance between station Y, and the place where train A leaves at 10 AM, is 170 km. At what distance from station Y and at what time both the trains will meet?
+
+(a) 125 km, 2 pm
+(b) 160 km, 12 pm
+(c) 90 km, 12 pm ✔
+(d) 80 km, 2 pm
+
+
+12. A train A starts from place D at 6:00 am in the morning and reaches place G at 10:00 am in the morning. Train B departs from place G at 8:00 am and reaches place D at 11:30 am. If the distance between places D and G is 200 km, then what is the time when both the trains meet each other?
+
+(a) 8:51 am
+(b) 9:01 am
+(c) 9:06 am
+(d) 8:56 am ✔
+
+
+13. A train 75 meters long overtook a person who was walking at 6 km/hr in the opposite direction and passed him in 7 1/2 seconds. Subsequently it overtook a second person, walking in the same directions as the 1st person and passed him in 6 3/4 seconds. At what rate was the second person travelling ?
+
+(a) 11 3/4 km/hr
+(b) 10 km/hr ✔
+(c) 8 km/hr
+(d) 4 1/2 km/hr
+
+
+14. A train crosses 130 metre long platform in 14.5 seconds and 245 metre long platform in 20.25 seconds. What is the speed of the train?
+
+(a) 69 km/hr
+(b) 75 km/hr
+(c) 66 km/hr
+(d) 72 km/hr ✔
+
+
+15. Train A overtakes train B which is going in opposite direction in 54 seconds which is twice the length of A and running at half the speed of train A. Train A crosses another train C going in opposite direction in 20 seconds whose speed is twice that of train A. If the speed of train A is 60 km/h, then what is the length of train C?
+
+(a) 650 m
+(b) 550 m ✔
+(c) 250 m
+(d) 450 m
+
+
+16. The ratio of the speeds of a boat while going upstream and going downstream is 2 : 3 and the sum of these two speeds is 15 km/h. What is the speed of the stream ?
+
+(a) 3.5 km/h
+(b) 1.5 km/h ✔
+(c) 3 km/h
+(d) 2.5 km/h
+
+
+17. The speed of a boat in still water is 25 km/h. It takes 33 1/3 % more time to cover a certain distance in still water than to cover the same distance downstream. How much time in hours will boat take to go 75 km downstream?
+
+(a) 3
+(b) 2.25 ✔
+(c) 2
+(d) 1.5
+
+
+18. A boat can travel 78 km upstream and back in a total of 32 hours. It can travel 15 km upstream and 52 km downstream in a total of 9 hours. How much distance will the boat cover in 12 hours in still water?
+
+(a) 92 km
+(b) 96 km ✔
+(c) 104 km
+(d) 100 km
+
+
+19. The ratio of the speed of a motorboat to that of the current of water is 31:6. The motorboat starts from a point and covers a certain distance along the current in 4 h 10 min. Find the time taken by the motorboat to come back to its initial point.
+
+(a) 4 h 10 min
+(b) 5 h 10 min
+(c) 5 h 50 min
+(d) 6 h 10 min ✔
+
+
+20. The time taken by a boat to cover a distance of x km upstream is double the time taken by the boat to cover the same distance downstream. The sum of the speeds of the boat and the stream is 90 km/h. The speed of the stream is ___ km/h.
+
+(a) 22.5 ✔
+(b) 33.5
+(c) 27.5
+(d) 37.5
+
+
+21. A motorboat travelling at a certain speed can cover a distance of 24 km upstream and 40 km downstream in 17 hours. At the same speed it can travel 32 km downstream and 12 km upstream in 10 hours. What is the speed of the current?
+
+(a) 5 km/h
+(b) 4 km/h
+(c) 2 km/h
+(d) 3 km/h ✔
+
+
+22. A motorboat, whose speed in 15 km/h in still water goes 50 km down-stream and comes back in a total of 7 hours 30 minutes. The speed of the stream (in km/h) is?
+
+(a) 9 km/h
+(b) 5 km/h ✔
+(c) 11 km/h
+(d) 7 km/h
+
+
+23. A man rows to a place 48 km distant and comes back in 14 hours. He finds that he can row 4 km with the stream in the same time as 3 km against the stream. The speed of the stream is:
+
+(a) 1.5 km/h
+(b) 3.5 km/h
+(c) 1.8 km/h
+(d) 1 km/h ✔
+
+
+24. The speed of a boat in still water is 18 km/h and the speed of the stream is 3 km/h. How much time (in hours) will it take to cover a distance of 105 km in downstream and in coming back?
+
+(a) 12 ✔
+(b) 10
+(c) 15
+(d) 9
+
+
+25. The speed of a boat in still water is 6 km/h and the speed of the stream is 1.5 km/h. In going from point A to point B and returning to A, the boatman takes 2 hours 40 min. Find the distance between points A and B.
+
+(a) 7.5 km ✔
+(b) 7 km
+(c) 8 km
+(d) 8.5 km
+
+
+26. Suresh covers a distance of 34 km in the direction of a river in 4 hours 15 minutes by a luxury boat and 19 km in the opposite direction of a river in 3 hours 10 minutes. What is the speed of the flow of river?
+
+(a) 3 km/hr
+(b) 2 km/hr
+(c) 1 km/hr ✔
+(d) 5 km/hr
+
+
+27. A man can row at the speed of 8.5 km/h in still water. In a river running at the speed of 1.5 km/h, it takes him 51 minutes to row to a place and come back. How far (in km) is this place?
+
+(a) 4.5
+(b) 5.5
+(c) 7.5
+(d) 3.5 ✔
+
+
+28. A person swims at a speed of 5 km/h in still water in a river whose speed is 1 km/h. It takes 75 minutes to swim from position A to position B. What is the distance between A and B?
+
+(a) 6 km
+(b) 5 km
+(c) 2.5 km
+(d) 3 km ✔
+
+
+29. A boat takes 7 hours to move 63 km downstream and 30 km upstream. The boat takes 6 hours to move 28 km downstream and 48 km upstream. How much time will it take to move 35km downstream and 27km upstream?
+
+(a) 4 hrs 45 min ✔
+(b) 4 hrs 50 min
+(c) 5 hrs
+(d) 5 hrs 20 min
+
+
+30. 15 hours is taken by a boat to reach its destination in still water and return to its starting point from there. The same journey requires 16 hours if the river flows. The difference between the speed of boat and the river is 15 km/hr. Find the speed of the flow of river.
+
+(a) 10 km/hrs
+(b) 6 km/hrs
+(c) 4 km/hrs
+(d) 5 km/hrs ✔
