@@ -524,7 +524,39 @@ Acceleration = change in velocity / time taken
  m/s^2 (SI Unit of acceleration)
 
 
+Eg 8.1 An object travels 16 m in 4 s and then another 16 m in 2 s. What is the average speed of the object?
+   => Total distance travelled by the object =
+   => 16 m + 16 m = 32 m
+   => Total time taken = 4 s + 2 s = 6 s
+   => Average speed = Total distance travelled / Total time taken
+   => 32m / 6s
+   => 5.33 m s^-1
 
+Eg 8.2 The odometer of a car reads 2000 km at the start of a trip and  2400 km at the end of the trip. If the trip took 8 h, calculate the average speed of the car in km h–1 and m s–1.
+  => s = 2400 km – 2000 km = 400 km
+  => Time elapsed, t = 8 h
+  => Average speed of car,
+  => V(av) =  s/t
+  => 400 km / 8 h
+  => 50 km/h
+  => 50km/h x 1000 m / 1 km x 1 h / 3600 s
+  => 13.9 m s^-1
+
+
+IMG:ncert-9-ch-8-eg-8-3.png
+
+Eg 8.4 Starting from a stationary position, Rahul paddles his bicycle to  attain a velocity of 6 m s–1 in 30 s. Then he applies brakes such that the velocity of the bicycle comes down to 4 m s-1 in the next 5 s. Calculate the acceleration of the bicycle in both the cases.
+IMG:ncert-9-ch-8-eg-8-4.png
+
+
+Eg 8.5  A train starting from rest attains a velocity of 72 km h–1 in
+ 5 minutes. Assuming that the acceleration is uniform, find (i) the
+ acceleration and (ii) the distance travelled by the train for attaining this velocity.
+IMG:ncert-9-ch-8-eg-8-5.png
+
+
+Exercise
+IMG:ncert-9-ch-8-ex.png
 
 
 
