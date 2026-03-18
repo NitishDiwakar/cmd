@@ -546,7 +546,7 @@ Eg 8.2 The odometer of a car reads 2000 km at the start of a trip and  2400 km a
 IMG:ncert-9-ch-8-eg-8-3.png
 
 Eg 8.4 Starting from a stationary position, Rahul paddles his bicycle to  attain a velocity of 6 m s–1 in 30 s. Then he applies brakes such that the velocity of the bicycle comes down to 4 m s-1 in the next 5 s. Calculate the acceleration of the bicycle in both the cases.
-IMG:ncert-9-ch-8-eg-8-4.png
+IMG:ncert-9-ch-8-eg-8-4-sol.png
 
 
 Eg 8.5  A train starting from rest attains a velocity of 72 km h–1 in
