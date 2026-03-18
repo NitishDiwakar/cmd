@@ -584,15 +584,85 @@ GOTO:top
 TAG:10-work-and-energy
 *10-work-and-energy*
 
+1 joule = 1 newton x 1 metre
+
+Power
+  - Watt (SI Unit)
+  - 1 W = 1 J/s
+
+Exercise
+Q 3. What is the magnitude of the gravitational force between the earth and a 1 kg object on its surface? (Mass of the earth is 6 × 10²⁴ kg and radius of the earth is 6.4 × 10⁶ m.)
+  [Ans: 9.8 N]
+
+Q4. Certain force acting on a 20 kg mass changes its velocity from 5 m s^-1 to 2 m s^-1. Calculate the work done by the force.
+
+Q5. A mass of 10 kg is at a point A on a table. It is moved to a point B. If the line joining A and B is horizontal, what is the work done on the object by the gravitational force? Explain your answer.
+
+Q6. The potential energy of a freely falling object decreases progressively. Does this violate the law of conservation of energy? Why?
+
+Q7. What are the various energy transformations that occur when you are riding a bicycle?
+
+Q8. Does the transfer of energy take place when you push a huge rock with all your might and fail to move it? Where is the energy you spend going?
+
+Q9. A certain household has consumed 250 units of energy during a month. How much energy is this in joules? (*71st BPSC)
+
+Q10. An object of mass 40 kg is raised to a height of 5m above the ground. What is its potential energy? If the object is allowed to fall, find its kinetic energy when it is half-way down. 
+
+Q11. What is the work done by the force by the force of gravity on a satellite moving round the earth? Justify your answer.
+
+Q12. Can there be displacement of an object in absense of any force acting on it? 
+
+Q13. A person holds a bundle of hay over his head for 30 minutes and gets tired. Has he done some work or not? 
+
+*Q14.* An electric heater is rated 1500W. How much energy does it use in 10 hours?
+
+Q16. An object of mass, m is moving with a constant velocity, v. How much work should be done on the object in order to bring the object to rest?
+
+*Q17.* Calculate the work required to be done to stop a car of 1500 kg moving at a velocity of 60 km/h?
+
+*Q20.* Find the energy in kW h consumed in 10 hours by four devices of power 500 W each.
+
+
+
 
 GOTO:top
 TAG:11-sound
 *11-sound*
 
+Photoelectric effect
+  - Heinrich Rudolph Hertz
+  - Albert Einstien
+
+*Amplitude of wave*
+  - Magnitude of maximum disturbance in medium, either side 
+
+IMG:ncert-9-speed-of-sound.png
+
+Range of Hearing
+  - Human: *20 Hz to 20,000 Hz*
+
+*Infrasonic sound*
+  - Sounds of frequencies below 20 Hz
+
+*Ultrasound* (Ultrasonic sound)
+  - Higher than 20 kHz
+  - dolphins, bats, porpoises etc
+
+
+
 
 GOTO:top
 TAG:12-improvement-in-food-resources
 *12-improvement-in-food-resources*
+
+IMG:nutritional-values-of-animal-products.png
+
+
+Apis cerana indica - Indian Bee
+A. dorsata - Rock bee
+A. florae - little bee
+A. mellifera - Italian bee
+
 
 
 
