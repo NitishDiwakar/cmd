@@ -556,15 +556,28 @@ IMG:ncert-9-ch-8-eg-8-5.png
 
 IMG:ncert-9-ch-8-eg-8-6.png
 
+Inertia
+  - Natural tendency of an object to resist a change
 
 Exercise
 IMG:ncert-9-ch-8-ex.png
 
+Q7.  A ball is gently dropped from a height of 20 m. If its velocity increases uniformly at the rate of 10 m s-2, with what velocity will it strike the ground? After what time will it strike the ground?
+  [Ans: 35000 N, 1.944 m / s^2]
 
+Q10. An artificial satellite is moving in a circular orbit of radius 42250 km. Calculate its speed if it takes 24 hours to revolve around the earth. [Ans: 200N]
+
+
+IMG:eg-9-1.png
+IMG:eg-9-2.png
+IMG:eg-9-3.png
+IMG:eg-9-4.png
 
 GOTO:top
 TAG:9-gravitation
 *9-gravitation*
+
+
 
 
 GOTO:top
