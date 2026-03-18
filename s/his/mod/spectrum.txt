@@ -1,0 +1,147 @@
+============================
+Title : Spectrum
+Tags  : #
+Descr :
+============================
+
+
+UNIT 1: SOURCES AND APPROACHES
+
+GOTO:1-Sources-for-the-History-of-Modern-India
+GOTO:2-Major-Approaches-to-the-History-of-Modern-India
+
+UNIT 2: ADVENT OF EUROPEANS AND CONSOLIDATION OF BRITISH POWER IN INDIA
+
+GOTO:3-Advent-of-the-Europeans-in-India
+GOTO:4-India-on-the-Eve-of-British-Conquest
+GOTO:5-Expansion-and-Consolidation-of-British-Power-in-India
+
+UNIT 3: RISING RESENTMENT AGAINST COMPANY RULE
+
+GOTO:6-Peoples-Resistance-Against-British-Before-1857
+GOTO:7-The-Revolt-of-1857
+
+UNIT 4: REFORM MOVEMENTS
+
+GOTO:8-Socio-Religious-Reform-Movements-General-Features
+GOTO:9-A-General-Survey-of-Socio–Cultural-Reform-Movements-and-their-Leaders
+
+UNIT 5: THE STRUGGLE BEGINS
+
+GOTO:10-Beginning-of-Modern-Nationalism-in-India
+GOTO:11-Indian-National-Congress:-Foundation-and-the-Moderate-Phase
+
+UNIT 6: NATIONAL MOVEMENT 1905–1918
+
+GOTO:12-Era-of-Militant-Nationalism-1905–1909
+GOTO:13-First-Phase-of-Revolutionary-Activities-1907-1917
+GOTO:14-First-World-War-and-Nationalist-Response
+
+UNIT 7: ERA OF MASS NATIONALISM BEGINS (1919-1939)
+
+GOTO:15-Emergence-of-Gandhi
+GOTO:16-Non-Cooperation-Movement-and-Khilafat-Aandolan
+GOTO:17-Emergence-of-Swarajists-Socialist-Ideas-Revolutionary-Activities-and-Other-New-Forces
+GOTO:18-Simon-Commission-and-the-Nehru-Report
+GOTO:19-Civil-Disobedience-Movement-and-Round-Table-Conferences
+GOTO:20-Debates-on-the-Future-Strategy-after-Civil-Disobedience-Movement
+GOTO:21-Congress-Rule-in-Provinces
+
+UNIT 8:  TOWARDS FREEDOM AND PARTITION (1939–1947)
+
+GOTO:22-Nationalist-Response-in-the-Wake-of-World-War-II
+GOTO:23-Quit-India-Movement-Demand-for-Pakistan-and-the-INA
+GOTO:24-Post-War-National-Scenario
+GOTO:25-Independence-with-Partition
+
+UNIT 9: NDIA UNDER BRITISH RULE: GOVERNANCE AND OTHER ASPECTS
+
+GOTO:26-Constitutional,-Administrative,-and-Judicial-Developments
+GOTO:27-Survey-of-British-Policies-in-India
+GOTO:28-Economic-Impact-of-British-Rule-in-India
+GOTO:29-Development-of-Indian-Press
+GOTO:30-Development-of-Education
+GOTO:31-Peasant-Movements-1857–1947
+GOTO:32-The-Movement-of-the-Working-Class
+
+UNIT 10: INDEPENDENCE AND AFTER
+
+GOTO:33-Challenges-before-the-Newborn-Nation
+GOTO:34-The-Indian-States
+GOTO:35-Making-of-the-Constitution-for-India
+GOTO:36-The-Evolution-of-Nationalist-Foreign-Policy
+GOTO:37-First-General-Elections
+GOTO:38-Developments-under-Nehru’s-Leadership-1947–64
+GOTO:39-After-Nehru
+
+
+
+
+*UNIT 1: SOURCES AND APPROACHES*
+
+TAG:1-Sources-for-the-History-of-Modern-India
+TAG:2-Major-Approaches-to-the-History-of-Modern-India
+
+*UNIT 2: ADVENT OF EUROPEANS AND CONSOLIDATION OF BRITISH POWER IN INDIA*
+
+TAG:3-Advent-of-the-Europeans-in-India
+TAG:4-India-on-the-Eve-of-British-Conquest
+TAG:5-Expansion-and-Consolidation-of-British-Power-in-India
+
+*UNIT 3: RISING RESENTMENT AGAINST COMPANY RULE*
+
+TAG:6-Peoples-Resistance-Against-British-Before-1857
+TAG:7-The-Revolt-of-1857
+
+*UNIT 4: REFORM MOVEMENTS*
+
+TAG:8-Socio-Religious-Reform-Movements-General-Features
+TAG:9-A-General-Survey-of-Socio–Cultural-Reform-Movements-and-their-Leaders
+
+*UNIT 5: THE STRUGGLE BEGINS*
+
+TAG:10-Beginning-of-Modern-Nationalism-in-India
+TAG:11-Indian-National-Congress:-Foundation-and-the-Moderate-Phase
+
+*UNIT 6: NATIONAL MOVEMENT 1905–1918*
+
+TAG:12-Era-of-Militant-Nationalism-1905–1909
+TAG:13-First-Phase-of-Revolutionary-Activities-1907-1917
+TAG:14-First-World-War-and-Nationalist-Response
+
+*UNIT 7: ERA OF MASS NATIONALISM BEGINS (1919-1939)*
+
+TAG:15-Emergence-of-Gandhi
+TAG:16-Non-Cooperation-Movement-and-Khilafat-Aandolan
+TAG:17-Emergence-of-Swarajists-Socialist-Ideas-Revolutionary-Activities-and-Other-New-Forces
+TAG:18-Simon-Commission-and-the-Nehru-Report
+TAG:19-Civil-Disobedience-Movement-and-Round-Table-Conferences
+TAG:20-Debates-on-the-Future-Strategy-after-Civil-Disobedience-Movement
+TAG:21-Congress-Rule-in-Provinces
+
+*UNIT 8:  TOWARDS FREEDOM AND PARTITION (1939–1947)*
+
+TAG:22-Nationalist-Response-in-the-Wake-of-World-War-II
+TAG:23-Quit-India-Movement-Demand-for-Pakistan-and-the-INA
+TAG:24-Post-War-National-Scenario
+TAG:25-Independence-with-Partition
+
+*UNIT 9: NDIA UNDER BRITISH RULE: GOVERNANCE AND OTHER ASPECTS*
+
+TAG:26-Constitutional,-Administrative,-and-Judicial-Developments
+TAG:27-Survey-of-British-Policies-in-India
+TAG:28-Economic-Impact-of-British-Rule-in-India
+TAG:29-Development-of-Indian-Press
+TAG:30-Development-of-Education
+TAG:31-Peasant-Movements-1857–1947
+TAG:32-The-Movement-of-the-Working-Class
+
+*UNIT 10: INDEPENDENCE AND AFTER*
+
+TAG:33-Challenges-before-the-Newborn-Nation
+TAG:34-The-Indian-States
+TAG:35-Making-of-the-Constitution-for-India
+TAG:36-The-Evolution-of-Nationalist-Foreign-Policy
+TAG:37-First-General-Elections
+TAG:38-Developments-under-Nehru’s-Leadership-1947–64
+TAG:39-After-Nehru
