@@ -554,6 +554,8 @@ Eg 8.5  A train starting from rest attains a velocity of 72 km h–1 in
  acceleration and (ii) the distance travelled by the train for attaining this velocity.
 IMG:ncert-9-ch-8-eg-8-5.png
 
+IMG:ncert-9-ch-8-eg-8-6.png
+
 
 Exercise
 IMG:ncert-9-ch-8-ex.png
