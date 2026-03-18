@@ -508,6 +508,23 @@ TAG:7-motion
 GOTO:top
 TAG:8-force-and-laws-of-motion
 *8-force-and-laws-of-motion*
+Speed
+  - metre per second (SI Unit)
+  - m s^-1
+
+Average speed = Total distance travelled / Total time taken
+
+Velocity
+  - both speed and direction
+
+Average velocity = initial velocity + final velocity / 2
+
+Acceleration = change in velocity / time taken
+ a = v - u /t 
+ m/s^2 (SI Unit of acceleration)
+
+
+
 
 
 
