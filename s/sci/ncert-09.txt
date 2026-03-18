@@ -358,10 +358,146 @@ GOTO:top
 TAG:5-the-fundamental-unit-of-life
 *5-the-fundamental-unit-of-life*
 
+Robert Hooke
+  - discovered cell
+  - 1665
+
+Leeuwenhoek
+  - discovered free living cells in pond water
+  - 1674
+
+Robert Brown
+  - Nucleus in cell
+  - 1831
+
+*Protoplasm*
+  - Purkinje
+  - 1839
+
+
+Single cell organisms
+  - Amoeba
+  - Chlamydomonas
+  - Paramoecium
+
+*Diffusion*
+  - Co2/O2 can move across cell membrane
+
+*Hyptonic solution*
+  - cell will gain water
+
+*Hypertonic solution*
+  - cell will loose water
+  
+Plasma membrane
+  - Lipids and proteins
+
+*Endocytosis*
+  - when a cell "eats" or "drinks"
+
+*Cell wall*
+  - outside of plasma membrane
+  - cellulose (composed of)
+
+*Plasmolysis*
+  - living plant cell loses water
+  - through osmosys
+
+
+*Nucleus*
+  - To see stain of cells
+    - Safranin solution or
+    - Methylene blue solution
+  - Chromosomes (nucleus contains)
+    - inheritance information
+
+Bacteria
+  - absense of nuclear membrane
+  - *nucleoid*
+
+*Prokaryote*
+  - lack a nuclear membrane
+
+*Eukaryote*
+  - have nuclear membrane
+
+
+Cell Organelles
+*Endoplasmic Reticulum (ER)*
+  - RER (Rough ER)
+    - *Ribosomes* (contains)
+  - SER (Smooth ER)
+    - detoxifying many poisons and drugs
+
+Golgi Apparatus
+
+*Lysosomes*
+  - filled with *digestive enzymes* (made by RER)
+  - waste disposal system
+
+Mitochondria
+  - Powerhouse of cell
+  - *two* membrane coverings
+
+*Plastid*
+  - Only in plant cell
+  - Two types:
+    - Chromoplast (coloured)
+    - Leucoplast (white or colourless)
+
+*Valuoles*
+  - Storage sacs for solid or liquid contents
+  - small size in animal
+  - very large in plant cell
+
+Cell Division
+  - Mitosis
+  - Meiosis
+
+
+
 
 GOTO:top
 TAG:6-tissues
 *6-tissues*
+
+*Parenchyma* / Aerenchyma
+  - float (aquatic plants)
+*Collenchyma*
+  - flexibility
+*Sclerenchyma*
+  - hard & stiff
+
+Xylem
+  - transport water
+
+Pholem
+  - transport food (from leaves to other parts of plant)
+
+Epithelial Tissue
+  - Covering or protective tissue
+  - Skin (made of *squamous epithelium*)
+
+Connective Tissue
+  - Blood
+  - Cartilage
+  - Areolar (between skin and muscles)
+
+
+Plasma 
+  - Protein, salt, harmon
+
+Ligament
+  - two bones can be connected to each other
+
+
+Muscular Tissue
+  - consists of *elongated cells*
+
+*Neuron*
+  - Neclueus & cytoplasm
+  - Axon (each neuron has thin hair like)
+  - Dentrites (branched parts)
 
 
 GOTO:top
@@ -372,6 +508,7 @@ TAG:7-motion
 GOTO:top
 TAG:8-force-and-laws-of-motion
 *8-force-and-laws-of-motion*
+
 
 
 GOTO:top

@@ -5063,7 +5063,7 @@ TAG:23-number-system
 (d) 373 ✔
 
 
-*6.* Which of the following is a pair of co-prime numbers?
+*6.* Which of the following is a pair of *co-prime* numbers?
 
 (a) 455, 49
 (b) 81, 16 ✔
@@ -5099,6 +5099,7 @@ TAG:23-number-system
 
 *10.* Find the unit's digit in
 (263)^149 + (263)^150 + (263)^151.
+	[Hint: One digit from down, two digit from top]
 
 (a) 3
 (b) 9 ✔
@@ -5124,7 +5125,7 @@ TAG:23-number-system
 
 
 *13.* Find the number of factors in 1540.
-
+	[Add 1 in power of factor, then mul.]
 (a) 20
 (b) 24 ✔
 (c) 22
@@ -5159,12 +5160,12 @@ Which of the following statements is/are correct?
 
 
 ---DPQ---
-1. The smallest three-digit prime number is:
+*1.* The smallest three-digit prime number is:
 
-(a) 103 ✔
+(a) 103 
 (b) 107
 (c) 109
-(d) 101
+(d) 101 ✔
 
 
 2. How many prime numbers are there between 20 and 80?
@@ -5175,7 +5176,7 @@ Which of the following statements is/are correct?
 (d) 16
 
 
-3. The sum of all the prime numbers between 51 and 100 is:
+*3.* The sum of all the prime numbers between 51 and 100 is:
 
 (a) 724
 (b) 732 ✔
@@ -5199,7 +5200,7 @@ Which of the following statements is/are correct?
 (d) None of these
 
 
-6. Find the unit digit in (3451)^51 × (531)^43.
+*6.* Find the unit digit in (3451)^51 × (531)^43.
 
 (a) 6
 (b) 4
@@ -5207,7 +5208,7 @@ Which of the following statements is/are correct?
 (d) 9
 
 
-7. What is the unit digit of
+*7.* What is the unit digit of
 [4523^1632 × 2224^1632 × 3225^1632]?
 
 (a) 1
@@ -5216,7 +5217,7 @@ Which of the following statements is/are correct?
 (d) 5
 
 
-8. For any natural number n, what is always the last digit of the result 6n – 5n?
+*8.* For any natural number n, what is always the last digit of the result 6n – 5n?
 
 (a) 1 ✔
 (b) 3
@@ -5257,7 +5258,8 @@ TAG:24-number-system
 (d) 37254
 
 
-2. Find the difference between squares of the greatest value and the smallest value of P if the number 5306P2 is divisible by 3.
+*2.* Find the difference between squares of the greatest value and the smallest value of P if the number 5306P2 is divisible by 3.
+  [Hint: 53̶06̶P2/3; 7+P/3; P(low) = 2; P(high) = 8]
 
 (a) 60 ✔
 (b) 68
@@ -5273,7 +5275,8 @@ TAG:24-number-system
 (d) 2
 
 
-4. If 'a' is the smallest positive integer and the number 8764a529 is completely divisible by 9, then find the value of 17(3a +5).
+*4.* If 'a' is the smallest positive integer and the number 8764a529 is completely divisible by 9, then find the value of 17(3a +5).
+  [Hint: a = 4]
 
 (a) 116
 (b) 289 ✔
@@ -5281,7 +5284,8 @@ TAG:24-number-system
 (d) 236
 
 
-5. A 9-digit number 846523X7Y is divisible by 9, and Y – X = 6. Find the value of √(2X + 4Y).
+*5.* A 9-digit number 846523X7Y is divisible by 9, and Y – X = 6. Find the value of √(2X + 4Y).
+  [*Hint*: 8+X+Y/9; Y+X=10; Y-X=6 => Y=8; X=2]
 
 (a) 4
 (b) 2
@@ -5297,7 +5301,8 @@ TAG:24-number-system
 (d) 608
 
 
-7. 58k764 is a number which is divisible by 11, then find the value of k² – 3k.
+*7.* 58k764 is a number which is divisible by 11, then find the value of k² – 3k.
+  [Hint: (11+k) - (19) = 0; k = 8]
 
 (a) 40 ✔
 (b) 60
@@ -5313,7 +5318,8 @@ TAG:24-number-system
 (d) 2
 
 
-9. If 3c2933k is divisible by both 5 and 11, where c and k are single digit natural numbers, then c + k = _____.
+*9.* If 3c2933k is divisible by both 5 and 11, where c and k are single digit natural numbers, then c + k = _____.
+  [Hint: 0 is not a nuatural number]
 
 (a) 7
 (b) 8
@@ -5321,7 +5327,8 @@ TAG:24-number-system
 (d) 5
 
 
-10. If the 9-digit number 5x79856y6 is divisible by 36, then what is the negative value (2y + x) for the largest possible value of y, given x and y are natural numbers?
+*10.* If the 9-digit number 5x79856y6 is divisible by 36, then what is the negative value (2y + x) for the largest possible value of y, given x and y are natural numbers?
+  [36 => 1 x 36, 2 x 18, 3 x 12, 4 x 9; *take co prime* => 4 x 9; Y = 9; X = 8]
 
 (a) –7
 (b) –2
@@ -5414,7 +5421,7 @@ GOTO:top
 ______________________
 TAG:25-number-system
 *25-Number-system*
-1. The five-digit number 45yz0 is divisible by 40. What is the maximum possible value of (y + z)?
+*1.* The five-digit number 45yz0 is divisible by 40. What is the maximum possible value of (y + z)?
 
 (a) 15
 (b) 18
@@ -5422,7 +5429,8 @@ TAG:25-number-system
 (d) 17
 
 
-2. If a 9-digit number 389x6378y is divisible by 72, then the value of 6x + 7y is:
+2. If a 9-digit number 389x6378y is divisible by *72*, then the value of 6x + 7y is:
+  [Hint: y=4]
 
 (a) 16
 (b) 32
@@ -5430,7 +5438,8 @@ TAG:25-number-system
 (d) 64 ✔
 
 
-3. If the number 6p5157q is divisible by 88, then p × q = ______, where p and q are single digit numbers.
+*3.* If the number 6p5157q is divisible by 88, then p × q = ______, where p and q are single digit numbers.
+  [Hint: q = 6]
 
 (a) 15
 (b) 18 ✔

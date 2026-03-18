@@ -4,4 +4,25 @@ Tags  : #nomail #noview
 Descr :
 ============================
 
+TAG:top
+GOTO:1-number-system
+
+
+GOTO:top
+TAG:1-number-system
+
+*Divisibility*
+
+Divisibility of 7
+  - double the last digit and subtract it from the remaining number
+
+Divisibility of 11
+  - alternately subtract and add its digits from left to right
+  - should be 0 or 11
+
+Divisibility of 13
+  - Separate the last digit of the number.
+  - Multiply this last digit by 4.
+  - Add this product to the remaining truncated part of the number.
+  - Repeat this process if necessary.
 
