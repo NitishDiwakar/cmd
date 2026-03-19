@@ -155,12 +155,12 @@ TAG:3-Advent-of-the-Europeans-in-India
   - Bahadur Shah got killed in 1537 at Diu while negotiating with the Portuguese.
 
 *Factors for Decline of the Portuguese in India* 
- (a) Emergence of powerful dynasties in Egypt, Persia, and north India and the appearance of the Marathas as neighbours; 
- (b) political fears aroused by the activities of Jesuit missionaries, and
+ - Emergence of powerful dynasties in Egypt, Persia, and north India and the appearance of the Marathas as neighbours; 
+ - political fears aroused by the activities of Jesuit missionaries, and
  hatred of persecution (such as inquisition) that caused reaction against Portuguese spiritual pressure; 
- (c) rise of the English and Dutch commercial ambitions challenging the Portuguese supremacy; 
- (d) rampant corruption, greed, and selfishness along with piracy and clandestine trade practices of the Portuguese administration in India; 
- (e) diversion of Portuguese colonising ambitions towards the West due to
+ - rise of the English and Dutch commercial ambitions challenging the Portuguese supremacy; 
+ - rampant corruption, greed, and selfishness along with piracy and clandestine trade practices of the Portuguese administration in India; 
+ - diversion of Portuguese colonising ambitions towards the West due to
  the discovery of Brazil.
 
 *The Dutch*
@@ -250,7 +250,154 @@ This Company ruled in India till 1858.
 
 
 TAG:4-India-on-the-Eve-of-British-Conquest
+*4-India-on-the-Eve-of-British-Conquest*
+ 
+*Why the Mughal Empire Decined*
+ - *Weak Successors* The Mughal empire was a personal despotism, and its success depended upon a strong and capable monarch.
+ - *Absence of Definite Law of Succession* Continuous wars of succession (absence of law of primogeniture) fostered partisanship at the cost of patriotism.
+ - *Aurangzeb’s Religious and Deccan Policies* The religious policy antagonised the Rajputs, Sikhs, Jats, and Marathas; Deccan policy kept the emperor away from the capital for a long duration.
+ - *Degeneration of Rulers and Nobles*
+ - *Deterioration of Army*
+ - *Too Vast an Empire* The vast empire became a difficult task for weak rulers to administer efficiently.
+ - *External Invasions* Invasions of Irani and Durrani kingdoms
+ (Nadir Shah, Ahmad Shah Abdali) gave a death blow.
+ - *Economic Decline* Endless wars, stagnation in agriculture, and decline in trade and industry emptied the royal treasury.
+ - *Advent of Europeans* European companies interfered in native  politics, hastening the disintegration of empire.
+ - *Shifting Allegiance of Zamindars*
+ - *Jagirdari Crisis*
+ - Rise of Regional Aspirations Rise and establishment of Awadh, Bengal, Hyderabad, Mysore, Kerala, Rajput states, and Jat states accelerated the process of disintegration. Rise of Regional States
+ - Three categories
+ - Successor States Hyderabad (1724, Nizam-ul-Mulk), Bengal (1717, Murshid Quli Khan), and Awadh (1722, Saadat Khan Burhan-ul-Mulk).
+ - Independent States Mysore (under Haidar Ali), Kerala (King Martanda Varma), and Rajput States (Raja Sawai Singh of Amber).
+ - New States Marathas, Sikhs, Jats, and Afghans
+
+*Socio-Economic Conditions*
+
+*Agriculture* 
+ - Stagnant and technologically backward agriculture, compensated by very hard labour of peasants
+ - Peasants paid revenues to state, zamindars, jagirdars, and revenue farmers.
+ - Major produce/crops: rice, wheat, sugar, pepper, spices, cotton, etc. 
+
+ *Trade and Industry* 
+  - Trade flourished. Cotton textiles, raw silk, silk fabrics, hardware, indigo, saltpetre, opium, rice, wheat, sugar, pepper, spices, precious stones, and drugs were exported.
+  - Gold, musk, woollen cloth, copper, iron, lead, paper, porcelain, pearls, dates, dried fruits, coffee, tea, ivory, rose water, etc., were imported.
+  - The textile industry was famous for its produce. The ship building industry flourished. The metal industry was also well developed. 
+
+ *Education* 
+ - Elementary education imparted through pathshalas and maktabs
+ - Chatuspathis or Tols among Hindus, and Madrasahs among
+ Muslims were the institutes of higher learning.
+ - Absence of the study of science and technology and geography was a general feature. 
+
+ *Society*
+ - Apart from the four varnas, Hindus were divided into many sub-castes which differed in their nature from place to place.
+ - Muslims were also divided by considerations of caste, race, tribe, and status, even though their religion propagated equality.
+
+*Art, Architecture, and Culture*
+
+ - Asaf-ud-Daula, in 1784, built Bara Imambara at Lucknow.
+ - Sawai Jai Singh built pink city of Jaipur and five astronomical observatories (Delhi, Jaipur, Mathura, Benares, and Ujjain).
+ - Painting schools of Kangra and Rajputana came into prominence.
+ - In northern India, growth of Urdu language and poetry took place. Prominent Urdu poets were Mir, Sauda, Nazir, and Mirza Ghalib.
+ - Regional languages developed. Tamil language was enriched by Sittar poetry.
+
+
 TAG:5-Expansion-and-Consolidation-of-British-Power-in-India
+*5-Expansion-and-Consolidation-of-British-Power-in-India*
+  
+*Factors Which Gave Success to British in India*
+  - Superior Arms
+  - Military Discipline
+  - Civil Discipline
+  - Brilliant Leadership (which did not bother about adopting unscrupulous practices)
+  - Financial Strength
+  - Nationalist Pride
+
+*Conflict Between English and Nawabs of Bengal*
+ 
+  - Battle of Plassey (June 23, 1757): Robert Clive’s victory over Siraj-ud-Daulah laid the territorial foundation of British rule in India.
+  - Battle of Buxar (1764): Clive’s victory over the combined armies of Nawab of Bengal, Nawab of Awadh, and the Mughal Emperor at Buxar laid the real foundation of the English power 
+  - Treaty of Allahabad (1765): Granted the Diwani Rights of Bengal, Bihar, and Orissa to the English.
+    (i) Treaty with Nawab of Awadh
+    (ii) Treaty with Shah Alam II, Mughal Emperor
+  - Dual government (1765-72)
+
+
+*British Conquest of Mysore*
+  - First Anglo-Mysore War (1767–69); Treaty of Madras
+  - Second Anglo-Mysore War (1779–1784); Treaty of Mangalore
+  - Third Anglo-Mysore War (1790–92); Treaty of Seringapatam
+  - Fourth Anglo-Mysore War (1799); Mysore is conquered by British forces Anglo-Maratha Struggle for Supremacy
+  -  First Anglo-Maratha War (1775–82); Treaty of Surat (1775), Treaty of Purandhar (1776), and Treaty of Salbai (1782)
+  -  Second Anglo-Maratha War (1803–05); Treaty of Bassein, 1802
+  - Third Anglo-Maratha War (1817–19)
+  - Causes for the defeat of the Marathas
+    (i) Inept leadership
+    (ii) Defective nature of state
+    (iii) Loose political set-up
+    (iv) Inferior military system
+    (v) Ustable economic policy
+    (vi) Superior English diplomacy and espionage
+    (vii) Progressive English outlook
+
+ *Conquest of Sindh (1843)*
+  - Lord Ellenborough was the Governor General of India
+
+ *Conquest of Punjab*
+   - Treaty of Amritsar (1809), Ranjit Singh, and the British
+   - First Anglo-Sikh War (1845–46)
+   - Second Anglo-Sikh War (1848–49)
+ 
+ *British Paramountcy in Action*
+  - Ring-fence Policy of Warren Hastings
+ 
+*Subsidiary Alliance of Wellesley*
+ 
+*Subsidised States:*
+  - Hyderabad (1798; 1800)
+  - Mysore (1799)
+  - Tanjore (October 1799)
+  - Awadh (November 1801)
+  - Peshwa (December 1801)
+  - Bhonsle of Berar (December 1803)
+  - Sindhia (February 1804)
+  - Jodhpur (1818)
+  - Jaipur (1818)
+  - Macheri (1818)
+  - Bundi (1818)
+  - Bharatpur (1818)
+
+*Doctrine of Lapse*
+ 
+*Lapsed States under Lord Dalhousie (1848-56)*
+  - Satara (1848)
+  - Sambhalpur (1849)
+  - Baghat (1850)
+  - Udaipur (1854)
+  - Nagpur (1854)
+  - Jhansi (1854)
+  - Awadh (1856; on charge of mal-administration)
+
+*Relations of British India with Neighbouring Countries*
+  - Anglo-Nepal Relations (Treaty of Sagauli, 1816)
+  - Anglo-Burma Relations
+     - First Anglo-Burma War, 1824–26
+     - Second Anglo-Burma War, 1852
+     - Third Anglo-Burma War, 1885
+
+  - Anglo-Tibetan Relations
+     - Treaty of Lhasa (1904)
+
+  - Anglo-Afghan Relations
+     - Forward Policy of Auckland
+     - First Anglo-Afghan War (1839–1842)
+     - John Lawrence’s Policy of Masterly Inactivity
+     - Lytton and the Policy of Proud Reserve
+     - Second Anglo-Afghan War (1870–80)
+     - Treaty of Gandamak (May 1879)
+ 
+  - North-West Frontier
+     - Durand Agreement (1893)
 
 *UNIT 3: RISING RESENTMENT AGAINST COMPANY RULE*
 
