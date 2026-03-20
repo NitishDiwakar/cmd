@@ -4,7 +4,7 @@ Tags  : #
 Descr :
 ============================
 
-
+TAG:top
 UNIT 1: SOURCES AND APPROACHES
 
 GOTO:1-Sources-for-the-History-of-Modern-India
@@ -77,9 +77,9 @@ GOTO:39-After-Nehru
 PDF:spectrum-contents.pdf
 
 
-
 *UNIT 1: SOURCES AND APPROACHES*
 
+GOTO:top
 TAG:1-Sources-for-the-History-of-Modern-India
 *1-Sources-for-the-History-of-Modern-India*
 
@@ -98,7 +98,7 @@ Sources of Modern Indian History
 
  *Others* Oral tradition, creative literature, painting
 
-
+GOTO:top
 TAG:2-Major-Approaches-to-the-History-of-Modern-India
 *2-Major-Approaches-to-the-History-of-Modern-India*
 
@@ -122,21 +122,22 @@ TAG:2-Major-Approaches-to-the-History-of-Modern-India
 
 *UNIT 2: ADVENT OF EUROPEANS AND CONSOLIDATION OF BRITISH POWER IN INDIA*
 
+GOTO:top
 TAG:3-Advent-of-the-Europeans-in-India
 *3-Advent-of-the-Europeans-in-India*
 
 *Why a Sea Route to India*
 
- (i) Spirit of renaissance in the 15th-century Europe
- (ii) European economy growing rapidly, leading to prosperity and demand for luxury goods; increase in the supply of meat requiring spices for preservation
- (iii) Capture of Constantinople in 1453, and Syria and Egypt later by the Ottoman Turks calling for a new route to reach India without dealing with Arabs and Turks
- (iv) Venice and Genoa too small to stand up to the Turks
- (v) Spain and Portugal aided with money and men by the North Europeans and by ships and technical knowledge by the Genoese
- (vi) The Portuguese the pioneers, followed by the Dutch, English, Danes, and the French respectively to reach India
+  - Spirit of renaissance in the 15th-century Europe
+  - European economy growing rapidly, leading to prosperity and demand for luxury goods; increase in the supply of meat requiring spices for preservation
+  - Capture of Constantinople in 1453, and Syria and Egypt later by the Ottoman Turks calling for a new route to reach India without dealing with Arabs and Turks
+  - Venice and Genoa too small to stand up to the Turks
+  - Spain and Portugal aided with money and men by the North Europeans and by ships and technical knowledge by the Genoese
+  - The Portuguese the pioneers, followed by the Dutch, English, Danes, and the French respectively to reach India
 
 *The Portuguese*
- Vasco Da Gama discovered sea route to India in 1498.
- Vasco’s second visit in 1502 led to the establishment of trading stations at Calicut, Cochin, and Cannanore.
+  - Vasco Da Gama discovered sea route to India in 1498.
+  - Vasco’s second visit in 1502 led to the establishment of trading stations at Calicut, Cochin, and Cannanore.
 
 *Francisco de Almeida (1505–09)* 
   - First governor
@@ -164,9 +165,9 @@ TAG:3-Advent-of-the-Europeans-in-India
  the discovery of Brazil.
 
 *The Dutch*
- (i) The United East India Company of the Netherlands *(Verehgidge Oost Indische Compagnie)*, formed in March  1602 by the Charter of Dutch Parliament, had the powers to wage wars, make treaty, and build forts.
+  - The United East India Company of the Netherlands *(Verehgidge Oost Indische Compagnie)*, formed in March  1602 by the Charter of Dutch Parliament, had the powers to wage wars, make treaty, and build forts.
 
- (ii) *Dutch Factories in India* 
+  *Dutch Factories in India* 
    - Masulipatnam (1605)
    - Pulicat (1610)
    - Surat (1616)
@@ -180,9 +181,9 @@ TAG:3-Advent-of-the-Europeans-in-India
    - Nagapatam (1658) 
    - Cochin (1663)
 
-  (iii) Decline in India The defeat of the Dutch in the Anglo-Dutch rivalry and the shifting of Dutch attention towards the Malay  Archipelago
+  - *Decline in India* The defeat of the Dutch in the Anglo-Dutch rivalry and the shifting of Dutch attention towards the Malay  Archipelago
 
-  (iv) Battle of Bidara (1759) The English defeated the Dutch.
+  - *Battle of Bidara (1759)* The English defeated the Dutch.
 
 *The English*
 
@@ -195,13 +196,14 @@ TAG:3-Advent-of-the-Europeans-in-India
 
 *Settlements in India *
  
- (i) With Captain Thomas Best’s victory over the Portuguese (1612), the English established their first factory at Surat (1613). Subsequently, Sir Thomas Roe secured permission from Jehangir to establish factories at Agra, Ahmedabad, and Broach.
+  - With Captain Thomas Best’s victory over the Portuguese (1612), the English established their first factory at Surat (1613). Subsequently, Sir Thomas Roe secured permission from Jehangir to establish factories at Agra, Ahmedabad, and Broach.
 
- (ii) Bombay came under the control of the Company, with Charles II (who received it as a part of the Portuguese dowry) leasing it out to the English Company for an annual rent of 10 pounds. 
+  - Bombay came under the control of the Company, with Charles II (who received it as a part of the Portuguese dowry) leasing it out to the English Company for an annual rent of 10 pounds. 
 
- (iii) Madras with the Fort St. George replaced Masulipatnam as the English headquarters on the east coast, when the former was given by the Chandragiri chief to the English in 1639. 
+  - Madras with the Fort St. George replaced Masulipatnam as the English headquarters on the east coast, when the former was given by the Chandragiri chief to the English in 1639. 
 
- (iv) The city of Calcutta grew from the development of three villages Sutanuti, Gobindapur, and Kalikata secured from the Mughal governor of Bengal. The fortified settlement was named Fort William (1700), and it became the seat of British power in India till 1911.
+  - The city of Calcutta grew from the development of three villages Sutanuti, Gobindapur, and Kalikata secured from the Mughal governor of Bengal. The fortified settlement was named Fort William (1700), and it became the seat of British power in India till 1911.
+
 
 *Farrukhsiyar’s Farmans* In 1717, the Mughal Emperor Farrukhsiyar’s farmans, called Magna Carta of the East India Company, gave significant privileges to the Company in Bengal, Gujarat, and Hyderabad.
 
@@ -248,25 +250,39 @@ This Company ruled in India till 1858.
 
 
 
-
+GOTO:top
 TAG:4-India-on-the-Eve-of-British-Conquest
 *4-India-on-the-Eve-of-British-Conquest*
  
 *Why the Mughal Empire Decined*
+
  - *Weak Successors* The Mughal empire was a personal despotism, and its success depended upon a strong and capable monarch.
+
  - *Absence of Definite Law of Succession* Continuous wars of succession (absence of law of primogeniture) fostered partisanship at the cost of patriotism.
+
  - *Aurangzeb’s Religious and Deccan Policies* The religious policy antagonised the Rajputs, Sikhs, Jats, and Marathas; Deccan policy kept the emperor away from the capital for a long duration.
+
  - *Degeneration of Rulers and Nobles*
+
  - *Deterioration of Army*
+
  - *Too Vast an Empire* The vast empire became a difficult task for weak rulers to administer efficiently.
+
  - *External Invasions* Invasions of Irani and Durrani kingdoms
  (Nadir Shah, Ahmad Shah Abdali) gave a death blow.
+
  - *Economic Decline* Endless wars, stagnation in agriculture, and decline in trade and industry emptied the royal treasury.
+
  - *Advent of Europeans* European companies interfered in native  politics, hastening the disintegration of empire.
+
  - *Shifting Allegiance of Zamindars*
+
  - *Jagirdari Crisis*
+
  - Rise of Regional Aspirations Rise and establishment of Awadh, Bengal, Hyderabad, Mysore, Kerala, Rajput states, and Jat states accelerated the process of disintegration. Rise of Regional States
+
  - Three categories
+
  - Successor States Hyderabad (1724, Nizam-ul-Mulk), Bengal (1717, Murshid Quli Khan), and Awadh (1722, Saadat Khan Burhan-ul-Mulk).
  - Independent States Mysore (under Haidar Ali), Kerala (King Martanda Varma), and Rajput States (Raja Sawai Singh of Amber).
  - New States Marathas, Sikhs, Jats, and Afghans
@@ -274,22 +290,26 @@ TAG:4-India-on-the-Eve-of-British-Conquest
 *Socio-Economic Conditions*
 
 *Agriculture* 
+
  - Stagnant and technologically backward agriculture, compensated by very hard labour of peasants
  - Peasants paid revenues to state, zamindars, jagirdars, and revenue farmers.
  - Major produce/crops: rice, wheat, sugar, pepper, spices, cotton, etc. 
 
  *Trade and Industry* 
+
   - Trade flourished. Cotton textiles, raw silk, silk fabrics, hardware, indigo, saltpetre, opium, rice, wheat, sugar, pepper, spices, precious stones, and drugs were exported.
   - Gold, musk, woollen cloth, copper, iron, lead, paper, porcelain, pearls, dates, dried fruits, coffee, tea, ivory, rose water, etc., were imported.
   - The textile industry was famous for its produce. The ship building industry flourished. The metal industry was also well developed. 
 
  *Education* 
+
  - Elementary education imparted through pathshalas and maktabs
  - Chatuspathis or Tols among Hindus, and Madrasahs among
  Muslims were the institutes of higher learning.
  - Absence of the study of science and technology and geography was a general feature. 
 
  *Society*
+
  - Apart from the four varnas, Hindus were divided into many sub-castes which differed in their nature from place to place.
  - Muslims were also divided by considerations of caste, race, tribe, and status, even though their religion propagated equality.
 
@@ -302,6 +322,7 @@ TAG:4-India-on-the-Eve-of-British-Conquest
  - Regional languages developed. Tamil language was enriched by Sittar poetry.
 
 
+GOTO:top
 TAG:5-Expansion-and-Consolidation-of-British-Power-in-India
 *5-Expansion-and-Consolidation-of-British-Power-in-India*
   
@@ -318,27 +339,35 @@ TAG:5-Expansion-and-Consolidation-of-British-Power-in-India
   - Battle of Plassey (June 23, 1757): Robert Clive’s victory over Siraj-ud-Daulah laid the territorial foundation of British rule in India.
   - Battle of Buxar (1764): Clive’s victory over the combined armies of Nawab of Bengal, Nawab of Awadh, and the Mughal Emperor at Buxar laid the real foundation of the English power 
   - Treaty of Allahabad (1765): Granted the Diwani Rights of Bengal, Bihar, and Orissa to the English.
-    (i) Treaty with Nawab of Awadh
-    (ii) Treaty with Shah Alam II, Mughal Emperor
+    - Treaty with Nawab of Awadh
+    - Treaty with Shah Alam II, Mughal Emperor
   - Dual government (1765-72)
 
 
 *British Conquest of Mysore*
+  
   - First Anglo-Mysore War (1767–69); Treaty of Madras
+  
   - Second Anglo-Mysore War (1779–1784); Treaty of Mangalore
+  
   - Third Anglo-Mysore War (1790–92); Treaty of Seringapatam
+  
   - Fourth Anglo-Mysore War (1799); Mysore is conquered by British forces Anglo-Maratha Struggle for Supremacy
+  
   -  First Anglo-Maratha War (1775–82); Treaty of Surat (1775), Treaty of Purandhar (1776), and Treaty of Salbai (1782)
+  
   -  Second Anglo-Maratha War (1803–05); Treaty of Bassein, 1802
+  
   - Third Anglo-Maratha War (1817–19)
+  
   - Causes for the defeat of the Marathas
-    (i) Inept leadership
-    (ii) Defective nature of state
-    (iii) Loose political set-up
-    (iv) Inferior military system
-    (v) Ustable economic policy
-    (vi) Superior English diplomacy and espionage
-    (vii) Progressive English outlook
+    - Inept leadership
+    - Defective nature of state
+    - Loose political set-up
+    - Inferior military system
+    - Ustable economic policy
+    - Superior English diplomacy and espionage
+    - Progressive English outlook
 
  *Conquest of Sindh (1843)*
   - Lord Ellenborough was the Governor General of India
@@ -401,33 +430,898 @@ TAG:5-Expansion-and-Consolidation-of-British-Power-in-India
 
 *UNIT 3: RISING RESENTMENT AGAINST COMPANY RULE*
 
+GOTO:top
 TAG:6-Peoples-Resistance-Against-British-Before-1857
+*6-Peoples-Resistance-Against-British-Before-1857*
+
+*Factors Responsible for People’s Resistance*
+  - Colonial land revenue settlements; heavy burden of new taxes and eviction of peasants from their land
+  - Growth of intermediary revenue collectors, tenants, and moneylenders
+  - Expansion of revenue administration over tribal lands
+  - Destruction of indigenous industry and promotion of British manufactured goods
+  - End of patronage to priestly and scholarly classes
+  - Foreign character of the British rule
+
+*Forms of People’s Uprisings*
+  - Civil Uprisings
+  - Peasant Movements
+  - Tribal Revolts
+  - Military Revolts
+  
+
+*Civil Uprisings Before 1857*
+
+Sanyasi Revolt (1763–1800)—Bihar and Bengal; Manju Shah, Musa Shah, Bhawani Pathak, and Debi Chaudhurani were some important leaders.
+
+Rebellion in Midnapore and Dhalbhum (1766–67)—Bengal; Damodar Singh, Jagannath Dhal, etc.
+
+Revolt of Moamarias (1769–99)—Assam and parts of present Bangladesh; Krishnanarayan was important leader.
+
+Civil Uprisings in Gorakhpur, Basti and Bahraich (1781)—Uttar Pradesh.
+
+Revolt of Raja of Vizianagaram—Northeren Circars; Vizieram Rauze (Chinna Vijayaramaraju) was supported by his subjects.
+
+Revolt in Bednur (1797–1800)—Karnataka; Dhundia Wagh.
+
+Revolt of Kerala Varma Pazhassi Raja (1797–1805)—Kerala; Kerala Varma.
+
+Civil Rebellion of Awadh (1799)—Eastern Uttar Pradesh; Wazir Ali Khan (Vizier Ali)
+
+Uprising in Ganjam and Gumsur (1800, 1935–37)—Eastern Orissa; Strikara Bhanj, Dhananjaya Bhanj and Doora Bisayi.
+
+Uprisings in Palamau (1800–02)—Chhotanagpur of Jharkhand; Bhukhan Singh was the leader of the revolt.
+
+Poligars’s Revolt (1795–1805)—Tinnevelly, Ramnathapuram, Sivagiri, Madurai and North Arcot of Tamil Nadu; Kattabomman Nayakan was an important leader.
+
+Revolt of Diwan Velu Thampi (1808–09)—Travancore; led by Diwan of State, Velu Thampi.
+
+Disturbances in Bundelkhand (1808–12)—Regions of Bundelkhand in present Madhya Pradesh and Uttar Pradesh; Lakshaman Dawa, the Killadar of Ajaygarh Fort, Darya Singh, the Killadar of Kalanjar, and Gopal Singh, a military adventurer were the important insurgents.
+
+Parlakimedi Outbreak (1813–34)—Orissa; Narayan Deo and Gajapathi Deo.
+ Kutch Rebellion (1819)—Gujarat; Rao Bharamal.
+
+Rising at Bareilly (1816)—Uttar Pradesh; Mufti Muhammad Aiwaz, a religious leader; a resistance against municipal tax turned into a religious jehad.
+
+Upsurge in Hathras (1817)—Aligarh and Agra in Uttar Pradesh; Dayaram and Bhagwant Singh were the important insurgents. Paika Rebellion (1817)—Orissa; Bakshi Jagabandhu Bidyadhar, Mukunda Deva, and Dinabandhu Santra were important leaders.
+
+Waghera Rising (1818–20)—Baroda region of Gujarat; led by Waghera chiefs of Okha Mandal.
+
+Ahom Revolt (1828)—Assam; led by Gomdhar Konwar and Maharaja Purandhar Singh. Narendra Gadadhar Singh and Kumar Rupchand were other leaders.
+
+Surat Salt Agitations (1844)—Gujarat; attacks on the Europeans by the locals of Surat; over the issue of increase in salt duty.
+
+Gadkari Revolt (1844)—Kolhapur of Maharashtra; Gadakaris, a hereditary military class, revolted in the wake of unemployment and agrarians grievances.
+
+Revolt of Savantavadi (1844–59)—North Konkan Coast; Phond Savant, Subana Nikam, Daji Lakshman, and Har Savant Dingnekar were important insurrectionists.
+
+Wahabi Movement (1830–61)—Bihar, Bengal, North West Frontier Province, Punjab, etc., an Islamist revivalist movement started by Syed Ahmed of Rai Bareilly.
+
+Kuka Movement (1840–72)—Punjab; A religious movement started by Bhagat Jawahar Mal transformed into political one. Ram Singh, a noted leader, deported to Rangoon.
+
+
+*Peasant Movements*
+
+Narkelberia Uprising (1831)—24 Parganas (Bengal); Titu Mir inspired the Muslim tenants in West Bengal against Hindu landlords.
+
+Pagal Panthis (1825–35)—Mymensingh district (Bengal); Karam Shah and his son Tipu rose against zamindars. Faraizi Revolt (1838–57)—Faridpur in Eastern Bengal; ShariatAllah, son of Dadu Mian, was the founder of the religious sect (Faraizi).
+
+Moplah Uprisings (1836–1854)—Malabar region of Kerala; against hike in revenue demand and reduction in field size.
+
+
+*Tribal Revolts*
+
+Pahariyas’ Rebellion (1778)—Raj Mahal Hills Chuar Uprisings (1766 to 1772, 1795–1816)—Midnapore district of Bengal; important leaders—Sham Ganjan, Durjan Singh and Madhab Singh.
+
+Kol Mutiny (1831)—Ranchi, Singhbhum, Hazaribagh, Palamau and Manbhum; Buddho Bhagat was an important leader. 
+
+Ho and Munda Uprisings (1820–22, 1831–37, 1899–1900)— Chhotanagpur region; Birsa Munda in 1899–1900 led the rebellion.
+
+Santhal Rebellion (1855–56)—Rajmahal Hill (Bihar); Sidhu and Kanhu were important leaders. Khond Uprisings (1837–1856)—Hilly tracts extending from Tamil Nadu to Bengal; Chakra Bisoi, an important leader.
+
+Koya Revolts (1803, 1840–62, 1879–80)—Eastern Godavari region of Andhra Pradesh; Tomma Sora and Raja Anantayyar were important leaders.
+
+Bhil Revolts (1817–19, 1913)—Khandesh, Dhar, Malwa, Western Ghats and southern Rajasthan. 
+
+Koli Risings (1829, 1839 and 1844–48)—Western Ghats. 
+
+Ramosi Risings (1822–29, 1839–41)—Western Ghats; Chittur Singh was an important rebel leader.
+
+Khasi Uprising (1829–33)—Hilly region between Garo and Jaintia Hills, Sylhet; Khasis, Garos, Khamptis and Singhphos organised themselves under Tirath Singh.
+
+Singhphos’ Rebellion (1830–31, 1843)—Assam-Burma Border; Nirang Phidu led an uprising in 1843.
+
+
+*Sepoy Mutinies*
+
+  - Vellore Mutiny (1806)
+
+  - Mutiny of 47th Native Infantry Unit (1824)
+
+  - Revolt of Grenadier Company (1825), Assam
+ 
+  - Mutiny in Sholapur (1833)
+
+  - Mutiny of 34th Native Infantry (1844)
+
+  - Mutiny of 22nd Native Infantry (1849)
+
+  - Mutiny of 66th Native Infantry (1850)
+
+  - Mutiny of 37th Native Infantry (1852)
+
+
+GOTO:top
 TAG:7-The-Revolt-of-1857
+*7-The-Revolt-of-1857*
+ 
+Revolt—a product of character and policies of colonial rule.
+
+Economic causes
+  — heavy taxation under new revenue settlement, summary evictions, discriminatory tariff policy against Indian products, destruction of traditional handicrafts industry, and absence of concomitant industrialisation on modern lines that hit peasants, artisans, and small zamindars.
+ 
+Political causes
+  — greedy policy of aggrandisement, absentee sovereigntyship character of British rule, British interference in socio-religious affairs of the Indian public. Military causes—discontent among sepoys for economic, psychological, and religious reasons, coupled with a long history of revolts.
+
+*Centres of Revolt and Leaders*
+  - Delhi
+  - Kanpur
+  - Lucknow
+  - Bareilly
+  - Bihar
+  - Faizabad
+  - Jhansi
+  - Baghpat- General Bakht Khan- Nana Saheb- Begum Hazrat Mahal- Khan Bahadur- Kunwar Singh- Maulvi Ahmadullah- Rani Laxmibai- Shah Mal
+
+*The British Resistance*
+  - Delhi
+    - Lieutenant Willoughby
+    - John Nicholson
+    - Lieutenant Hudson
+
+  - Kanpur
+    - Sir Hugh Wheeler
+    - Sir Colin Campbell
+
+  - Lucknow
+    - Henry Lawrence
+    - Brigadier Inglis
+    - Henry Havelock
+    - James Outram
+    - Sir Colonil Campbell
+
+  - Jhansi
+    - Sir Hugh Rose
+
+  - Benaras
+    - Colonel James Neill
+
+
+*Causes of Failure*
+  - Limited territorial and social base
+  - Crucial support of certain sections of Indian public to British authorities
+  - Lack of resources as compared to those of the British
+  - Lack of coordination and a central leadership
+  - Lack of a coherent ideology and a political perspective
+
+*Nature*
+  - R.C. Majumdar and S.N. Sen— “Not an organised ‘national’
+ revolt”
+
+  - R.C. Majumdar— “Neither first, nor National War of
+ Independence”
+
+  - V.D. Savarkar— “War of independence”
+
+  - Eric Stokes— “Elitist in character”
+
+  - Lawrence and Seeley— “Mere sepoy mutiny”
+
+  - T.R. Holmes— “A conflict between civilisation and barbarism”
+
+  - James Outram— “A Mohammedan conspiracy making capital of Hindu grievances”
+
+  - Percival Spear— Three phases of the revolt
+
+ *Conclusion:* Not quite the first war of independence but sowed the seeds of nationalism and quest for freedom from alien rule.
+
+*Effect*
+  - Crown took over
+  - Company rule abolished
+  - Queen’s Proclamation altered administration
+  - Army reorganised
+  - Racial hatred deepened.
+  - White Mutiny
+
 
 *UNIT 4: REFORM MOVEMENTS*
 
+GOTO:top
 TAG:8-Socio-Religious-Reform-Movements-General-Features
+*8-Socio-Religious-Reform-Movements-General-Features*
+
+*Factors which gave Rise to Reform Movements*
+ 
+  - Presence of colonial government on Indian soil.
+  - Various ills plaguing Indian society—obscurantism, superstition, polytheism, idolatry, degraded position of women, exploitative caste hierarchy.
+  - Spread of education and increased awareness of the world.
+  - Impact of modern Western culture and consciousness of defeat by a foreign power.
+  - Rising tide of nationalism and democracy during the late 19th century.
+ 
+*Social Base*
+  - Emerging middle class and Western-educated intellectuals.
+ 
+*Ideological Base*
+  - Rationalism, religious universalism, humanism, secularism.
+
+*Social Reform Components*
+
+  - *Betterment of Position of Women* Degraded position due to 
+    - Purdah system
+    - Early marriage
+    - Lack of education
+    - Unequal rights in marriage, divorce, inheritance
+    - Polygamy
+    - Female infanticide
+    - Restrictions on widow remarriage
+    - Sati
+
+
+*Major Contributors to Reforms*
+  - Social reform movements, freedom struggle, movements led by enlightened women, free India’s Constitution.
+
+*Legislative Measures for Women*
+ 
+Bengal Regulation (1829) banning sati
+
+Bengal Regulations (1795, 1804)—declaring infanticide illegal.
+
+Hindu Widows’ Remarriage Act, 1856.
+
+Age of Consent Act, 1891
+
+Sarda Act, 1930
+
+Special Marriage Act, 1954
+
+Hindu Marriage Act, 1955
+
+Hindu Succession Act, 1956
+
+Hindu Adoption and Maintenance Act
+
+Maternity Benefits Act, 1961
+
+Equal Remuneration Act, 1976
+
+Child Marriage Restraint (Amendment) Act, 1978
+
+Suppression of Immoral Traffic Act in Women and Girls, 1956 (amended in 1986)
+
+Dowry Prohibition Act, 1961 (amended in 1986)
+
+
+*Struggle Against Caste-based Exploitation*
+ 
+*Factors Undermining Caste Rigidities*
+
+  - Forces unleashed by colonial administration
+  - Social reform movements
+  - National movement
+  - Gandhi’s  campaign against untouchability
+  - Stirrings among lower castes due to better education and employment  Free India’s Constitution
+
+
+GOTO:top
 TAG:9-A-General-Survey-of-Socio–Cultural-Reform-Movements-and-their-Leaders
+*9-A-General-Survey-of-Socio–Cultural-Reform-Movements-and-their-Leaders*
+
+*Reform Movements: Among Hindus and for Depressed classes*
+
+*Bengal*
+  - Raja Rammohan Roy and Brahmo Samaj
+  - Debendranath Tagore and Tattvabodhini Sabha
+  - Keshub Chandra Sen and Brahmo Samaj of India
+  - Prarthana Samaj
+  - Derozio and Young Bengal Movement
+  - Ishwar Chandra Vidyasagar
+
+*Western India*
+  - Bal Shastri Jambekar
+  - Students’ Literary and Scientific Societies
+  - Paramhansa Mandalis
+  - Jyotiba Phule and Satyashodhak Samaj
+  - Gopal Walangkar
+  - Kisan Faguji Bansod
+  - Vitthal Ramji Shinde
+  - Gopalhari Deshmukh ‘Lokahitawadi’
+  - Gopal Ganesh Agarkar
+  - Servants of India Society
+
+
+*Southern India*
+  - Sri Narayana Dharma Paripalana Movement
+  - Vokkaliga Sangha
+  - Justice Movement
+  - Self-respect Movement
+  - Temple Entry Movement
+
+*All India*
+  - Ramakrishna Movement and Vivekananda
+  - Dayananda Saraswati and Arya Samaj
+  - Theosophical Movement
+
+*Among Muslims*
+  - Wahabi/Walliullah Movement
+  - Ahmadiyya Movement
+  - Syed Ahmed Khan and Aligarh Movement
+  - Deoband Movement
+
+*Among Parsis*
+  - Rahnumai Mazdayasnan Sabha
+
+*Among Sikhs*
+  - Singh Sabha Movement
+  - Akali Movement
+
+*Positive Aspects*
+  - Liberation of individual from conformity out of fear psychosis.
+  - Worship made a more personal affair
+  - Cultural roots to the middle classes—thus mitigating the sense of humiliation; much needed self-respect gained
+  - Fostered secular outlook
+  - Encouraged social climate for modernisation
+  - Ended India’s cultural, intellectual isolation from rest of the world
+  - Evolution of national consciousness
+
+*Negative Aspects*
+  - Narrow social base
+  - Indirectly encouraged mysticism
+  - Overemphasis on religious, philosophical aspects of culture while underemphasising secular and moral aspects
+  - Hindus confined their praise to ancient Indian history and
+  - Muslims to medieval history—created a notion of two separate peoples and increased communal consciousness
+  - Historical process of evolution of composite culture arrested to some extent
+
 
 *UNIT 5: THE STRUGGLE BEGINS*
 
+GOTO:top
 TAG:10-Beginning-of-Modern-Nationalism-in-India
+*10-Beginning-of-Modern-Nationalism-in-India*
+
+*Factors in Growth of Modern Nationalism*
+  - Understanding of contradictions in Indian and colonial interests
+  - Political, administrative, and economic unification of the country
+  - Western thought and education
+  - Role of press and literature
+  - Rediscovery of India’s past—historical researches
+  - Rise of middle-class intelligentsia
+  - Impact of contemporary movements worldwide
+  - Reactionary policies and racial arrogance of rulers
+
+*Political Associations Before Indian National Congress*
+ 
+ 1836—Bangabhasha Prakasika Sabha
+ 
+ 1843—Bengal British India Society
+ 
+ 1851—British Indian Association
+ 
+ 1866—East India Association
+ 
+ Zamindari Association or Landholders’ Society
+ 
+ 1870—Poona Sarvajanik Sabha
+ 
+ 1875—Indian League
+ 
+ 1876—Indian Association of Calcutta or Indian National Association
+ 
+ 1885—Bombay Presidency Association
+ 
+ 1884—Madras Mahajan Sabha
+
+
+
 TAG:11-Indian-National-Congress:-Foundation-and-the-Moderate-Phase
+*11-Indian-National-Congress:-Foundation-and-the-Moderate-Phase*
+
+*Foundation of Indian National Congress*
+ 
+  - First session held in 1885 (Bombay).
+  - Indian National Union, formed by A.O. Hume, became Indian National Congress.
+
+  - *Foundational theories* of INC and prominent believers:
+    - Safety Valve Theory —Lala Lajpat Rai
+    - Conspiracy Theory—R.P. Dutt
+    - Lightning conductor Theory—G.K. Gokhale
+
+Important leaders of Moderate Phase
+  - Dadabhai Naoroji
+  - Badruddin Tyabji
+  - Pherozeshah Mehta
+  - P. Ananda Charlu
+  - Surendranath Banerjea
+  - Romesh Chandra Dutt
+  - Ananda Mohan Bose
+  - G.K. Gokhale, etc.
+
+Early Nationalist Methodology
+  - Constitutional agitation within four walls of law
+  - Political education of people
+  - Create public opinion in India and campaign for support to Indian demands in England
+  - Political connections with Britain in India’s interests at that stage
+  - Time not ripe for direct challenge to colonial rule
+
+Contributions of Moderate Nationalists
+  - Economic critique of British imperialism
+  - Constitutional reforms and propaganda in legislature
+  - Campaign for general administrative reforms
+  - Defence of civil rights
+
 
 *UNIT 6: NATIONAL MOVEMENT 1905–1918*
 
 TAG:12-Era-of-Militant-Nationalism-1905–1909
+*12-Era-of-Militant-Nationalism-1905–1909*
+
+*Why Militant Nationalism Grew*
+
+  - Realisation that the true nature of British rule was exploitative, and that the British India government, instead of conceding more, was taking away even what existed
+
+  - Growth of self-confidence and self-respect
+
+  - Impact of growth of education—increase in awareness and unemployment
+
+  - International influences and events which demolished the myth of white/European supremacy. These included:
+    - emergence of Japan—an Asian country—as an industrial power
+    - Abyssinia’s (Ethiopia) victory over Italy
+    - Boer Wars (1899–1902) in which the British faced reverses
+    - Japan’s victory over Russia (1905)
+    - nationalist movements worldwide
+
+  -  Reaction to increasing westernisation
+
+  - Dissatisfaction with the achievements as well as the
+ methods of the Moderates
+  - Reactionary policies of Curzon such as the Calcutta Corporation Act (1899), the Official Secrets Act (1904), the Indian Universities Act (1904), and partition of Bengal (1905)
+
+  - Existence of a militant school of thought
+
+  - Emergence of a trained leadership
+
+*The Extremist Ideology*
+  - Hatred for foreign rule
+  - Belief in the capacity of the masses
+  - Swarajya as goal
+  - Advocacy of direct political action and self-sacrifice
+
+
+*The Swadeshi and Boycott Movement*
+
+  - *Began as a reaction to partition of Bengal* which became known in 1903, was formally announced in July 1905 and came into force in October 1905. The motive behind partition was to weaken Bengal which was the nerve centre of Indian nationalist activity; the official reason given for the partition was that Bengal had become too big to administer—which was true to some extent.
+
+  - Moderate-led anti-partition movement (1903–05) was under Surendranath Banerjea, K.K. Mitra, Prithwishchandra Ray. Methods included public meetings, petitions, memoranda, propaganda through newspapers and pamphlets.
+
+*The movement under Extremists (1905–08)* was led by:
+  
+  - Tilak
+  - Bipin Chandra Pal
+  - Lajpat Rai
+  - Aurobindo Ghosh
+
+
+*Methods* included 
+  - boycott of foreign cloth and other goods
+  - public meetings and processions 
+  - forming corps of volunteers or samitis
+  - use of traditional popular festivals and melas for propaganda, emphasis on self-reliance or atma shakti
+  - launching programme of swadeshi or national education, swadeshi or indigenous enterprises, initiating new trends in Indian painting, songs, poetry, pioneering research in science and later calling for boycott of schools, colleges, councils, government service, etc.
+
+
+*Extremists took over because of* the failure of the Moderates to achieve positive results, divisive tactics of governments of both Bengals, severe government repression.
+
+*Extent of mass participation* 
+  - students, women, certain sections of zamindari, labour, some lower middle and middle classes in towns and cities participated for the first time while the Muslims generally kept away.
+
+*Annulment of Partition* mainly to curb the ‘menace’ of revolutionary terrorism
+
+*Why Swadeshi Movement fizzled out by 1908*
+  - Severe government repression
+  - Lack of effective organisation and a disciplined focus
+  - With arrest/deportation of all leaders, the movement left leaderless
+  - Split in nationalist ranks
+  - Narrow social base
+
+*Achievements*
+  - “A leap forward” because hitherto untouched sections participated, major trends of later movement emerged; richness of the movement extended to culture, science, and literature; people educated in bolder form of politics; colonial hegemony  undermined.
+
+*Major Cause of Moderate-Extremist Split at Surat (1907)*
+  - *Moderates* wanted to restrict the Boycott Movement to Bengal and to a boycott of foreign cloth and liquor.
+  - *Extremists* wanted to take the movement to all parts of the country and include within its ambit all forms of association with the government through a boycott of schools, colleges, law courts, legislative councils, government service, municipalities etc.
+
+*Government Acts for Repression of Swadeshi Movement*
+  - Seditious Meetings Act (1907)
+  - Criminal Law (Amendment) Act (1908)
+  - Indian Newspapers (Incitement to Offences) Act (1908)
+  - Explosive Substances Act (1908)
+  - Indian Press Act (1910)
+
+*Morley-Minto Reforms*
+  - Number of elected members in Imperial and Provincial Legislative Councils increased—elected non-officials still in minority.
+  - Non-officials to be elected indirectly—thus elections introduced for the first time.
+  - Separate electorates introduced for Muslims
+  - Legislatures could pass resolutions, ask questions and supplementaries, vote separate items of the budget.
+  - One Indian to be on viceroy’s executive council.
+  - Aimed at dividing the nationalist ranks and at rallying the
+  - Moderates and the Muslims to the government’s side.
+  - No responsibility entrusted to legislators—this resulted in thought less criticism sometimes.
+  - System of election was too indirect.
+
+
+GOTO:top
 TAG:13-First-Phase-of-Revolutionary-Activities-1907-1917
+*13-First-Phase-of-Revolutionary-Activities-1907-1917*
+
+*Revolutionary Activities*
+
+*Reasons for Emergence*
+  - Younger elements not ready to retreat after the decline of open phase
+  - Leadership’s failure to tap revolutionary energies of the youth
+  - Government repression left no peaceful avenues open for protest.
+
+*Ideology*
+  - Assassinate unpopular officials, thus strike terror in the hearts of rulers and arouse people to expel the British with force; based on individual heroic actions on lines of Irish nationalists or Russian nihilists and not a mass-based countrywide struggle.
+
+*Revolutionary Activities*
+
+*Bengal*
+  - 1902—First revolutionary groups in Midnapore and Calcutta (The Anushilan Samiti)
+
+  - 1906—Yugantar, the revolutionary weekly started
+
+  - By 1905-06—Several newspapers started advocating revolutionary terrorism.
+
+  - 1907—Attempt on life of the former Lt. governor of East Bengal and Assam
+
+  - 1908—Prafulla Chaki and Khudiram Bose attempt to murder Muzaffarpur Magistrate, Kingsford
+
+  - Alipore conspiracy case involving Aurobindo Ghosh, Barindra Kumar Ghosh, and others
+
+  - 1908—Burrah dacoity by Dacca Anushilan
+ 
+  - 1912—Bomb thrown at Viceroy Hardinge by Rashbehari Bose and Sachin Sanyal Sandhya, Yugantar—newspapers advocating revolutionary activity 
+
+  - Jatin Das and Yugantar; the German Plot during World War I
+
+
+*Maharashtra*
+
+  - 1879—Ramosi Peasant Force by Vasudev Balwant Phadke
+
+  - 1890s—Tilak’s attempts to propagate militancy among the youth through Shivaji and Ganapati festivals, and his journals Kesari and Maharatta
+
+  - 1897—Chapekar brothers kill Rand, the plague commissioner of Poona and Lt. Ayerst
+
+  - 1899—Mitra Mela—a secret society organised by Savarkar and his brother
+
+  - 1904—Mitra Mela merged with Abhinav Bharat
+ 
+  - 1909—District Magistrate of Nasik—Jackson—killed
+ 
+*Punjab*
+  - Revolutionary activity by Lala Lajpat Rai, Ajit Singh, Aga Haidar Syed Haidar Raza, Bhai Parmanand, Lalchand ‘Falak’, Sufi Ambaprasad
+
+
+*Revolutionary Activity Abroad*
+
+  - 1905—Shyamji Krishnavarma set up Indian Home Rule Society and India House and brought out journal The Sociologist in London.
+
+  - 1909—Madan Lal Dhingra murdered Curzon-Wyllie; Madame Bhikaji Cama operated from Paris and Geneva and brought out journal Bande Mataram.
+
+  - Ajit Singh also active Berlin Committee for Indian Independence established by Virendranath Chattopadhyay and others
+
+  - Missions sent to Baghdad, Persia, Turkey, Kabul.
+
+  - In North America, the *Ghadr* was organised by: 
+    - Lala Hardayal
+    - Ramchandra
+    - Bhawan Singh
+    - Kartar Singh Saraba
+    - Barkatullah
+    - Bhai Parmanand
+
+*The Ghadr Programme*
+  - Assassinate officials
+  - Publish revolutionary literature
+  - Work among Indian troops abroad and raise funds
+  - Bring about a simultaneous revolt in all colonies of Britain.
+  - Attempt to bring about an armed revolt in India on February 21, 1915 amidst favourable conditions created by the outbreak of First World War and the Komagata Maru incident (September 1914). The plan was foiled due to treachery.
+
+  - Defence of India Act, 1915 passed primarily to deal with the Ghadrites
+
+
+
+GOTO:top
 TAG:14-First-World-War-and-Nationalist-Response
+*14-First-World-War-and-Nationalist-Response*
+
+*Home Rule League Movement*
+  - Manifestation of a trend of aggressive politics in national movement; was pioneered by Tilak and Annie Besant on lines of a similar movement in Ireland
+
+*Factors Favouring the Movement*
+  - Need being felt for popular pressure to attain concessions
+  - Disillusionment with Morley-Minto Reforms
+  - Wartime miseries—public ready to protest
+  - Tilak, Besant ready to assume leadership
+
+*Aim of the Movement* To convey to the common man the
+ concept of Home Rule as self-government.
+
+*Tilak’s League*
+
+  - Started in *April 1916* and operated in
+    - Maharashtra
+    - Karnataka
+    - Central Provinces and 
+    - Berar; had six branches
+
+*Besant’s League* —Started in *September 1916* and operated in rest of India; had 200 branches Later, the leagues were joined by others including Moderate Congressmen.
+
+*Methods Used* 
+  - Organising discussions
+  - reading rooms 
+  - propaganda through public meetings
+  - newspapers
+  - pamphlets posters, etc.
+
+*Positive Gains* 
+  - Emphasis shifted to the masses permanently
+  - organisational link established between town and country
+  - prepared a generation of ardent nationalists, influenced
+  - Moderate-Extremist reunion at Lucknow (1916)
+
+
+*Lucknow Session of INC—1916*
+  - Extremists were readmitted to Congress.
+  - Muslim League and Congress put up joint demands under Lucknow Pact.
+  - Congress accepted the League’s position on separate electorates.
+
+*Importance of Montagu’s Statement* 
+  - Attainment of self government for Indians became a government policy
+
+
 
 *UNIT 7: ERA OF MASS NATIONALISM BEGINS (1919-1939)*
 
+GOTO:top
 TAG:15-Emergence-of-Gandhi
+*15-Emergence-of-Gandhi*
+
+*Why Nationalist Upsurge at End of First World War?*
+  - Post-War economic hardship
+  - Nationalist disillusionment with imperialism worldwide
+  - Impact of the Russian Revolution
+
+*Montagu-Chelmsford Reforms*
+ 
+  - Dyarchy in provinces
+
+  - Two lists—reserved and transferred—for administration. Reserved subjects to be administered by governor through executive council and transferred subjects to be administered by ministers from legislative council.
+
+  - Extensive powers to governor, governor general, and secretary of state for interference
+
+  - Franchise expanded, powers also extended.
+
+  - Governor general to administer with an executive council of 8—three to be Indians.
+
+  - Two lists for administration—central and provincial
+
+  - Bicameral central legislature—Central Legislative Assembly as the lower house and Council of States as the upper house
+ 
+*Drawbacks*
+  - Dyarchy arrangement too complex and irrational to be functional 
+  - Central executive not responsible to legislature
+  - Limited franchise
+
+*Sense of Betrayal by the British specially after Rowlatt Act*
+  - British promises of reward after war failed to materialise Nationalists disappointed
+
+*Gandhi’s Activism in South Africa (1893–1914)*
+  
+  - Set up Natal Indian Congress and started Indian Opinion
+  
+  - Satyagraha against registration certificates
+  
+  - Campaign against restrictions on Indian migration
+  
+  - Campaign against poll tax and invalidation of Indian marriages
+  
+  - Gandhi’s faith in capacity of masses to fight established; he was able to evolve his own style of leadership and politics and techniques of struggle.
+
+
+*Gandhi’s Early Activism in India*
+
+  - Champaran Satyagraha (1917)
+    - First Civil Disobedience
+ 
+  - Ahmedabad Mill Strike (1918)
+    - First Hunger Strike
+  
+  - Kheda Satyagraha (1918)
+    - First Non-Cooperation
+
+  - Rowlatt Satyagraha (1918)
+    - First mass-strike
+
+  - Jallianwalla Bagh Massacre and the Inquiry Committee
+
+
+
+GOTO:top
 TAG:16-Non-Cooperation-Movement-and-Khilafat-Aandolan
+*16-Non-Cooperation-Movement-and-Khilafat-Aandolan*
+
+*Khilafat-Non-Cooperation Movement*
+
+Three demands—
+  1. Favourable treaty for Turkey
+  2. Redressal of Punjab wrongs
+  3. Establishment of swaraj
+ 
+*Techniques Used*
+  - Boycott of government-run schools, colleges, law courts, municipality and government service, foreign cloth, liquor
+  - setting up of national schools, colleges, panchayats, and using khadi; second stage to include civil disobedience by non-payment of taxes.
+
+*Nagpur Congress Session (December 1920)*
+  - Congress goal changed to attainment of swaraj through peaceful and legitimate means from attainment of self-government through constitutional means.
+
+*Chauri-Chaura Incident (February 5, 1922)*
+  - Violence by agitated mob prompted Gandhi to withdraw the movement.
+
+
+GOTO:top
 TAG:17-Emergence-of-Swarajists-Socialist-Ideas-Revolutionary-Activities-and-Other-New-Forces
+*17-Emergence-of-Swarajists-Socialist-Ideas-Revolutionary-Activities-and-Other-New-Forces*
+
+*Swarajists and No-Changers*
+
+*Swarajists* advocated council entry after withdrawal of Non Cooperation Movement with an aim to end or mend the councils.
+
+*No-Changers* advocated constructive work during the transition period.
+
+*Emergence of New Forces during 1920s*
+  - Spread of Marxism and socialist ideas
+  - Activism of Indian youth
+  - Peasants’ agitations
+  - Growth of trade unionism
+  - Caste movements
+  - Revolutionary terrorism with a tilt towards socialism
+
+ 
+ *Activities of HRA/HSRA*
+  - Established—1924
+  - Kakori robbery—1925
+  - Reorganised—1928
+  - Saunders’ murder—1928
+  - Bomb in Central Legislative Assembly—1929
+  - Bid to blow up viceroy’s train—1929
+  - Azad killed in police encounter—1931
+  - Bhagat Singh, Rajguru, Sukhdev hanged—1931
+
+*Broadened View of HSRA*
+  - In later years, ideology moved away from individual action towards socialistic ideals.
+
+*Revolutionaries in Bengal*
+  - Attempt on life of Calcutta police commissioner—1924
+  - Surya Sen's Chittagong Revolt Group and Chittagong robberies— 1930
+
+
+GOTO:top
 TAG:18-Simon-Commission-and-the-Nehru-Report
+*18-Simon-Commission-and-the-Nehru-Report*
+
+*Simon Commission*
+  - Came in 1928 to explore possibility of further constitutional advance
+  - Boycotted by Indians because no Indian represented in the commission
+  - Responses of Various Groups/ Ambedkar’s Memorandum
+  - Impact of Simon Commission
+
+*Nehru Report (1928)*
+  - First Indian effort to draft constitutional scheme.
+ 
+  - Recommended:
+    - dominion status
+    - not separate electorates, but  joint electorates with reserved seats for minorities.
+    - linguistic provinces
+    - 19 fundamental rights
+    - responsible government at centre and its provinces 
+
+
+GOTO:top
 TAG:19-Civil-Disobedience-Movement-and-Round-Table-Conferences
+*19-Civil-Disobedience-Movement-and-Round-Table-Conferences*
+
+*Calcutta Congress Session (December 1928)*
+  - One year ultimatum to government to accept dominion status or else civil disobedience to be launched for complete independence
+
+*Lahore Congress Session (December 1929)*
+  - Congress adopted complete independence as its goal.
+  - Congress decided to launch a civil disobedience movement. 
+  - January 26, 1930 was celebrated as the first Independence Day all over the country.
+
+*Dandi March (March 12–April 6, 1930)*
+  - Led by Gandhi
+  - resulted in spread of salt satyagraha to Tamil Nadu, Malabar, Andhra, Assam, Bengal.
+
+*Spread of the movement with additional avenues of protest*
+  - Khudai Khidmatgars active in NWFP
+  - Textile workers active in Sholapur
+  - Salt satyagraha in Dharasana
+  - No-chowkidara tax campaign in Bihar
+  - Anti-chowkidara and anti-union-board tax in Bengal
+  - No-tax movement in Gujarat
+  - Civil disobedience of forest laws in Maharashtra, Karnataka, and Central Provinces
+  - Agitation against ‘Cunningham Circular’ in Assam
+  - No rent campaign in UP
+  - Mass participation of women, students, some sections of Muslims, merchants and petty traders, tribals, workers, and peasants
+ 
+
+*Gandhi-Irwin Pact (March 1931)*
+  - Congress agreed to attend Second RTC and to withdraw CDM.
+
+*Karachi Congress Session (March 1931)*
+  - Endorsed Delhi Pact between Gandhi and Irwin.
+  - Passed resolutions on economic programme and fundamental rights.
+ 
+*The Round Table Conference*
+  - The Second RTC Right wing in Britain against concessions to Indians.
+  - Session got deadlocked on question of safeguards to minorities.
+
+*December 1931–April 1934:* Second phase of Civil Disobedience Movement
+
+
+*Communal Award (1932) and Poona Pact*
+  - Provided separate electorates to depressed classes
+  - Nationalists felt this to be a threat to national unity.
+  - Gandhi’s fast unto death (September 1932) led to Poona Pact, which abandoned separate electorates for depressed classes in favour of increased reserved seats for them.
+
+*Impact of Poona Pact on depressed classes*
+
+*Joint electorate and its Impact on depressed classes*
+
+*Differences and similarities between thoughts of Gandhi and Ambedkar*
+
+
+GOTO:top
 TAG:20-Debates-on-the-Future-Strategy-after-Civil-Disobedience-Movement
+*20-Debates-on-the-Future-Strategy-after-Civil-Disobedience-Movement*
+
+*First Stage Debate on*
+  - Constructive work on Gandhian lines.
+  - Constitutional struggle and participation in elections.
+  - Rejection of constructive work and constitutional struggle— continuation of CDM.
+
+*Government of India Act, 1935*
+ 
+  - Proposed an All India Federation
+  - bicameral legislature at  the centre
+  - provincial autonomy
+  - three lists for legislation—federal, provincial, and concurrent.
+  - At centre, subjects to be administered divided into reserved and transferred categories. 
+  - Provincial, legislators to be directly elected.
+  - Early 1937—elections to provincial assemblies held. Congress ministries formed in Bombay, Madras, Central Provinces,
+  - United Provinces, Bihar, Orissa, Assam, and NWFP.
+
+
+*Second Stage Debate*
+
+  - Nehru, Subhas, Congress, and socialists opposed office acceptance. Leftists proposed entry into the councils with an aim to crease deadlocks.
+
+  - Gandhi, in the beginning opposed for office acceptance, but later gave his approval.
+
+  - Congress sessions at Lucknow (1936) and Faizpur (1937) decided to contest elections.
+
+
+GOTO:top
 TAG:21-Congress-Rule-in-Provinces
 
 *UNIT 8:  TOWARDS FREEDOM AND PARTITION (1939–1947)*
