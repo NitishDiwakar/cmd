@@ -11,8 +11,9 @@ GOTO:3-Our-Changing-Earth
 GOTO:4-Air
 GOTO:5-Water
 GOTO:6-Natural-Vegetation-and-Wildlife
-GOTO:7-Human-environment-Interactions-TheTropical-and-the-Subtropical-Region
-GOTO:Life-in-the-Desert
+GOTO:7-Human-Environment-Settelement-Transport-and-Communication
+GOTO:8-Human-environment-Interactions-TheTropical-and-the-Subtropical-Region
+GOTO:9-Life-in-the-Desert
 
 
 TAG:1-Environment
@@ -23,20 +24,53 @@ GOTO:top
 TAG:2-Inside-Our-Earth
 *2-Inside-Our-Earth*
 
+Interior of the Earth
+IMG:ncert-07-fig-2dot1.png
+
+Continental Crust and Oceanic Crust
+IMG:ncert-07-fig-2dot2.png
+
+Rock Cycle
+IMG:ncert-07-fig-2dot4.png
+
 
 GOTO:top
 TAG:3-Our-Changing-Earth
 *3-Our-Changing-Earth*
 
+Evolution of Landforms
+IMG:ncert-07-fig-3dot1.png
 
 GOTO:top
 TAG:4-Air
 *4-Air*
 
+Layers of the Atmosphere
+IMG:ncert-07-fig-4dot2.png
+
+Major Pressure Belts and Wind Systems
+IMG:ncert-07-fig-4dot4.png
+
+Types of Rainfall
+IMG:ncert-07-fig-4dot5.png
+
 
 GOTO:top
 TAG:5-Water
 *5-Water*
+
+Major Seas, Lakes, and Rivers
+IMG:ncert-07-fig-5dot2.png
+
+Water distribution
+IMG:ncert-07-ch5-water-distribution.png
+
+Spring Tide and Neap Tide
+IMG:ncert-07-fig-5dot5.png
+
+Ocean Currents
+IMG:ncert-07-fig-5dot6.png
+
 
 
 GOTO:top
@@ -45,10 +79,29 @@ TAG:6-Natural-Vegetation-and-Wildlife
 
 
 GOTO:top
-TAG:7-Human-environment-Interactions-TheTropical-and-the-Subtropical-Region
-*7-Human-environment-Interactions-TheTropical-and-the-Subtropical-Region*
+TAG:7-Human-Environment-Settelement-Transport-and-Communication
+*7-Human-Environment-Settelement-Transport-and-Communication*
+
+World: Major Sea Port and Airport
+IMG:ncert-07-fig-7dot11.png
+
+GOTO:top
+TAG:8-Human-environment-Interactions-TheTropical-and-the-Subtropical-Region
+*8-Human-environment-Interactions-TheTropical-and-the-Subtropical-Region*
+
+Amazon Basin in South America
+IMG:ncert-07-fig-8dot2.png
+
+Ganga-Brahmaputra Basin
+IMG:ncert-07-fig-8dot8.png
 
 
 GOTO:top
-TAG:Life-in-the-Desert
-*Life-in-the-Desert*
+TAG:9-Life-in-the-Desert
+*9-Life-in-the-Desert*
+
+Sahara in Africa
+IMG:ncert-07-fig-9dot2.png
+
+Ladakh
+IMG:ncert-07-fig-9dot4.png
