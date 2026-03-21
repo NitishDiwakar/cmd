@@ -1,0 +1,43 @@
+============================
+Title : NCERT 8
+Tags  : #nomail #noview
+Descr : 
+============================
+
+TAG:top
+GOTO:1-Resources
+GOTO:2-Land-Soil-Water-Natural-Vegetation-and-Wildlife-Resources
+GOTO:3-Mineral-and-Power-Resources
+GOTO:4-Agriculture
+GOTO:5-Industries
+GOTO:6-Human-Resources
+
+
+TAG:1-Resources
+*TAG:1-Resources*
+
+
+GOTO:top
+TAG:2-Land-Soil-Water-Natural-Vegetation-and-Wildlife-Resources
+*2-Land-Soil-Water-Natural-Vegetation-and-Wildlife-Resources*
+
+
+GOTO:top
+TAG:3-Mineral-and-Power-Resources
+*3-Mineral-and-Power-Resources*
+
+
+GOTO:top
+TAG:4-Agriculture
+*4-Agriculture*
+
+
+GOTO:top
+TAG:5-Industries
+*5-Industries*
+
+
+GOTO:top
+TAG:6-Human-Resources
+*6-Human-Resources*
+

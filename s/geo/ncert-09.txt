@@ -1,0 +1,42 @@
+============================
+Title : NCERT 9
+Tags  : #nomail #noview
+Descr : 
+============================
+
+TAG:top
+GOTO:1-India-Size-and-Location
+GOTO:2-Physical-Features-of-India
+GOTO:3-Drainage
+GOTO:4-Climate
+GOTO:5-Natural-Vegetation-and-Wildlife
+GOTO:6-Population
+
+
+TAG:1-India-Size-and-Location
+*1-India-Size-and-Location*
+
+
+GOTO:top
+TAG:2-Physical-Features-of-India
+*2-Physical-Features-of-India*
+
+
+GOTO:top
+TAG:3-Drainage
+*3-Drainage*
+
+
+GOTO:top
+TAG:4-Climate
+*4-Climate*
+
+
+GOTO:top
+TAG:5-Natural-Vegetation-and-Wildlife
+*5-Natural-Vegetation-and-Wildlife*
+
+
+GOTO:top
+TAG:6-Population
+*6-Population*

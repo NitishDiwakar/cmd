@@ -1,0 +1,110 @@
+============================
+Title : NCERT 6
+Tags  : #nomail #noview
+Descr : 
+============================
+
+TAG:top
+GOTO:1-The-Earth-in-the-Solar-System
+GOTO:2-Globe-Latitudes-and-Longitudes
+GOTO:3-Motions-of-the-Earth
+GOTO:4-Maps
+GOTO:5-Major-Domains-of-the-Earth
+GOTO:6-Major-Landforms-of-the-Earth
+GOTO:7-Our-Country-India
+GOTO:8-India-Climate-Vegetation-and-Wildlife
+
+
+TAG:1-The-Earth-in-the-Solar-System
+*1-The-Earth-in-the-Solar-System*
+
+The Solar System
+IMG:ncert-06-fig-1dot2.png
+
+
+GOTO:top
+TAG:2-Globe-Latitudes-and-Longitudes
+*2-Globe-Latitudes-and-Longitudes*
+
+Latitude
+IMG:ncert06-ch2-fig-2dot2.png
+
+Important Latitudes and Heat Zones
+IMG:ncert06-ch2-fig-2dot3.png
+
+Longitude
+IMG:ncert06-ch2-fig-2dot5.png
+
+Grid
+IMG:ncert06-ch2-fig-2dot6.png
+
+Time Zones of the World
+IMG:ncert06-ch2-fig-2dot8.png
+
+Indian Standard Meridian
+IMG:ncert06-ch2-fig-2dot9.png
+
+
+GOTO:top
+TAG:3-Motions-of-the-Earth
+*3-Motions-of-the-Earth*
+
+Inclination of Earth'as axix and orbital plane
+IMG:ncert-06-fig-3dot1.png
+
+Day and Night on Earth due to rotation
+IMG:ncert-06-fig-3dot2.png
+
+Revolution of Earth and Seasons
+IMG:ncert-06-fig-3dot3.png
+
+
+GOTO:top
+TAG:4-Maps
+*4-Maps*
+
+Conventional Symbols
+IMG:ncert-06-fig-4dot3.png
+
+GOTO:top
+TAG:5-Major-Domains-of-the-Earth
+*5-Major-Domains-of-the-Earth*
+
+The World: Continents and Oceans
+IMG:ncert-06-fig-5dot1.png
+
+
+Isthumus and Straits
+IMG:ncert-06-fig-5dot2.png
+
+Layers of the Atomosphere
+IMG:ncert-06-fig-5dot4.png
+
+
+
+GOTO:top
+TAG:6-Major-Landforms-of-the-Earth
+*6-Major-Landforms-of-the-Earth*
+
+Landforms
+IMG:ncert-06-fig-6dot1.png
+
+
+
+GOTO:top
+TAG:7-Our-Country-India
+*7-Our-Country-India*
+
+India and its Neighbouring Countries
+IMG:ncert-06-fig-7dot1.png
+
+
+Political Map of India
+IMG:ncert-06-fig-7dot2.png
+
+
+India: Physical Divisions
+IMG:ncert-06-fig-7dot3.png
+GOTO:top
+TAG:8-India-Climate-Vegetation-and-Wildlife
+*8-India-Climate-Vegetation-and-Wildlife*

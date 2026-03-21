@@ -855,7 +855,8 @@ ______________________
 TAG:4-profit-and-loss
 *4-Profit-and-loss*
 
-1. A man buys 10 identical articles for a total of ₹15. If he sells each of them for ₹1.7, then his profit percentage will be __________ % (rounded off to two decimal place).
+*1.* A man buys 10 identical articles for a total of ₹15. If he sells each of them for ₹1.7, then his profit percentage will be __________ % (rounded off to two decimal place).
+  [Hint: CP = 15; SP = 17; Pofit % = 2/15 x 100]
 
 (a) 14.33% 
 (b) 12.76%
@@ -864,6 +865,7 @@ TAG:4-profit-and-loss
 
 
 2. The cost price of an article is ₹6,450. If it sold at a profit 16%, how much would be its selling price?
+  [Hint: 129 x 58]
 
 (a) ₹7,482 ✔
 (b) ₹7,428
@@ -872,6 +874,7 @@ TAG:4-profit-and-loss
 
 
 3. Sandeep made a profit of 22% when he sold an over cost for Rs.8540. Find the cost price of the over cost.
+  [Hint: 4260/61 = 70]
 
 (a) ₹6500
 (b) ₹6000
@@ -879,7 +882,8 @@ TAG:4-profit-and-loss
 (d) ₹7500
 
 
-4. If an article is sold for ₹402, there is a loss of 33%. At what price should it be sold to get 37% profit?
+*4.* If an article is sold for ₹402, there is a loss of 33%. At what price should it be sold to get 37% profit?
+  [Hint: 402/67% x 137%; 402/67 = 6; 6 x 137]
 
 (a) ₹911
 (b) ₹846
@@ -887,7 +891,7 @@ TAG:4-profit-and-loss
 (d) ₹781
 
 
-5. When an article is sold for ₹480, there is a loss of 16 2/3%. To gain 8 1/3%, it should be sold for ₹ :
+*[5].* When an article is sold for ₹480, there is a loss of 16 2/3%. To gain 8 1/3%, it should be sold for ₹ :
 
 (a) ₹620
 (b) ₹624 ✔
@@ -895,7 +899,8 @@ TAG:4-profit-and-loss
 (d) ₹750
 
 
-6. A grocer purchased 10 kg rice for ₹700. He spends some amount on transportation and then sells it for ₹1,400. If the percentage of profit made by the grocer is 30%, then what is the amount (in ₹) he spends on transportation? (Round off to the nearest integer)
+*6.* A grocer purchased 10 kg rice for ₹700. He spends some amount on transportation and then sells it for ₹1,400. If the percentage of profit made by the grocer is 30%, then what is the amount (in ₹) he spends on transportation? (Round off to the nearest integer)
+  [Hint: (700+x) x 130 / 100 = 14000; 700 + x = 14000 / 13 = 1077; x = 377]
 
 (a) 350
 (b) 380
@@ -903,7 +908,8 @@ TAG:4-profit-and-loss
 (d) 377 ✔
 
 
-7. If I gain 124% by selling an item for ₹1,232, then what would be my gain or loss percentage if I sell it for ₹572?
+*7.* If I gain 124% by selling an item for ₹1,232, then what would be my gain or loss percentage if I sell it for ₹572?
+  [227/100 x x = 1232]
 
 (a) 6% Gain
 (b) 6% Loss
@@ -919,7 +925,7 @@ TAG:4-profit-and-loss
 (d) Loss, 46%
 
 
-9. If the selling price of an almirah is doubled, then the profit is tripled. Find the initial profit percentage.
+*[9].* If the selling price of an almirah is doubled, then the profit is tripled. Find the initial profit percentage.
 
 (a) 50%
 (b) 10%
@@ -927,7 +933,7 @@ TAG:4-profit-and-loss
 (d) 25%
 
 
-10. If the selling price is tripled, the profit becomes 5 times. Then find the profit percentage.
+*10.* If the selling price is tripled, the profit becomes 5 times. Then find the profit percentage.
 
 (a) 80%
 (b) 100% ✔
@@ -943,7 +949,8 @@ TAG:4-profit-and-loss
 (d) 25%
 
 
-12. A shopkeeper sold an article at a 26% profit. On selling it for ₹2,250 more, he would get a profit of 41%. If this article is sold at 12% profit, then the selling price would be:
+*12.* A shopkeeper sold an article at a 26% profit. On selling it for ₹2,250 more, he would get a profit of 41%. If this article is sold at 12% profit, then the selling price would be:
+  [Hint: 15% = 2250; 2250/15% x 112%]
 
 (a) ₹16,800 ✔
 (b) ₹15,000
@@ -951,7 +958,8 @@ TAG:4-profit-and-loss
 (d) ₹16,120
 
 
-13. The selling price of 80 items is equal to the cost price of 72 items. What is the percentage of loss incurred in the transaction?
+*13.* The selling price of 80 items is equal to the cost price of 72 items. What is the percentage of loss incurred in the transaction?
+  [Hint: 80SP=72CP; 10SP = 9CP; SP/CP = 9/10; Loss% = 1/10 x 100; 10%]
 
 (a) 12%
 (b) 10% ✔
@@ -959,15 +967,16 @@ TAG:4-profit-and-loss
 (d) 11 1/9%
 
 
-14. If the selling price of 40 articles is equal to the cost price of 50 articles, then the percentage gain is:
+*14.* If the selling price of 40 articles is equal to the cost price of 50 articles, then the percentage gain is:
+  [Hint: 40SP = 50CP; 4SP = 5CP; 1/4 X 100]
 
-(a) 25%
-(b) 20% ✔
+(a) 25% ✔
+(b) 20% 
 (c) 35%
 (d) 30%
 
 
-15. The cost price of 36 articles is the same as the selling price of N articles. If the profit is 20%, then the value of N is:
+*[15].* The cost price of 36 articles is the same as the selling price of N articles. If the profit is 20%, then the value of N is:
 
 (a) 25
 (b) 42
