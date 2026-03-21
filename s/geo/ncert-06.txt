@@ -19,7 +19,7 @@ TAG:1-The-Earth-in-the-Solar-System
 *1-The-Earth-in-the-Solar-System*
 
 The Solar System
-IMG:ncert-06-fig-1dot2.png
+IMg:ncert-06-ch1-fig-1dot2.png
 
 
 GOTO:top
