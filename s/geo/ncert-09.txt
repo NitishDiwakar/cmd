@@ -16,27 +16,80 @@ GOTO:6-Population
 TAG:1-India-Size-and-Location
 *1-India-Size-and-Location*
 
+India in the World
+IMG:ncert-09-fig-1dot1.png
+
+India: Extent and Standard Meridian
+IMG:ncert-09-fig-1dot3.png
+
+India on International Highway of Trade and Commerce
+IMG:ncert-09-fig-1dot4.png
+
+India and Adjacent Countries
+IMG:ncert-09-fig-1dot5.png
 
 GOTO:top
 TAG:2-Physical-Features-of-India
 *2-Physical-Features-of-India*
+
+Himalaya
+IMG:ncert-09-fig-2dot1.png
+
+Relief
+IMG:ncert-09-fig-2dot1.png
 
 
 GOTO:top
 TAG:3-Drainage
 *3-Drainage*
 
+Major Rivers and Lakes
+IMG:ncert-09-fig-3dot4.png
+
 
 GOTO:top
 TAG:4-Climate
 *4-Climate*
+
+Atmospheric Conditions over the Indian subcontinent in January
+IMG:ncert-09-fig-4dot2.png
+
+Atmospheric Conditions over the Indian subcontinent in June
+IMG:ncert-09-fig-4dot3.png
+
+Advancing Monsoon
+IMG:ncert-09-fig-4dot4.png
+
+Retreating Monsoon
+IMG:ncert-09-fig-4dot5.png
+
+Seasonal Rainfall (June-Setptember)
+IMG:ncert-09-fig-4dot6.png
+
+Annual Rainfall
+IMG:ncert-09-fig-4dot7.png
 
 
 GOTO:top
 TAG:5-Natural-Vegetation-and-Wildlife
 *5-Natural-Vegetation-and-Wildlife*
 
+Natural Vegetation
+IMG:ncert-09-fig-5dot3.png
+
+Wildlife Reserves
+IMG:ncert-09-fig-5dot8.png
+
 
 GOTO:top
 TAG:6-Population
 *6-Population*
+
+Distribution of Population
+IMG:ncert-09-fig-6dot2.png
+
+India's population growth rate during 1951-2011
+IMG:ncert-09-fig-6dot4a.png
+
+India's population 1901-2011
+IMG:ncert-09-fig-6dot4b.png
