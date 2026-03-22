@@ -3,3 +3,581 @@ Title : Chemistry - NCERT 11
 Tags  : #
 Descr : 
 ============================
+
+TAG:top
+GOTO:1-Some-Basic-Concepts-of-Chemistry
+GOTO:2-Structure-of-Atom
+GOTO:3-Classification-of-Elements-and-Periodicity-in-Properties
+GOTO:4-Chemical-Bonding-and-Molecular-Structure
+GOTO:5-Thermodynamics
+GOTO:6-Equilibrium
+
+[Chemistry - Part ii]
+GOTO:7-Redox-Reactions
+GOTO:8-Organic-Chemistry–Some-Basic-Principles-and-Techniques
+GOTO:9-Hydrocarbons
+
+
+
+TAG:1-Some-Basic-Concepts-of-Chemistry
+*1-Some Basic Concepts of Chemistry*
+
+Base Physical Quantities and their Units
+IMG:ncert-11-p1-tab-1dot1.png
+
+IMG:ncert-11-p1-tab-unit-symbol.png
+
+Prefixes used in SI system
+IMG:ncert-11-p1-tab-1dot3.png
+
+*Summary*
+
+Chemistry, as we understand it today is not a very old discipline. People in ancient India, already had the knowledge of many scientific phenomenon much before the advent of modern science. 
+
+They applied the knowledge in various walks of life. 
+
+The study of chemistry is very important as its domain encompasses every sphere of life. 
+
+Chemists study the properties and structure of substances and the changes 
+undergone by them. 
+
+All substances contain matter, which can exist in three states – solid, liquid or gas. 
+
+The constituent particles are held in different ways in these states of matter and they exhibit their characteristic properties. 
+
+Matter can also be classified into elements, compounds or mixtures. 
+
+An *element* contains particles of only one type, which may be *atoms* or *molecules*. 
+
+The compounds are formed where atoms of two or more elements combine in a fixed ratio to each other. 
+
+Mixtures occur widely and many of the substances present around us are mixtures.
+
+When the properties of a substance are studied, measurement is inherent. 
+
+The quantification of properties requires a system of measurement and units in which the quantities are to be expressed. 
+
+Many systems of measurement exist, of which the English and the Metric Systems are widely used. 
+
+The scientific community, however, has agreed to have a uniform and common system throughout the world, which is abbreviated as SI units (International System of Units).
+ 
+Since measurements involve recording of data, which are always associated with a certain amount of uncertainty, the proper handling of data obtained by measuring the quantities is very important. 
+
+The measurements of quantities in chemistry are spread over a wide range of 10–31 to 10+23. Hence, a convenient system of expressing the numbers in scientificnotation is used. 
+
+The uncertainty is taken care of by specifying the number of significant figures, in which the observations are reported. The dimensional analysis helps to express the measured quantities in different systems of units. 
+
+Hence, it is possible to interconvert the results from one system of units to another.
+
+The combination of different atoms is governed by basic laws of chemical combination — these being the law of conservation of mass, Law	of	Definite Proportions, Law of multiple proportions, Gay lussac’s law of Gaseous volumes and avogadro law. 
+
+All these laws led to the Dalton’s atomic theory, which states that atoms are building blocks of matter. 
+
+The atomic mass of an element is expressed relative to 12C isotope of carbon, which has an exact value of 12u.
+
+Usually, the atomic mass used for an element is the average atomic mass obtained by taking into account the natural abundance of different isotopes of that element.
+
+The molecular mass of a molecule is obtained by taking sum of the atomic masses of different atoms present in a molecule. 
+
+The molecular formula can be calculated by determining the mass per cent of different elements present in a compound and its molecular mass. 
+
+The number of atoms, molecules or any other particles present in a given system are expressed in the terms of  avogadro constant (6.022 × 1023). 
+
+This is known as 1 mol of the respective particles or entities.
+
+Chemical reactions represent the chemical changes undergone by different elements and compounds. 
+
+A balanced chemical equation provides a lot of information. 
+
+The coefficients indicate the molar ratios and the respective number of particles taking part in a particular reaction. 
+
+The quantitative study of the reactants required or the products formed is called stoichiometry. 
+
+Using stoichiometric calculations, the amount of one or more reactant(s) required to produce a particular amount of product can be determined and vice-versa. 
+
+The amount of substance present in a given volume of a solution is expressed in number of ways, e.g., mass per cent, mole fraction, molarity and molality.
+
+
+
+GOTO:top
+TAG:2-Structure-of-Atom
+*2-Structure of Atom*
+
+Properties of Fundamental Particles
+IMG:ncert-11-p1-tab-2dot1.png
+
+The Spectral Lines of Atomic Hydrogen
+IMG:ncert-11-p1-tab-2dot3.png
+
+*Summary*
+
+Atoms are the building blocks of elements. They are the smallest parts of an element that chemically react.	
+
+The	first atomic theory, proposed by John Dalton in	1808, regarded atom as the ultimate indivisible particle of matter. 
+
+Towards the end of the nineteenth century, it was proved experimentally that atoms are divisible and consist of three fundamental particles: electrons, protons and neutrons. 
+
+The discovery of sub-atomic particles led to the proposal of various atomic models to explain the structure of atom. 
+
+Thomson in 1898 proposed that an atom consists of uniform sphere of positive electricity with electrons embedded into it. 
+
+This model in which mass of the atom is considered to be evenly spread over the atom was proved wrong by Rutherford’s famous alpha-particle scattering experiment in 1909. 
+
+Rutherford concluded that atom is made of a tiny positively charged nucleus, at its centre with electrons revolving around it in circular orbits. 
+
+Rutherford model, which resembles the solar system, was no doubt an improvement over thomson model but it could not account for the stability of the atom i.e., why the electron does not fall into the nucleus. 
+
+Further, it was also silent about the electronic structure of 
+atoms i.e., about the distribution and relative energies of electrons around the nucleus. 
+
+The difficulties of	the	Rutherford	model were overcome	by Niels Bohr in 1913 in  model  the hydrogen atom. 
+
+Bohr postulated that electron moves around the nucleus in circular orbits. 
+
+Only certain orbits can	exist and each orbit corresponds to specific energy.	
+
+Bohr calculated	the energy of electron in various orbits and for each orbit predicted the distance between the electron and nucleus. 
+
+Bohr model, though offering a satisfactory model for explaining the spectra of the hydrogen atom, could not explain the spectra of multi-electron atoms. 
+
+The reason for this was soon discovered. In Bohr model, an electron is regarded as a charged particle moving in	a well defined	circular orbit	about the nucleus.	
+
+The	wave character of the electron is ignored in Bohr’s	theory.	
+
+An orbit is a clearly defined	path and this path can completely be defined only if both the exact position and the exact velocity of the	electron at the same time are known. 
+
+This is not possible according to the Heisenberg uncertainty principle. 
+
+Bohr model of the hydrogen atom, therefore, not only ignores the dual behaviour of electron but also contradicts Heisenberg uncertainty principle.
+
+Erwin Schrödinger, in 1926, proposed an equation called Schrödinger equation to describe the electron distributions in space and the allowed energy levels in atoms. 
+
+This equation incorporates de Broglie’s concept of wave-particle duality and is consistent with Heisenberg uncertainty principle. 
+
+When Schrödinger equation is solved for the electron in a hydrogen atom, the solution gives the possible energy states the electron can occupy [and the corresponding wave function(s) (ψ) (which in fact are the mathematical functions) of the electron associated with each energy state]. 
+
+These quantized energy states and corresponding wave functions which are characterized by a set of three quantum numbers (principal quantum number n, azimuthal quantum number l and magnetic quantum number ml ) arise as a natural consequence in the solution of the Schrödinger equation. 
+
+The restrictions on the values of these three quantum numbers also come naturally from this solution. 
+
+The quantum mechanical model of the hydrogen atom successfully predicts all aspects of the hydrogen atom spectrum including some phenomena that could not be explained by the Bohr model.
+
+
+According to the quantum mechanical model of the atom, the electron distribution of an atom containing a number of electrons is divided into shells. 
+
+The shells, in turn, are thought to consist of one or more subshells and subshells are assumed to be composed of one or more orbitals, which the electrons occupy. 
+
+While for hydrogen and hydrogen like systems (such as He+, Li2+ etc.) all the orbitals within a given shell have same energy, the energy of the orbitals in a multi-electron atom depends upon the values of n and l: The lower the value of (n + l ) for an orbital, the lower is its energy. 
+
+If two orbitals have the same (n + l ) value, the orbital with lower value of n has the lower energy. 
+
+In an atom many such orbitals are  possible	and	electrons	are	filled	in those orbitals in order of increasing	energy	in	accordance	with Pauli exclusion principle (no two electrons in an atom can have the same set of four quantum numbers) and Hund’s rule of maximum multiplicity (pairing of electrons in the orbitals belonging to the same subshell does not take place until each orbital belonging to that subshell has got one electron each, i.e., is singly occupied). 
+
+This forms the basis of the electronic structure of atoms.
+
+
+
+GOTO:top
+TAG:3-Classification-of-Elements-and-Periodicity-in-Properties
+*3-Classification of Elements and Periodicity in Properties*
+
+Dobereiner's Triads
+IMG:ncert-11-p1-tab-3dot1.png
+
+Mendeleev Periodic Table
+IMG:ncert-11-p1-fig-3dot1.png
+
+Notaion for IUPAC Nomenclature of Elements
+IMG:ncert-11-p1-tab-3dot4.png
+
+Nomenclature of Elements With Atomic Number Above 100
+IMG:ncert-11-p1-tab-3dot5.png
+
+*Summary*
+
+In this Unit, you have studied the development of the Periodic law and the Periodic table. 
+
+Mendeleev’s Periodic table was based on atomic masses. Modern Periodic table arranges the elements in the order of their atomic numbers in seven horizontal rows (periods) and eighteen vertical columns (groups or families). 
+
+Atomic numbers in a period are consecutive, whereas in a group they increase in a pattern. Elements of the same group have similar valence shell	electronic	configuration	and,	therefore,	exhibit	similar	chemical	properties.	
+
+However, the elements of the same period have incrementally increasing number of electrons from	left	to	right,	and,	therefore,	have	different	valencies.	
+
+Four	types	of	elements	can	be	recognized	in	the	periodic	table	on	the	basis	of	their	electronic	configurations.	
+
+These	are	s-block, p-block, d-block and f-block elements. Hydrogen with one electron in the 1s orbital occupies a unique position in the periodic table. 
+
+Metals comprise more than *seventy eight* per cent of the known elements. non-metals, which are located at the top of the periodic table, are less than twenty in number. 
+
+Elements which lie at the border line between metals and non-metals (e.g., Si, Ge, As) are called metalloids or semi-metals. 
+
+Metallic character increases with increasing atomic number in a group whereas decreases from left to right in a period. 
+
+The physical and chemical properties of elements vary periodically with their atomic numbers.
+
+Periodic trends are observed in atomic sizes, ionization enthalpies, electron gain enthalpies, electronegativity and valence. The atomic radii decrease while going from left to right in a period and increase with atomic number in a group. 
+
+Ionization enthalpies generally increase across a period and decrease down a group. 
+
+Electronegativity also shows a similar trend. 
+
+Electron gain enthalpies, in general, become more negative across a period and less negative down a group. 
+
+There is some periodicity in valence, for example, among representative elements, the valence is either equal to the number of electrons in the 
+outermost orbitals or eight minus this number. 
+
+Chemical reactivity is highest at the two extremes of a period and is lowest in the centre. 
+
+The reactivity on the left extreme of a period is because of the ease of electron loss (or low ionization enthalpy). 
+
+Highly reactive elements do not occur in nature in free state; they usually occur in the combined form. 
+
+Oxides formed of the elements on the left are basic and of the elements on the right are acidic in nature. 
+
+Oxides of elements in the centre are amphoteric or neutral.
+
+
+GOTO:top
+TAG:4-Chemical-Bonding-and-Molecular-Structure
+*4-Chemical Bonding and Molecular Structure*
+
+*Summary*
+
+Kössel’s	first	insight	into	the	mechanism	of	formation	of electropositive	and	electronegative	 ions	related	the	process	to	the	attainment	of	noble	gas	configurations	by	the	respective	ions.	
+
+Electrostatic	attraction	between	ions	is	the	cause	for	their	stability.	
+
+This	gives	the	concept	of electrovalency.
+
+The	first	description	of	covalent bonding	was	provided	by	Lewis	in	terms	of	the	sharing	of electron pairs between atoms and he related the process to the attainment of noble gas configurations	by	reacting	atoms	as	a	result	of	sharing	of	electrons.	
+
+The	Lewis	dot	symbols	show	the	number	of	valence	electrons	of	the	atoms	of	a	given	element	and	Lewis	dot	structures	
+show pictorial representations of bonding in molecules. 
+
+An	ionic	compound	is	pictured	as	a	three-dimensional aggregation	of	positive	and	negative	ions in an ordered arrangement called the crystal lattice. 
+
+In a crystalline solid there is a charge	balance	between	the	positive	and	negative	ions.	
+
+The	crystal	lattice	is	stabilized	by	the *enthalpy of lattice formation*. 
+
+While	a	single	covalent	bond	is	formed	by	sharing	of	an electron	pair	between	two	atoms,	multiple	bonds	result	from	the	sharing	of	two	or	three	electron	pairs.	
+
+Some	bonded	atoms	have	additional	pairs	of	electrons	not	involved	in	bonding.
+
+These	are	called	lone-pairs	of	electrons.	
+
+A	Lewis	dot	structure	shows	the	arrangement	of	bonded	pairs	and	lone	pairs	around	each atom in a molecule. 
+
+Important parameters, associated with chemical bonds, like: bond length, bond angle, bond enthalpy, bond order and bond polarity have significant  effect on the properties of compounds.
+
+A number of molecules and polyatomic ions cannot be described accurately by a single Lewis	structure	and	a	number	of	descriptions	(representations)	based	on	the	same	skeletal structure	are	written	and	these	taken	together	represent	the	molecule	or	ion.	
+
+This	is	a	very	important	and	extremely	useful	concept	called	resonance.	
+
+The	contributing	structures	or canonical forms taken together constitute the resonance hybrid which represents the molecule or ion.
+
+The	VSEPR model used for predicting the geometrical shapes of molecules is based on the assumption that electron pairs repel each other and, therefore, tend to remain as far apart as possible. 
+
+According to this model, molecular geometry is determined by repulsions  between lone pairs and lone pairs; lone pairs and bonding pairs and bonding pairs and bonding pairs.	
+
+The	order	of	these	repulsions	being	:	lp-lp	>	lp-bp	>	bp-bp
+
+The	valence bond (vB) approach	to	covalent	bonding	is	basically	concerned	with	the	energetics	of	covalent	bond	formation	about	which	the	Lewis	and	VSEPR	models	are	silent.	
+
+Basically	the	VB	theory	discusses	bond	formation		in	terms	of	overlap	of	orbitals.	For	example	the	formation	of	the	H2	molecule	from	two	hydrogen	atoms	involves	the	overlap	of	the	1s orbitals	of	the	two	H	atoms	which	are	singly	occupied.	
+
+It	is	seen	that	the	potential	energy	of	the	system	gets	lowered	as	the	two	H	atoms	come	near	to	each	other.	
+
+At	the	equilibrium	inter-nuclear	distance	(bond	distance)	the	energy	touches	a	minimum.	
+
+Any	attempt	to	bring	the	nuclei	still	closer	results	in	a	sudden	increase	in	energy	and	consequent	destabilization	of	the	molecule.	
+
+Because	of	orbital	overlap	the	electron	density	between	the	nuclei	increases	which	helps	in	bringing	them	closer.	
+
+It	is	however	seen	that	the	actual	bond	enthalpy	and	bond	length	values	are	not	obtained	by	overlap	alone	and	other variables	have	to	be	taken	into account. 
+
+For	explaining	the	characteristic	shapes	of	polyatomic	molecules	Pauling	introduced	the	concept of *hybridisation of atomic orbitals*. 
+
+sp, sp2, sp3	hybridizations	of	atomic	orbitals of	Be,	B,	C,	N	and	O	are	used	to	explain	the	formation	and	geometrical	shapes	of	molecules	like	BeCl2, BCl3, CH4,	NH3	and	H2O.	
+
+They	also	explain	the	formation	of	multiple	bonds	in	molecules like C2 H2 and C2 H4.
+
+The	*molecular orbital (MO) theory* describes bonding in terms of the combination and arrangment of atomic orbitals to form molecular orbitals that are associated with the molecule as	a	whole.	
+
+The	number	of	molecular	orbitals	are	always	equal	to	the	number	of	atomic	orbitals	from	which	they	are	formed.	
+
+Bonding	molecular	orbitals	increase	electron	density	between	the	nuclei	and	are	lower	in	energy	than	the	individual	atomic	orbitals.	
+
+Antibonding	molecular	orbitals	have	a	region	of	zero	electron	density	between	the	nuclei	and	have	more	energy	than	the	individual	atomic	orbitals.
+
+The	electronic	configuration	of	the	molecules	is	written	by	filling	electrons	in	the	molecular	orbitals	in	the	order	of	increasing	energy	levels.	
+
+As	in	the	case	of	atoms,	the	Pauli	exclusion	principle	and	Hund’s	rule	are	applicable	for	the	filling	of	molecular	orbitals.	Molecules	are	said to be stable if the number of elctrons in bonding molecular orbitals is greater than that in antibonding molecular orbitals.
+
+
+*Hydrogen bond*	is	formed	when	a	hydrogen	atom	finds	itself	between	two	highly	electronegative	atoms	such	as	F,	O	and	N.	It	may	be	intermolecular	(existing	between	two	or	more	molecules	of	the	same	or	different	substances)	or	intramolecular	(present	within	the	same	molecule).	Hydrogen	bonds	have	a	powerful	effect	on	the	structure	and	properties	of many compounds.
+
+
+
+
+The Lewis Representation of Some Molecules
+IMG:ncert-11-p1-tab-4dot1.png
+
+Average Bond Lengths for some Single, Double and Triple bonds
+IMG:ncert-11-p1-tab-4dot2.png
+
+Bond Lengths in some common molecules
+IMG:ncert-11-p1-tab-4dot3.png
+
+Covalent Radii
+IMG:ncert-11-p1-tab-4dot4.png
+
+Dipole Moments of Some Selected Molecules
+IMG:ncert-11-p1-tab-4dot5.png
+
+
+GOTO:top
+TAG:5-Thermodynamics
+*5-Thermodynamics*
+
+*Summary*
+
+Thermodynamics deals with energy changes in chemical or physical processes and enables us to study these changes quantitatively and to make useful predictions. 
+
+For these purposes, we divide the universe into the system and the surroundings. 
+
+Chemical or physical processes lead to evolution or absorption of heat (q), part of which may be converted into work (w). 
+
+These quantities are related through the first law of thermodynamics via ∆U = q + w. 
+
+∆U,  change in internal energy, depends on initial and final states only and is a state function, whereas q and w depend on the path and are not the state functions. 
+
+We follow sign conventions of q and w by giving the positive sign to these quantities when these are added to the system. We can measure the transfer of heat from one system to another which causes the change in temperature. 
+
+The magnitude of rise in temperature depends on the heat capacity (C) of a substance. 
+
+Therefore, heat absorbed or evolved is q =  C∆T. 
+
+Work can be measured by w = –pex
+
+∆V, in case of expansion of gases. 
+
+Under reversible process, we can put pex = p for infinitesimal changes in the volume making wrev = – p dV. 
+
+In this condition, we can use gas equation, pV = nRT.
+
+
+
+GOTO:top
+TAG:6-Equilibrium
+*6-Equilibrium*
+
+
+The PH of Some Common Substances
+IMG:ncert-11-p1-tab-6dot5.png
+
+The ionization constants of some selected weak acids
+IMG:ncert-11-p1-tab-6dot6.png
+
+The ionization constants of some common polyprotic acids
+IMG:ncert-11-p1-tab-6dot8.png
+
+The Solubility Product Constants, K(ap) of some common ionic salts at 298K
+IMG:ncert-11-p1-tab-6dot9.png
+
+*Summary*
+
+When the number of molecules leaving the liquid to vapour equals the number of molecules returning to the liquid from vapour, equilibrium is said to be attained and is dynamic in nature. 
+
+Equilibrium can be established for both physical and chemical processes and at this stage rate of forward and reverse reactions are equal. 
+
+Equilibrium constant, Kc is expressed as the concentration of products divided by reactants, each term raised to the stoichiometric coefficient.
+
+
+Equilibrium constant has constant value at a fixed temperature and at this stage all the macroscopic properties such as concentration, pressure, etc. become constant. 
+
+For a gaseous reaction equilibrium constant is expressed as Kp and is written by replacing concentration terms by partial pressures in Kc  expression. 
+
+The direction of reaction can be predicted by reaction quotient Qc which is equal to Kc at equilibrium. 
+
+Le Chatelier’s principle states that  the change in any factor such as temperature, pressure, concentration, etc.  will cause the equilibrium to shift in such a direction so as to reduce or counteract the effect of the change. 
+
+It can be used to study the effect of various factors such as temperature, concentration, pressure, catalyst and inert gases on the direction of equilibrium and to control the yield of products by controlling these factors. 
+
+Catalyst does not effect the equilibrium composition of a reaction mixture but increases the rate of chemical reaction by making available a new lower energy pathway for conversion of reactants to products and vice-versa.
+
+All substances that conduct electricity in aqueous solutions are called electrolytes. 
+
+Acids, bases and salts are electrolytes and the conduction of electricity by their aqueous solutions is due to anions and cations produced by the dissociation or ionization of electrolytes in aqueous solution. 
+
+The strong electrolytes are completely dissociated. In weak electrolytes  there is equilibrium between the ions and the unionized electrolyte molecules. 
+
+According to Arrhenius, acids give hydrogen ions while bases produce hydroxyl ions in their aqueous solutions. 
+
+Brönsted-lowry on the other hand, defined an acid as a proton donor and a base as a proton acceptor. 
+
+When a Brönsted-Lowry acid reacts with a base, it produces its conjugate base and a conjugate acid corresponding to the base with which it reacts.
+
+Thus a conjugate pair of acid-base differs only by one proton. 
+
+Lewis further generalised the definition of an acid as an electron pair acceptor and a base as an electron pair donor. 
+
+The expressions for ionization (equilibrium) constants of weak acids (Ka) and weak bases (Kb) are developed using Arrhenius definition. 
+
+The degree of ionization and its dependence on concentration and 
+common ion are discussed. 
+
+The salts of strong acid and weak base, weak acid and strong base, and weak acid and weak base undergo hydrolysis in aqueous solution. 
+
+The definition of buffer solutions,  and their importance are discussed briefly. 
+
+The solubility equilibrium of sparingly soluble salts is discussed and the equilibrium constant is introduced as solubility product constant (K sp). 
+
+Its relationship with solubility of the salt is established. 
+
+The conditions of precipitation of the salt from their solutions or their dissolution in water are worked out. 
+
+The role of common ion and the solubility of sparingly soluble salts is also discussed.
+
+
+
+GOTO:top
+TAG:7-Redox-Reactions
+*7-Redox-Reactions*
+
+
+*Summary*
+
+Redox reactions form an important class of reactions in which oxidation and reduction occur simultaneously. 
+
+Three tier conceptualisation viz, classical, electronic and oxidation number, which is usually available in the texts, has been presented in detail. 
+
+Oxidation, reduction, oxidising agent (oxidant) and reducing agent (reductant) have been viewed according to each conceptualisation. 
+
+Oxidation numbers are assigned in accordance with a consistent set of rules. 
+
+Oxidation number and ion-electron method both are useful means in writing equations for the redox reactions. 
+
+Redox reactions are classified into four categories: combination, decomposition displacement and disproportionation reactions. 
+
+The concept of redox couple and electrode processes is introduced here. The redox reactions find wide applications in the study of electrode processes and cells.
+
+
+GOTO:top
+TAG:8-Organic-Chemistry–Some-Basic-Principles-and-Techniques
+*8-Organic-Chemistry–Some-Basic-Principles-and-Techniques*
+
+Common or Trivial Names of Some Organic Compounds
+IMG:ncert-11-p1-tab-8dot1.png
+
+IUPAC names of some unbranched saturated hydrocarbons
+IMG:ncert-11-p1-tab-8dot2.png
+
+
+*Summary*
+
+In this unit, we have learnt some basic concepts in structure and reactivity of organic compounds, which are formed due to covalent bonding. 
+
+The nature of the covalent bonding in organic compounds can be described in terms of orbitals hybridisation concept, according to which carbon can have sp3, sp2 and sp hybridised orbitals. 
+
+The sp3, sp2 and sp hybridised carbons are found in compounds like methane, ethene and ethyne respectively. 
+
+The tetrahedral shape of methane, planar shape of ethene and linear shape of ethyne can be understood on the basis of this concept. A sp3 hybrid orbital can overlap with 1s orbital of hydrogen to give a carbon - hydrogen (C–H) single bond (sigma, σ bond). 
+
+Overlap of a sp2 orbital of one carbon with sp2 orbital of another results in the formation of a carbon–carbon σ bond. 
+
+The unhybridised p orbitals on two adjacent carbons can undergo lateral (side by-side) overlap to give a pi (π) bond. 
+
+Organic compounds can be represented by various structural formulas. 
+
+The three dimensional representation of organic compounds on paper can be drawn by wedge and dash formula.
+
+Organic compounds can be classified on the basis of their structure or the functional groups they contain. 
+
+A functional group is an atom or group of atoms bonded together in a 
+unique fashion and which determines the physical and  chemical properties of the compounds. 
+
+The naming of the organic compounds is carried out by following a set of rules laid down by the International Union of Pure and Applied Chemistry (iuPac). 
+
+In IUPAC nomenclature, the names are correlated with the structure in such a way that the reader can deduce the structure from the name.
+
+Organic reaction mechanism concepts are based on the structure of the substrate molecule, fission of a covalent bond, the attacking reagents, the electron displacement effects and the conditions of the reaction. 
+
+These organic reactions involve breaking and making of covalent bonds. 
+
+A covalent bond may be cleaved in heterolytic or homolytic fashion. 
+
+A heterolytic cleavage yields carbocations or carbanions, while a homolytic cleavage gives free radicals as reactive intermediate. 
+
+Reactions proceeding through heterolytic cleavage involve the complimentary pairs of reactive species. 
+
+These are electron pair donor known as nucleophile and an electron pair acceptor known as electrophile. 
+
+The inductive, resonance, electromeric and hyperconjugation effects may help in the polarisation of a bond making certain carbon atom or other atom positions as places of low or high electron densities.
+
+Organic reactions can be broadly classified into following types; substitution, addition, elimination and rearrangement reactions. 
+
+Purification, qualitative and quantitative analysis of organic compounds are carried out for determining their structures. 
+
+The methods of purification namely : sublimation, distillation and differential extraction are based on the difference in one or more physical properties. 
+
+Chromatography is a useful technique of separation, identification and purification of compounds. 
+
+It is classified into two categories : adsorption and partition chromatography. 
+
+Adsorption chromatography is based on differential adsorption of various components of a mixture on an adsorbent. 
+
+Partition chromatography involves continuous partitioning of the 
+components of a mixture between stationary and mobile phases. After getting the compound in a pure form, its qualitative analysis is carried out for detection of elements present in it. 
+
+Nitrogen, sulphur, halogens and phosphorus are detected by lassaigne’s test. Carbon and hydrogen are estimated by determining the amounts of carbon dioxide and water produced. 
+
+Nitrogen is estimated by dumas or Kjeldahl’s method and halogens by Carius method. 
+
+Sulphur and phosphorus are estimated by oxidising them to sulphuric and phosphoric acids respectively. 
+
+The percentage of oxygen is usually determined by difference between the total percentage (100) and the sum of percentages of all other elements present.
+
+
+
+GOTO:top
+TAG:9-Hydrocarbons
+*9-Hydrocarbons*
+
+Variation of Melting Points and Boiling Points in Alkanes
+IMG:ncert-11-p1-tab-9dot2.png
+
+Common and IUPAC names of Alkynes
+IMG:ncert-11-p1-tab-9dot2a.png
+
+*Summary*
+
+Hydrocarbons are the compounds of carbon and hydrogen only. Hydrocarbons are mainly obtained from coal and petroleum, which are the major sources of energy. 
+
+Petrochemicals are the prominent starting materials used for the manufacture of a large number of commercially important products. 
+
+LPG (liquefied petroleum gas) and  CNG (compressed natural gas), the main sources of energy for domestic fuels and the automobile industry, are obtained from petroleum. 
+
+Hydrocarbons are classified as open chain saturated (alkanes) and unsaturated (alkenes and alkynes), cyclic (alicyclic) and aromatic, according to their structure. 
+
+The important reactions of alkanes are free radical substitution, combustion, oxidation and aromatization. 
+
+Alkenes and alkynes undergo addition reactions, which are mainly electrophilic additions. 
+
+Aromatic hydrocarbons, despite having unsaturation, undergo mainly electrophilic substitution reactions. 
+
+These undergo addition reactions only under special conditions. 
+
+Alkanes show conformational isomerism due to free rotation along the C–C sigma bonds. 
+
+Out of staggered and the eclipsed conformations of ethane, staggered conformation is more stable as hydrogen atoms are farthest apart. 
+
+Alkenes exhibit geometrical  (cis-trans) isomerism due to restricted rotation around the carbon–carbon double bond. 
+
+benzene and benzenoid compounds show aromatic character. Aromaticity, the 
+property of being aromatic is possessed by compounds having specific electronic structure characterised by Hückel (4n+2)π electron rule.
+
+The nature of groups or substituents attached to benzene ring is responsible for activation or deactivation of the benzene ring towards further electrophilic substitution and also for orientation of the incoming group. 
+
+Some of the polynuclear hydrocarbons having fused benzene ring system have carcinogenic property.
+
