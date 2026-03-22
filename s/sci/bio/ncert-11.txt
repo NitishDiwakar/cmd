@@ -25,7 +25,7 @@ GOTO:11-transport-in-plants
 GOTO:12-mineral-nutrition
 GOTO:13-photosynthesis-in-higher-plants
 GOTO:14-respiration-in-plants
-GOTO:plant-growth-and-development
+GOTO:15-plant-growth-and-development
 
 UNIT V   : HUMAN PHYSIOLOGY
 GOTO:16-digestion-and-absorption
@@ -43,92 +43,1341 @@ UNIT I : DIVERSITY IN THE LIVING WORLD
 TAG:1-the-living-world
 *1-the-living-world*
 
+Ernst Mayr (1904-2004)
+  - Darwin of the 20th century
 
+Taxonomic Categories
+IMG:ncert-11-fig-1dot1.png
+
+Organisms with their Taxonomic Categories
+IMG:ncert-11-tab-1dot1.png
+
+Characteristics of Five Kingdoms
+IMG:ncert-11-fig-tab-2dot1.png
+
+
+*Summary*
+
+The living world is rich in variety. Millions of plants and animals have been identified and described but a large number still remains unknown. 
+
+The veryrange of organisms in terms of size, colour, habitat, physiological and morphological features make us seek the defining characteristics of living organisms. 
+
+In order to facilitate the study of kinds and diversity of organisms, biologists have evolved certain rules and principles for identification, nomenclature and classification of organisms. 
+
+The branch of knowledge dealing with these aspects is referred to as taxonomy. 
+
+The taxonomic studies of various species of plants and animals are useful in agriculture, forestry, industry and in general for knowing our bio-resources and their diversity. 
+
+The basics of taxonomy like identification, naming and classification of organisms are universally evolved under international codes. 
+
+Based on the resemblances and distinct differences, each organism is  identified and assigned a correct scientific/biological name comprising two words as per the binomial system of nomenclature. 
+
+An organism represents/occupies a place or position in the system of classification. 
+
+There are many categories/ranks and are generally referred to as taxonomic categories or taxa. 
+
+All the categories constitute a taxonomic hierarchy.
+
+Taxonomists have developed a variety of taxonomic aids to facilitate identification, naming and classification of organisms. 
+
+These studies are carried out from the actual specimens which are collected from the field and preserved as referrals in the form of herbaria, museums and in botanical gardens and zoological parks. 
+
+It requires special techniques for collection and preservation of specimens in herbaria and museums. Live specimens, on the other hand, of plants and animals, are found in botanical gardens or in zoological parks. 
+
+Taxonomists also prepare and disseminate information through manuals and monographs for further taxonomic studies. 
+Taxonomic keys are tools that help in identification based on characteristics.
+
+GOTO:top
 TAG:2-biological-classification
 *2-biological-classification*
 
+Tobaco Mosaic Virus (TMV) and Bacteriophage
+IMG:ncert-11-fig-2dot6.png
 
+
+
+*Summary*
+
+Biological classification of plants and animals was first proposed by Aristotle on the basis of simple morphological characters. 
+
+Linnaeus later classified all living organisms into two kingdoms – Plantae and Animalia. Whittaker proposed an elaborate five kingdom classification – Monera, Protista, Fungi, Plantae and Animalia. 
+
+The main criteria of the five kingdom classification were cell structure, body organisation, mode of nutrition and reproduction, and phylogenetic relationships.
+
+In the five kingdom classification, bacteria are included in Kingdom Monera.
+
+Bacteria are cosmopolitan in distribution. These organisms show the most extensive metabolic diversity. 
+
+Bacteria may be autotrophic or heterotrophic in their mode of nutrition. 
+
+Kingdom Protista includes all single-celled eukaryotes such as Chrysophytes, Dinoflagellates, Euglenoids, Slime-moulds and Protozoans. 
+
+Protists have defined nucleus and other membrane bound organelles. 
+
+They reproduce both asexually and sexually. Members of Kingdom Fungi show a great diversity in structures and habitat. 
+
+Most fungi are saprophytic in their mode of nutrition. They show asexual and sexual reproduction. Phycomycetes, Ascomycetes, Basidiomycetes and Deuteromycetes are the four classes under this kingdom.
+
+The plantae includes all eukaryotic chlorophyll-containing organisms. 
+
+Algae, bryophytes, pteridophytes, gymnosperms and angiosperms are included in this group. 
+
+The life cycle of plants exhibit alternation of generations – gametophytic and sporophytic generations. The heterotrophic eukaryotic, multicellular organisms lacking a cell wall are included in the Kingdom Animalia. 
+
+The mode of nutrition of these organisms is holozoic. They reproduce mostly by the sexual mode. 
+
+Some acellular organisms like viruses and viroids as well as the lichens are not included in the five kingdom system of classification.
+
+
+
+GOTO:top
 TAG:3-plant-kingdom
 *3-plant-kingdom*
 
+Division of Algae and their main characteristics
+IMG:ncert-11-tab-3dot1.png
 
+Lifecycle of and angiosperm
+IMG:ncert-11-fig-3dot6.png
+
+
+
+*Summary*
+
+Plant kingdom includes algae, bryophytes, pteridophytes, gymnosperms and angiosperms. 
+
+Algae are chlorophyll-bearing simple, thalloid, autotrophic and largely aquatic organisms. Depending on the type of pigment possesed and the type of stored food, algae are classfied into three classes, namely Chlorophyceae, Phaeophyceae and Rhodophyceae. Algae usually reproduce vegetatively by fragmentation, asexually by formation of different types of spores and sexually by formation of gametes which may show isogamy, anisogamy or oogamy.
+
+Bryophytes are plants which can live in soil but are dependent on water for sexual reproduction. 
+
+Their plant body is more differentiated than that of algae. 
+
+It is thallus-like and prostrate or erect and attached to the substratum by rhizoids.
+
+They possess root-like, leaf-like and stem-like structures. The bryophytes are divided into liverworts and mosses. 
+
+The plant body of liverworts is thalloid and dorsiventral whereas mosses have upright, slender axes bearing spirally arranged leaves. 
+
+The main plant body of a bryophyte is gamete-producing and is called a  gametophyte. 
+
+It bears the male sex organs called antheridia  and female sex organs  called archegonia. 
+
+The male and female gametes produced fuse to form zygote which produces a multicellular body called a sporophyte. It produces haploid spores. 
+
+The spores germinate to form gametophytes. In pteridophytes the main plant is a sporophyte which is differentiated into true root, stem and leaves. 
+
+These organs possess well-differentiated vascular tissues. 
+
+The sporophytes bear sporangia which produce spores. The spores germinate to form  gametophytes which require cool, damp places to grow. 
+
+The gametophytes bear male and female sex organs called antheridia and archegonia, respectively. 
+
+Water is required for transfer of male gametes to archegonium where zygote is formed after fertilisation. The zygote produces a sporophyte.
+
+The gymnosperms are the plants in which ovules are not enclosed by any  ovary wall. 
+
+After fertilisation the seeds remain exposed and therefore these plants  are called naked-seeded plants. 
+
+The gymnosperms produce microspores and megaspores which are produced in microsporangia and megasporangia borne on the sporophylls. 
+
+The sporophylls – microsporophylls and megasporophylls – are arranged spirally on axis to form male and female cones, respectively. 
+
+The pollen grain germinates and pollen tube releases the male gamete into the ovule, where it fuses with the egg cell in archegonia. Following fertilisation, the zygote develops into embryo and the ovules into seeds. In angiosperms, the male sex organs (stamen) and female sex organs (pistil) are borne in a flower. Each stamen consists of a filament and an anther. 
+
+The anther produces pollen grains (male gametophyte) after meiosis. The pistil consists of an ovary enclosing one to many ovules. 
+
+Within the ovule is the female gametophyte or embryo sac which contains the egg cell. 
+
+The pollen tube enters the embryo-sac where two male gametes are discharged. 
+
+One male gamete fuses with egg cell (syngamy) and other fuses with diploid secondary nucleus (triple fusion). 
+
+This phenomenon of two fusions is called double fertilisation and is unique to angiosperms. The angiosperms are divided into two classes – the dicotyledons and the monocotyledons.
+
+During the life cycle of any sexually reproducing plant, there is alternation of generations between gamete producing haploid gametophyte and spore producing diploid sporophyte. 
+
+However, different plant groups as well as individuals may show different patterns of life cycles – haplontic, diplontic or intermediate.
+
+
+
+GOTO:top
 TAG:4-animal-kingdom
 *4-animal-kingdom*
 
+Germinal Layers
+IMG:ncert-11-fig-4dot2.png
+
+Coelom
+IMG:ncert-11-fig-4dot3.png
+
+Broad classification of Kingdom Animalia
+IMG:ncert-11-fig-4dot4.png
+
+Salient Features of Different Phyla in Animal Kingdom
+IMG:ncert-11-tab-4dot2.png
+
+
+
+*Summary*
+
+The basic fundamental features such as level of organisation, symmetry, cell organisation, coelom, segmentation, notochord, etc., have enabled us to broadly classify the animal kingdom. Besides the fundamental features, there are many other distinctive characters which are specific for each phyla or class.
+
+Porifera includes multicellular animals which exhibit cellular level of  organisation and have characteristic flagellated choanocytes. 
+
+The coelenterates have tentacles and bear cnidoblasts. They are mostly aquatic, sessile or free-floating.
+
+The ctenophores are marine animals with comb plates. 
+
+The platyhelminths have flat body and exhibit bilateral symmetry. The parasitic forms show distinct suckers and hooks. 
+
+Aschelminthes are pseudocoelomates and  include parasitic as well as  non-parasitic roundworms.
+
+Annelids are metamerically segmented animals with a true coelom. 
+
+The arthropods are the most abundant group of animals characterised by the presence of jointed appendages. 
+
+The molluscs have a soft body surrounded by an external calcareous shell. 
+
+The body is covered with external skeleton made of chitin. 
+
+The echinoderms possess a spiny skin. 
+
+Their most distinctive feature is the presence of water vascular system. 
+
+The hemichordates are a small group of worm-like marine animals. 
+
+They have a cylindrical body with proboscis, collar and trunk.
+ 
+Phylum Chordata includes animals which possess a notochord either throughout or during early embryonic life. Other common features observed in the chordates are the dorsal, hollow nerve cord and paired pharyngeal gill slits.
+
+Some of the vertebrates do not possess jaws (Agnatha) whereas most of them possess jaws (Gnathostomata). Agnatha is represented by the class, Cyclostomata. 
+
+They are the most primitive chordates and are ectoparasites on fishes. Gnathostomata has two super classes, Pisces and Tetrapoda. 
+
+Classes Chondrichthyes and Osteichthyes bear fins for locomotion and are grouped under Pisces. 
+
+The Chondrichthyes are fishes with cartilaginous endoskeleton and are marine. 
+
+Classes, Amphibia, Reptilia, Aves and Mammalia have two pairs of limbs and are thus grouped under Tetrapoda. The amphibians have adapted to live both on land and water. 
+
+Reptiles are characterised by the presence of dry and cornified skin. Limbs are absent in snakes. 
+
+Fishes, amphibians and reptiles are poikilothermous (cold blooded). 
+
+Aves are warm-blooded animals with feathers on their bodies and forelimbs modified into wings for flying. 
+
+Hind limbs are adapted for walking, swimming, perching or clasping. 
+
+The unique features of mammals are the presence of mammary glands and hairs on the skin. They commonly exhibit viviparity.
+
+
 
 UNIT II  : STRUCTRUCTURAL ORGANISATION IN PLANTS AND ANIMALS
+
+GOTO:top
 TAG:5-morphology-of-flowering-plants
 *5-morphology-of-flowering-plants*
 
+Parts of Flowers
+IMG:ncert-11-fig-5dot14.png
 
+
+
+*Summary*
+
+Flowering plants exhibit enormous variation in shape, size, structure, mode of nutrition, life span, habit and habitat. 
+
+They have well developed root and shoot systems. 
+
+Root system is either tap root or fibrous. Generally, dicotyledonous plants have tap roots while monocotyledonous plants have fibrous roots. 
+
+The roots in some plants get modified for storage of food, mechanical support and respiration.
+
+The shoot system is differentiated into stem, leaves, flowers and fruits. 
+
+The morphological features of stems like the presence of nodes and internodes, multicellular hair and positively phototropic nature help to differentiate the stems from roots. 
+
+Stems also get modified to perform diverse functions such as storage of food, vegetative propagation and protection under different conditions. 
+
+Leaf is a lateral outgrowth of stem developed exogeneously at the node. These are green in colour to perform the function of photosynthesis. 
+
+Leaves exhibit marked variations in their shape, size, margin, apex and extent of incisions of leaf blade (lamina).
+
+Like other parts of plants, the leaves also get modified into other structures such as tendrils, spines for climbing and protection respectively.
+
+The flower is a modified shoot, meant for sexual reproduction. 
+
+The flowers are arranged in different types of inflorescences. They exhibit enormous variation in structure, symmetry, position of ovary in relation to other parts, arrangement of petals, sepals, ovules etc. 
+
+After fertilisation, the ovary is modified into fruits and ovules into seeds. Seeds either may be monocotyledonous or dicotyledonous. 
+
+They vary in shape, size and period of viability. 
+
+The floral characteristics form the basis of classification and identification of flowering plants. 
+
+This can be illustrated through semi-technical descriptions of families. Hence, a flowering plant is described in a definite sequence by using scientific terms. 
+
+The floral features are represented in the summarised form as floral diagrams and floral formula.
+
+
+
+GOTO:top
 TAG:6-anatomy-of-flowering-plants
 *6-anatomy-of-flowering-plants*
 
+*Summary*
 
+Anatomically, a plant is made of different kinds of tissues. The plant tissues are broadly classified into meristematic (apical, lateral and intercalary) and permanent (simple and complex). 
+
+Assimilation of food and its storage, transportation of water, minerals and photosynthates, and mechanical support are the main functions of tissues. 
+
+There are three types of tissue  systems – epidermal, ground and vascular.
+
+The epidermal tissue systems are made of epidermal cells, stomata and the epidermal appendages. 
+
+The ground tissue system forms the main bulk of the plant. 
+
+It is divided into three zones – cortex, pericycle and pith. 
+
+The vascular tissue system is formed by the xylem and phloem. On the basis of presence of cambium, location of xylem and phloem, the vascular bundles are of different types. 
+
+The vascular bundles form the conducting tissue and translocate water,  minerals and food material.
+
+Monocotyledonous and dicotyledonous plants show marked variation in their internal structures. 
+
+They differ in type, number and location of vascular bundles.
+
+The secondary growth occurs in most of the dicotyledonous roots and stems and it increases the girth (diameter) of the organs by the activity of the vascular cambium and the cork cambium. 
+
+The wood is actually a secondary xylem. There are different types of wood on the basis of their composition and time of production.
+
+
+
+GOTO:top
 TAG:7-structural-organisation-in-animals
 *7-structural-organisation-in-animals*
 
+Loose Connective Tissue
+IMG:ncert-11-fig-7dot4.png
+
+External Features of Cockroach
+IMG:ncert-11-fig-7dot14.png
+
+Internal organs of Frog
+IMG:ncert-11-fig-7dot20.png
+
+Male Reproductive System
+IMG:ncert-11-fig-7dot21.png
+
+Female Reproductive System
+IMG:ncert-11-fig-7dot22.png
+
+
+*Summary*
+
+Cells, tissues, organs and organ systems split up the work in a way that ensures the survival of the body as a whole and exhibit division of labour. 
+
+A tissue is defined as group of cells along with intercellular substances performing one or more functions in the body. 
+
+Epithelia are sheet like tissues lining the body’s surface and its cavities, ducts and tubes. 
+
+Epithelia have one free surface facing a body fluid or the outside environment. 
+
+Their cells are structurally and functionally connected at junctions.
+
+
+Diverse types of connective tissues bind together, support, strengthen, protect, and insulate other tissue in the body. 
+
+Soft connective tissues consist of protein fibres as well as a variety of cells arranged in a ground substance. 
+
+Cartilage, bone, blood, and adipose tissue are specialised connective tissues. 
+
+Cartilage and bone are both structural materials. Blood is a fluid tissue with transport functions.
+
+Adipose tissue is a reservoir of stored energy. Muscle tissue, which can contract (shorten) in response to stimulation, helps in movement of the body and specific body parts. 
+
+Skeletal muscle is the muscle tissue attached to bones. Smooth muscle is a component of internal organs. Cardiac muscle makes up the contractile walls of the heart. 
+
+Connective tissue covers all three types of tissues. Nervous tissue  exerts greatest control over the response of body. Neurons are the basic units of nervous tissue.
+
+
+Earthworm, Cockroach and Frog show characteristic features in body  organisation. 
+
+In Pheretima posthuma (earthworm), the body is covered by cuticle.
+
+All segments of its body are alike except the 14th, 15th and 16th segment, which are thick and dark and glandular, forming clitellum. 
+
+A ring of S-shaped chitinous setae is found in each segment. These setae help in locomotion. 
+
+On the ventral side spermathecal openings are present in between the grooves of 5 and 6, 6 and 7, 7 and 8 and 8 and 9 segments. 
+
+Female genital pores are present on 14th segment and male genital pores on 18th segment. 
+
+The alimentary canal is a narrow tube made of mouth, buccal cavity, pharynx, gizzard, stomach, intestine and anus. 
+
+The blood vascular system is of closed type with heart and valves. Nervous system is represented by ventral nerve cord. 
+
+Earthworm is hermaphorodite. 
+
+Two pairs of  testes occur in the 10th and 11th segment, respectively. A pair of ovaries are present on 12 and 13th intersegmental septum. 
+
+It is a protandrous animal with cross fertilisation. 
+
+Fertilisation and development take place in cocoon secreted by the glands of clitellum.
+
+The body of Cockroach (Periplaneta americana) is covered by chitinous  exoskeleton. 
+
+It is divided into head, thorax and abdomen. Segments bear jointed  appendages. 
+
+There are three segments of thorax, each bearing a pair of walking legs. 
+
+Two pairs of wings are present, one pair each on 2nd and 3rd segment.
+
+There are ten segments in abdomen. Alimentary canal is well developed with a mouth surrounded by mouth parts, a pharynx, oesophagus, crop, gizzard, midgut, hindgut and anus. 
+
+Hepatic caecae are present at the junction of foregut and midgut. 
+
+Malpighian tubules are present at the junction of midgut and hindgut and help in excretion. A pair of salivary gland is present near crop. 
+
+The blood vascular system is of open type. Respiration takes place by network of tracheae.
+
+Trachea opens outside with spiracles. Nervous system is represented by  segmentally arranged ganglia and ventral nerve cord. A pair of testes is present in 4th-6th segments and ovaries in 2nd-6th segments. 
+
+Fertilisation is internal. 
+
+Female produces 9-10 ootheca bearing developing embryos. 
+
+After rupturing of single ootheca sixteen young ones, called nymphs come out.
+
+The Indian bullfrog, Rana tigrina, is the common frog found in India. Body is covered by skin. 
+
+Mucous glands are present in the skin which is highly vascularised and helps in respiration in water and on land. Body is divisible into head and trunk.
+
+A muscular tongue is present, which is bilobed at the tip and is used in capturing the prey. 
+
+The alimentary canal consists of oesophagous, stomach, intestine and  rectum, which open into the cloaca. 
+
+The main digestive glands are liver and pancreas. 
+
+It can respire in water through skin and through lungs on land. 
+
+Circulatory system is closed with single circulation. 
+
+RBCs are nucleated. Nervous system is organised into central, peripheral and autonomic. The organs of urinogenital system are kidneys and urinogenital ducts, which open into the cloaca. 
+
+The male reproductive organ is a pair of testes. The female reproductive organ is a pair of ovaries. 
+
+A female lays 2500-3000 ova at a time. The fertilisation and development are external. 
+
+The eggs hatch into tadpoles, which metamorphose into frogs.
+
+
 
 UNIT III : STRUCTURE AND FUNCTIONS
+
+GOTO:top
 TAG:8-cell-the-unit-of-life
 *8-cell-the-unit-of-life*
 
+Plant Cell and Animal Cell
+IMG:ncert-11-fig-8dot3.png
 
+Structure of Mitochondrion
+IMG:ncert-11-fig-8dot7.png
+
+Sectional View of Chloroplast
+IMG:ncert-11-fig-8dot8.png
+
+Types of Chromosomes
+IMG:ncert-11-fig-8dot13.png
+
+
+*Summary*
+
+All organisms are made of cells or aggregates of cells. 
+
+Cells vary in their shape, size and activities/functions. Based on the presence or absence of a membrane bound nucleus and other organelles, cells and hence organisms can be named as eukaryotic or prokaryotic.
+
+A typical eukaryotic cell consists of a cell membrane, nucleus and cytoplasm.
+
+Plant cells have a cell wall outside the cell membrane. 
+
+The plasma membrane is selectively permeable and facilitates transport of several molecules. 
+
+The endomembrane system includes ER, golgi complex, lysosomes and vacuoles. 
+
+All the cell organelles perform different but specific functions. Centrosome and centriole form the basal body of cilia and flagella that facilitate locomotion. 
+
+In animal cells, centrioles also form spindle apparatus during cell division. 
+
+Nucleus contains nucleoli and chromatin network. 
+
+It not only controls the activities of organelles but also plays a major role in heredity.
+
+Endoplasmic reticulum contains tubules or cisternae. 
+
+They are of two types: rough and smooth. ER helps in the transport of substances, synthesis of proteins, lipoproteins and glycogen. 
+
+The golgi body is a membranous organelle composed of flattened sacs. The secretions of cells are packed in them and transported from the cell. 
+
+Lysosomes are single membrane structures containing enzymes for digestion of all types of macromolecules. 
+
+Ribosomes are involved in protein synthesis. 
+
+These occur freely in the cytoplasm or are associated with ER. 
+
+Mitochondria help in oxidative phosphorylation and generation of adenosine triphosphate. 
+
+They are bound by double membrane; the outer membrane is smooth and inner one folds into several cristae. 
+
+Plastids are pigment containing organelles found in plant cells only. 
+
+In plant cells, chloroplasts are responsible for trapping light energy essential for photosynthesis. 
+
+The grana, in the plastid, is the site of light reactions and the stroma of dark reactions. 
+
+The green coloured plastids are chloroplasts, which contain chlorophyll, whereas the other coloured plastids are chromoplasts, which may contain pigments like carotene and xanthophyll. 
+
+The nucleus is enclosed by nuclear envelope, a double membrane structure with nuclear pores.
+
+The inner membrane encloses the nucleoplasm and the chromatin material.
+
+Thus, cell is the structural and functional unit of life.
+
+
+GOTO:top
 TAG:9-biomolecues
 *9-biomolecues*
 
+Animals present in non-living and living matter
+IMG:ncert-11-tab-9dot1.png
 
+List of Representative Inorganic Constituents of Living Tissues
+IMG:ncert-11-tab-9dot2.png
+
+Some Secondary Metabolitis
+IMG:ncert-11-tab-9dot3.png
+
+Average Composition of Cells
+IMG:ncert-11-tab-9dot4.png
+
+Some Proteins and their Functions
+IMG:ncert-11-tab-9dot5.png
+
+Various levels of Protein Structure
+IMG:ncert-11-fig-9dot3.png
+
+
+
+*Summary*
+
+Although there is a bewildering diversity of living organisms, their chemical composition and metabolic reactions appear to be remarkably similar. 
+
+The elemental composition of living tissues and non-living matter appear also to be similar when analysed qualitatively. 
+
+However, a closer examination reveals that the relative abundance of carbon, hydrogen and oxygen is higher in living systems when compared to inanimate matter. 
+
+The most abundant chemical in living organisms is water. 
+
+There are thousands of small molecular weight (<1000 Da) biomolecules. 
+
+Amino acids, monosaccharide and disaccharide sugars, fatty acids,  glycerol, nucleotides, nucleosides and nitrogen bases are some of the organic compounds seen in living organisms. 
+
+There are 20 types of amino acids and 5 types of nucleotides. 
+
+Fats and oils are glycerides in which fatty acids are esterified to glycerol. 
+
+Phospholipids contain, in addition, a phosphorylated nitrogenous compound.
+
+Only three types of macromolecules, i.e., proteins, nucleic acids and  polysaccharides are found in living systems. 
+
+Lipids, because of their association with membranes separate in the macromolecular fraction. 
+
+Biomacromolecules are polymers. They are made of building blocks which are different. 
+
+Proteins are heteropolymers made of amino acids. 
+
+Nucleic acids (RNA and DNA) are composed of nucleotides. 
+
+Biomacromolecules have a hierarchy of structures primary, secondary, tertiary and quaternary. 
+
+Nucleic acids serve as genetic material. 
+
+Polysaccharides are components of cell wall in plants, fungi and also of the exoskeleton of arthropods. 
+
+They also are storage forms of energy (e.g., starch and glycogen). 
+
+Proteins serve a variety of cellular functions. 
+
+Many of them are enzymes, some are antibodies, some are receptors, some are hormones and some others are structural proteins. Collagen is the most abundant protein in animal world and Ribulose bisphosphate Carboxylase-Oxygenase (RuBisCO) is the most abundant protein in the whole of the biosphere.
+
+
+Enzymes are proteins which catalyse biochemical reactions in the cells.
+
+Ribozymes are nucleic acids with catalytic power. Proteinaceous enzymes  exhibit substrate specificity, require optimum temperature and pH for maximal activity. 
+
+They are denatured at high temperatures. 
+
+Enzymes lower activation energy of reactions and enhance greatly the rate of the reactions. 
+
+Nucleic acids carry hereditary information and are passed on from parental generation to progeny.
+
+
+GOTO:top
 TAG:10-cell-cycle-and-cell-division
 *10-cell-cycle-and-cell-division*
 
+*Summary*
+
+According to the cell theory, cells arise from preexisting cells. 
+
+The process by which this occurs is called cell division. 
+
+Any sexually reproducing organism starts its life cycle from a single-celled zygote. 
+
+Cell division does not stop with the formation of the mature organism but continues throughout its life cycle.
+
+The stages through which a cell passes from one division to the next is called the cell cycle. 
+
+Cell cycle is divided into two phases called (i) Interphase – a period of preparation for cell division, and (ii) Mitosis (M phase) – the actual  period of cell division. 
+
+Interphase is further subdivided into G1, S and G2. G1 phase is the period when the cell grows and carries out normal metabolism.
+
+
+Most of the organelle duplication also occurs during this phase. S phase marks the phase of DNA replication and chromosome duplication. 
+
+G2 phase is the period of cytoplasmic growth. Mitosis is also divided into four stages namely prophase, metaphase, anaphase and telophase. 
+
+Chromosome condensation occurs during prophase. 
+
+Simultaneously, the centrioles move to the opposite poles. 
+
+The nuclear envelope and the nucleolus disappear and the spindle fibres start appearing. 
+
+Metaphase is marked by the alignment of chromosomes at the equatorial plate. 
+
+During anaphase the centromeres divide and the chromatids start moving towards the two opposite poles. 
+
+Once the chromatids reach the two poles, the chromosomal elongation starts, nucleolus and the nuclear membrane reappear. 
+
+This stage is called the telophase.  
+
+Nuclear division is then followed by the cytoplasmic division and is called cytokinesis. 
+
+Mitosis thus, is the equational division in which the chromosome number of  the parent is conserved in the daughter cell.
+
+In contrast to mitosis, meiosis occurs in the diploid cells, which are destined to form gametes. 
+
+It is called the reduction division since it reduces the chromosome  number by half while making the gametes. 
+
+In sexual reproduction when the two gametes fuse the chromosome number is restored to the value in the parent.
+
+Meiosis is divided into two phases – meiosis I and meiosis II. In the first meiotic division the homologous chromosomes pair to form bivalents, and undergo crossing over. 
+
+Meiosis I has a long prophase, which is divided further into five phases. 
+
+These are leptotene, zygotene, pachytene, diplotene and diakinesis. 
+
+During metaphase I the bivalents arrange on the equatorial plate. 
+
+This is followed by anaphase I in which homologous chromosomes move to the opposite poles with both their chromatids. 
+
+Each pole receives half the chromosome number of the parent cell. 
+
+In telophase I, the nuclear membrane and nucleolus reappear. 
+
+Meiosis II is similar to mitosis. During anaphase II the sister chromatids separate. 
+
+Thus at the end of meiosis four haploid cells are formed.
 
 
 UNIT IV  : PLANT PHYSIOLOGY
+GOTO:top
 TAG:11-transport-in-plants
 *11-transport-in-plants*
 
+Pathway of Water movement in Root
+IMG:ncert-11-fig-11dot6.png
 
+Water Movement in Leaf
+IMG:ncert-11-fig-11dot6.png
+
+
+
+*Summary*
+
+Plants obtain a variety of inorganic elements (ions) and salts from their  surroundings especially from water and soil. 
+
+The movement of these nutrients from environment into the plant as well as from one plant cell to another plant cell essentially involves movement across a cell membrane. 
+
+Transport across cell membrane can be through diffusion, facilitated transport or active transport. 
+
+Water and minerals absorbed by roots are transported by xylem and the organic material synthesised in the leaves is transported to other parts of plant through phloem.
+
+Passive transport (diffusion, osmosis) and active transport are the two modes of nutrient transport across cell membranes in living organisms. 
+
+In passive transport,  nutrients move across the membrane by diffusion, without any use of energy as it is always down the concentration gradient and hence entropy driven.
+
+This diffusion of substances depends on their size, solubility in water or organic solvents. 
+
+Osmosis is the special type of diffusion of water across a selectively  permeable membrane which depends on pressure gradient and concentration gradient. 
+
+In active transport, energy in the form of ATP is utilised to pump  molecules against a concentration gradient across membranes. 
+
+Water potential is the potential energy of water molecules which helps in the movement of water. 
+
+It is determined by solute potential and pressure potential. The osmotic behaviour of cells depends on the surrounding solution. 
+
+If the surrounding solution of the cell is hypertonic, it gets plasmolysed. 
+
+The absorption of water by seeds and drywood takes place by a special type of diffusion called imbibition.
+
+In higher plants, there is a vascular system comprising of xylem and phloem, responsible for translocation. 
+
+Water minerals and food cannot be moved within the body of a plant by diffusion alone. 
+
+They are therefore, transported by a mass flow system – movement of substance in bulk from one point to another as a result of pressure differences between the two points.
+
+Water absorbed by root hairs moves into the root tissue by two distinct pathways, i.e., apoplast and symplast. Various ions, and water from soil can be transported upto a small height in stems by root pressure. 
+
+Transpiration pull model is the most acceptable to explain the transport of water. 
+
+Transpiration is  the loss of water in the form of vapours from the plant parts through stomata.
+
+Temperature, light, humidity, wind speed and number of stomata affect the rate of transpiration. 
+
+Excess water is also removed through tips of leaves of plants by  guttation.
+
+Phloem is responsible for transport of food (primarily) sucrose from the source to the sink. 
+
+The translocation in phloem is bi-directional; the source-sink  relationship is variable. 
+
+The translocation in phloem is explained by the pressure flow hypothesis.
+
+
+
+
+GOTO:top
 TAG:12-mineral-nutrition
 *12-mineral-nutrition*
 
+*Summary*
 
+Plants obtain their inorganic nutrients from air, water and soil. Plants absorb a wide variety of mineral elements. 
+
+Not all the mineral elements that they absorb are required by plants. Out of the more than 105 elements discovered so far, less than 21 are essential and beneficial for normal plant growth and development. 
+
+The elements required in large quantities are called macronutrients while those required in less quantities or in trace are termed as micronutrients. 
+
+These elements are either essential constituents of proteins, carbohydrates, fats, nucleic acid etc.,  and/or take part in various metabolic processes.
+
+Deficiency of each of these essential elements may lead to symptoms called deficiency symptoms. 
+
+Chlorosis, necrosis, stunted growth, impaired cell division, etc., are some prominent deficiency symptoms. 
+
+Plants absorb minerals through roots by either passive or active  processes. 
+
+They are carried to all parts of the organism through xylem along with  water transport.
+
+Nitrogen is very essential for the sustenance of life. Plants cannot use  atmospheric nitrogen directly. 
+
+But some of the plants in association with N2-fixing bacteria, especially roots of legumes, can fix this atmospheric nitrogen into biologically usable forms. Nitrogen fixation requires a strong reducing agent and  energy in the form of ATP. 
+
+N2 -fixation is accomplished with the help of nitrogen fixing microbes, mainly Rhizobium. 
+
+The enzyme nitrogenase which plays an important role in biological N2 fixation is very sensitive to oxygen. 
+
+Most of the processes take place in anaerobic environment. The energy, ATP, required is provided by the respiration of the host cells. Ammonia produced following N2 fixation is incorporated into amino acids as the amino group.
+
+
+
+
+GOTO:top
 TAG:13-photosynthesis-in-higher-plants
 *13-photosynthesis-in-higher-plants*
 
+*Summary*
 
+Green plants make their own food by photosynthesis. During this process carbon dioxide from the atmosphere is taken in by leaves through stomata and used for making carbohydrates, principally glucose and starch.  
+
+Photosynthesis takes place only in the green parts of the plants, mainly the leaves. 
+
+Within the leaves, the mesophyll cells have a large number of chloroplasts that are responsible for CO2 fixation.  
+
+Within the chloroplasts, the membranes are sites for the light reaction,  while the chemosynthetic pathway occurs in the stroma.
+
+Photosynthesis has two stages: the light reaction and the carbon fixing reactions. 
+
+In the light reaction the light energy is absorbed by the pigments present in the antenna, and funnelled to special chlorophyll a molecules called reaction centre chlorophylls. 
+
+There are two photosystems, PS I and PS II. PS I has a 700 nm absorbing chlorophyll a P700 molecule at its reaction centre, while PS II has a P680 reaction centre that absorbs red light at 680 nm.  
+
+After absorbing light, electrons are excited and transferred through PS II and PS I and finally to NAD forming NADH. During this process a proton gradient is created across the membrane of the thylakoid. 
+
+The breakdown of the protons gradient due to movement through the F0 part of the ATPase enzyme releases enough energy for synthesis of ATP.  Splitting of water molecules is associated with PS II resulting in the release of O2 , protons and transfer of electrons to PS II.
+
+In the carbon fixation cycle, CO2 is added by the enzyme, RuBisCO, to a 5
+carbon compound RuBP that is converted to 2 molecules of 3-carbon PGA. 
+
+This is then converted to sugar by the Calvin cycle, and the RuBP is regenerated. 
+
+During this process ATP and NADPH synthesised in the light reaction are utilised. 
+
+RuBisCO also catalyses a wasteful oxygenation reaction in C3 plants: photorespiration.
+
+Some tropical plants show a special type of photosynthesis called C4 pathway.
+
+In these plants the first product of CO2 fixation that takes place in the mesophyll, is a 4-carbon compound. 
+
+In the bundle sheath cells the Calvin pathway is carried out for the synthesis of carbohydrates.
+
+
+GOTO:top
 TAG:14-respiration-in-plants
 *14-respiration-in-plants*
 
+*Summary*
 
-TAG:plant-growth-and-development
+Plants unlike animals have no special systems for breathing or gaseous exchange. 
+
+Stomata and lenticels allow gaseous exchange by diffusion. 
+
+Almost all living cells in a plant have their surfaces exposed to air.
+
+The breaking of C-C bonds of complex organic molecules by oxidation cells  leading to the release of a lot of energy is called cellular respiration. 
+
+Glucose is the favoured substrate for respiration. Fats and proteins can also be broken down to yield energy. 
+
+The initial stage of cellular respiration takes place in the cytoplasm. 
+
+Each glucose molecule is broken through a series of enzyme catalysed reactions into two molecules of pyruvic acid. This process is called glycolysis. 
+
+The fate of the pyruvate depends on the availability of oxygen and the organism. 
+
+Under anaerobic conditions either lactic acid fermentation or alcohol fermentation occurs. 
+
+Fermentation takes place under anaerobic conditions in many prokaryotes,  unicellular eukaryotes and in germinating seeds. 
+
+In eukaryotic organisms aerobic respiration occurs  in the presence of oxygen. 
+
+Pyruvic acid is transported into the mitochondria where it is converted into acetyl CoA with the release of CO2. 
+
+Acetyl CoA then enters the tricarboxylic acid pathway or Krebs’ cycle operating in the matrix of the mitochondria. 
+
+NADH + H+ and FADH2 are generated in the Krebs’ cycle. 
+
+The energy in these molecules as well as that in the NADH + H+ synthesised during glycolysis are used to synthesise ATP. 
+
+This is accomplished through a  system of electron carriers called electron transport system (ETS) located on the inner membrane of the mitochondria. 
+
+The electrons, as they move through the system, release enough energy that are trapped to synthesise ATP.  This is called oxidative phosphorylation. 
+
+In this process O2 is the ultimate acceptor of electrons and it gets reduced to water.
+
+The respiratory pathway is an amphibolic pathway as it involves both anabolism and catabolism. 
+
+The respiratory quotient depends upon the type of respiratory substance used during respiration. 
+
+
+
+GOTO:top
+TAG:15-plant-growth-and-development
 *plant-growth-and-development*
+
+*Summary*
+
+Growth is one of the most conspicuous events in any living organism. It is an irreversible increase expressed in parameters such as size, area, length, height, volume, cell number etc. 
+
+It conspicuously involves increased protoplasmic material. 
+
+In plants, meristems are the sites of growth. 
+
+Root and shoot apical meristems sometimes alongwith intercalary meristem, contribute to the elongation growth of plant axes. 
+
+Growth is indeterminate in higher plants. Following cell division in root and shoot apical meristem cells, the growth could be arithmetic or geometrical.
+
+Growth may not be and generally is not sustained at a high rate throughout the life of cell/tissue/organ/organism. 
+
+One can define three principle phases of growth the lag, the log and the senescent phase. 
+
+When a cell loses the capacity to divide, it leads to differentiation. Differentiation results in development of structures that is commensurate with the function the cells finally has to perform. 
+
+General principles for differentiation for cell, tissues and organs are similar. 
+
+A differentiated cell may dedifferentiate and then redifferentiate. 
+
+Since differentiation in plants is open, the development could also be flexible, i.e., the development is the sum of growth and differentiation. Plant exhibit plasticity in development.
+
+Plant growth and development are under the control of both intrinsic and extrinsic factors. Intercellular intrinsic factors are the chemical substances, called plant growth regulators (PGR). 
+
+There are diverse groups of PGRs in plants, principally belonging to five groups: auxins, gibberellins, cytokinins, abscisic acid and ethylene.
+
+These PGRs are synthesised in various parts of the plant; they control different differentiation and developmental events. Any PGR has diverse physiological effects on plants. 
+
+Diverse PGRs also manifest similar effects. PGRs may act synergistically  or antagonistically. 
+
+Plant growth and development is also affected by light, temperature, nutrition, oxygen status, gravity and such external factors.
+
+Flowering in some plants is induced only when exposed to certain duration of photoperiod. 
+
+Depending on the nature of photoperiod requirements, the plants are  called short day plants, long day plants and day-neutral plants. 
+
+Certain plants also need to be exposed to low temperature so as to hasten flowering later in life. This treatement is known as vernalisation.
 
 
 
 UNIT V   : HUMAN PHYSIOLOGY
+GOTO:top
 TAG:16-digestion-and-absorption
 *16-digestion-and-absorption*
 
+Human Digestive System
+IMG:ncert-11-fig-16dot1.png
 
+Duct System of Liver
+IMG:ncert-11-fig-16dot6.png
+
+Summary of Absorption in Different Parts of Digestive System
+IMG:ncert-11-fig-tab-16dot1.png
+
+
+
+*Summary*
+
+The digestive system of humans consists of an alimentary canal and  associated digestive glands. 
+
+The alimentary canal consists of the mouth, buccal cavity, pharynx, oesophagus, stomach, small intestine, large intestine, rectum and the anus. 
+
+The accessory digestive glands include the salivary glands, the liver (with gall bladder) and the pancreas. 
+
+Inside the mouth the teeth masticates the food, the tongue tastes the food and manipulates it for proper mastication by mixing with the saliva. 
+
+Saliva contains a starch digestive enzyme, salivary amylase that digests the starch and converts it into maltose (disaccharide). 
+
+The food then passes into the pharynx and enters the oesophagus in the form of bolus, which is further carried down through the oesophagus by peristalsis into the stomach. 
+
+In stomach mainly protein digestion takes place. Absorption of simple sugars, alcohol and medicines also takes place in the stomach.
+
+The chyme (food) enters into the duodenum portion of the small intestine and is acted on by the pancreatic juice, bile and finally by the enzymes in the succus entericus, so that the digestion of carbohydrates, proteins and fats is completed. 
+
+The food then enters into the jejunum and ileum portions of the small intestine. 
+
+Carbohydrates are digested and converted into monosaccharides like glucose. 
+
+Proteins are finally broken down into amino acids. 
+
+The fats are converted to fatty acids and glycerol.
+
+The digested end products are absorbed into the body through the epithelial lining of the intestinal villi. 
+
+The undigested food (faeces) enters into the caecum of the large  intestine through ileo-caecal valve, which prevents the back flow of the faecal matter.
+
+Most of the water is absorbed in the large intestine. 
+
+The undigested food becomes semi-solid in nature and then enters into the rectum, anal canal and is finally egested out through the anus.
+
+
+GOTO:top
 TAG:17-breathing-and-exchange-of-gases
 *17-breathing-and-exchange-of-gases*
 
+Human Respiratory System
+IMG:ncert-11-fig-17dot1.png
 
+Partial Pressure of Oxygen and Carbon Dioxide
+IMG:ncert-11-tab-17dot1.png
+
+
+*Summary*
+
+Cells utilise oxygen for metabolism and produce energy along with substances like carbon dioxide which is harmful. 
+
+Animals have evolved different mechanisms for the transport of oxygen to the cells and for the removal of carbon dioxide from there. 
+
+We have a well developed respiratory system comprising two lungs and  associated air passages to perform this function.
+
+The first step in respiration is breathing by which atmospheric air is taken in (inspiration) and the alveolar air is released out (expiration). 
+
+Exchange of O2 and CO2 between deoxygenated blood and alveoli, transport of these gases throughout the body by blood, exchange of O2 and CO2 between the oxygenated blood and tissues and utilisation of O2 by the cells (cellular respiration) are the other steps involved.
+
+Inspiration and expiration are carried out by creating pressure gradients between the atmosphere and the alveoli with the help of specialised muscles intercostals and diaphragm. 
+
+Volumes of air involved in these activities can be estimated with the help of spirometer and are of clinical significance. 
+
+Exchange of O2 and CO2 at the alveoli and tissues occur by diffusion. Rate of diffusion is dependent on the partial pressure gradients of O2 (pO2) and CO2 (pCO2), their solubility as well as the thickness of the diffusion surface. 
+
+These factors in our body facilitate diffusion of O2 from the alveoli to the deoxygenated blood as well as from the oxygenated blood to the tissues. 
+
+The factors are favourable for the diffusion of CO2 in the opposite direction, i.e., from tissues to alveoli.
+
+Oxygen is transported mainly as oxyhaemoglobin. 
+
+In the alveoli where pO2  is higher, O2 gets bound to haemoglobin which is easily dissociated at the tissues where pO2 is low and pCO2 and H+ concentration are high. 
+
+Nearly 70 per cent of carbon dioxide is transported as bicarbonate (HCO3–) with the help of the enzyme carbonic anhydrase. 
+
+20-25 per cent of carbon dioxide is carried by haemoglobin as carbamino-haemoglobin. 
+
+In the tissues where pCO2 is high, it gets bound to blood whereas in the alveoli where pCO2 is low and pO2 is high, it gets removed from the blood.
+
+
+Respiratory rhythm is maintained by the respiratory centre in the medulla region of brain. 
+
+A pneumotaxic centre in the pons region of the brain and a chemosensitive area in the medulla can alter respiratory mechanism.
+
+
+GOTO:top
 TAG:18-body-fluids-and-circulation
 *18-body-fluids-and-circulation*
 
+Formed elements in blood
+IMG:ncert-11-fig-18dot1.png
 
+Blood Group and Donor Compatibility
+IMG:ncert-11-tab-18dot1.png
+
+Section of Human Hearth
+IMG:ncert-11-fig-18dot2.png
+
+Blood Circulation in Human
+IMG:ncert-11-fig-18dot4.png
+
+
+
+*Summary*
+
+Vertebrates circulate blood, a fluid connective tissue, in their body, to transport essential substances to the cells and to carry waste substances from there. 
+
+Another fluid, lymph (tissue fluid) is also used for the transport of certain substances. 
+
+Blood comprises of a fluid matrix, plasma and formed elements. Red blood cells (RBCs, erythrocytes), white blood cells (WBCs, leucocytes) and platelets (thrombocytes) constitute the formed elements. 
+
+Blood of humans are grouped into A, B, AB and O systems based on the presence or absence of two surface antigens, A, B on the RBCs. 
+
+Another blood grouping is also done based on the presence or absence of another antigen called Rhesus factor (Rh) on the surface of RBCs. 
+
+The spaces between cells in the tissues contain a fluid derived from blood called tissue fluid. 
+
+This fluid called lymph is almost similar to blood except for the protein content and the formed elements. 
+
+All vertebrates and a few invertebrates have a closed circulatory system. 
+
+Our circulatory system consists of a muscular pumping organ, heart, a network of vessels and a fluid, blood.
+
+Heart has two atria and two ventricles. 
+
+Cardiac musculature is auto-excitable. 
+
+Sino-atrial node (SAN) generates the maximum number of action protentials per minute (70-75/min) and therefore, it sets the pace of the activities of the heart. 
+
+Hence it is called the Pacemaker. 
+
+The action potential causes the atria and then the ventricles to undergo contraction (systole) followed by their relaxation (diastole). 
+
+The systole forces the blood to move from the atria to the ventricles and to the pulmonary artery and the aorta. 
+
+The cardiac cycle is formed by sequential events in the heart which is cyclically repeated and is called the cardiac cycle. 
+
+A healthy person shows 72 such cycles per minute. 
+
+About 70 mL of blood is pumped out by each ventricle during a cardiac cycle and it is called the stroke or beat volume. 
+
+Volume of blood pumped out by each ventricle of heart per minute is called the cardiac output and it is equal to the product of stroke volume and heart rate (approx 5 litres). 
+
+The electrical activity of the heart can be recorded from  the body surface by using electrocardiograph and the recording is called electrocardiogram (ECG) which is of clinical importance.
+
+We have a complete double circulation, i.e., two circulatory pathways, namely, pulmonary and systemic are present. 
+
+The pulmonary circulation starts by the pumping of deoxygenated blood by the right ventricle which is carried to the lungs where it is oxygenated and returned to the left atrium. 
+
+The systemic circulation starts with the pumping of oxygenated blood by the left ventricle to the aorta which is carried to all the body tissues and the deoxygenated blood from there is collected by the veins and returned to the right atrium. 
+
+Though the heart is autoexcitable, its functions can be moderated by neural and hormonal mechanisms.
+
+
+
+GOTO:top
 TAG:19-excretory-products-and-their-elimination
 *19-excretory-products-and-their-elimination*
 
+Human Urinary System
+IMG:ncert-11-fig-19dot1.png
 
+Longitudinal Section of Kidney
+IMG:ncert-11-fig-19dot2.png
+
+
+
+*Summary*
+
+Many nitrogen containing substances, ions, CO2, water, etc., that accumulate in the body have to be eliminated. Nature of nitrogenous wastes formed and their excretion vary among animals, mainly depending on the habitat (availability of water). 
+
+Ammonia, urea and uric acid are the major nitrogenous wastes excreted.  Protonephridia, nephridia, malpighian tubules, green glands and the kidneys are the common excretory organs in animals. 
+
+They not only eliminate nitrogenous wastes but also help in the maintenance of ionic and acid-base balance of body fluids.
+
+In humans, the excretory system consists of one pair of kidneys, a pair of ureters, a urinary bladder and a urethra. 
+
+Each kidney has over a million tubular structures called nephrons. 
+
+Nephron is the functional unit of kidney and has two portions 
+glomerulus and renal tubule. 
+
+Glomerulus is a tuft of capillaries formed from afferent arterioles, fine branches of renal artery. 
+
+The renal tubule starts with a double walled Bowman’s capsule and is further differentiated into a proximal convoluted tubule (PCT), Henle’s loop (HL) and distal convoluted tubule (DCT). 
+
+The DCTs of many nephrons join to a common collecting duct many of which ultimately open into the renal pelvis through the medullary pyramids. The Bowman’s capsule encloses the glomerulus to form Malpighian or renal corpuscle.
+
+Urine formation involves three main processes, i.e., filtration, reabsorption and secretion. 
+
+Filtration is a non-selective process performed by the glomerulus using  the glomerular capillary blood pressure. 
+
+About 1200 ml of blood is filtered by the glomerulus per minute to form 125 ml of filtrate in the Bowman’s capsule per  minute (GFR). 
+
+JGA, a specialised portion of the nephrons, plays a significant role in the regulation of GFR. 
+
+Nearly 99 per cent reabsorption of the filtrate takes place through different parts of the nephrons. PCT is the major site of reabsorption and selective secretion. HL primarily helps to maintain osmolar gradient  (300 mOsmolL–1 -1200 mOsmolL–1) within the kidney interstitium. 
+
+DCT and collecting duct allow extensive reabsorption of water and certain electrolytes, which help in osmoregulation: H+, K+ and NH3 could be secreted into the filtrate by the tubules to maintain the ionic balance and pH of body fluids.
+
+A counter current mechanism operates between the two limbs of the loop of Henle and those of vasa recta (capillary parallel to Henle’s loop). 
+
+The filtrate gets concentrated as it moves down the descending limb but is diluted by the ascending limb. 
+
+Electrolytes and urea are retained in the interstitium by this arrangement.
+
+DCT and collecting duct concentrate the filtrate about four times, i.e., from 300 mOsmolL–1 to 1200 mOsmolL–1, an excellent mechanism of conservation of water.
+
+Urine is stored in the urinary bladder till a voluntary signal from CNS carries out its release through urethra, i.e., micturition. 
+
+Skin, lungs and liver also assist in excretion.
+
+
+
+GOTO:top
 TAG:20-locomotion-and-movement
 *20-locomotion-and-movement*
 
+Human Skull
+IMG:ncert-11-fig-20dot6.png
 
+Vertebral Column
+IMG:ncert-11-fig-20dot7.png
+
+Ribs and Ribs Cage
+IMG:ncert-11-fig-20dot8.png
+
+
+
+*Summary*
+
+Movement is an essential feature of all living beings. Protoplasmic streaming, ciliary movements, movements of fins, limbs, wings, etc., are some forms exhibited by animals. 
+
+A voluntary movement which causes the animal to change its place, is  called locomotion. Animals move generally in search of food, shelter, mate, breeding ground, better climate or to protect themselves.
+
+The cells of the human body exhibit amoeboid, ciliary and muscular  movements. 
+
+Locomotion and many other movements require coordinated muscular  activities. 
+
+Three types of muscles are present in our body. Skeletal muscles are  attached to skeletal elements. 
+
+They appear striated and are voluntary in nature. 
+
+Visceral muscles, present in the inner walls of visceral organs are nonstriated and involuntary. 
+
+Cardiac muscles are the muscles of the heart. 
+
+They are striated, branched and involuntary. 
+
+Muscles possess excitability, contractility, extensibility and elasticity.
+
+Muscle fibre is the anatomical unit of muscle. Each muscle fibre has many  parallelly arranged myofibrils. 
+
+Each myofibril contains many serially arranged units called sarcomere which are the functional units. 
+
+Each sarcomere has a central ‘A’ band made of thick myosin filaments, and two half ‘I’ bands made of thin actin filaments on either side of it marked by ‘Z’  lines. 
+
+Actin and myosin are polymerised proteins with contractility. 
+
+The active sites for myosin on resting actin filament are masked by a protein-troponin. 
+
+Myosin head contains ATPase and has ATP binding sites and active sites for actin. 
+
+A motor neuron carries signal to the muscle fibre which generates an action potential in it. 
+
+This causes the release of Ca++ from sarcoplasmic reticulum. 
+
+Ca++ activates actin which binds to the myosin head to form a cross bridge. 
+
+These cross bridges pull the actin filaments causing them to slide over the myosin filaments and thereby causing contraction. 
+
+Ca++ are then returned to sarcoplasmic reticulum which inactivate the actin. 
+
+Cross bridges are broken and the muscles relax. 
+
+Repeated stimulation of muscles leads to fatigue. 
+
+Muscles are classified as Red and White fibres based primarily on the amount of red coloured myoglobin pigment in them.
+
+Bones and cartilages constitute our skeletal system. 
+
+The skeletal system is divisible into axial and appendicular. 
+
+Skull, vertebral column, ribs and sternum constitute the axial skeleton. 
+
+Limb bones and girdles form the appendicular skeleton. 
+
+Three types of joints are formed between bones or between bone and  cartilage – fibrous, cartilaginous and synovial. 
+
+Synovial joints allow considerable movements and therefore, play a significant role in locomotion.
+
+
+
+GOTO:top
 TAG:21-neural-control-and-coordination
 *21-neural-control-and-coordination*
 
+Structure of Neuron
+IMG:ncert-11-fig-21dot1.png
 
+Sagital Section of Human Brain
+IMG:ncert-11-fig-21dot4.png
+
+Parts of an Eye
+IMG:ncert-11-fig-21dot6.png
+
+Diagramatic view of Ear
+IMG:ncert-11-fig-21dot7.png
+
+
+
+*Summary*
+
+The neural system coordinates and integrates functions as well as metabolic and homeostatic activities of all the organs. 
+
+Neurons, the functional units of neural system are excitable cells due to a differential concentration gradient of ions across the membrane. 
+
+The electrical potential difference across the resting neural membrane is called the ‘resting potential’. 
+
+The nerve impulse is conducted along the axon membrane in the form of a wave of depolarisation and repolarisation. 
+
+A synapse is formed by the membranes of a pre-synaptic neuron and a post-synaptic neuron which may or may not be separated by a gap called  synaptic cleft. 
+
+Chemicals involved in the transmission of impulses at chemical synapses are called neurotransmitters.
+
+Human neural system consists of two parts : (i) central neural system (CNS) and (ii) the peripheral neural system. The CNS consists of the brain and spiral cord. 
+
+The brain can be divided into three major parts: 
+  (i) forebrain
+  (ii) midbrain and 
+  (iii) hindbrain. 
+
+The forebrain consists of cerebrum, *thalamus* and *hypothalamus*. 
+
+The cerebrum is longitudinally divided into two halves that are connected by the corpus callosum. 
+
+A very important part of the forebrain called hypothalamus controls the body temperature, eating and drinking. 
+
+Inner parts of cerebral hemispheres and a group of associated deep structures form a complex structure called limbic system which is concerned with olfaction, autonomic responses, regulation of sexual behaviour, expression of emotional reactions, and motivation. 
+
+The midbrain receives and integrates visual, tactile and auditory inputs. The hindbrain comprises pons, cerebellum and medulla.
+
+The cerebellum integrates information received from the semicircular canals of the ear and the auditory system. 
+
+The medulla contains centres, which control respiration, cardiovascular reflexes, and gastric secretions. 
+
+Pons consist of fibre tracts that interconnect different regions of the brain. 
+
+The entire process of involuntary response to a peripheral nervous stimulation is called reflex action.
+
+Information regarding changes in the environment is received by the CNS  through the sensory organs which are processed and analysed. 
+
+Signals are then sent for necessary adjustments. The wall of the human eye ball is composed of three layers. 
+
+The external layer is composed of cornea and sclera. Inside sclera is the middle layer, which is called the choroid. Retina, the innermost layer, contains two types of photoreceptor cells, namely rods and cones. The daylight (photopic) vision and colour vision are functions of cones and twilight (scotopic) vision is the function of the rods. 
+
+The light enters through cornea, the lens and the images of objects are formed on the retina.
+
+The ear can be divided into the outer ear, the middle ear and the inner ear. 
+
+The middle ear contains three ossicles called malleus, incus and stapes. 
+
+The fluid filled inner ear is called the labyrinth, and the coiled portion of the labyrinth is called cochlea. 
+
+The organ of corti is a structure which contains hair cells that act as auditory receptors and is located on the basilar membrane. 
+
+The vibrations produced in the ear drum are transmitted through the ear ossicles and oval window to the fluid-filled inner ear. 
+
+Nerve impulses are generated and transmitted by the afferent fibres to the auditory cortex of the brain. 
+
+The inner ear also contains a complex system located above the cochlea called vestibular apparatus. 
+
+It is influenced by gravity and movements, and helps us in maintaining balance of the body and posture.
+
+
+GOTO:top
 TAG:22-chemical-coordination-and-integration
 *22-chemical-coordination-and-integration*
+
+Location of Endorine Glands
+IMG:ncert-11-fig-22dot1.png
+
+Pituitary and its relationship with hypothalamus
+IMG:ncert-11-fig-22dot2.png
+
+*Summary*
+
+There are special chemicals which act as hormones and provide chemical  coordination, integration and regulation in the human body. 
+
+These hormones regulate metabolism, growth and development of our organs, the endocrine glands or certain cells. 
+
+The endocrine system is composed of hypothalamus, pituitary and pineal, thyroid, adrenal, pancreas, parathyroid, thymus and gonads (testis and ovary). In addition to these, some other organs, e.g., gastrointestinal tract, kidney, heart etc., also produce hormones. 
+
+The pituitary gland is divided into three major parts, which are called as  pars distalis, pars intermedia and pars nervosa. 
+
+Pars distalis produces six trophic hormones. Pars intermedia secretes  only one hormone, while pars nervosa (neurohypophysis) secretes two hormones.
+
+The pituitary hormones regulate the growth and development of somatic tissues and activities of peripheral endocrine glands. 
+
+Pineal gland secretes melatonin, which plays a very important role in the regulation of 24-hour (diurnal) rhythms of our body (e.g., rhythms of sleep and state of being awake, body temperature, etc.). 
+
+The thyroid gland hormones play an important role in the regulation of the basal metabolic rate, development and maturation of the central neural system, erythropoiesis, metabolism of carbohydrates, proteins and fats, menstrual cycle.
+
+Another thyroid hormone, i.e., thyrocalcitonin regulates calcium levels in our blood by decreasing it. 
+
+The parathyroid glands secrete parathyroid hormone (PTH) which increases the blood Ca2+ levels and plays a major role in calcium homeostasis. 
+
+The thymus gland secretes thymosins which play a major role in the differentiation of T-lymphocytes, which provide cell-mediated immunity. 
+
+In addition, thymosins also increase the production of antibodies to provide humoral immunity. 
+
+The adrenal gland is composed of the centrally located adrenal medulla and the outer adrenal cortex. 
+
+The adrenal medulla secretes epinephrine and norepinephrine. 
+
+These hormones increase alertness, pupilary dilation, piloerection, sweating, heart beat, strength of heart contraction, rate of respiration, glycogenolysis, lipolysis, proteolysis. The adrenal cortex secretes glucocorticoids and mineralocorticoids. 
+
+Glucocorticoids stimulate gluconeogenesis, lipolysis, proteolysis, erythropoiesis, cardio-vascular system, blood pressure, and glomerular filtration rate and inhibit inflammatory reactions by suppressing the immune response. 
+
+Mineralocorticoids regulate water and electrolyte contents of the body. The endocrine pancreas secretes glucagon and insulin. 
+
+Glucagon stimulates glycogenolysis and gluconeogenesis resulting in hyperglycemia. Insulin stimulates cellular glucose uptake and  utilisation, and glycogenesis resulting in hypoglycemia. 
+
+Insulin deficiency and/or insulin resistance result in a disease called diabetes mellitus.
+
+The testis secretes androgens, which stimulate the development, maturation and functions of the male accessory sex organs, appearance of the male secondary sex characters, spermatogenesis, male sexual behaviour, anabolic pathways and erythropoiesis. 
+
+The ovary secretes estrogen and progesterone. 
+
+Estrogen stimulates growth and development of female accessory sex organs and secondary sex characters. 
+
+Progesterone plays a major role in the maintenance of pregnancy as well as in mammary gland development and lactation. 
+
+The atrial wall of the heart produces atrial natriuretic factor which decreases the blood pressure. 
+
+Kidney produces erythropoietin which stimulates erythropoiesis. 
+
+The gastrointestinal tract secretes gastrin, secretin, cholecystokinin and gastric inhibitory peptide. 
+
+These hormones regulate the secretion of digestive juices and help in digestion.
