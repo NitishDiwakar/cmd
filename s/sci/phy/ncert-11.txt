@@ -3,3 +3,574 @@ Title : Physics - NCERT 11
 Tags  : #
 Descr : 
 ============================
+
+TAG:top
+GOTO:1-Units-And-Measurement
+GOTO:2-Motion-In-a-Strait-Line
+GOTO:3-Motion-In-a-Plane
+GOTO:4-Laws-Of-Motion
+GOTO:5-Work-Energy-and-Power
+GOTO:6-System-of-Particles-and-Rotational-Motion
+GOTO:7-Gravitation
+GOTO:8-Mechanical-Properties-of-Solids
+GOTO:9-Mechanical-Properties-of-Fluids
+GOTO:10-Thermal-Properties-of-Matter
+GOTO:11-Thermodynamics
+GOTO:12-Kinetic-Theory
+GOTO:13-Oscillations
+GOTO:14-Waves
+
+
+IMG:Greek-Alphabet.png
+
+IMG:Common-SI-Prefixes.png
+
+IMG:Some-Important-Constants.png
+
+IMG:Other-Useful-Constants.png
+
+IMG:SI-Derived-Units.png
+
+IMG:SI-Derived-Units-with-Special-Names.png
+
+IMG:SI-Derived-Units-more.png
+IMG:SI-Derived-Units-more-a.png
+
+IMG:Dimensional-Formula-a.png
+IMG:Dimensional-Formula-b.png
+IMG:Dimensional-Formula-c.png
+IMG:Dimensional-Formula-d.png
+IMG:Dimensional-Formula-e.png
+
+
+
+*Length*
+ 1 km = 0.6215 mi
+ 1mi = 1.609 km
+ 1m = 1.0936 yd = 3.281 ft = 39.37 in
+ 1 in = 2.54 cm
+ 1 ft = 12 in = 30.48 cm
+ 1 yd = 3ft = 91.44 cm
+ 1 lightyear = 1 ly = 9.461 x 1015m
+ 1 A ° = 0.1nm
+
+*Area*
+ 1 m^2 = 10^4 cm^2
+ 1 km^2 = 0.3861 mi^22 = 247.1 acres
+ 1 in^22 = 6.4516 cm^2
+ 1 ft^2 = 9.29 x 10^-2m^2
+ 1 m^2 = 10.76 ft^2
+ 1 acre = 43,560 ft^2
+ 1 mi^2= 460 acres = 2.590 km^2
+
+*Volume*
+ 1 m^3= 106cm^3
+ 1 L = 1000 cm^3 = 10^-3 m^3
+ 1 gal = 3.786 L
+ 1 gal = 4 qt = 8 pt = 128 oz = 231 in^3
+ 1 in^3 = 16.39 cm^3
+ 1 ft^3 = 1728 in^3 = 28.32 L = 2.832 × 10^4 cm^3
+
+*Speed*
+ 1 km h^–1 = 0.2778 m s^–1 = 0.6215 mi h^–1
+ 1 mi h^–1 = 0.4470 m s^–1 = 1.609 km h^–1
+ 1 mi h^–1 = 1.467 ft s^–1
+
+*Magnetic Field*
+ 1 G = 10^–4 T
+ 1 T = 1 Wb m^–2 = 10^4 G
+
+*Angle and Angular Speed*
+ π rad = 180°
+ 1 rad = 57.30°
+ 1° = 1.745 × 10^–2 rad
+ 1 rev min^–1 = 0.1047 rad s^–1
+ 1 rad s^–1 = 9.549 rev min^–1
+
+*Mass*
+ 1 kg = 1000 g
+ 1 tonne = 1000 kg = 1 Mg
+ 1 u = 1.6606 × 10^–27 kg
+ 1 kg = 6.022 × 10^26 u
+ 1 slug = 14.59 kg
+ 1 kg = 6.852 × 10^–2 slug
+ 1 u = 931.50 MeV/c^2
+
+*Density*
+ 1 g cm^–3 = 1000 kg m^–3 = 1 kg L–1
+
+*Force*
+ 1 N = 0.2248 lbf = 10^5 dyn
+ 1 lbf = 4.4482 N
+ 1 kgf = 2.2046 lbf
+
+*Time*
+ 1 h = 60 min = 3.6 ks
+ 1 d = 24 h = 1440 min = 86.4 ks
+ 1y = 365.24 d = 31.56 Ms
+
+*Pressure*
+ 1 Pa = 1 N m^–2
+ 1 bar = 100 kPa
+ 1 atm = 101.325 kPa = 1.01325 bar
+ 1atm =  14.7 lbf/in2 = 760 mm Hg
+         =  29.9 in Hg = 33.8 ft  H2O
+ 1 lbf in^–2 = 6.895 kPa
+ 1 torr = 1mm Hg = 133.32 Pa
+
+GOTO:top
+__________
+
+TAG:1-Units-And-Measurement
+*1-Units-And-Measurement*
+
+SI Base Quantities and Units
+IMG:ncert-11-tab-1dot1.png
+
+Some Units related for General Use
+IMG:ncert-11-tab-1dot2.png
+
+
+
+*Summary*
+
+1. Physics is a quantitative science, based on measurement of physical quantities.  Certain physical quantities have been chosen as fundamental or base quantities (such as length, mass, time, electric current, thermodynamic temperature, amount of substance, and luminous intensity).
+
+2. Each base quantity is defined in terms of a certain basic, arbitrarily chosen but properly standardised reference standard called unit (such as metre, kilogram, second, ampere, kelvin, mole and candela).  The units for the fundamental or base quantities are called fundamental or base units.
+
+3. Other physical quantities, derived from the base quantities, can be expressed as a combination of the base units and are called derived units.  A complete set of units, both fundamental and derived, is called a system of units.
+
+4. The International System of Units (SI) based on seven base units is at present internationally accepted unit system and is widely used throughout the world.
+
+5. The SI units are used in all physical measurements, for both the base quantities and the derived quantities obtained from them.  Certain derived units are expressed by means of SI units with special names (such as joule, newton, watt, etc).
+
+6. The SI units have well defined and internationally accepted unit symbols (such as m for metre, kg for kilogram, s for second, A for ampere, N for newton etc.).
+
+7. Physical measurements are usually expressed for small and large quantities in scientific notation, with powers of 10.  Scientific notation and the prefixes are used to simplify measurement notation and numerical computation, giving indication to the precision of the numbers.
+
+8. Certain general rules and guidelines must be followed for using notations for physical quantities and standard symbols for SI units, some other units and SI prefixes for expressing properly the physical quantities and measurements.
+
+9. In computing any physical quantity, the units for derived quantities involved in the relationship(s) are treated as though they were algebraic quantities till the desired units are obtained.
+
+10. In measured and computed quantities proper significant figures only should be retained. Rules for determining the number of significant figures, carrying out arithmetic operations with them, and ‘rounding off ‘ the uncertain digits must be followed.
+
+11. The dimensions of base quantities and combination of these dimensions describe the nature of physical quantities. Dimensional analysis can be used to check the dimensional consistency of equations, deducing relations among the physical quantities, etc. A dimensionally consistent equation need not be actually an exact (correct) equation, but a dimensionally wrong or inconsistent equation must be wrong.
+
+
+GOTO:top
+TAG:2-Motion-In-a-Strait-Line
+*2-Motion-In-a-Strait-Line*
+
+
+*Summary*
+
+1. The origin and the positive direction of an axis are a matter of choice. You should first specify this choice before you assign signs to quantities like displacement, velocity and acceleration.
+
+2. If a particle is speeding up, acceleration is in the direction of velocity; if its speed is decreasing, acceleration is in the direction opposite to that of the velocity.  This statement is independent of the choice of the origin and the axis.
+
+3. The sign of acceleration does not tell us whether the particle’s speed is increasing or decreasing.  The sign of acceleration (as mentioned in point 3) depends on the choice of the positive direction of the axis.  For example, if the vertically upward direction is chosen to be the positive direction of the axis, the acceleration due to gravity is negative.  If a particle is falling under gravity, this acceleration, though negative, results in increase in speed.  For a particle thrown upward, the same negative acceleration (of gravity) results in decrease in speed.
+
+
+4. The zero velocity of a particle at any instant does not necessarily imply zero acceleration at that instant.  A particle may be momentarily at rest and yet have non-zero acceleration. For example, a particle thrown up has zero velocity at its uppermost point but the acceleration at that instant continues to be the acceleration due to gravity.
+
+5. In the kinematic equations of motion [Eq. (2.9)], the various quantities are algebraic, i.e. they may be positive or negative.  The equations are applicable in all situations (for one dimensional motion with constant acceleration) provided the values of different quantities are substituted in the equations with proper signs.
+
+6. The definitions of instantaneous velocity and acceleration (Eqs. (2.1) and (2.3)) are exact and are always correct while the kinematic equations (Eq. (2.9)) are true only for motion in which the magnitude and the direction of acceleration are constant during the course of motion.
+
+
+GOTO:top
+TAG:3-Motion-In-a-Plane
+*3-Motion-In-a-Plane*
+
+
+*Summary*
+
+1. Scalar quantities are quantities with magnitudes only.  Examples are distance, speed, mass and  temperature.
+
+2. Vector quantities are quantities with magnitude and direction both.  Examples are displacement, velocity and  acceleration. They obey special rules of vector algebra.
+
+3. A vector A multiplied by a real number λ  is also a vector, whose magnitude is λ times the magnitude of the vector A and whose direction is the same or opposite depending upon whether λ is positive or negative. 
+
+4. Two vectors A and B may be added graphically using head-to-tail method or parallelogram method.
+
+5. Vector addition is commutative :
+   A + B = B + A
+   It also obeys the associative law 
+   (A + B) + C = A + (B + C)
+
+6. A null or zero vector is a vector with zero magnitude.  Since the magnitude is zero, we don’t have to specify its direction.  It has the properties :
+    A + 0 = A
+    λ0 = 0
+    0 A = 0
+
+7. The subtraction of vector B from A is defined as the sum of A and –B :
+   A – B = A+ (–B)
+
+8. A vector A can be resolved into component along two given vectors a and b lying in the same plane :
+    A = λ a + µ b
+    where λ and µ  are real numbers.
+
+
+---Points to Ponder---
+1. The path length traversed by an object between two points is, in general, not the same as the magnitude of displacement. The displacement depends only on the end points; the path length (as the name implies) depends on the actual path. The two quantities are equal only if the object does not change its direction during the course of motion. In all other cases, the path length is greater than the magnitude of displacement.
+ 
+2. In view of point 1 above, the average speed of an object is greater than or equal to the magnitude of the average velocity over a given time interval. The two are equal only if the path length is equal to the magnitude of displacement.
+
+3. The vector equations (3.33a) and (3.34a) do not involve any choice of axes. Of course, you can always resolve them along any two independent axes.
+
+4. The kinematic equations for uniform acceleration do not apply to the case of uniform circular motion since in this case the magnitude of acceleration is constant but its direction is changing.
+
+5. An object subjected to two velocities v1 and v2 has a resultant velocity v = v1 + v2. Take care to distinguish it from velocity of object 1 relative to velocity of object 2 : v12 = v1 − v2. Here v1 and v2 are velocities with reference to some common reference frame.
+
+6. The resultant acceleration of an object in circular motion is towards the centre only if the speed is constant.
+
+7. The shape of the trajectory of the motion of an object is not determined by the acceleration alone but also depends on the initial conditions of motion ( initial position and initial velocity). For example, the trajectory of an object moving under the same acceleration due to gravity can be a straight line or a parabola depending on the initial conditions.
+
+
+
+GOTO:top
+TAG:4-Laws-Of-Motion
+*4-Laws-Of-Motion*
+
+
+*Points to Ponder*
+
+1. Force is not always in the direction of motion.  Depending on the situation, F may be along v, opposite to v, normal to v or may make some other angle with v.  In every case, it is parallel to acceleration.
+
+2. If v = 0 at an instant, i.e. if a body is momentarily at rest, it does not mean that force or acceleration are necessarily zero at that instant.  For example, when a ball thrown upward reaches its maximum height, v = 0 but the force continues to be its weight mg and the acceleration is not zero but g.
+
+3. Force on a body at a given time is determined by the situation at the location of the body at that time.  Force is not ‘carried’ by the body from its earlier history of motion.  The moment after a stone is released out of an accelerated train, there is no horizontal force (or acceleration) on the stone, if the effects of the surrounding air are neglected.  The stone then has only the vertical force of gravity.
+
+4. In the second law of motion F = m a, F stands for the net force due to all material agencies external to the body.  a is the effect of the force.  ma should not be regarded as yet another force, besides F.
+
+5. The centripetal force should not be regarded as yet another kind of force. It is simply a name given to the force that provides inward radial acceleration to a body in circular motion. We should always look for some material force like tension, gravitational force, electrical force, friction, etc as the centripetal force in any circular motion.
+
+6. Static friction is a self-adjusting force up to its limit µs N (fs ≤ µs
+ N).  Do not put fs = µs N  without being sure that the maximum value of static friction is coming into play.
+
+7. The familiar equation mg = R for a body on a table is true only if the body is in equilibrium.  The two forces mg and R can be different (e.g. a body in an accelerated lift). The equality of mg and R has no connection with the third law.
+
+8. The terms ‘action’ and ‘reaction’ in the third Law of Motion simply stand for simultaneous mutual forces between a pair of bodies. Unlike their meaning in ordinary language, action does not precede or cause reaction.  Action and reaction act on different bodies.
+
+9. The different terms like ‘friction’, ‘normal reaction’ ‘tension’, ‘air resistance’, ‘viscous drag’, ‘thrust’, ‘buoyancy’, ‘weight’, ‘centripetal force’ all stand for ‘force’ in different contexts.  For clarity, every force and its equivalent terms encountered in mechanics should be reduced to the phrase ‘force on A by B’.
+
+10. For applying the second law of motion, there is no conceptual distinction between inanimate and animate objects.  An animate object such as a human also requires an external  force to accelerate.  For example, without the external force of friction, we cannot walk on the ground.
+
+11. The objective concept of force in physics should not be confused with the subjective concept of the ‘feeling of force’.  On a merry-go-around, all parts of our body are subject to an  inward force,  but we have a feeling of being pushed outward – the direction of impending motion.
+
+
+
+GOTO:top
+TAG:5-Work-Energy-and-Power
+*5-Work-Energy-and-Power*
+
+*Points to Ponder*
+
+1. The phrase ‘calculate the work done’ is incomplete. We should refer (or imply clearly by context) to the work done by a specific force or a group of forces on a given  body over a certain displacement.
+
+2. Work done is a scalar quantity. It can be positive or negative unlike mass and kinetic energy which are positive scalar quantities. The work done by the friction or viscous force on a moving body is negative.
+
+3. For two bodies, the sum of the mutual forces exerted between them is zero from Newton’s Third Law,
+  F(12)  +  F(21)  =  0
+ But the sum of the work done by the two forces need not always cancel, i.e. 
+  W(12)  + W(21)  ≠  0
+ However, it may sometimes be true.
+
+4. The work done by a force can be calculated sometimes even if the exact nature of the force is not known. This is clear from Example 5.2 where the WE theorem is used in such a situation.
+
+5. The WE theorem is not independent of Newton’s Second Law. The WE theorem may be viewed as a scalar form of the Second Law. The principle of conservation of mechanical energy may be viewed as a consequence of the  WE theorem for conservative forces.
+
+6. The WE theorem holds in all inertial frames. It can also be extended to non inertial frames provided we include the pseudoforces in the calculation of the net force acting on the body under consideration.
+
+7. The potential energy of a body subjected to a conservative force is always undetermined upto a constant. For example, the point where the potential energy is zero is a matter of choice. For the gravitational  potential energy mgh, the zero of the potential energy is chosen to be the ground. For the spring potential energy kx2/2 , the zero of the potential energy is the equilibrium position of the oscillating mass.
+
+8. Every force encountered in mechanics does not have an associated potential energy. For example, work done by friction over a closed path is not zero and no potential energy can be associated with friction.
+
+9. During a collision : (a) the total linear momentum is conserved at each instant of the collision ; (b) the kinetic energy conservation (even if the collision is  elastic) applies after the collision is over and does not hold at every instant of the collision. In fact the two colliding objects are deformed and may be momentarily at rest with respect to each other.
+
+
+
+GOTO:top
+TAG:6-System-of-Particles-and-Rotational-Motion
+*6-System-of-Particles-and-Rotational-Motion*
+
+*Summary*
+
+1. Ideally, a rigid body is one for which the distances between different particles of the body do not change, even though there are forces on them.
+
+2. A rigid body fixed at one point or along a line can have only rotational motion. A rigid body not fixed in some way can have either pure translational motion or a combination of translational and rotational motions.
+
+3. In rotation about a fixed axis, every particle of the rigid body moves in a circle which lies in a plane perpendicular to the axis and has its centre on the axis. Every Point in the rotating rigid body has the same angular velocity at any instant of time.
+
+4. In pure translation, every particle of the body moves with the same velocity at any instant of time.
+
+5. Angular velocity is a vector. Its magnitude is ω = dθ/dt and it is directed along the axis of rotation. For rotation about a fixed axis, this vector ω ωω has a fixed direction.
+
+6. The vector or cross product of two vector a and b is a vector written as a×b. The magnitude of this vector is absinθ  and its direction is given by the right handed screw or the right hand rule.
+
+7. The linear velocity of a particle of a rigid body rotating about a fixed axis is given by v = ω ωω × r, where r is the position vector of the particle with respect to an origin along the fixed axis. The relation applies even to more general rotation of a rigid body with one point fixed. In that case r is the position vector of the particle with respect to the fixed point taken as the origin.
+
+
+*Points to Ponder*
+
+1. To determine the motion of the centre of mass of a system no knowledge of internal forces of the system is required. For this purpose we need to know only the external forces on the body.
+
+2. Separating the motion of a system of particles as the motion of the centre of mass, (i.e., the translational motion of the system) and motion about (i.e. relative to) the centre of mass of the system is a useful technique in dynamics of a system of particles. One example of this technique is separating the kinetic energy of a system of particles K as the kinetic energy of the system about its centre of mass K′ and the kinetic energy of the centre of mass MV2/2,   
+   K = K′ + MV2/2
+
+3. Newton’s Second Law for finite sized bodies (or systems of particles) is based in  Newton’s Second Law and also Newton’s Third Law for particles.
+
+4. To establish that the time rate of change of the total angular momentum of a system of particles is the total external torque in the system, we need not only Newton’s second law for particles, but also Newton’s third law with the provision that the forces between any two particles act along the line joining the particles.
+
+5. The vanishing of the total external force and the vanishing of the total external torque are independent conditions. We can have one without the other. In a couple, total external force is zero, but total torque is non-zero.
+
+6. The total torque on a  system is independent of the origin if the total external force is zero.
+
+7. The centre of gravity of a body coincides with its centre of mass only if the gravitational field does not vary from one part of the body to the other.
+
+8. The angular momentum L and the angular velocity ω ωω are not necessarily parallel vectors. However, for the simpler situations discussed in this chapter when rotation is about a fixed axis which is an axis of symmetry of the rigid body, the relation L = Iω ωω holds good, where I is the moment of the inertia of the body about the rotation axis.
+
+
+
+GOTO:top
+TAG:7-Gravitation
+*7-Gravitation*
+
+*Points to Ponder*
+
+1. In considering motion of an object under the gravitational influence of another object the following quantities are conserved:
+ (a)  Angular momentum
+ (b)  Total mechanical energy
+ Linear momentum is not conserved
+
+2. Angular momentum conservation leads to Kepler’s second law. However, it is not special to the inverse square law of gravitation. It holds for any central force.
+
+3. In Kepler’s third law (see Eq. (7.1) and  T2 = KS  R3. The constant KS is the same for all planets in circular orbits. This applies to satellites orbiting the Earth [(Eq. (7.38)].
+
+4. An astronaut experiences weightlessness in a space satellite. This is not because the gravitational force is small at that location in space. It is because both the astronaut and the satellite are in “free fall” towards the Earth.
+
+
+
+GOTO:top
+TAG:8-Mechanical-Properties-of-Solids
+*8-Mechanical-Properties-of-Solids*
+
+
+*Summary*
+
+1. Stress is the restoring force per unit area and strain is the fractional change in dimension. In general there are three types of stresses (a) tensile stress — longitudinal stress (associated with stretching) or compressive stress (associated with compression),
+ (b) shearing stress, and (c) hydraulic stress.
+
+2. For small deformations, stress is directly proportional to the strain for many materials. This is known as Hooke’s law. The constant of proportionality is called modulus of elasticity. Three elastic moduli viz., Young’s modulus, shear modulus and bulk modulus are used to describe the elastic behaviour of objects as they respond to deforming forces that act on them. 
+A class of solids called elastomers does not obey Hooke’s law.
+
+3. When an object is under tension or compression, the Hooke’s law takes the form
+  F/A  = Y∆L/L
+   where  ∆L/L is the tensile or compressive strain of the object, F is the magnitude of the applied force causing the strain, A is the cross-sectional area over which F is applied
+ (perpendicular to A) and Y is the Young’s modulus for the object. The stress is F/A.
+
+4.  A pair of forces when applied parallel to the upper and lower faces, the solid deforms so that the upper face moves sideways with respect to the lower. The horizontal displacement ∆L of the upper face is perpendicular to the vertical height L. This type of deformation is called shear and the corresponding stress is the shearing stress. This type of stress is possible only in solids.
+
+ In this kind of deformation the Hooke’s law takes the form
+ F/A = G × ∆L/L
+ where ∆L is the displacement of one end of object in the direction of the applied force F, and G is the shear modulus.
+
+5. When an object undergoes hydraulic compression due to a stress exerted by a surrounding fluid, the Hooke’s law takes the form
+  p = B (∆V/V),
+  where p is the pressure (hydraulic stress) on the object due to the fluid, ∆V/V  (the volume strain) is the absolute fractional change in the object’s volume due to that pressure and B is the bulk modulus of the object.
+
+
+*Points to Ponder*
+
+1. In the case of a wire, suspended from celing and stretched under the action of a weight (F) suspended from its other end, the force exerted by the ceiling on it is  equal and opposite to the weight. However, the tension at any cross-section A of the wire is just F and not 2F. Hence, tensile stress which is equal to the tension per unit area is equal to F/A.
+
+2. Hooke’s law is valid only in the linear part of stress-strain curve.
+
+3. The Young’s modulus and shear modulus are relevant only for solids since only solids have lengths and shapes.
+
+4. Bulk modulus is relevant for solids, liquid and gases.  It refers to the change in volume when every part of the body is under the uniform stress so that the shape of the body remains unchanged.
+
+5. Metals have larger values of Young’s modulus than alloys and elastomers. A material with large value of Young’s modulus requires a large force to produce small changes in its length.
+
+6. In daily life, we feel that a material which stretches more is more elastic, but it a is misnomer. In fact material which stretches to a lesser extent for a given load is considered to be more elastic.
+
+7. In general, a deforming force in one direction can produce strains in other directions also. The proportionality between stress and strain in such situations cannot be described by just one elastic constant.  For example, for a wire under longitudinal strain, the lateral dimensions (radius of cross section) will undergo a small change, which is described by another elastic constant of the material (called Poisson ratio).
+
+8. Stress is not a vector quantity since, unlike a force, the stress cannot be assigned a specific direction. Force acting on the portion of a body on a specified side of a section has a definite direction.
+
+
+
+GOTO:top
+TAG:9-Mechanical-Properties-of-Fluids
+*9-Mechanical-Properties-of-Fluids*
+
+Densities of some common fluids
+IMG:ncert-11-tab-9dot1.png
+
+Viscosities of some common fluids
+IMG:ncert-11-tab-9dot2.png
+
+Surface Tensions of Some Liquids
+IMG:ncert-11-tab-9dot3.png
+
+
+
+*Points to Ponder*
+
+1. Pressure is a scalar quantity. The definition of the pressure as “force per unit area” may give one false impression that pressure is a vector. The “force” in the numerator of the definition is the component of the force normal to the area upon which it is impressed. While describing fluids as a concept, shift from particle and rigid body mechanics is required. We are concerned with properties that vary from point to point in the fluid.
+
+2. One should not think of pressure of a fluid as being exerted only on a solid like the walls of a container or a piece of solid matter immersed in the fluid. Pressure exists at all points in a fluid. An element of a fluid (such as the one shown in Fig. 9.4) is in equilibrium because the pressures exerted on the various faces are equal.
+
+3. The expression for pressure
+   P = Pa + ρgh
+   holds true if fluid is incompressible. Practically speaking it holds for liquids, which are largely incompressible and hence  is a constant with height.
+
+4. The gauge pressure is the difference of the actual pressure and the atmospheric pressure.
+  P – Pa = Pg
+
+Many pressure-measuring devices measure the gauge pressure. These include the tyre pressure gauge and the blood pressure gauge (sphygmomanometer).
+
+5. A streamline is a map of fluid flow. In a steady flow two streamlines do not intersect as it means that the fluid particle will have two possible velocities at the point.
+
+6. Bernoulli’s principle does not hold in presence of viscous drag on the fluid. The work done by this dissipative viscous force must be taken into account in this case, and P2 [Fig. 9.9] will be lower than the value given by Eq. (9.12).
+ 
+7. As the temperature rises the atoms of the liquid become more mobile and the coefficient of viscosity, η  falls. In a gas the temperature rise increases the random motion of atoms and η  increases.
+
+8. Surface tension arises due to excess potential energy of the molecules on the surface in comparison to their potential energy in the interior. Such a surface energy is present at the interface separating two substances at least one of which is a fluid. It is not the property of a single fluid alone. 
+
+
+GOTO:top
+TAG:10-Thermal-Properties-of-Matter
+*10-Thermal-Properties-of-Matter*
+
+Molar Specific Heat
+IMG:ncert-11-tab-10dot4.png
+
+Thermal Conductivity
+IMG:ncert-11-Thermal-Conductivity.png
+
+*Summary*
+
+Heat is a form of energy that flows between a body and its surrounding medium by virtue of temperature difference between them. The degree of hotness of the body is quantitatively represented by temperature.
+
+A temperature-measuring device (thermometer) makes use of some measurable property (called thermometric property) that changes with temperature. Different thermometers lead to different temperature scales. To construct a temperature scale, two fixed points are chosen and assigned some arbitrary values of temperature. The two numbers fix the origin of the scale and the size of its unit.
+
+
+*Points to Ponder*
+
+1. The relation connecting Kelvin temperature (T ) and the Celsius temperature tc 
+   T  =  tc + 273.15
+ and the assignment T = 273.16 K for the triple point of water are exact relations (by choice). With this choice, the Celsius temperature of the melting point of water and boiling point of water (both at 1 atm pressure) are very close to, but not exactly equal to 0 °C and 100 °C respectively.  In the original Celsius scale, these latter fixed points were exactly at 0 °C and 100 °C (by choice), but now the triple point of water is the preferred choice for the fixed point, because it has a unique temperature.
+
+
+2. A liquid in equilibrium with vapour has the same pressure and temperature throughout the system; the two phases in equilibrium differ in their molar volume (i.e. density). This is true for a system with any number of phases in equilibrium.
+
+3. Heat transfer always involves temperature difference between two systems or two parts of the same system. Any energy transfer that does not involve temperature difference in some way is not heat.
+
+4. Convection involves flow of matter within a fluid due to unequal temperatures of its parts. A hot bar placed under a running tap loses heat by conduction between the surface of the bar and water and not by convection within water.
+
+
+
+GOTO:top
+TAG:11-Thermodynamics
+*11-Thermodynamics*
+
+Some Special Thermodynamic processes
+IMG:ncert-11-tab-11dot2.png
+
+*Summary*
+
+1. The zeroth law of thermodynamics states that ‘two systems in thermal equilibrium with a third system separately are in thermal equilibrium with each other’.  The Zeroth Law leads to the concept of temperature.
+
+2. Internal energy of a system is the sum of kinetic energies and potential energies of the molecular constituents of the system. It does not include the over-all kinetic energy of the system. Heat and work are two modes of energy transfer to the system.  Heat is the energy transfer arising due to temperature difference between the system and the surroundings. Work is energy transfer brought about by other means, such as moving the piston of a cylinder containing the gas, by raising or lowering some weight connected to it.
+
+3. The first law of thermodynamics is the general law of conservation of energy applied to any system in which energy transfer from or to the surroundings (through heat and work) is taken into account.  It states that
+    ∆Q  = ∆U  +  ∆W
+   where ∆Q is the heat supplied to the system, ∆W is the work done by the system and ∆U is the change in internal energy of the system.
+
+
+*Points to Ponder*
+
+1. Temperature of a body is related to its average internal energy, not to the kinetic energy of motion of its centre of mass. A bullet fired from a gun is not at a higher temperature because of its high speed.
+
+2. Equilibrium in thermodynamics refers to the situation when macroscopic variables describing the thermodynamic state of a system do not depend on time.  Equilibrium of a system in mechanics means the net external force and torque on the system are zero.
+
+3. In a state of thermodynamic equilibrium, the microscopic constituents of a system are not in equilibrium (in the sense of mechanics).
+
+4. Heat capacity, in general, depends on the process the system goes through when heat is supplied.
+
+5. In isothermal quasi-static processes, heat is absorbed or given out by the system even though at every stage the gas has the same temperature as that of the surrounding reservoir.  This is possible because of the infinitesimal difference in temperature between the system and the reservoir.
+
+
+
+GOTO:top
+TAG:12-Kinetic-Theory
+*12-Kinetic-Theory*
+
+*Points to Ponder*
+
+1. Pressure of a fluid is not only exerted on the wall. Pressure exists everywhere in a fluid. Any layer of gas inside the volume of a container is in equilibrium because the pressure is the same on both sides of the layer.
+
+2. We should not have an exaggerated idea of the intermolecular distance in a gas. At ordinary pressures and temperatures, this is only 10 times or so the interatomic distance in solids and liquids. What is different is the mean free path which in a gas is 100 times the interatomic distance and 1000 times the size of the molecule.
+
+3. The law of equipartition of energy is stated thus: the energy for each degree of freedom in thermal equilibrium is ½ k (B) T. Each quadratic term in the total energy expression of a molecule is to be counted as a degree of freedom. Thus, each vibrational mode gives 2 (not 1) degrees of freedom (kinetic and potential energy modes), corresponding to the energy    
+   2 × ½ k(B) T = k(B)T.
+
+4. Molecules of air in a room do not all fall and settle on the ground (due to gravity) because of their high speeds and incessant collisions. In equilibrium, there is a very slight increase in density at lower heights (like in the atmosphere). The effect is small since the potential energy (mgh) for ordinary heights is much less than the average kinetic energy ½ mv2 of the molecules.
+
+5. < v^2 >  is not always equal to ( < v >)2. The average of a squared quantity is not necessarily the square of the average. Can you find examples for this statement.
+
+
+
+GOTO:top
+TAG:13-Oscillations
+*13-Oscillations*
+
+*Points to Ponder*
+ 
+1. The period T is the least time after which motion repeats itself.  Thus, motion repeats itself after nT where n is an integer.
+
+2. Every periodic motion is not simple harmonic motion. Only that periodic motion governed by the force law F = – k x is simple harmonic.
+
+3. Circular motion can arise due to an inverse-square law force (as in planetary motion) as well as due to simple harmonic force in two dimensions equal to: –mω2r.  In the latter case, the phases of motion, in two perpendicular directions (x and y) must differ by π/2. Thus, for example, a particle subject to a force  –mω2r with initial position (0, A) and velocity (ωA, 0) will move uniformly in a circle of radius A. 
+
+4. For linear simple harmonic motion with a given ω, two initial conditions are necessary and sufficient to determine the motion completely.  The  initial  conditions may be 
+  (i) initial position and initial velocity or 
+  (ii) amplitude and phase or 
+  (iii) energy and phase.
+
+5. From point 4 above, given  amplitude or energy, phase of motion is determined by the initial position or initial velocity.
+
+6. A combination of two simple harmonic motions with arbitrary amplitudes and phases is not necessarily periodic.  It is periodic only if frequency of one motion is an integral multiple of the other’s frequency.  However, a periodic motion can always be expressed as a sum of infinite number of harmonic motions with appropriate amplitudes. 
+
+7. The period of SHM does not depend on amplitude or energy or the phase constant. Contrast this with the periods of planetary orbits under gravitation (Kepler’s third law).
+
+8. The motion of a simple pendulum is simple harmonic for small angular displacement. 
+
+9. For motion of a particle to be simple harmonic, its displacement x must be expressible in either of the following forms :
+ x = A cos ωt  +  B sin ωt
+ x = A cos (ωt + α ), x =  B sin (ωt + β )
+
+ The three forms are completely equivalent (any one can be expressed in terms of any other two forms).
+
+ Thus, damped simple harmonic motion is not strictly simple harmonic. It is approximately so only for time intervals much less than 2m/b where b is the damping constant.
+
+
+
+GOTO:top
+TAG:14-Waves
+*14-Waves*
+
+*Points to Ponder*
+
+1. A wave is not motion of matter as a whole in a medium.  A wind is different from the sound wave in air.  The former involves motion of air from one place to the other.  The latter involves compressions and rarefactions of layers of air.
+
+2. In a wave, energy and not the matter is transferred from one point to the other. 
+
+3. In a mechanical wave, energy transfer takes place because of the coupling through elastic forces between neighbouring oscillating parts of the medium.
+
+4. Transverse waves can propagate only in medium with shear modulus of elasticity, Longitudinal waves need bulk modulus of elasticity and are therefore, possible in all media, solids, liquids and gases.
+
+5. In a harmonic progressive wave of a given frequency, all particles have the same amplitude but different phases at a given instant of time.  In a stationary wave, all particles between two nodes have the same phase at a given instant but have different amplitudes.
+
+6. Relative to an observer at rest in a medium the speed of a mechanical wave in that medium (v) depends only on elastic and other properties (such as mass density) of the medium. It does not depend on the velocity of the source.
