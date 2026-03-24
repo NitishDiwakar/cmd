@@ -34,69 +34,688 @@ GOTO:16-environmental-issues
 
 
 UNIT VI : REPRODUCTION
+GOTO:top
 TAG:1-reproduction-in-organisms
 *1-reproduction-in-organisms*
 
+*Summary*
 
+Reproduction enables a species to live generation after generation.
+
+Reproduction in organisms can be broadly classified into asexual and  sexual reproduction. 
+
+Asexual reproduction does not involve the fusion of gametes. It is common in organisms that have a relatively simple organisation such as the fungi, algae and some invertebrate animals.
+
+The offspring formed by asexual reproduction are identical and can be  referred to as clones. 
+
+Zoospores, conidia, etc., are the most common asexual structures formed in several algae and fungi. 
+
+Budding and gemmule formation are the common asexual methods seen in  lower animals. 
+
+Prokaryotes and unicellular organisms reproduce asexually by cell division or binary fission of the parent cell. 
+
+In several aquatic and terrestrial species of angiosperms, structures such as runners, rhizomes, suckers, tubers, offsets, etc., are capable of giving rise to new offspring. 
+
+This method of asexual reproduction is generally referred to as vegetative propagation. 
+
+Sexual reproduction involves the formation and fusion of gametes. 
+
+It is a complex and slower process as compared to asexual reproduction.
+
+Most of the higher animals reproduce almost entirely by sexual method.
+
+Events of sexual reproduction may be categorised into pre-fertilisation,  fertilisation and post-fertilisation events.  
+
+Pre-fertilisation events include gametogenesis and gamete transfer while post-fertilisation events include the formation of zygote and embryogenesis.
+
+Organisms may be bisexual or unisexual.  
+
+Sexuality in plants is varied, particularly in angiosperms, due to the production of diverse types of flowers. 
+
+Plants are defined as monoecious and dioecious. 
+
+Flowers may be bisexual or unisexual flowers. 
+
+Gametes are haploid in nature and usually a direct product of meiotic  division except in haploid organisms where gametes are formed by mitosis.
+
+Transfer of male gametes is an essential event in sexual reproduction. It is relatively easy in bisexual organisms. In unisexual animals it occurs by copulation or simultaneous release. In angiosperms, a special process  called pollination ensures transfer of pollen grains which carry the pollen grains to the stigma.
+
+Syngamy (fertilisation) occurs between the male and female gametes.
+
+Syngamy may occur either externally, outside the body of organisms or  internally, inside the body. 
+
+Syngamy leads to formation of a specialised cell called zygote.
+
+The process of development of embryo from the zygote is called  embryogenesis.  
+
+In animals, the zygote starts developing soon after its formation. Animals may be either oviparous or viviparous.  
+
+Embryonal protection and care are better in viviparous organisms.
+
+In flowering plants, after fertilisation, ovary develops into fruit and  ovules mature into seeds. Inside the mature seed is the progenitor of the next generation, the embryo.
+
+
+GOTO:top
 TAG:2-sexual-reproduction-in-flowering-plants
 *2-sexual-reproduction-in-flowering-plants*
 
+*Summary*
 
+Flowers are the seat of sexual reproduction in angiosperms.  In the flower, androecium consisting of stamens represents the male reproductive organs and gynoecium consisting of pistils represents the female reproductive organs.
+
+A typical anther is bilobed, dithecous and tetrasporangiate.  Pollen  grains develop inside the microsporangia.  Four wall layers, the epidermis, endothecium, middle layers and the tapetum surround the microsporangium. 
+
+Cells of the  sporogenous tissue lying in the centre of the microsporangium, undergo meiosis (microsporogenesis) to form tetrads of microspores.  Individual microspores mature into pollen grains.
+
+Pollen grains represents the male gametophytic generation.  
+
+The pollen grains have a two-layered wall, the outer exine and inner intine.
+
+The exine is made up of sporopollenin and has germ pores.  
+
+Pollen grains  may have two cells (a vegetative cell and generative cell) or three cells (a vegetative cell and two male gametes) at the time of shedding.
+
+The pistil has three parts – the stigma, style and the ovary.  
+
+Ovules are present in the ovary. The ovules have a stalk called funicle, protective integument(s), and an opening called micropyle. The central tissue is the nucellus in which the archesporium differentiates. 
+
+A cell of the archesporium, the megaspore mother cell divides meiotically and one of the megaspores forms the embryo sac (the female gametophyte). The mature embryo sac is 7-celled and 8-nucleate.  
+
+At the micropylar end is  the egg apparatus consisting of two synergids and an egg cell.  At the chalazal end are three antipodals.  At the centre is a large central cell with two polar nuclei.
+
+Pollination is the mechanism to transfer pollen grains from the anther to the stigma.  Pollinating agents are either abiotic (wind and water) or biotic (animals).
+
+Pollen-pistil interaction involves all events from the landing of pollen  grains on the stigma until the pollen tube enters the embryo sac (when the pollen is compatible) or pollen inhibition (when the pollen is  incompatible).  
+
+Following compatible pollination, pollen grain germinates on the stigma and the resulting  pollen tube grow through the style, enter the ovules and finally discharges two male gametes in one of the synergids.  
+
+Angiosperms exhibit double fertilisation because two fusion events occur in each embryo sac, namely syngamy and triple fusion. 
+
+The products of these fusions are the diploid zygote and the triploid  primary endosperm nucleus (in the primary endosperm cell). 
+
+Zygote develops into the embryo and the primary endosperm cell forms the endosperm tissue. 
+
+Formation of endosperm always precedes development of the embryo.
+
+The developing embryo passes through different stages such as the proembryo, globular and heart-shaped stages before maturation.
+
+Mature dicotyledonous embryo has two cotyledons and an embryonal axis with epicotyl and hypocotyl.  Embryos of monocotyledons have a single cotyledon.  
+
+After fertilisation, ovary develops into fruit and ovules develop into seeds. 
+
+A phenomenon called apomixis is found in some angiosperms, particularly in grasses. It results in the formation of seeds without fertilisation.  
+
+Apomicts have several advantages in horticulture and agriculture.
+
+Some angiosperms produce more than one embryo in their seed. This phenomenon is called polyembryony.
+
+
+GOTO:top
 TAG:3-human-reproduction
 *3-human-reproduction*
 
+*Summary*
 
+Humans are sexually reproducing and viviparous. The male reproductive system is composed of a pair of testes, the male sex accessory ducts and the accessory glands and external genitalia. 
+
+Each testis has about 250 compartments called testicular lobules, and each
+ lobule contains one to three highly coiled seminiferous tubules. 
+
+Each seminiferous tubule is lined inside by spermatogonia and Sertoli cells.
+
+The spermatogonia undergo meiotic divisions leading to sperm formation,  while Sertoli cells provide nutrition to the dividing germ cells. 
+
+The Leydig cells outside the seminiferous tubules, synthesise and secrete testicular hormones called androgens. The male external genitalia is called penis.
+
+The female reproductive system consists of a pair of ovaries, a pair  of oviducts, a uterus, a vagina, external genitalia, and a pair of mammary glands. 
+
+The ovaries produce the female gamete (ovum) and some steroid hormones (ovarian hormones). Ovarian follicles in different stages of development are embedded in the stroma. 
+
+The oviducts, uterus and vagina are female accessory ducts. The uterus has three layers namely perimetrium, myometrium and endometrium. 
+
+The female external genitalia includes mons pubis, labia majora, labia minora, hymen and clitoris. 
+
+The mammary glands are one of the female  secondary sexual characteristics. 
+
+Spermatogenesis results in the formation of sperms that are transported by the male sex accessory ducts. 
+
+A normal human sperm is composed of a head, neck, a middle piece and tail. 
+
+The process of formation of mature female gametes is called oogenesis. 
+
+The reproductive cycle of female primates is called menstrual cycle.
+
+Menstrual cycle starts only after attaining sexual maturation (puberty).
+
+During ovulation only one ovum is released per menstrual cycle. 
+
+The  cyclical changes in the ovary and the uterus during menstrual cycle  are induced by changes in the levels of pituitary and ovarian hormones.
+
+After coitus, sperms are transported to the junction of the isthmus and  ampulla, where the sperm fertilises the ovum leading to formation of a  diploid zygote. 
+
+The presence of X or Y chromosome in the sperm determines the sex of the embryo. 
+
+The zygote undergoes repeated mitotic division to form a blastocyst, which is implanted in the uterus resulting in pregnancy. 
+
+After nine months of pregnancy, the fully developed  foetus is ready for delivery. 
+
+The process of childbirth is called parturition which is induced by a complex neuroendocrine mechanism involving cortisol,  estrogens and oxytocin. 
+
+Mammary glands differentiate during pregnancy and secrete milk after child-birth. 
+
+The new-born baby is fed milk by the mother (lactation) during the initial few months of growth.
+
+
+GOTO:top
 TAG:4-reproductive-health
 *4-reproductive-health*
 
+*Summary*
+
+Reproductive health refers to a total well-being in all aspects of  reproduction, i.e., physical, emotional, behavioural and social. 
+
+Our nation was the first nation in the world to initiate various action plans at national level towards attaining a reproductively healthy society.
+
+Counselling and creating awareness among people about reproductive organs, adolescence and associated changes, safe and hygienic sexual practices, sexually transmitted infections (STIs) including AIDS, etc., is the primary step towards reproductive health.
+
+Providing medical facilities and care to the problems like menstrual  irregularities, pregnancy related aspects, delivery, medical termination of pregnancy, STIs, birth control, infertility, post natal child and  maternal management is another important aspect of the Reproductive and Child Health Care programmes.
+
+An overall improvement in reproductive health has taken place in our country as indicated by reduced maternal and infant mortality rates, early detection and cure of STIs, assistance to infertile couples, etc. Improved health facilities and better living conditions promoted an explosive growth of population.
+
+Such a growth necessitated intense propagation of contraceptive methods. Various contraceptive options are available now such as natural, traditional, barrier, IUDs, pills, injectables, implants and surgical methods. 
+
+Though contraceptives are not regular requirements for reproductive health, one is forced to use them to avoid pregnancy or to delay or space pregnancy.
+
+Medical termination of pregnancy is legalised in our country.  
+
+MTP is generally performed to get rid of unwanted pregnancy due to rapes, casual relationship, etc., as also in cases when the continuation of pregnancy could be harmful or even fatal to either the mother, or the foetus or both.
+
+Infections or diseases transmitted through sexual intercourse are called Sexually Transmitted Diseases (STIs). 
+
+Pelvic Inflammatory Diseases (PIDs), still birth, infertility are some of the complications of them.  Early detection facilitate better cure of these diseases.  
+
+Avoiding sexual intercourse with unknown/multiple partners, use of condoms during coitus are some of the simple precautions to avoid  contracting STIs.
+
+Inability to conceive or produce children even after 2 years of unprotected sexual cohabitation is called infertility. 
+
+Various methods are now available to help such couples. In Vitro fertilisation followed by transfer of embryo into the female genital tract is one such method and is commonly known as the ‘Test Tube Baby’ Programme.
+
+
+
 
 UNIT VII  : GENETICS AND EVOLUTION
+GOTO:top
 TAG:5-principles-of-inheritance-and-variation
 *5-principles-of-inheritance-and-variation*
 
+*Summary*
 
+Genetics is a branch of biology which deals with principles of inheritance and its practices. 
+
+Progeny resembling the parents in morphological and physiological features has attracted the attention of many biologists. 
+
+Mendel was the first to study this phenomenon systematically. 
+
+While studying the pattern of inheritance in pea plants of contrasting  characters, Mendel proposed the principles of inheritance, which are today referred to as ‘Mendel’s Laws of Inheritance’. 
+
+He proposed that the ‘factors’ (later named as genes) regulating the characters are found in pairs known as alleles. He observed that the expression of the characters in the offspring follow a definite pattern in different–first generations (F1), second (F2) and so on. 
+
+Some characters are dominant over others. 
+
+The dominant characters are expressed when factors are in heterozygous condition (Law of Dominance). 
+
+The recessive characters are only expressed in homozygous conditions. The characters never blend in heterozygous condition. 
+
+A recessive character that was not expressed in heterozygous conditon may be expressed again when it becomes homozygous. 
+
+Hence, characters segregate while formation of gametes (Law of Segregation).
+
+Not all characters show true dominance. Some characters show incomplete, and some show co-dominance. 
+
+When Mendel studied the inheritance of two characters together, it was found that the factors independently assort and combine in all permutations and combinations (Law of Independent Assortment). 
+
+Different combinations of gametes are theoretically represented in a square tabular form known as ‘Punnett Square’. 
+
+The factors (now known as gene) on chromosomes regulating the characters are called the genotype and the physical expression of the chraracters is called phenotype.
+
+After knowing that the genes are located on the chromosomes, a good correlation was drawn between Mendel’s laws : segregation and assortment of chromosomes during meiosis. 
+
+The Mendel’s laws were extended in the form of ‘Chromosomal Theory of Inheritance’. 
+
+Later, it was found that Mendel’s law of independent assortment does not hold true for the genes that were located on the same chromosomes. 
+
+These genes were called as ‘linked genes’. Closely located genes assorted together, and distantly located genes, due to recombination, assorted independently. 
+
+Linkage maps, therefore, corresponded to arrangement of genes on a chromosome.
+
+Many genes were linked to sexes also, and called as sex-linked genes. The two sexes (male and female) were found to have a set of chromosomes which were common, and another set which was different. 
+
+The chromosomes which were different in two sexes were named as sex chromosomes. The remaining set was named as autosomes. 
+
+In humans, a normal female has 22 pairs of autosomes and a pair of sex chromosomes (XX). 
+
+A male has 22 pairs of autosomes and a pair of sex chromosome as XY. 
+
+In chicken, sex chromosomes in male are ZZ, and in females are ZW.
+
+Mutation is defined as change in the genetic material. 
+
+A point mutation is a change of a single base pair in DNA. Sickle-cell anemia is caused due to change of one base in the gene coding for beta-chain of hemoglobin. 
+
+Inheritable mutations can be studied by generating a pedigree of a family. 
+
+Some mutations involve changes in whole set of chromosomes (polyploidy) or change in a subset of chromosome number (aneuploidy). This helped in understanding the mutational basis of genetic disorders. 
+
+Down’s syndrome is due to trisomy of chromosome 21, where there is an extra copy of chromosome 21 and consequently the total number of chromosome becomes 47. 
+
+In Turner’s syndrome, one X chromosome is missing and the sex chromosome is as XO, and in Klinefelter’s syndrome, the condition is XXY. These can be easily studied by analysis of Karyotypes.
+
+
+GOTO:top
 TAG:6-molecular-basis-of-inheritance
 *6-molecular-basis-of-inheritance*
 
+*Summary*
 
+Nucleic acids are long polymers of nucleotides.  While DNA stores genetic information, RNA mostly helps in transfer and expression of information.
+
+Though DNA and RNA both function as genetic material, but DNA being chemically and structurally more stable is a better genetic material.
+
+However, RNA is the first to evolve and DNA was derived from RNA.  
+
+The hallmark of the double stranded helical structure of DNA is the hydrogen bonding between the bases from opposite strands. 
+
+The rule is that Adenine pairs with Thymine through two H-bonds, and Guanine with Cytosine through three H-bonds.  
+
+This makes one strand complementary to the other.  The DNA replicates semiconservatively, the process is guided by the complementary H-bonding.  
+
+A segment of DNA that codes for RNA may in a simplistic term can be referred as gene. 
+
+During transcription also, one of the strands of DNA acts a template to direct the synthesis of complementary RNA.  
+
+In bacteria, the transcribed mRNA is functional, hence can directly be translated.
+
+In eukaryotes, the gene is split.  The coding sequences, exons, are interrupted by non-coding sequences, introns.  
+
+Introns are removed and exons are joined to produce functional RNA by splicing. 
+
+The messenger RNA contains the base sequences that are read in a combination of three (to make triplet genetic code) to code for an amino  acid.  
+
+The genetic code is read again on the principle of complementarity by tRNA that acts as an adapter molecule.  There are specific tRNAs for every amino acid.  The tRNA binds to specific amino acid at one end and pairs through H-bonding with codes on mRNA through its anticodons.  
+
+The site of translation (protein synthesis) is ribosomes, which bind to mRNA and provide platform for joining of amino acids.
+
+One of the rRNA acts as a catalyst for peptide bond formation, which is  an example of RNA enzyme (ribozyme). Translation is a process that has evolved around RNA, indicating that life began around RNA. 
+
+Since, transcription and translation are energetically very expensive processes, these have to be tightly regulated.  
+
+Regulation of transcription 124 is the primary step for regulation of gene expression. 
+
+In bacteria, more than one gene is arranged together and regulated in units called as operons. 
+
+Lac operon is the prototype operon in bacteria, which codes for genes responsible for metabolism of lactose.  
+
+The operon is regulated by the amount of lactose in the medium where the bacteria are grown.
+
+Therefore, this regulation can also be viewed as regulation of enzyme  synthesis by its substrate.
+
+Human genome project was a mega project that aimed to sequence every base in human genome. 
+
+This project has yielded much new information. 
+
+Many new areas and avenues have opened up as a consequence of the project. 
+
+DNA Fingerprinting is a technique to find out variations in individuals of a population at DNA level. 
+
+It works on the principle of polymorphism in DNA sequences. 
+
+It has immense applications in the field of forensic science, genetic biodiversity and evolutionary biology.
+
+
+GOTO:top
 TAG:7-evolution
 *7-evolution*
 
+*Summary*
+
+The origin of life on earth can be understood only against the background of origin of universe especially earth. 
+
+Most scientists believe chemical evolution, i.e., formation of biomolecules preceded the appearance of the first cellular forms of life. 
+
+The subsequent events as to what happened to the first form of life is a conjectured story based on Darwinian ideas of organic evolution by natural selection.
+
+Diversity of life forms on earth has been changing over millions of years. It is generally believed that variations in a population result in variable fitness. 
+
+Other phenomena like habitat fragmentation and genetic drift may accentuate these variations leading to appearance of new species and hence evolution. 
+
+Homology is accounted for by the idea of branching descent. Study of comparative anatomy, fossils  and comparative  biochemistry provides evidence for evolution. 
+
+Among the stories of evolution of individual  species, the story of evolution of modern man is most interesting and appears to parallel evolution of human brain and language.
+
 
 UNIT VIII : BIOLOGY IN HUMAN WELFARE
+
+GOTO:top
 TAG:8-human-health-and-disease
 *8-human-health-and-disease*
 
+*Summary*
 
+Health is not just the absence of disease. It is a state of complete physical, mental, social and psychological well-being. 
+
+Diseases like typhoid, cholera, pneumonia, fungal infections of skin, malaria and many others are a major cause of distress to human beings. 
+
+Vector-borne diseases like malaria especially one caused by Plasmodium falciparum, if not treated, may prove fatal. 
+
+Besides personal cleanliness and hygiene, public health measures like proper disposal of waste, decontamination of drinking water, control of vectors like mosquitoes and immunisation are very helpful in preventing these diseases. 
+
+Our immune system plays the major role in preventing these diseases when we are exposed to disease-causing agents. 
+
+The innate defences of our body like skin, mucous membranes, antimicrobial substances present in our tears, saliva and the phagocytic cells help to block the entry of pathogens into our body. 
+
+If the pathogens succeed in gaining entry to our body, specific antibodies (humoral immune response) and cells (cell mediated immune response) serve to kill these pathogens. 
+
+Immune system has memory. On subsequent exposure to same pathogen, the immune response is rapid and more intense. 
+
+This forms the basis of protection  afforded by vaccination and immunisation. 
+
+Among other diseases, AIDS and cancer kill a large number of individuals worldwide. 
+
+AIDS caused by the human immuno-deficiency virus (HIV) is fatal but can be  prevented if certain precautions are taken. 
+
+Many cancers are curable if detected early and appropriate therapeutic measures are taken. 
+
+Of late, drug and alcohol abuse among youth and adolescents is becoming another cause of concern. 
+
+Because of the addictive nature of alcohol and drugs, and their perceived benefits like relief from stress, a person may try taking these in the face of peer pressure, examinations-related and competition-related stresses. In doing so, he/she may get addicted to them. 
+
+Education about their harmful effects, counselling and seeking immediate professional and medical help would totally relieve the individual from these evils.
+
+
+GOTO:top
 TAG:9-strategies-for-enhancement-in-food-production
 *9-strategies-for-enhancement-in-food-production*
 
+*Summary*
 
+Animal husbandry is the practice of taking care and breeding domestic animals by applying scientific principles. The ever-increasing demand of food from animals and animal products both in terms of quality and quantity has been met by good animal husbandry practices. 
+
+These practices include (i) management of farm and farm animals, and (ii) animal breeding. 
+
+In view of the high nutritive value of honey and its medicinal importance, there has been a remarkable growth in the practice of bee-keeping or apiculture. 
+
+Fishery is another flourishing industry meeting the ever-increasing demand for fish, fish products and other aquatic foods.
+
+Plant breeding may be used to create varieties, which are resistant to pathogens and to insect pests. This increases the yield of the food.
+
+This method has also been used to increase the protein content of the plant foods and thereby enhance the quality of food. 
+
+In India, several varieties of different crop plants have been produced. All these measures enhance the production of food. 
+
+Techniques of tissue culture and somatic hybridisation offer vast potential for manipulation of plants in vitro to produce new varieties.
+
+
+GOTO:top
 TAG:10-microbes-in-human-welfare
 *10-microbes-in-human-welfare*
 
+*Summary*
+
+Microbes are a very important component of life on earth. Not all microbes are pathogenic. Many microbes are very useful to human beings. 
+
+We use microbes and microbially derived products almost every day. 
+
+Bacteria called lactic acid bacteria (LAB) grow in milk to convert it  into curd. 
+
+The dough, which is used to make bread, is fermented by yeast called Saccharomyces cerevisiae. Certain dishes such as idli and dosa, are made from dough fermented by microbes. Bacteria and fungi are used to impart particular texture, taste and flavor to cheese. 
+
+Microbes are used to produce industrial products like lactic acid, acetic acid and alcohol, which are used in a variety of processes in the industry.
+
+Antibiotics like penicillins produced by useful microbes are used to kill  disease-causing harmful microbes. Antibiotics have played a major role in controlling infectious diseases like diphtheria, whooping cough and pneumonia. 
+
+For more than a hundred years, microbes are being used to treat sewage (waste water) by the process of activated sludge formation and this helps in recycling of water in nature. 
+
+Methanogens produce methane (biogas) while degrading plant waste. Biogas produced by microbes is used as a source of energy in rural areas. Microbes can also be used to kill harmful pests, a process called as biocontrol. 
+
+The biocontrol measures help us to avoid heavy use of toxic pesticides for controlling pests. 
+
+There is a need these days to push for use of biofertilisers in place of chemical fertilisers.  
+
+It is clear from the diverse uses human beings have put microbes to that they play an important role in the welfare of human society.
+
 
 UNIT IX : BIOTECHNOLOGY
+
+GOTO:top
 TAG:11-biotechnology-principles-and-processes
 *11-biotechnology-principles-and-processes*
 
+*Summary*
 
+Biotechnology deals with large scale production and marketing of products and processes using live organisms, cells or enzymes.
+
+Modern biotechnology using genetically modified organisms was made possible only when man learnt to alter the chemistry of DNA and construct recombinant DNA. 
+
+This key process is called recombinant DNA technology or genetic engineering. 
+
+This process involves the use of restriction endonucleases, DNA ligase,  appropriate plasmid or viral vectors to isolate and ferry the foreign DNA into host organisms, expression of the foreign gene, purification  of the gene product, i.e., the functional protein and finally making a suitable formulation for marketing. 
+
+Large scale production involves use of bioreactors.
+
+
+GOTO:top
 TAG:12-biotechnology-and-its-applications
 *12-biotechnology-and-its-applications*
 
+*Summary*
+
+Biotechnology has given to humans several useful products by using microbes, plant, animals and their metabolic machinery. 
+
+Recombinant DNA technology has made it possible to engineer microbes, plants and animals such that they have novel capabilities. 
+
+Genetically Modified Organisms have been created by using methods other than natural methods to transfer one or more genes from one organism to another, generally using techniques such as recombinant DNA technology.
+
+GM plants have been useful in increasing crop yields, reduce post harvest losses and make crops more tolerant of stresses. There are several GM crop plants with improved nutritional value of foods and reduced the reliance on chemical pesticides (pest-resistant crops).
+
+Recombinant DNA technological processes have made immense impact in the area of healthcare by enabling mass production of safe and more effective therapeutics. 
+
+Since the recombinant therapeutics are identical to human proteins, they do not induce unwanted immunological responses and are free from risk of infection as was observed in case of similar products isolated from non-human sources.
+
+Human insulin is made in bacteria yet its structure is absolutely  identical to that of the natural molecule.
+
+Transgenic animals are also used to understand how genes contribute to the development of a disease by serving as models for human diseases, such as cancer, cystic fibrosis, rheumatoid arthritis and Alzheimer’s.
+
+Gene therapy is the insertion of genes into an individual’s cells and tissues to treat diseases especially hereditary diseases. 
+
+It does so by replacing a defective mutant allele with a functional one or gene targeting which involves gene amplification. 
+
+Viruses that attack their hosts and introduce their genetic material into the host cell as part of their replication cycle are used as vectors to transfer healthy genes or more recently portions of genes.
+
+The current interest in the manipulation of microbes, plants, and animals has raised serious ethical questions.
 
 UNIT X : ECOLOGY
+
+GOTO:top
 TAG:13-organisms-and-populations
 *13-organisms-and-populations*
 
+As a branch of biology, Ecology is the study of the relationships of  living organisms with the abiotic (physico-chemical factors) and biotic components (other species) of their environment. It is concerned with four levels of biological organisation-organisms, populations, communities and biomes.
 
+Temperature, light, water and soil are the most important physical factors of the environment to which the organisms are adapted in various ways. 
+
+Maintenance of a constant internal environment (homeostasis) by the organisms contributes to optimal performance, but only some organisms (regulators) are capable of homeostasis in the face of changing external environment. 
+
+Others either partially regulate their internal environment or simply conform. 
+
+A few other species have evolved adaptations to avoid unfavourable conditions in space (migration) or in time (aestivation, hibernation, and diapause).
+
+Evolutionary changes through natural selection take place at the population level and hence, population ecology is an important area of ecology. 
+
+A population is a group of individuals of a given species sharing or competing for similar resources in a defined geographical area. 
+
+Populations have attributes that individual organisms do not- birth rates and death rates, sex ratio and age  distribution. 
+
+The proportion of different age groups of males and females in a population is often presented graphically as age pyramid; its shape indicates whether a population is stationary, growing or declining.
+
+Ecological effects of any factors on a population are generally reflected in its size (population density), which may be expressed in different ways (numbers, biomass, per cent cover, etc.,) depending on the species.
+
+Populations grow through births and immigration and decline through deaths and emigration.  When resources are unlimited, the growth is usually exponential but when resources become progressively limiting, the growth pattern turns logistic. 
+
+In either case, growth is ultimately limited by the carrying capacity of the environment. 
+
+The intrinsic rate of natural increase (r) is a measure of the inherent potential of a population to grow. 
+
+In nature populations of different species in a habitat do not live in isolation but interact in many ways.  
+
+Depending on the outcome, these interactions between two species are classified as competition (both species suffer), predation and parasitism (one benefits and the other suffers), commensalism (one benefits and the other is unaffected), amensalism (one is harmed, other unaffected) and mutualism (both species benefit).  
+
+Predation is a very important process through which trophic energy transfer is facilitated and some predators help in controlling their prey populations. 
+
+Plants have evolved diverse morphological and chemical defenses against herbivory.  
+
+In competition, it is presumed that the superior competitor eliminates the inferior one (the Competitive Exclusion Principle), but many closely related species have evolved various mechanisms which facilitate their co-existence. 
+
+Some of the most fascinating cases of mutualism in nature are seen in plant-pollinator interactions.
+
+
+GOTO:top
 TAG:14-ecosystem
 *14-ecosystem*
 
+*Summary*
 
+An ecosystem is a structural and functional unit of nature and it  comprises abiotic and biotic components. 
+
+Abiotic components are inorganic materials- air, water and soil, whereas biotic components are producers, consumers and decomposers. 
+
+Each ecosystem has characteristic physical structure resulting from interaction amongst abiotic and biotic components. 
+
+Species composition and stratification are the two main structural features of an ecosystem. 
+
+Based on source of nutrition every organism occupies a place in an ecosystem.
+
+Productivity, decomposition, energy flow, and nutrient cycling are the four important components of an ecosystem. 
+
+Primary productivity is the rate of capture of solar energy or biomass production of the producers. 
+
+It is divided into two types: gross primary productivity (GPP) and net primary productivity (NPP). Rate of capture of solar energy or total production of organic matter is called as GPP. 
+
+NPP is the remaining biomass or the energy left after utilisation of producers. 
+
+Secondary productivity is the rate of assimilation of food energy by the consumers.
+
+In decomposition, complex organic compounds of detritus are converted to carbon dioxide, water and inorganic nutrients by the decomposers.
+
+Decomposition involves three processes, namely fragmentation of detritus, leaching and catabolism.
+
+Energy flow is unidirectional. First, plants capture solar energy and then, food is transferred from the producers to decomposers.
+
+Organisms of different trophic levels in nature are connected to each other for food or energy relationship forming a food chain. 
+
+The storage and movement of nutrient elements through the various components of the ecosystem is called nutrient cycling; nutrients are repeatedly used through this process. 
+
+Nutrient cycling is of two types—gaseous and sedimentary. 
+
+Atmosphere or hydrosphere is the reservoir for the gaseous type of cycle (carbon), whereas Earth’s crust is the reservoir for sedimentary type (phosphorus). 
+
+Products of ecosystem processes are named as ecosystem services, e.g., purification of air and water by forests.
+
+The biotic community is dynamic and undergoes changes with the passage of time. 
+
+These changes are sequentially ordered and constitute ecological succession. 
+
+Succession begins with invasion of a bare lifeless area by pioneers which later pave way for successors and ultimately a stable climax community is formed. 
+
+The climax community remains stable as long as the environment remains unchanged.
+
+
+GOTO:top
 TAG:15-biodiversity-and-conservation
 *15-biodiversity-and-conservation*
 
+*Summary*
 
+Since life originated on earth nearly 3.8 billion years ago, there had  been enormous diversification of life forms on earth. 
+
+Biodiversity refers to the sum total of diversity that exists at all levels of biological organisation.  
+
+Of particular importance is the diversity at genetic, species and ecosystem levels and conservation efforts are aimed at protecting diversity at all these levels.
+
+More than 1.5 million species have been recorded in the world, but there might still be nearly 6 million species on earth waiting to be  discovered and named.  
+
+Of the named species, > 70 per cent are animals, of which 70 per cent are insects.  The group Fungi has more species than all the vertebrate species combined.  
+
+India, with about 45,000 species of plants and twice as many species of animals, is one of the 12 mega diversity countries of the world.
+
+Species diversity on earth is not uniformly distributed but shows interesting patterns.
+
+It is generally highest in the tropics and decreases towards the poles. 
+
+Important explanations for the species richness of the tropics are: Tropics had more evolutionary time; they provide a relatively constant environment and, they receive more solar energy which contributes to greater productivity. 
+
+Species richness is also function of the area of a region; the species-area relationship is generally a rectangular hyperbolic function.
+
+It is believed that communities with high diversity tend to be less  variable, more productive and more resistant to biological invasions.
+
+Earth’s fossil history reveals incidence of mass extinctions in the past,  but the present rates of extinction, largely attributed to human activities, are 100 to 1000 times higher.  
+
+Nearly 700 species have become extinct in recent times and more than 15,500 species (of which > 650 are from India) currently face the threat of extinction.  
+
+The causes of high extinction rates at present include habitat (particularly forests) loss and fragmentation, over-exploitation, biological invasions and co-extinctions.
+
+Earth’s rich biodiversity is vital for the very survival of mankind. 
+
+The reasons for conserving biodiversity are narrowly utilitarian, broadly  utilitarian and ethical.  
+
+Besides the direct benefits (food, fibre, firewood, pharmaceuticals, etc.), there are many indirect benefits we receive through ecosystem services such as pollination, pest control, climate moderation and flood control. 
+
+We also have a moral responsibility to take good care of earth’s biodiversity and pass it on in good order to our next generation.
+
+Biodiversity conservation may be in situ as well as ex situ.  
+
+In in situ conservation, the endangered species are protected in their natural habitat so that the entire ecosystem is protected. 
+
+Recently, 34 ‘biodiversity hotspots’ in the world have been proposed for intensive conservation efforts. 
+
+Of these, three (Western Ghats-Sri Lanka, Himalaya and Indo-Burma) cover India’s rich biodiversity regions. 
+
+Our country’s in situ conservation efforts are reflected in its 14 biosphere reserves, 90 national parks, > 450 wildlife sanctuaries and many sacred groves. 
+
+Ex situ conservation methods include protective maintenance of threatened species in zoological parks and botanical gardens, in vitro  fertilisation, tissue culture propagation and cryopreservation of gametes.
+
+
+GOTO:top
 TAG:16-environmental-issues
 *16-environmental-issues*
+
+*Summary*
+
+Major issues relating to environmental pollution and depletion of  valuable natural resources vary in dimension from local, regional to global levels. 
+
+Air pollution primarily results from burning of fossil fuel, e.g., coal and petroleum, in industries and in automobiles. 
+
+They are harmful to humans, animals and plants, and therefore must be removed to keep our air clean. 
+
+Domestic sewage, the most common source of pollution of water bodies, reduces dissolved oxygen but increases biochemical oxygen demand of receiving water. 
+
+Domestic sewage is rich in nutrients, especially, nitrogen and phosphorus, which cause eutrophication and nuisance creating algal blooms. 
+
+Industrial waste waters are often rich in toxic chemicals, especially heavy metals and organic compounds. 
+
+Industrial waste waters harm living organisms. 
+
+Municipal solid wastes also create problems and must be disposed off in landfills. 
+
+Disposal of hazardous wastes like defunct ships, radioactive  wastes and e-wastes requires additional efforts. 
+
+Soil pollution primarily results from agricultural chemicals (e.g., pesticides) and leachates from solid wastes deposited over it.
+
+Two major environmental issues of global nature are increasing greenhouse effect, which is warming Earth, and depletion of ozone in the stratosphere. 
+
+Enhanced greenhouse effect is mainly due to increased emission of carbon dioxide, methane, nitrous oxide and CFCs., and also due to deforestation. 
+
+It may drastically change rainfall pattern, global temperature, besides deleteriously affecting living organisms. 
+
+Ozone in the stratosphere, which protects us from harmful effects of  ultraviolet radiation, is depleting fast due to emission of CFCs thus increasing the risks of skin cancer, mutation and other disorders.
+
+GOTO:top

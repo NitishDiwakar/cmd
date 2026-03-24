@@ -3,3 +3,156 @@ Title : Physics - NCERT 12
 Tags  : #
 Descr : 
 ============================
+
+TAG:top
+GOTO:1-Electric-Charges-and-Fields
+GOTO:2-Electrostatic-Poetential-and-Capacitance
+GOTO:3-Current-Electricity
+GOTO:4-Moving-Charges-and-Magnetism
+GOTO:5-Magnetism-and-Matter
+GOTO:6-Electromagnetic-Induction
+GOTO:7-Altering-Current
+GOTO:8-Electromagnetic-Waves
+GOTO:9-Ray-Optics-and-Optical-Instruments
+GOTO:10-Wave-Optics
+GOTO:11-Dual-Nature-of-Radiation-and-Matter
+GOTO:12-Atoms
+GOTO:13-Nuclei
+GOTO:14-Semiconductor-Electronics-Materials-Devices-and-Simple-Circuits
+
+
+GOTO:top
+TAG:1-Electric-Charges-and-Fields
+*1-Electric-Charges-and-Fields*
+
+*Summary*
+
+1. Electric and magnetic forces determine the properties of atoms,  molecules and bulk matter. 
+
+2. From simple experiments on frictional electricity, one can infer that  there are two types of charges in nature; and that like charges repel and unlike charges attract. By convention, the charge on a glass rod rubbed with silk is positive; that on a plastic rod rubbed with fur is then negative.
+
+3. Conductors allow movement of electric charge through them, insulators do not. In metals, the mobile charges are electrons; in electrolytes both positive and negative ions are mobile. 
+
+4. Electric charge has three basic properties: quantisation, additivity  and conservation. Quantisation of electric charge means that total charge (q) of a body is always an integral multiple of a basic quantum of charge (e) i.e., q = n e, where n = 0, ±1, ±2, ±3, .... Proton and electron have charges +e, –e, respectively. For macroscopic charges for which n is a very large number, quantisation of charge can be ignored.
+
+Additivity of electric charges means that the total charge of a system  is the algebraic sum (i.e., the sum taking into account proper signs) of all individual charges in the system. 
+
+Conservation of electric charges means that the total charge of an  isolated system remains unchanged with time. This means that when  bodies are charged through friction, there is a transfer of electric charge from one body to another, but no creation or destruction of charge.
+
+
+5. Coulomb’s Law: The mutual electrostatic force between two point charges q1 and q2 is proportional to the product q1 q2 and inversely proportional to the square of the distance r21 separating them.
+
+
+*Points to Ponder*
+
+1. You might wonder why the protons, all carrying positive charges, are compactly residing inside the nucleus. Why do they not fly away? You will learn that there is a third kind of a fundamental force, called the strong force which holds them together. The range of distance where this force is effective is, however, very small ~10-14 m. This is precisely the size of the nucleus. Also the electrons are not allowed to sit on top of the protons, i.e. inside the nucleus, due to the laws of quantum mechanics. This gives the atoms their structure as they exist in nature.
+
+2. Coulomb force and gravitational force follow the same inverse-square  law. But gravitational force has only one sign (always attractive), while  Coulomb force can be of both signs (attractive and repulsive), allowing possibility of cancellation of electric forces. This is how gravity, despite being a much weaker force, can be a dominating and more pervasive force in nature.
+
+3. The constant of proportionality k in Coulomb’s law is a matter of choice if the unit of charge is to be defined using Coulomb’s law. In SI units, however, what is defined is the unit of current (A) via its agnetic effect (Ampere’s law) and the unit of charge (coulomb) is simply defined by (1C = 1 A s). In this case, the value of k is no longer arbitrary; it is approximately 9 × 109 N m2 C–2.
+
+
+4. The rather large value of k, i.e., the large size of the unit of charge  (1C) from the point of view of electric effects arises because (as
+ mentioned in point 3 already) the unit of charge is defined in terms of magnetic forces (forces on  current–carrying wires) which are generally  much weaker than the electric forces. Thus while 1 ampere is a unit of reasonable size for magnetic effects, 1 C = 1 A s, is too big a unit for  electric effects.
+
+5. The additive property of charge is not an ‘obvious’ property. It is related to the fact that electric charge has no direction associated with it; charge is a scalar.
+
+6. Charge is not only a scalar (or invariant) under rotation; it is also  invariant for frames of reference in relative motion. This is not always  true for every scalar. For example, kinetic energy is a scalar under rotation, but is not invariant for frames of reference in relative  motion.
+
+7. Conservation of total charge of an isolated system is a property  independent of the scalar nature of charge noted in point 6. Conservation refers to invariance in time in a given frame of reference. A quantity may be scalar but not conserved (like kinetic energy in an inelastic collision). On the other hand, one can have conserved vector quantity (e.g., angular momentum of an isolated system).
+
+8. Quantisation of electric charge is a basic (unexplained) law of nature; interestingly, there is no analogous law on quantisation of mass.
+
+9. Superposition principle should not be regarded as ‘obvious’, or  equated with the law of addition of vectors. It says two things: force on one charge due to another charge is unaffected by the presence of other charges, and there are no additional three-body, four-body, etc., forces which arise only when there are more than two charges.
+
+10. The electric field due to a discrete charge configuration is not defined at the locations of the discrete charges. For continuous volume charge distribution, it is defined at any point in the distribution. For a surface charge distribution, electric field is discontinuous across the surface.
+
+11. The electric field due to a charge configuration with total charge zero is not zero; but for distances large compared to the size of the configuration, its field falls off faster than 1/r2, typical of field due to a single charge. An electric dipole is the simplest example of this fact.
+
+
+
+GOTO:top
+TAG:2-Electrostatic-Poetential-and-Capacitance
+*2-Electrostatic-Poetential-and-Capacitance*
+
+*Summary*
+
+1. Electrostatic force is a conservative force. Work done by an external force (equal and opposite to the electrostatic force) in bringing a charge q from a point R to a point P is q(VP–VR), which is the difference in potential energy of charge q between the final and initial points.
+
+2. Potential at a point is the work done per unit charge (by an external agency) in bringing a charge from infinity to that point. Potential at a  point is arbitrary to within an additive constant, since it is the potential difference between two points which is physically significant. If potential at infinity is chosen to be zero;
+
+*Points to Ponder*
+
+1. Electrostatics deals with forces between charges at rest. But if there is a force on a charge, how can it be at rest? Thus, when we are talking of electrostatic force between charges, it should be understood that each  charge is being kept at rest by some unspecified force that opposes the net Coulomb force on the charge.
+
+2. A capacitor is so configured that it confines the electric field lines within a small region of space. Thus, even though field may have considerable strength, the potential difference between the two conductors of a capacitor is small.
+
+
+
+GOTO:top
+TAG:3-Current-Electricity
+*3-Current-Electricity*
+
+*Summary*
+
+1. Current through a given area of a conductor is the net charge passing  per unit time through the area.
+
+2. To maintain a steady current, we must have a closed circuit in which  an external agency moves electric charge from lower to higher potential energy. The work done per unit charge by the source in taking the charge from lower to higher potential energy (i.e., from one terminal of the source to the other) is called the electromotive force, or emf, of the source. Note that the emf is not a force; it is the voltage difference between the two terminals of a source in open circuit.
+
+3. Ohm’s law: The electric current I flowing through a substance is  proportional to the voltage V across its ends, i.e., V µ I or V = RI, where R is called the resistance of the substance. The unit of resistance is ohm: 1W = 1 V A^–1.
+
+
+
+GOTO:top
+TAG:4-Moving-Charges-and-Magnetism
+*4-Moving-Charges-and-Magnetism*
+
+
+GOTO:top
+TAG:5-Magnetism-and-Matter
+*5-Magnetism-and-Matter*
+
+
+GOTO:top
+TAG:6-Electromagnetic-Induction
+*6-Electromagnetic-Induction*
+
+
+GOTO:top
+TAG:7-Altering-Current
+*7-Altering-Current*
+
+
+GOTO:top
+TAG:8-Electromagnetic-Waves
+*8-Electromagnetic-Waves*
+
+
+GOTO:top
+TAG:9-Ray-Optics-and-Optical-Instruments
+*9-Ray-Optics-and-Optical-Instruments*
+
+
+GOTO:top
+TAG:10-Wave-Optics
+*10-Wave-Optics*
+
+
+GOTO:top
+TAG:11-Dual-Nature-of-Radiation-and-Matter
+*11-Dual-Nature-of-Radiation-and-Matter*
+
+
+GOTO:top
+TAG:12-Atoms
+*12-Atoms*
+
+
+GOTO:top
+TAG:13-Nuclei
+*13-Nuclei*
+
+
+GOTO:top
+TAG:14-Semiconductor-Electronics-Materials-Devices-and-Simple-Circuits
+*14-Semiconductor-Electronics-Materials-Devices-and-Simple-Circuits*
