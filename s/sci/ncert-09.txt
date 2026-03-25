@@ -11,19 +11,16 @@ GOTO:3-atoms-and-molecues
 GOTO:4-structure-of-the-atom
 GOTO:5-the-fundamental-unit-of-life
 GOTO:6-tissues
-GOTO:7-motion
-GOTO:8-force-and-laws-of-motion
-GOTO:9-gravitation
-GOTO:10-work-and-energy
-GOTO:11-sound
-GOTO:12-improvement-in-food-resources
-______________________
-Removed chapters:
 GOTO:7-diversity-in-living-organisms
+GOTO:8-motion
+GOTO:9-force-and-laws-of-motion
+GOTO:10-gravitation
+GOTO:11-work-and-energy
+GOTO:12-sound
 GOTO:13-why-do-we-fall-ill
 GOTO:14-natural-resources
-
-
+GOTO:15-improvement-in-food-resources
+______________________
 
 
 
@@ -70,6 +67,38 @@ Volume
 Density
   - kilogram per cubic metre (kg m^3)
 
+*Summary*
+
+• Matter is made up of small particles.
+
+• The matter around us exists in three states— solid, liquid and gas.
+
+• The forces of attraction between the particles are maximum in solids, intermediate in liquids and minimum in gases.
+
+• The spaces in between the constituent particles and kinetic energy of the particles are minimum in the case of solids, intermediate in liquids and maximum in gases.
+
+• The arrangement of particles is most ordered in the case of solids, in the case of liquids layers of particles can slip and slide over each other while for gases, there is no order, particles just move about randomly.
+
+• The states of matter are inter-convertible. The state of matter can be changed by changing temperature or pressure. 
+
+• Sublimation is the change of solid state directly to gaseous state without going through liquid state.
+
+• Deposition is the change of gaseous state directly to solid state without going through liquid state.
+
+• Boiling is a bulk phenomenon. Particles from the bulk (whole) of the liquid change into vapour state.
+
+• Evaporation is a surface phenomenon. Particles from the surface gain enough energy to overcome the forces of attraction present in the liquid and change into the vapour state.
+
+• The rate of evaporation depends upon the surface area exposed to the atmosphere, the temperature, the humidity and the wind speed.
+
+• Evaporation causes cooling. 
+
+• Latent heat of vaporisation is the heat energy required to change 1 kg of a liquid to gas at atmospheric pressure at its boiling point.
+
+• Latent heat of fusion is the amount of heat energy required to change 1 kg of solid into liquid at its melting point.
+
+
+
 GOTO:top
 TAG:2-is-matter-around-us-pure
 *2-is-matter-around-us-pure*
@@ -85,6 +114,22 @@ Mercury, Bromine
   - Liquid at room temperature
 
 *Kelvin = Celcius + 273.15*
+
+• A mixture contains more than one substance (element and/ or compound) mixed in any proportion.
+
+• Mixtures can be separated into pure substances using appropriate separation techniques.
+
+• A solution is a homogeneous mixture of two or more substances. The major component of a solution is called the solvent, and the minor, the solute.
+
+• The concentration of a solution is the amount of solute present per unit volume or per unit mass of the solution.
+
+• Materials that are insoluble in a solvent and have particles that are visible to naked eyes, form a suspension. A suspension is a heterogeneous mixture.
+
+• Colloids are heterogeneous mixtures in which the particle size is too small to be seen with the naked eye, but is big enough to scatter light. Colloids are useful in industry and daily life. The particles are called the dispersed phase and the medium in which they are distributed is called the dispersion medium.
+
+• Pure substances can be elements or compounds. An element is a form of matter that cannot be broken down by chemical reactions into simpler substances. A compound is a substance composed of two or more different types of elements, chemically combined in a fixed proportion.
+
+• Properties of a compound are different from its constituent elements, whereas a mixture shows the properties of its constituting elements or compounds.
 
 
 
@@ -170,6 +215,32 @@ Uranium
   - U
 Zinc
   - Zn
+
+*Summary*
+
+• During a chemical reaction, the sum of the masses of the reactants and  products remains unchanged. This is known as the Law of Conservation of Mass.
+
+• In a pure chemical compound, elements are always present in a definite proportion by mass. This is known as the Law of Definite Proportions.
+
+• An atom is the smallest particle of the element that cannot usually exist independently and retain all its chemical properties.
+
+• A molecule is the smallest particle of an element or a compound capable of independent existence under ordinary conditions. It shows all the properties of the substance.
+
+• A chemical formula of a compound shows its constituent elements and the number of atoms of each combining element.
+
+• Clusters of atoms that act as an ion are called polyatomic ions. They carry a fixed charge on them.
+
+• The chemical formula of a molecular compound is determined by the valency of each element.
+
+• In ionic compounds, the charge on each ion is used to determine the chemical formula of the compound.
+
+• Scientists use the relative atomic mass scale to compare the masses of different atoms of elements. Atoms of carbon-12 isotopes are assigned a relative atomic mass of 12 and the relative masses of all other atoms are obtained by comparison with the mass of a carbon-12 atom.
+
+• The Avogadro constant 6.022 × 1023 is defined as the number of atoms in exactly 12 g of carbon-12.
+
+• The mole is the amount of substance of a system that contains 6.02214076 × 1023 specified elementary entities. 
+
+• Mass of 1 mole of a substance is called its molar mass.
 
 
 GOTO:top
@@ -326,6 +397,40 @@ TAG:4-structure-of-the-atom
 IMG:ncert-9-table41.png
 
 
+*Summary*
+
+• Credit for the discovery of electron and proton goes to J.J. Thomson and E.Goldstein, respectively.
+
+• J.J. Thomson proposed that electrons are embedded in a positive sphere.
+
+• Rutherford’s alpha-particle scattering experiment led to the discovery of the atomic nucleus. 
+
+• Rutherford’s model of the atom proposed that a very tiny nucleus is present inside the atom and electrons revolve around  this nucleus. The stability of the atom could not be explained by this model.
+
+• Neils Bohr’s model of the atom was more successful. He proposed that electrons are distributed in different shells with discrete energy around the nucleus. If the atomic shells are complete, then the atom will be stable and less reactive.
+
+• J. Chadwick discovered presence of neutrons in the nucleus of an atom. So, the three sub-atomic particles of an atom are: 
+   (i) electrons, 
+   (ii) protons and 
+   (iii) neutrons. 
+
+Electrons are negatively charged, protons are positively charged and neutrons have no charges. The mass of an electron is about 1 2000  times the mass of an hydrogen atom. The mass of a proton and a neutron is taken as one unit each.
+
+• Shells of an atom are designated as K,L,M,N,….
+
+• Valency is the combining capacity of an atom.
+
+• The atomic number of an element is the same as the number of protons in the nucleus of its atom.
+
+• The mass number of an atom is equal to the number of nucleons in its nucleus.
+
+• Isotopes are atoms of the same element, which have different mass numbers.
+
+• Isobars are atoms having the same mass number but different atomic numbers.
+
+• Elements are defined by the number of protons they possess.
+
+
 TAG:4-exercises
 *Ch-4-exercises*
 Q1. Compare the properties of electrons, protons and neutrons.
@@ -455,6 +560,25 @@ Cell Division
   - Meiosis
 
 
+*Summary*
+
+• The fundamental organisational unit of life is the cell.
+
+• Cells are enclosed by a plasma membrane composed of lipids and proteins.
+ • The cell membrane is an active part of the cell. It regulates the movement of materials between the ordered interior of the cell and the outer environment.
+
+• In plant cells, a cell wall composed mainly of cellulose is located outside the cell membrane.
+
+• The presence of the cell wall enables the cells of plants, fungi and bacteria to exist in hypotonic media without bursting.
+
+• The nucleus in eukaryotes is separated from the cytoplasm by double-layered membrane and it directs the life processes of the cell.
+
+• The ER functions both as a passageway for intracellular transport and as a manufacturing surface. 
+
+• The Golgi apparatus consists of stacks of membrane-bound vesicles that function in the storage, modification and packaging of substances manufactured in the cell.
+
+• Most plant cells have large membranous organelles called plastids, which are of two types – chromoplasts and leucoplasts.
+
 
 
 GOTO:top
@@ -500,14 +624,90 @@ Muscular Tissue
   - Dentrites (branched parts)
 
 
-GOTO:top
-TAG:7-motion
-*7-motion*
+*Summary*
+
+• Tissue is a group of cells similar in structure and function.
+
+• Plant tissues are of two main types – meristematic and permanent.
+
+• Meristematic tissue is the dividing tissue present in the growing regions of the plant.
+
+• Permanent tissues are derived from meristematic tissue once they lose the ability to divide. They are classified as simple and complex tissues.
+
+• Parenchyma, collenchyma and sclerenchyma are three types of simple tissues. Xylem and phloem are types of complex tissues.
+
+• Animal tissues can be epithelial, connective, muscular and nervous tissue.
+
+• Depending on shape and function, epithelial tissue is classified as squamous, cuboidal, columnar, ciliated and glandular.
+
+• The different types of connective tissues in our body include areolar tissue, adipose tissue, bone, tendon, ligament, cartilage and blood.
+
+• Striated, unstriated and cardiac are three types of muscle tissues.
+
+• Nervous tissue is made of neurons that receive and conduct impulses.
 
 
 GOTO:top
-TAG:8-force-and-laws-of-motion
-*8-force-and-laws-of-motion*
+TAG:7-diversity-in-living-organisms
+*7-Diversity-In-Living-Organisms*
+
+*Summary*
+
+• Classification helps us in exploring the diversity of life forms.
+
+• The major characteristics considered for classifying all organisms into five major kingdoms are:
+ 
+  (a) whether they are made of prokaryotic or eukaryotic cells
+  (b) whether the cells are living singly or organised into multi-cellular and thus complex organisms
+  (c) whether the cells have a cell-wall and whether they prepare their own food.
+
+• All living organisms are divided on the above bases into five kingdoms, namely Monera, Protista, Fungi, Plantae and Animalia.
+
+• The classification of life forms is related to their evolution.
+
+• Plantae and Animalia are further divided into subdivisions on the basis of increasing complexity of body organisation.
+
+• Plants are divided into five groups: Thallophytes, Bryophytes, Pteridophytes, Gymnosperms and Angiosperms.
+
+• Animals are divided into ten groups: Porifera, Coelenterata,  Platyhelminthes, Nematoda, Annelida, Arthropoda, Mollusca, Echinodermata, Protochordata and Vertebrata.
+
+• The binomial nomenclature makes for a uniform way of identification of the vast diversity of life around us.
+
+• The binomial nomenclature is made up of two words –  a generic name and a specific name.
+
+
+
+GOTO:top
+TAG:8-motion
+*8-motion*
+
+*Summary*
+
+• Motion is a change of position; it can be described in terms of the distance moved or the displacement.
+
+• The motion of an object could be uniform or non-uniform depending on whether its velocity is constant or changing.
+
+• The speed of an object is the distance covered per unit time, and velocity is the displacement per unit time.
+
+• The acceleration of an object is the change in velocity per unit time.
+
+• Uniform and non-uniform motions of objects can be shown through graphs.
+
+• The motion of an object moving at uniform acceleration can be described with the help of the following equations, namely 
+    v = u + at
+    s = ut + ½ at^2
+    2as = v^2 – u^2
+
+ where u is initial velocity of the object, which moves with uniform acceleration a for time t, v is its final velocity and s is the distance it travelled in time t.
+
+• If an object moves in a circular path with uniform speed, its motion is called uniform circular motion.
+
+
+
+GOTO:top
+TAG:9-force-and-laws-of-motion
+*9-force-and-laws-of-motion*
+
 Speed
   - metre per second (SI Unit)
   - m s^-1
@@ -573,22 +773,86 @@ IMG:eg-9-2.png
 IMG:eg-9-3.png
 IMG:eg-9-4.png
 
+
+*Summary*
+
+• First law of motion: An object continues to be in a state of rest or of uniform motion along a straight line unless acted upon by an unbalanced force.
+
+• The natural tendency of objects to resist a change in their state of rest or of uniform motion is called inertia.
+
+• The mass of an object is a measure of its inertia. Its SI unit is  kilogram (kg).
+
+• Force of friction always opposes motion of objects.
+
+• Second law of motion: The rate of change of momentum of an object is proportional to the applied unbalanced force in the direction of the force.
+
+• The SI unit of force is kg m s–2. This is also known as newton and represented by the symbol N. A force of one newton produces an acceleration of 1 m s–2 on an object of mass 1 kg.
+
+• The momentum of an object is the product of its mass and velocity and has the same direction as that of the velocity. Its SI unit is kg m s^–1.
+ 
+• Third law of motion: To every action, there is an equal and opposite reaction and they act on two different bodies.
+
+• In an isolated system (where there is no external force), the total momentum remains conserved.
+
+
 GOTO:top
-TAG:9-gravitation
-*9-gravitation*
+TAG:10-gravitation
+*10-gravitation*
 
+
+*Summary*
+
+• The law of gravitation states that the force of attraction between any two objects is proportional to the product of their masses and inversely proportional to the square of the distance between them.  The law applies to objects anywhere in the universe. Such a law is said to be universal.
+
+• Gravitation is a weak force unless large masses are involved.
+
+• The force of gravity decreases with altitude. It also varies on the surface of the earth, decreasing from poles to the equator.
+
+• The weight of a body is the force with which the earth attracts it.
+
+• The weight is equal to the product of mass and acceleration due to gravity.
+
+• The weight may vary from place to place but the mass stays constant.
+
+• All objects experience a force of buoyancy when they are immersed in a fluid.
+
+• Objects having density less than that of the liquid in which they are immersed, float on the surface of the liquid. If the density of the object is more than the density of the liquid in which it is immersed then it sinks in the liquid.
 
 
 
 GOTO:top
-TAG:10-work-and-energy
-*10-work-and-energy*
+TAG:11-work-and-energy
+*11-work-and-energy*
 
 1 joule = 1 newton x 1 metre
 
 Power
   - Watt (SI Unit)
   - 1 W = 1 J/s
+
+*Summary*
+
+• Work done on an object is defined as the magnitude of the force multiplied by the distance moved by the object in the direction of the applied force. The unit of work is joule:
+   1 joule = 1 newton × 1 metre.
+
+• Work done on an object by a force would be zero if the displacement of the object is zero.
+
+• An object having capability to do work is said to possess energy. Energy has the same unit as that of work.
+
+• An object in motion possesses what is known as the kinetic energy of the object. An object of mass, m moving with velocity
+ 
+   v has a kinetic energy of 1/2 mv^2
+
+• The energy possessed by a body due to its change in position or shape is called the potential energy. The gravitational potential energy of an object of mass, m raised through a height, h from the earth’s surface is given by m g h.
+
+• According to the law of conservation of energy, energy can only be transformed from one form to another; it can neither be created nor destroyed. The total energy before and after the transformation always remains constant.
+
+• Energy exists in nature in several forms such as kinetic energy, potential energy, heat energy, chemical energy etc. The sum of the kinetic and potential energies of an object is called its mechanical energy.
+
+• Power is defined as the rate of doing work. The SI unit of power is watt. 1 W = 1 J/s.
+
+• The energy used in one hour at the rate of 1kW is called 1 kW h.
+
 
 Exercise
 Q 3. What is the magnitude of the gravitational force between the earth and a 1 kg object on its surface? (Mass of the earth is 6 × 10²⁴ kg and radius of the earth is 6.4 × 10⁶ m.)
@@ -626,8 +890,8 @@ Q16. An object of mass, m is moving with a constant velocity, v. How much work s
 
 
 GOTO:top
-TAG:11-sound
-*11-sound*
+TAG:12-sound
+*12-sound*
 
 Photoelectric effect
   - Heinrich Rudolph Hertz
@@ -648,12 +912,106 @@ Range of Hearing
   - Higher than 20 kHz
   - dolphins, bats, porpoises etc
 
+*Summary*
+
+• Sound is produced due to vibration of different objects.
+
+• Sound travels as a longitudinal wave through a material medium.
+
+• Sound travels as successive compressions and rarefactions in the medium.
+
+• In sound propagation, it is the energy of the sound that travels and not the particles of the medium.
+
+• Sound cannot travel in vacuum.
+
+• The change in density from one maximum value to the minimum value and again to the maximum value makes one complete oscillation.
+
+• The distance between two consecutive compressions or two consecutive rarefactions is called the wavelength, λ.
+
+• The time taken by the wave for one complete oscillation of the density or pressure of the medium is called the time period, T.
+
+• The number of complete oscillations per unit time is called the  frequency (ν), 
+    v = 1 / T
+
+• The speed v, frequency ν, and wavelength λ, of sound are related by the equation, v = λν.
+
+• The speed of sound depends primarily on the nature and the temperature of the transmitting medium.
+
+• The law of reflection of sound states that the directions in which the sound is incident and reflected make equal angles with the normal to the reflecting surface at the point of incidence and the three lie in the same plane.
+
+• For hearing a distinct sound, the time interval between the original sound and the reflected one must be at least 0.1 s.
+
+• The persistence of sound in an auditorium is the result of repeated reflections of sound and is called reverberation.
+
+• Sound properties such as pitch, loudness and quality are determined by the corresponding wave properties.
+
+• Loudness is a physiological response of the ear to the intensity of sound.
+
+• The amount of sound energy passing each second through unit area is called the intensity of sound.
+
+• The audible range of hearing for average human beings is in the frequency range of 20 Hz – 20 kHz.
+
+• Sound waves with frequencies below the audible range are termed “infrasonic” and those above the audible range are termed “ultrasonic”.
+
+• Ultrasound has many medical and industrial applications.
+
+• The SONAR technique is used to determine the depth of the sea and to locate under water hills, valleys, submarines, icebergs, sunken ships etc.
+
+
+GOTO:top
+TAG:13-why-do-we-fall-ill
+*13-Why-Do-We-Fall-Ill*
+
+*Summary*
+
+• Health is a state of physical, mental and social well-being.
+
+• The health of an individual is dependent on his/her physical surroundings and his/her economic status.
+
+• Diseases are classified as acute or chronic, depending on their duration.
+
+• Disease may be due to infectious or non-infectious causes. 
+
+• Infectious agents belong to different categories of organisms and may be unicellular and microscopic or multicellular.
+
+• The category to which a disease-causing organism belongs decides the type of treatment.
+
+• Infectious agents are spread through air, water, physical contact or vectors.
+
+• Prevention of disease is more desirable than its successful treatment.
+
+• Infectious diseases can be prevented by public health hygiene measures that reduce exposure to infectious agents.
+
+• Infectious diseases can also be prevented by using immunisation.
+
+• Effective prevention of infectious diseases in the community requires that everyone should have access to public hygiene and immunisation.
 
 
 
 GOTO:top
-TAG:12-improvement-in-food-resources
-*12-improvement-in-food-resources*
+TAG:14-natural-resources
+*14-Natural-Resources*
+
+*Summary*
+
+• Life on Earth depends on resources like soil, water and air, and energy from the Sun.
+
+• Uneven heating of air over land and water-bodies causes winds.
+
+• Evaporation of water from water-bodies and subsequent condensation give us rain.
+
+• Rainfall patterns depend on the prevailing wind patterns in an area.
+
+• Various nutrients are used again and again in a cyclic fashion. This leads to a certain balance between the various components of the biosphere.
+
+• Pollution of air, water and soil affect the quality of life and harm the biodiversity.
+
+• We need to conserve our natural resources and use them in a sustainable manner.
+
+
+GOTO:top
+TAG:15-improvement-in-food-resources
+*15-improvement-in-food-resources*
 
 IMG:nutritional-values-of-animal-products.png
 
@@ -664,23 +1022,39 @@ A. florae - little bee
 A. mellifera - Italian bee
 
 
+*Summary*
 
+• There are several nutrients essential for crops. Of these, some are required in large quantities and are known as macro-nutrients whereas rest of the nutrients are required in small quantities and are known as micro-nutrients.
 
-______________________
-Removed chapters:
-TAG:7-diversity-in-living-organisms
-*7-diversity-in-living-organisms*
+• Manure and fertilizers are the main sources of nutrient supply to crops.
 
+• Organic farming is a farming system with minimal or no use of chemicals as fertilizers, herbicides, pesticides etc. and with a maximum input of organic manures, recyled farm wastes, and bio-agents, with healthy cropping systems.
 
-GOTO:top
-TAG:13-why-do-we-fall-ill
-*13-why-do-we-fall-ill*
+• Mixed farming is a system of farming on a particular farm which includes crop production, raising of livestock etc.
 
+• Mixed cropping is growing of two or more crops simultaneously on the same piece of land.
 
-GOTO:top
-TAG:14-natural-resources
-*14-natural-resources*
+• Growing two or more crops in definite row patterns is known as inter-cropping.
 
+• The growing of different crops on a piece of land in pre-planned succession is called crop rotation.
+
+• Varietal improvement is required for higher yield, good quality, biotic and abiotic resistance, shortening the maturity duration, wider adaptability and desirable agronomic characteristics.
+
+• Farm animals require proper care and management such as shelter, feeding, breeding and disease control. This is called animal husbandry.
+
+• Poultry farming is done to raise domestic fowls. Poultry production includes egg production and broiler production for poultry meat.
+
+• To enhance poultry production, cross breeding is done between Indian and exotic breeds for variety improvement.
+
+• Fish may be obtained from marine resources as well as inland resources.
+
+• To increase production of fish, they can be cultured in marine and inland ecosystems. 
+
+• Marine fish capture is done by fishing nets guided by echo sounders and satellites.
+
+• Composite fish culture system is commonly used for fish farming.
+
+• Bee-keeping is done to get honey and wax.
 
 
 GOTO:top

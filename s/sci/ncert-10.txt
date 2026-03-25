@@ -8,85 +8,503 @@ GOTO:1-chemical-reactions-and-equations
 GOTO:2-acids-bases-and-salts
 GOTO:3-metals-and-non-metals
 GOTO:4-carbon-and-its-compounds
-GOTO:5-life-processes
-GOTO:6-control-and-coordination
-GOTO:7-how-do-organisms-reproduce
-GOTO:8-heredity
-GOTO:9-light-reflection-andrefraction
-GOTO:10-the-human-eye-and-the-colourful-world
-GOTO:11-electricity
-GOTO:12-magnetic-effects-of-electric-current
-GOTO:13-our-environment
-______________________
-Removed chapters:
 GOTO:5-periodic-classification-of-elements
+GOTO:6-life-processes
+GOTO:7-control-and-coordination
+GOTO:8-how-do-organisms-reproduce
+GOTO:9-heredity-and-evolution
+GOTO:10-light-reflection-andrefraction
+GOTO:11-the-human-eye-and-the-colourful-world
+GOTO:12-electricity
+GOTO:13-magnetic-effects-of-electric-current
 GOTO:14-sources-of-energy
+GOTO:15-our-environment
 GOTO:16-sustainable-management-of-natural-resources
 
+_____________________
 
-
-
-
+GOTO:top
 TAG:1-chemical-reactions-and-equations
 *1-chemical-reactions-and-equations*
 
+*Summary*
 
+A complete chemical equation represents the reactants, products and their physical states symbolically.
+
+A chemical equation is balanced so that the numbers of atoms of each type involved in a chemical reaction are the same on the reactant and product sides of the equation. 
+
+Equations must always be balanced. In a combination reaction two or more substances combine to form a new single substance.
+
+Decomposition reactions are opposite to combination reactions. In a decomposition reaction, a single substance decomposes to give two or more substances.
+
+Reactions in which heat is given out along with the products are called exothermic reactions.
+
+Reactions in which energy is absorbed are known as endothermic reactions.
+
+When an element displaces another element from its compound, a displacement reaction occurs.
+
+Two different atoms or groups of atoms (ions) are exchanged in double displacement reactions.
+
+Precipitation reactions produce insoluble salts. 
+
+Reactions also involve the gain or loss of oxygen or hydrogen by substances.
+
+Oxidation is the gain of oxygen or loss of hydrogen. Reduction is the loss of oxygen or gain of hydrogen.
+
+
+
+GOTO:top
 TAG:2-acids-bases-and-salts
 *2-acids-bases-and-salts*
 
+*Summary*
 
+Acid-base indicators are dyes or mixtures of dyes which are used to indicate the presence of acids and bases.
+
+Acidic nature of a substance is due to the formation of H+(aq) ions in solution. Formation of OH–(aq) ions in solution is responsible for the basic nature of a substance.
+
+When an acid reacts with a metal, hydrogen gas is evolved and a corresponding salt is formed.
+
+When a base reacts with a metal, along with the evolution of hydrogen gas a salt is formed which has a negative ion composed of the metal and oxygen.
+
+When an acid reacts with a metal carbonate or metal hydrogencarbonate, it gives the corresponding salt, carbon dioxide gas and water.
+
+Acidic and basic solutions in water conduct electricity because they produce hydrogen and hydroxide ions respectively.
+
+The strength of an acid or an alkali can be tested by using a scale called the pH scale (0-14) which gives the measure of hydrogen ion concentration in a solution.
+
+A neutral solution has a pH of exactly 7, while an acidic solution has a pH less than 7 and a basic solution a pH more than 7.
+
+Living beings carry out their metabolic activities within an optimal pH range. 
+
+Mixing concentrated acids or bases with water is a highly exothermic process. 
+
+Acids and bases neutralise each other to form corresponding salts and water.
+
+Water of crystallisation is the fixed number of water molecules present in one formula unit of a salt.
+
+Salts have various uses in everyday life and in industries.
+
+
+GOTO:top
 TAG:3-metals-and-non-metals
 *3-metals-and-non-metals*
 
+*Summary*
 
+Elements can be classified as metals and non-metals.
+
+Metals are lustrous, malleable, ductile and are good conductors of heat and electricity. They are solids at room temperature, except mercury which is a liquid.
+
+Metals can form positive ions by losing electrons to non-metals.
+
+Metals combine with oxygen to form basic oxides. Aluminium oxide and zinc oxide show the properties of both basic as well as acidic oxides. These oxides are known as amphoteric oxides.
+
+Different metals have different reactivities with water and dilute acids.
+
+A list of common metals arranged in order of their decreasing reactivity is known as an activity series.
+
+Metals above hydrogen in the Activity series can displace hydrogen from dilute acids.
+
+A more reactive metal displaces a less reactive metal from its salt solution. 
+
+Metals occur in nature as free elements or in the form of their compounds.
+
+The extraction of metals from their ores and then refining them for use is known as metallurgy.
+
+An alloy is a homogeneous mixture of two or more metals, or a metal and a non-metal.
+
+The surface of some metals, such as iron, is corroded when they are exposed to moist air for a long period of time. This phenomenon is known as corrosion.
+
+Non-metals have properties opposite to that of metals. They are neither malleable nor ductile. They are bad conductors of heat and electricity, except for graphite, which conducts electricity.
+
+Non-metals form negatively charged ions by gaining electrons when reacting with metals.
+
+Non-metals form oxides which are either acidic or neutral.
+
+Non-metals do not displace hydrogen from dilute acids. They react with hydrogen to form hydrides.
+
+
+GOTO:top
 TAG:4-carbon-and-its-compounds
 *4-carbon-and-its-compounds*
 
+Carbon is a versatile element that forms the basis for all living organisms and many of the things we use.
 
-TAG:5-life-processes
-*5-life-processes*
+This large variety of compounds is formed by carbon because of its tetravalency and the property of catenation that it exhibits.
 
+Covalent bonds are formed by the sharing of electrons between two atoms so that both can achieve a completely filled outermost shell.
 
-TAG:6-control-and-coordination
-*6-control-and-coordination*
+Carbon forms covalent bonds with itself and other elements such as hydrogen, oxygen, sulphur, nitrogen and chlorine.
 
+Carbon also forms compounds containing double and triple bonds between carbon atoms. 
 
-TAG:7-how-do-organisms-reproduce
-*7-how-do-organisms-reproduce*
+These carbon chains may be in the form of straight chains, branched chains or rings.
 
+The ability of carbon to form chains gives rise to a homologous series of compounds in which the same functional group is attached to carbon chains of different lengths.
 
-TAG:8-heredity
-*8-heredity*
+The functional groups such as alcohols, aldehydes, ketones and carboxylic acids bestow characteristic properties to the carbon compounds that contain them.
 
+Carbon and its compounds are some of our major sources of fuels.
 
-TAG:9-light-reflection-andrefraction
-*9-light-reflection-andrefraction*
+Ethanol and ethanoic acid are carbon compounds of importance in our daily lives. 
 
-
-TAG:10-the-human-eye-and-the-colourful-world
-*10-the-human-eye-and-the-colourful-world*
-
-TAG:11-electricity
-*11-electricity*
+The action of soaps and detergents is based on the presence of both hydrophobic and hydrophilic groups in the molecule and this helps to emulsify the oily dirt and hence its removal.
 
 
-TAG:12-magnetic-effects-of-electric-current
-*12-magnetic-effects-of-electric-current*
 
-
-TAG:13-our-environment
-*13-our-environment*
-
-
-______________________
-Removed chapters:
+GOTO:top
 TAG:5-periodic-classification-of-elements
-*5-periodic-classification-of-elements*
+*5-Periodic-Classification-of-Elements*
+
+*Summary*
+
+Elements are classified on the basis of similarities in their properties.
+
+Döbereiner grouped the elements into triads and Newlands gave the Law of Octaves. 
+
+Mendeléev arranged the elements in increasing order of their atomic masses and according to their chemical properties.
+
+Mendeléev even predicted the existence of some yet to be discovered elements on the basis of gaps in his Periodic Table.
+
+Anomalies in arrangement of elements based on increasing atomic mass could be removed when the elements were arranged in order of increasing atomic number, a fundamental property of the element discovered by Moseley.
+
+Elements in the Modern Periodic Table are arranged in 18 vertical columns called groups and 7 horizontal rows called periods.
+
+Elements thus arranged show periodicity of properties including atomic size, valency or combining capacity and metallic and non-metallic character.
 
 
+GOTO:top
+TAG:6-life-processes
+*6-life-processes*
+
+*Summary*
+
+Movement of various types can be taken as an indication of life.
+
+Maintenance of life requires processes like nutrition, respiration, transport of materials within the body and excretion of waste products.
+
+Autotrophic nutrition involves the intake of simple inorganic materials from the environment and using an external energy source like the Sun to synthesise complex high-energy organic material.
+
+Heterotrophic nutrition involves the intake of complex material prepared by other organisms.
+
+In human beings, the food eaten is broken down by various steps along the alimentary canal and the digested food is absorbed in the small intestine to be sent to all cells in the body.
+
+During the process of respiration, organic compounds such as glucose are broken down to provide energy in the form of ATP. ATP is used to provide energy for other reactions in the cell.
+
+Respiration may be aerobic or anaerobic. Aerobic respiration makes more energy available to the organism.
+
+In human beings, the transport of materials such as oxygen, carbon dioxide, food and excretory products is a function of the circulatory system. 
+
+The circulatory system consists of the heart, blood and blood vessels.
+
+In highly differentiated plants, transport of water, minerals, food and other materials is a function of the vascular tissue which consists of xylem and phloem.
+
+In human beings, excretory products in the form of soluble nitrogen compounds are removed by the nephrons in the kidneys.
+
+Plants use a variety of techniques to get rid of waste material. For example, waste material may be stored in the cell-vacuoles or as gum and resin, removed in the falling leaves, or excreted into the surrounding soil.
+
+
+GOTO:top
+TAG:7-control-and-coordination
+*7-control-and-coordination*
+
+*Summary*
+
+Control and coordination are the functions of the nervous system and hormones in our bodies.
+
+The responses of the nervous system can be classified as reflex action, voluntary action or involuntary action.
+
+The nervous system uses electrical impulses to transmit messages.
+
+The nervous system gets information from our sense organs and acts through our muscles.
+
+Chemical coordination is seen in both plants and animals. 
+
+Hormones produced in one part of an organism move to another part to achieve the desired effect.
+
+A feedback mechanism regulates the action of the hormones.
+
+GOTO:top
+TAG:8-how-do-organisms-reproduce
+*8-how-do-organisms-reproduce*
+
+*Summary*
+
+Reproduction, unlike other life processes, is not essential to maintain the life of an individual organism.
+
+Reproduction involves creation of a DNA copy and additional cellular apparatus by the cell involved in the process.
+
+Various organisms use different modes of reproduction depending on their body design.
+
+In fission, many bacteria and protozoa simply divide into two or more daughter cells.
+
+Organisms such as hydra can regenerate if they are broken into pieces. 
+
+They can also give out buds which mature into new individuals.
+
+Roots, stems and leaves of some plants develop into new plants through vegetative propagation.
+
+These are examples of asexual reproduction where new generations are created from a single individual.
+
+Sexual reproduction involves two individuals for the creation of a new individual.
+
+DNA copying mechanisms creates variations which are useful for ensuring the survival of the species. Modes of sexual reproduction allow for greater variation to be generated.
+
+Reproduction in flowering plants involves transfer of pollen grains from the anther to the stigma which is referred to as pollination. This is followed by fertilisation.
+
+Changes in the body at puberty, such as increase in breast size in girls and new facial hair growth in boys, are signs of sexual maturation.
+
+The male reproductive system in human beings consists of testes which produce sperms, vas deferens, seminal vesicles, prostate gland, urethra and penis.
+
+The female reproductive system in human beings consists of ovaries, fallopian tubes, uterus and vagina.
+
+Sexual reproduction in human beings involves the introduction of sperm in the vagina of the female. Fertilisation occurs in the fallopian tube.
+
+Contraception to avoid pregnancy can be achieved by the use of condoms, oral pills, copper-T and other methods.
+
+
+GOTO:top
+TAG:9-heredity-and-evolution
+*9-Heredity-and-Evolution*
+
+*Summary*
+
+Variations arising during the process of reproduction can be inherited.
+
+These variations may lead to increased survival of the individuals.
+
+Sexually reproducing individuals have two copies of genes for the same trait. 
+
+If the copies are not identical, the trait that gets expressed is called the dominant trait and the other is called the recessive trait.
+
+Traits in one individual may be inherited separately, giving rise to new combinations of traits in the offspring of sexual reproduction.
+
+Sex is determined by different factors in various species. In human beings, the sex of the child depends on whether the paternal chromosome is X (for girls) or Y (for boys).
+
+Variations in the species may confer survival advantages or merely contribute to the genetic drift.
+
+Changes in the non-reproductive tissues caused by environmental factors are not inheritable.
+
+Speciation may take place when variation is combined with geographical isolation. 
+
+Evolutionary relationships are traced in the classification of organisms.
+
+Tracing common ancestors back in time leads us to the idea that at some point of time, non-living material must have given rise to life.
+
+Evolution can be worked out by the study of not just living species, but also fossils. 
+
+Complex organs may have evolved because of the survival advantage of even the intermediate stages.
+
+Organs or features may be adapted to new functions during the course of evolution. 
+
+For example, feathers are thought to have been initially evolved for warmth and later adapted for flight.
+
+Evolution cannot be said to ‘progress’ from ‘lower’ forms to ‘higher’ forms. 
+
+Rather, evolution seems to have given rise to more complex body designs even while the simpler body designs continue to flourish.
+
+Study of the evolution of human beings indicates that all of us belong to a single species that evolved in Africa and spread across the world in stages.
+
+
+GOTO:top
+TAG:10-light-reflection-andrefraction
+*10-light-reflection-andrefraction*
+
+*Summary*
+
+Light seems to travel in straight lines.
+
+Mirrors and lenses form images of objects. Images can be either real or virtual, depending on the position of the object.
+
+The reflecting surfaces, of all types, obey the laws of reflection. The refracting surfaces obey the laws of refraction.
+
+New Cartesian Sign Conventions are followed for spherical mirrors and lenses.
+
+Mirror formula, 
+   1/v + 1/u = 1/f
+   gives the relationship between the object-distance (u), image-distance (v), and focal length (f) of a spherical mirror.
+
+The focal length of a spherical mirror is equal to half its radius of curvature.
+
+The magnification produced by a spherical mirror is the ratio of the height of the image to the height of the object.
+
+A light ray travelling obliquely from a denser medium to a rarer medium bends away from the normal. 
+
+A light ray bends towards the normal when it travels obliquely from a rarer to a denser medium.
+
+Light travels in vacuum with an enormous speed of 3×108 m s-1.  The speed of light is different in different media.
+
+The refractive index of a transparent medium is the ratio of the speed of light in vacuum to that in the medium.
+
+In case of a rectangular glass slab, the refraction takes place at both air-glass interface and glass-air interface. The emergent ray is parallel to the direction of incident ray.
+
+Lens formula, 
+   1/v - 1/u = 1/f
+   gives the relationship between the object-distance (u), image-distance (v), and the focal length (f) of a spherical lens.
+
+Power of a lens is the reciprocal of its focal length. The SI unit of power of a lens is dioptre.
+
+
+GOTO:top
+TAG:11-the-human-eye-and-the-colourful-world
+*11-The-Human-Eye-and-The-Colourful-World*
+
+*Summary*
+
+The ability of the eye to focus on both near and distant objects, by adjusting its focal length, is called the accommodation of the eye.
+
+The smallest distance, at which the eye can see objects clearly without strain, is called the near point of the eye or the least distance of distinct vision.  
+
+For a young adult with normal vision, it is about 25 cm.
+
+The common refractive defects of vision include myopia, hypermetropia and  presbyopia. Myopia (short-sightedness – the image of distant objects is focussed before the retina) is corrected by using a concave lens of suitable power.
+
+Hypermetropia (far-sightedness – the image of nearby objects is focussed beyond the retina) is corrected by using a convex lens of suitable power. 
+
+The eye loses its power of accommodation at old age.
+
+The splitting of white light into its component colours is called dispersion. 
+
+Scattering of light causes the blue colour of sky and the reddening of the Sun at sunrise and sunset.
+
+
+
+GOTO:top
+TAG:12-electricity
+*12-electricity*
+
+*Summary*
+
+A stream of electrons moving through a conductor constitutes an electric current.
+
+Conventionally, the direction of current is taken opposite to the direction of flow of electrons.
+
+The SI unit of electric current is ampere.
+
+To set the electrons in motion in an electric circuit, we use a cell or a battery. A cell generates a potential difference across its terminals. It is measured in volts (V).
+
+Resistance is a property that resists the flow of electrons in a conductor. 
+
+It controls the magnitude of the current. The SI unit of resistance is ohm (Ω).
+
+Ohm’s law: The potential difference across the ends of a resistor is directly proportional to the current through it, provided its temperature remains the same.
+
+The resistance of a conductor depends directly on its length, inversely on its area of cross-section, and also on the material of the conductor.
+
+The equivalent resistance of several resistors in series is equal to the sum of their individual resistances.
+
+The unit of power is watt (W). One watt of power is consumed when 1 A of current flows at a potential difference of 1 V.
+
+The commercial unit of electrical energy is kilowatt hour (kWh). 
+   1 kW h = 3,600,000 J = 3.6 × 106 J.
+
+
+
+GOTO:top
+TAG:13-magnetic-effects-of-electric-current
+*13-magnetic-effects-of-electric-current*
+
+*Summary*
+
+A compass needle is a small magnet. Its one end, which points towards north, is called a north pole, and the other end, which points towards south, is called a south pole.
+
+A magnetic field exists in the region surrounding a magnet, in which the force of the magnet can be detected.
+
+Field lines are used to represent a magnetic field. A field line is the path along which a hypothetical free north pole would tend to move. The direction of the magnetic field at a point is given by the direction that a north pole placed at that point would take. 
+
+Field lines are shown closer together where the magnetic field is greater.
+
+A metallic wire carrying an electric current has associated with it a magnetic field. 
+
+The field lines about the wire consist of a series of concentric circles whose direction is given by the right-hand rule.
+
+The pattern of the magnetic field around a conductor due to an electric current flowing through it depends on the shape of the conductor. The magnetic field of a solenoid carrying a current is similar to that of a bar magnet.
+
+An electromagnet consists of a core of soft iron wrapped around with a coil of insulated copper wire.
+
+A current-carrying conductor when placed in a magnetic field experiences a force. 
+
+If the direction of the field and that of the current are mutually perpendicular to each other, then the force acting on the conductor will be perpendicular to both and will be given by Fleming’s left-hand rule. This is the basis of an electric motor.
+
+An electric motor is a device that converts electric energy into mechanical energy.
+
+The phenomenon of electromagnetic induction is the production of induced current in a coil placed in a region where the magnetic field changes with time. 
+
+The magnetic field may change due to a relative motion between the coil and a magnet placed near to the coil. 
+
+If the coil is placed near to a current-carrying conductor, the magnetic field may change either due to a change in the current through the conductor or due to the relative motion between the coil and conductor. 
+
+The direction of the induced current is given by the Fleming’s right-hand rule. 
+
+A generator converts mechanical energy into electrical energy. It works on the basis of electromagnetic induction.
+
+In our houses we receive AC electric power of 220 V with a frequency of 50 Hz. 
+
+One of the wires in this supply is with red insulation, called live wire. The other one is of black insulation, which is a neutral wire. 
+
+The potential difference between the two is 220 V. 
+
+The third is the earth wire that has green insulation and this is connected to a metallic body deep inside earth. 
+
+It is used as a safety measure to ensure that any leakage of current to a metallic body does not give any severe shock to a user.
+
+Fuse is the most important safety device, used for protecting the circuits due to short-circuiting or overloading of the circuits.
+
+
+GOTO:top
 TAG:14-sources-of-energy
-*14-sources-of-energy*
+*14-Sources-of-Energy*
+
+*Summary*
+
+Our energy requirements increase with our standard of living.
+
+In order to fulfil our energy requirements, we try to improve the efficiency of energy usage and also try and exploit new sources of energy.
+
+We also need to look for new sources of energy because the conventional sources of energy like fossil fuels are in danger of getting exhausted soon.
+
+The energy source we select would depend on factors like the ease and cost of extracting energy from the source, the efficiency of the technology available for using that source of energy and the environmental impact of using that source.
+
+Many of the sources ultimately derive their energy from the Sun.
 
 
+GOTO:top
+TAG:15-our-environment
+*15-Our-Environment*
+
+*Summary*
+
+The various components of an ecosystem are interdependent. 
+
+The producers make the energy from sunlight available to the rest of the ecosystem. 
+
+There is a loss of energy as we go from one trophic level to the next, this limits the number of trophic levels in a food-chain.
+
+Human activities have an impact on the environment.
+
+The use of chemicals like CFCs has endangered the ozone layer. Since the ozone layer protects against the ultraviolet radiation from the Sun, this could damage the environment.
+
+The waste we generate may be biodegradable or non-biodegradable.
+
+The disposal of the waste we generate is causing serious environmental problems.
+
+
+
+GOTO:top
 TAG:16-sustainable-management-of-natural-resources
 *16-sustainable-management-of-natural-resources*
+
+*Summay*
+
+Our resources like forests, wildlife, water, coal and petroleum need to be used in a sustainable manner.
+
+We can reduce pressure on the environment by sincerely applying the maxim of ‘Refuse, Reduce, Reuse, Repurpose and Recycle’ in our lives.
+
+Management of forest resources has to take into account the interests of various stakeholders.
+
+The harnessing of water resources by building dams has social, economic and environmental implications. Alternatives to large dams exist. These are localespecific and may be developed so as to give local people control over their local resources.
+
+The fossil fuels, coal and petroleum, will ultimately be exhausted. Because of this and because their combustion pollutes our environment, we need to use these resources judiciously.
+
+GOTO:top

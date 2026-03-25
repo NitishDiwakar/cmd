@@ -30,28 +30,88 @@ GOTO:20-trigonometry
 TAG:1-percentage
 *1-Percentage*
 
-Q10. The population of a city was 5000000 in 2020. The population grows 7.5% annually. The population in 2022 is ______. (Ans: 5778125)
+Q10. The population of a city was 50,00,000 in 2020. The population grows 7.5% annually. The population in 2022 is ______. (Ans: 5778125)
+  [Hint: 7.5% = half of 15%]
 
-Q9. In an election, a candidate secured 41% of the votes polled and lost the election by 97,632. What is the number of votes obtained by the winning candidate? (Ans: 3,20,016)
+*Q9.* In an election, a candidate secured 41% of the votes polled and lost the election by 97,632. What is the number of votes obtained by the winning candidate? (Ans: 3,20,016)
+  [Hint:
+  Losing candidate -> 41%
+  Winning candidate -> 59%
+  Difference -> 18%
+
+  18 % of x = 97,632
+
+  18% = 9% × 2
+  9% of x = 97,632 ÷ 2 = 48,816
+  1% = 48,816 ÷ 9 = 5,424
+  100% = 5,424 × 100 = 5,42,400
+
+  Find losing votes (*easy*)
+  10% = 54,240  
+  40% = 2,16,960  
+  1%  = 5,424  
+
+  → 41% = 2,16,960 + 5,424 = 2,22,384
+
+  5,42,400 - 2,22,384
+  3,20,016 ]
 
 Q8. Sumit's income in 2020 was Rs. 21,000. He gets an increment of 10% every year. What was his income in 2022? (Ans: 25,410)
+  [Hint: Beautiful question
+  210 x 11 x 11
+  210 x 121
+  121 x 21 (0 ko side karo)
+  441 + 2100
+  2541
+  25,410 (0 ko add karo) ]
 
-Q1. The income of Arun is ₹ 36,000 which is 20% less than the income of Babita. The expenditure of Babita is ₹ 30,000 which is 25% more than the expenditure of Arun. What is the difference (in ₹) between the savings of Babita and Arun? (Ans: ₹ 3000)
+*Q7.* The income of Arun is ₹ 36,000 which is 20% less than the income of Babita. The expenditure of Babita is ₹ 30,000 which is 25% more than the expenditure of Arun. What is the difference (in ₹) between the savings of Babita and Arun? (Ans: ₹ 3000)
 
-Q2. A number is successively increased by 20% and 25%, and then successively decreased by 30%, 8% and 5%. The net percentage increase/decrease in the original number is: (Ans: decrease by 8.23%)
+*Q6.* A number is successively increased by 20% and 25%, and then successively decreased by 30%, 8% and 5%. The net percentage increase/decrease in the original number is: (Ans: decrease by 8.23%)
+  [Hint: Beautiful question, careful calculation
+  100 -> 120 -> 150
+  150 -> 105
+  105 - 8.4 = 96.6
+  96.6 ↓ 5%
 
-Q3. Let a, b and c be natural numbers. If the average value of 20% of a and 30% of b is 270; that of 10% of b and 25% of c is 115 and the difference between b and c is 200, then what is the value of (a + b + 2c)? (Ans: 3,500)
+  To get 5%, find 10% and half
+  4.83
+  96.60 - 4.83
+  91.77
+
+  100 - 91.77
+  8.23 ]
+
+*Q5.* Let a, b and c be natural numbers. If the average value of 20% of a and 30% of b is 270; that of 10% of b and 25% of c is 115 and the difference between b and c is 200, then what is the value of (a + b + 2c)? (Ans: 3,500)
 
 Q4. The population of a village increased to 44100 in year 2003 at the rate of 5% annum. What is the population of the village in year 2001 ? (Ans: 40,000)
+  [Hint:
+  x x 105/100 x 105/100 = 44100
+  x = 44100 x 100 x 100 / (105 x 105)
+  40,000]
 
 
-Q5. David gets a 5% increase in his sale amount in the first year and a 25% increase in the second year, and with that his present sale is ₹1,68,000. What was his sale (in ₹) two years ago? (Ans: 1,28,000)
+Q3. David gets a 5% increase in his sale amount in the first year and a 25% increase in the second year, and with that his present sale is ₹1,68,000. What was his sale (in ₹) two years ago? (Ans: 1,28,000)
+  [Hint: 
+  x x 105/100 x 125/100 = 1,68,000
+  x = 1,28,000
+  *16 x 8 = 128* ]
 
+*Q2.* Two numbers are more than the 3rd number by 30% and 37.5% respectively. Find, the first number is what percentage less than the second number [nearest to one decimal]. (Ans: 5.45%)
+  [Hint:
+  130  137.5  100
+  130 is what % less than 137.5
+  7.5
+  
+  7.5 is what % of 137.5
 
-Q6. Two numbers are more than the 3rd number by 30% and 37.5% respectively. Find, the first number is what percentage less than the second number [nearest to one decimal]. (Ans: 5.45%)
+  137.5 x x% = 7.5
+  x = 7.5 x 100 / (137.5)
+  x = 75 x 100 / 1375
+  x = 60/11
+  5.45 ]
 
-
-Q7. A person’s monthly income is ₹4,000. He spends 40% of his income on rent, 25% on groceries and 15% on transportation. The remaining amount is saved. However, his rent increases by 10% next month, while his grocery and transportation expenditures remain the same. How much will he save next month if his income remains the same? (Ans: 640)
+*Q1.* A person’s monthly income is ₹4,000. He spends 40% of his income on rent, 25% on groceries and 15% on transportation. The remaining amount is saved. However, his rent increases by 10% next month, while his grocery and transportation expenditures remain the same. How much will he save next month if his income remains the same? (Ans: 640)
 
 
 
@@ -60,80 +120,106 @@ ____________________
 TAG:2-profit-loss
 *2-Profit-loss*
 
-Q20. If the selling price of 40 articles is equal to the cost price of 50 articles, then the percentage gain is: (Ans: 25%)
+Q21. If the selling price of 40 articles is equal to the cost price of 50 articles, then the percentage gain is: (Ans: 25%)
+  [Hint:
+  40SP = 50CP
+  4SP  = 5CP 
+  1
 
-Q1. A trader gives 12% discount on the marked price of an article and gives 3 articles free for buying 18 articles and gains 32% in the entire transaction. Assuming a customer pays for 18 articles, the marked price of an article is what percentage more than its cost price? (Ans: 75%)
+  Profit or Loss -> alway on SP
+  1 is what % of 4
+  25% ]
 
-Q2. A shop sells pens at INR 10 each and notebooks at INR 40 each. After a 10% discount on notebooks.A customer buys 3 pens and 2 notebooks. What is the total cost? (Ans: INR 102)
-
-
-Q3. A retailer sold an item at ₹36,750 after giving a 26.5% discount. What is 16% of the difference between the original marked price and the selling price? (₹ 2,120)
-
-
-Q4. A shopkeeper sells two watches for Rs 3000 each. On one watch he gets 20% profit and on another watch 20% loss. Find the overall profit or loss.  (Ans: Rs 250 loss)
-
-
-Q5. A fruit vendor bought some oranges 3 for a rupee and equal number 2 for a rupee. If he wants to make a profit of 20%, what should be his selling price per dozen? (Ans: 6)
+*Q20.* A trader gives 12% discount on the marked price of an article and gives 3 articles free for buying 18 articles and gains 32% in the entire transaction. Assuming a customer pays for 18 articles, the marked price of an article is what percentage more than its cost price? (Ans: 75%)
 
 
-Q6. Sum of cost prices of two dogs is ₹ 26,000. Both are sold at profit of 20% and 40% respectively with their selling prices being same. What is the difference between the cost prices of both dogs? (Ans: ₹2,000)
-
-Q7. A shopkeeper has 150 articles of the same cost price. He sells two-third of them at a profit of 35% and the remaining articles at a loss of 16%. What is his profit percentage in the entire transaction? (Ans: 18%)
-
-Q8. The price of an item is successively increased by 20% and 30%, and then decreased successively by 15% and 25%. If the difference between the final price and the original price of the item is Rs. 17.60, then the original price of the item is: (Ans: Rs 3,200)
-
-Q9. The cost of 8 pens and 10 pencils is ₹132. If the cost of a pen decreases by ₹2 and the cost of a pencil increases by ₹7, then the cost of 17 pens and 6 pencils is ₹136. What is the original cost of 12 pens and 9 pencils? (Ans: 138)
+Q19. A shop sells pens at INR 10 each and notebooks at INR 40 each. After a 10% discount on notebooks.A customer buys 3 pens and 2 notebooks. What is the total cost? (Ans: INR 102)
 
 
-Q10. A dealer buys two articles X and Y for ₹1,500 each. He marks each of them at the same price. He sells X by giving two successive discounts of 25% and 44% and still earns ₹279 as profit. If he sells Y at a single discount of 58%, then what is the profit percentage on Y? (Ans: 18.6%)
+Q18. A retailer sold an item at ₹36,750 after giving a 26.5% discount. What is 16% of the difference between the original marked price and the selling price? (₹ 2,120)
 
 
-Q11. The cost of 13 pens and 3 notebooks is ₹234. If the cost of a pen decreases by ₹6 and the cost of a notebook increases by ₹9, then the cost of 16 pens and 2 notebooks is ₹144. What is the original cost of 6 pens and 17 notebooks? (Ans: ₹ 717)
+Q17. A shopkeeper sells two watches for Rs 3000 each. On one watch he gets 20% profit and on another watch 20% loss. Find the overall profit or loss.  (Ans: Rs 250 loss)
 
 
-Q12. A man sells two articles for ₹4000 each On one, he gains 25%, and on the other, he loses 25% What is his net gain or loss percentage in the entire transaction? (Ans: 6.25 loss)
+Q16. A fruit vendor bought some oranges 3 for a rupee and equal number 2 for a rupee. If he wants to make a profit of 20%, what should be his selling price per dozen? (Ans: 6)
 
 
-Q13. By selling 20 markers, a shopkeeper earned a profit equal to the selling price of 5 markers. Find his profit percentage. (Ans: 1⅓)
+Q15. Sum of cost prices of two dogs is ₹ 26,000. Both are sold at profit of 20% and 40% respectively with their selling prices being same. What is the difference between the cost prices of both dogs? (Ans: ₹2,000)
+
+Q14. A shopkeeper has 150 articles of the same cost price. He sells two-third of them at a profit of 35% and the remaining articles at a loss of 16%. What is his profit percentage in the entire transaction? (Ans: 18%)
+
+Q13. The price of an item is successively increased by 20% and 30%, and then decreased successively by 15% and 25%. If the difference between the final price and the original price of the item is Rs. 17.60, then the original price of the item is: (Ans: Rs 3,200)
+
+Q12. The cost of 8 pens and 10 pencils is ₹132. If the cost of a pen decreases by ₹2 and the cost of a pencil increases by ₹7, then the cost of 17 pens and 6 pencils is ₹136. What is the original cost of 12 pens and 9 pencils? (Ans: 138)
 
 
-Q14. A shopkeeper purchased a chair whose marked price is Rs. 6600, after two successive discounts of 10 percent each. If he sold the chair for Rs. 6682.50, then what was his profit percentage? (Ans: 25%)
-
-Q14. A shopkeeper purchased a chair whose marked price is Rs. 6600, after two successive discounts of 10 percent each. If he sold the chair for Rs. 6682.50, then what was his profit percentage? (Ans: 25%)
-Q15. (Ans: 210)
-
-Q15. If by selling an article for ₹ 560, the loss is ₹50 more than the profit made by selling it for ₹720, then the cost of the article is: (665)
+Q11. A dealer buys two articles X and Y for ₹1,500 each. He marks each of them at the same price. He sells X by giving two successive discounts of 25% and 44% and still earns ₹279 as profit. If he sells Y at a single discount of 58%, then what is the profit percentage on Y? (Ans: 18.6%)
 
 
-Q16. If a person earns 12.5 percent profit on selling price, then what will be his profit percentage on cost price? [Give your answer correct to two decimal places.]  (Ans: 14.29%)
+10. The cost of 13 pens and 3 notebooks is ₹234. If the cost of a pen decreases by ₹6 and the cost of a notebook increases by ₹9, then the cost of 16 pens and 2 notebooks is ₹144. What is the original cost of 6 pens and 17 notebooks? (Ans: ₹ 717)
 
 
-Q17. Mohan bought a new cycle from the showroom and after one year he sold it to Shyam at a profit of 20 percent. Shyam sold the same cycle to Sumit at the loss of 40 percent. Finally Sumit paid Rs. 57600 for this cycle. At what price Mohan bought the cycle?  (Ans: 80,000)
+Q9. A man sells two articles for ₹4000 each On one, he gains 25%, and on the other, he loses 25% What is his net gain or loss percentage in the entire transaction? (Ans: 6.25 loss)
 
 
-Q18. When an article is sold at 3340 of its actual selling price, there is a loss of 25%. If it is sold at 32% above its actual selling price, then the profit percentage is: (Ans: 20%)
+Q8. By selling 20 markers, a shopkeeper earned a profit equal to the selling price of 5 markers. Find his profit percentage. (Ans: 1⅓)
 
 
-Q19. An article is sold for Rs. 1,955, after giving two successive discounts of 15% and 20% on its marked price. If no discount is given on the marked price, then there is a gain of 25%. The cost price (in Rs) of the article is: (Ans: 2,300)
+Q7. A shopkeeper purchased a chair whose marked price is Rs. 6600, after two successive discounts of 10 percent each. If he sold the chair for Rs. 6682.50, then what was his profit percentage? (Ans: 25%)
+
+Q6. A shopkeeper purchased a chair whose marked price is Rs. 6600, after two successive discounts of 10 percent each. If he sold the chair for Rs. 6682.50, then what was his profit percentage? (Ans: 25%)
+
+
+Q5. If by selling an article for ₹ 560, the loss is ₹50 more than the profit made by selling it for ₹720, then the cost of the article is: (665)
+
+
+Q4. If a person earns 12.5 percent profit on selling price, then what will be his profit percentage on cost price? [Give your answer correct to two decimal places.]  (Ans: 14.29%)
+
+
+Q3. Mohan bought a new cycle from the showroom and after one year he sold it to Shyam at a profit of 20 percent. Shyam sold the same cycle to Sumit at the loss of 40 percent. Finally Sumit paid Rs. 57600 for this cycle. At what price Mohan bought the cycle?  (Ans: 80,000)
+
+
+Q2. When an article is sold at 3340 of its actual selling price, there is a loss of 25%. If it is sold at 32% above its actual selling price, then the profit percentage is: (Ans: 20%)
+
+
+Q1. An article is sold for Rs. 1,955, after giving two successive discounts of 15% and 20% on its marked price. If no discount is given on the marked price, then there is a gain of 25%. The cost price (in Rs) of the article is: (Ans: 2,300)
 
 ____________________
 TAG:3-time-and-work
 *3-Time-and-work*
 
-Q6. Fifteen persons working 12 hours a day earn Rs. 18,000 per week. How many rupees will 18 persons working 9 hours a day earn per week? (Ans: 16,200)
+*Q6.* Fifteen persons working 12 hours a day earn Rs. 18,000 per week. How many rupees will 18 persons working 9 hours a day earn per week? (Ans: 16,200)
 
-Q1. 12 men can complete a work in 16 days. In how many days will 8 men complete the same work ? (Ans: 24)
+Q5. 12 men can complete a work in 16 days. In how many days will 8 men complete the same work ? (Ans: 24)
+  [Hint:
+  Men × Days = constant
+
+  12 × 16 = 8 × x  
+  192 = 8x  
+  x = 24 days]
 
 
-Q2. 4 men can complete a piece of work in 18 days, while 9 women can do it in 8 days. In how many days can 3 women and 6 men complete this work? (Ans: 8 days)
+*[Q4.]* 4 men can complete a piece of work in 18 days, while 9 women can do it in 8 days. In how many days can 3 women and 6 men complete this work? (Ans: 8 days)
+  [Hint:
+  4 men × 18 = 72  
+  9 women × 8 = 72 
+  
+  Convert per day work
+  4 men → 1/18 work/day  
+  ⇒ 1 man → 1/72
 
+  9 women → 1/8 work/day  
+  ⇒ 1 woman → 1/72
+  
+  ]
 
 Q3. A and B can do a work in 72 days. B and C can do the same work in 120 days, and A and C can do it in 90 days. In how many days can all three together do the same work? (Ans: 60)
 
-Q4. If Karan can complete ¾th of a work in 27 days, then in how many days can ⅙th of the work be completed by him? (Ans: 6 days)
+Q2. If Karan can complete ¾th of a work in 27 days, then in how many days can ⅙th of the work be completed by him? (Ans: 6 days)
 
 
-Q5. Atul and Vignesh can complete a job in 10 and 12 days, respectively, if they work separately. In how many days will the job get completed if Vignesh starts the work and they work on alternate days on the same job? (Ans: 11)
+Q1. Atul and Vignesh can complete a job in 10 and 12 days, respectively, if they work separately. In how many days will the job get completed if Vignesh starts the work and they work on alternate days on the same job? (Ans: 11)
 
 ____________________
 TAG:4-speed-time-and-distance
@@ -479,7 +565,7 @@ Q2. A bag has coins of ₹ 1, 50 paise and 25 paise in ratio 2:3:1. What is the 
 
 GOTO:top
 ___________________
-TAG:19-trigonometry
+TAG:20-trigonometry
 *20-Trigonometry*
 
 

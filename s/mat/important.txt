@@ -371,6 +371,9 @@ GOTO:top
 TAG:18-time-and-distance
 *18-Time-and-distance*
 
+Convert m/s to km/s
+  - Multiply with 18/5
+
 GOTO:top
 TAG:19-boats-and-streams
 *19-Boats-and-streams*

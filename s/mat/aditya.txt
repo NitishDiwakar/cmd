@@ -8420,6 +8420,12 @@ ______________________
 TAG:36-time-and-work
 *36-Time-and-Work*
 1. Akhil can complete a work in 24 days. Shyam can complete the same work in 12 days. If both of them work together, in how many days can they complete the same work?
+  [Hint:
+  LCM of 12 & 24 = 24
+  In 1 day: A -> 1 unit; S -> 2 unit
+  Total work in 1 day = 3 unit
+  24 / 3 = 8
+  ]
 
 (a) 6 days
 (b) 8 days ✔
@@ -8435,7 +8441,7 @@ TAG:36-time-and-work
 (d) 15 1/7
 
 
-3. Sumit and Rajiv, working together, can do a work in 20 hours whereas Sumit alone can do the same work in 25 hours. In how many hours can Rajiv alone do the work?
+*3.* Sumit and Rajiv, working together, can do a work in 20 hours whereas Sumit alone can do the same work in 25 hours. In how many hours can Rajiv alone do the work?
 
 (a) 70
 (b) 90
@@ -8444,6 +8450,16 @@ TAG:36-time-and-work
 
 
 4. A and B complete a work in 18 days. If A alone can do it in 24 days, then B alone can do one-fourth of the same work in ______ days.
+  [Hint:
+  LCM = 72  
+  (A+B) = 4  
+  A = 3  
+
+  B = (A+B) - A
+  4 - 3
+  1
+  B = 1 → Time = 72
+  72 / 4 = 18]
 
 (a) 18 ✔
 (b) 72
@@ -8451,7 +8467,7 @@ TAG:36-time-and-work
 (d) 54
 
 
-5. A can do 20% of a work in 7 days and B can do 25% of the work in 7 days if they worked alone. How much of the work (in percentage) can they complete in 7 days if they worked together?
+*5.* A can do 20% of a work in 7 days and B can do 25% of the work in 7 days if they worked alone. How much of the work (in percentage) can they complete in 7 days if they worked together?
 
 (a) 38%
 (b) 52%
@@ -8467,7 +8483,7 @@ TAG:36-time-and-work
 (d) 4
 
 
-7. A can do 20% of a work in 4 days and B can do 33 1/3% of the same work in 10 days. They worked together for 9 days and then C finished the remaining work in 6 days. In how many days will B and C together complete 75% of the same work?
+*7.* A can do 20% of a work in 4 days and B can do 33 1/3% of the same work in 10 days. They worked together for 9 days and then C finished the remaining work in 6 days. In how many days will B and C together complete 75% of the same work?
 
 (a) 12 days
 (b) 9 days
@@ -8476,6 +8492,7 @@ TAG:36-time-and-work
 
 
 8. A can do 1/3 of a work in 15 days, B can do 3/4 of the same work in 18 days and C can do the same work in 36 days. B and C work together for 8 days. In how many days will A alone complete the remaining work?
+  [Hint: long calculation, super easy question]
 
 (a) 24 days
 (b) 18 days
@@ -8483,7 +8500,7 @@ TAG:36-time-and-work
 (d) 16 days
 
 
-9. A and B can do a piece of work in 10 days. B and C can do the same work in 12 days. C and A can do the same work in 15 days. If all the three work together, find the number of days required to complete the work.
+*9.* A and B can do a piece of work in 10 days. B and C can do the same work in 12 days. C and A can do the same work in 15 days. If all the three work together, find the number of days required to complete the work.
 
 (a) 6
 (b) 10
@@ -9528,14 +9545,30 @@ TAG:42-time-and-distance
 (d) The speed of 99 km/h is less than the speed of 24 m/s. ✔
 
 
-2. To reach at a destination, D takes 45 minutes if he drives at a speed of 60 km/h. Due to some urgency, he is to reach the destination in 30 minutes. What should be his speed in km/h?
+*2.* To reach at a destination, D takes 45 minutes if he drives at a speed of 60 km/h. Due to some urgency, he is to reach the destination in 30 minutes. What should be his speed in km/h?
+  [Hint: 
+  T -> 45 : 30
+  T -> 3 : 2
+  S -> 2 : 3
+  2 = 60 km/h; 3 = 90 km/hr]
 
 (a) 80
 (b) 75
 (c) 90 ✔
 (d) 60
 
-3. Walking at 5/7 of his normal speed, Manish is 20 minutes late in reaching his office. The usual time taken by him to cover the distance between his home and his office is:
+*3.* Walking at 5/7 of his normal speed, Manish is 20 minutes late in reaching his office. The usual time taken by him to cover the distance between his home and his office is:
+  [Hint:
+  5/7 ; Here 7 -> old speed; 5 -> new speed;
+  S -> 7 : 5
+  T -> 5 : 7
+  Diff = 2
+
+  Method 2:
+  5/7 => 20 min
+  7 - 5 = 2
+  50 x 2 / 2
+  50 km/hr]
 
 (a) 56 minutes
 (b) 42 minutes
@@ -9543,7 +9576,8 @@ TAG:42-time-and-distance
 (d) 49 minutes
 
 
-4. A train can travel 75% faster than a car. Both start from point A at the same time and reach point B, 70 km from A, at the same time. However, the train loses about 18 minutes in stopping at stations on the way. What is the speed of the car?
+*[4.]* A train can travel 75% faster than a car. Both start from point A at the same time and reach point B, 70 km from A, at the same time. However, the train loses about 18 minutes in stopping at stations on the way. What is the speed of the car?
+  [Hint:  ]
 
 (a) 90 km/h
 (b) 100 km/h ✔
@@ -9551,7 +9585,7 @@ TAG:42-time-and-distance
 (d) 110 km/h
 
 
-5. Devender leaves his home everyday at 8 : 25 am and reaches office at 9:55 am. One day, he left his home at 8 : 25 am but travelled 3/10 of the total distance at 6/7 of the usual speed and the rest of the distance at 7/6 of the usual speed. At what time did Devender reach office on that day?
+*[5.]* Devender leaves his home everyday at 8 : 25 am and reaches office at 9:55 am. One day, he left his home at 8 : 25 am but travelled 3/10 of the total distance at 6/7 of the usual speed and the rest of the distance at 7/6 of the usual speed. At what time did Devender reach office on that day?
 
 (a) 9 : 50 : 30 (am) ✔
 (b) 9 : 50 : 40 (am)
@@ -9574,8 +9608,17 @@ TAG:42-time-and-distance
 (c) 15 ✔
 (d) 12
 
+---Type III---
 
-8. A person travels from one place to another at 60 km/hr and returns at 75 km/hr. If the total time taken is 6 hours, then find the total distance travelled.
+*8.* A person travels from one place to another at 60 km/hr and returns at 75 km/hr. If the total time taken is 6 hours, then find the total distance travelled.
+  [Hint:
+  *Average Speed for Equal Distance*
+  Avg Speed = 2ab/a+b
+  2 x 60 x 75 / 135
+  *Total Distance*
+  Total Distance = (2ab / (a + b)) × Total Time
+  9000 / 135 x 6
+  ]
 
 (a) 300 km
 (b) 240 km
@@ -9583,7 +9626,16 @@ TAG:42-time-and-distance
 (d) 400 km ✔
 
 
-9. A student goes to school at a speed of 5 1/2 km/h and returns at a speed of 4 km/h. If he takes 4 3/4 hours for the entire journey, then the total distance covered by the student (in km) is:
+*9.* A student goes to school at a speed of 5 1/2 km/h and returns at a speed of 4 km/h. If he takes 4 3/4 hours for the entire journey, then the total distance covered by the student (in km) is:
+  [Hint:
+  5 1/2 = 11/2
+  4 3/4 = 19/4
+  a = 11/2; b = 4; time = 19/4
+
+  Total Distance = (2ab / (a + b)) × Total Time
+  ( 2 x 11/2 x 4 x 19/4 ) / (a + b)
+  209/(19/2)
+  22]
 
 (a) 11
 (b) 22 ✔
@@ -9591,7 +9643,13 @@ TAG:42-time-and-distance
 (d) 24
 
 
-10. A person cycles from the hostel to the college at a speed of 20 km/h and reaches 13.5 minutes late. If he cycles at a speed of 24 km/h and reaches 13.5 minutes early, find the distance (in km) between the hostel and the college.
+*10.* A person cycles from the hostel to the college at a speed of 20 km/h and reaches 13.5 minutes late. If he cycles at a speed of 24 km/h and reaches 13.5 minutes early, find the distance (in km) between the hostel and the college.
+  [Hint:
+  13.5 + 13.5 = 27 min
+  Distance = (20 × 24 × 27) / (60 × 4) 
+  54
+  27 is in minutes, but speed is in km/hour, so 60 at bottom
+  ]
 
 (a) 50
 (b) 52
@@ -9599,7 +9657,15 @@ TAG:42-time-and-distance
 (d) 48
 
 
-11. A boy when goes to his school by 12 km/hr speed, reaches 20 mins late and when he covers the distance by 16 km/hr, reaches 5 mins late. Find speed by which he may reach on time and also find distance of his school.
+*[11.]* A boy when goes to his school by 12 km/hr speed, reaches 20 mins late and when he covers the distance by 16 km/hr, reaches 5 mins late. Find speed by which he may reach on time and also find distance of his school.
+  [Hint:
+  15 min
+  (12 x 16 x 15) / (60 x 4)
+  12 km (distance)
+
+  Speed = d/t
+  12 / (40/60)
+  ]
 
 (a) 16 km/hr, 12 km
 (b) 18 km/hr, 12 km ✔
@@ -9608,6 +9674,27 @@ TAG:42-time-and-distance
 
 
 12. Annu covers certain distance with her own speed, but when she reduces her speed by 10 km/hr, her time duration for the journey increases by 40 hr, but when she increases her original speed by 15 km/hr time taken by her is 10 hours less than the original time. Find the distance covered by her.
+  [Hint:
+  Speed ↓10 → time +40
+  Speed ↑15 → time −10
+
+  Total time swing
+  40 + 10 = 50 hours
+
+  10 × 15 × 50 / 25 = 300
+
+  How 25 came?
+  Speeds are:
+  Lower speed = original − 10  
+  Higher speed = original + 15
+
+  Difference between two speeds
+  (Original + 15) − (Original − 10)
+
+  Originals cancels
+  = 15 + 10 = 25
+
+  ]
 
 (a) 300 km ✔
 (b) 280 km
@@ -9616,6 +9703,10 @@ TAG:42-time-and-distance
 
 
 13. A person had to cover a certain distance with bike in 48 min but after travelling for 36 min his speed is reduced by 10 km/h and he takes 3 min more than usual to cover the remaining distance, then find actual speed of bike.
+  [Hint: 
+  12 → 15 ⇒ 4:5  
+  Difference = 1 part = 10  
+  So speed = 5 × 10 = 50]
 
 (a) 50 km/h ✔
 (b) 48 km/h
@@ -9911,7 +10002,27 @@ ______________________
 TAG:43-train-boat-stream
 *43-Train-boat-stream*
 
-1. A train running at 40 1/2 km/h takes 24 second to cross a pole. How much time (in second) will it take to pass a 450 m long bridge?
+*1.* A train running at 40 1/2 km/h takes 24 second to cross a pole. How much time (in second) will it take to pass a 450 m long bridge?
+  [Hint:
+  Speed = 81/2 km/h
+  81/2 x 5/18 m/s
+
+  9/2 x 5/2
+  45/4 m/s
+
+  so, s = 45/4 m/s;
+  t = 24
+  s = d/t
+  d = s x t
+  45/4 x 24
+  270
+
+  s = d / t
+  t = d / s
+  (450 + 270) / (45/4)
+
+  720 / (45/4)
+  64 ]
 
 (a) 56
 (b) 52
@@ -9919,7 +10030,7 @@ TAG:43-train-boat-stream
 (d) 64 ✔
 
 
-2. Two trains of lengths 250 metres and 200 metres run on parallel tracks. When running in the same direction, the faster train crosses the slower one in 37.5 seconds. When running in opposite directions at speeds the same as their earlier speeds, they pass each other completely in 7.5 seconds. Then the ratio of the speeds of the faster train to the slower train is:
+*2.* Two trains of lengths 250 metres and 200 metres run on parallel tracks. When running in the same direction, the faster train crosses the slower one in 37.5 seconds. When running in opposite directions at speeds the same as their earlier speeds, they pass each other completely in 7.5 seconds. Then the ratio of the speeds of the faster train to the slower train is:
 
 (a) 3 : 2 ✔
 (b) 5 : 4
