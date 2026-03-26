@@ -1,5 +1,5 @@
 ============================
-Title : Syllabus - AEDO
+Title : Syllabus and Resources - AEDO
 Tags  : #nomail #noview
 Descr :
 ============================
@@ -45,3 +45,119 @@ IMG:syllabus-aedo.jpg
 
 
 
+__________
+
+TAG:top
+GOTO:Science
+GOTO:Current-Affairs
+GOTO:Bihar-Special
+GOTO:Ancient-History
+GOTO:Medieval-History
+GOTO:Modern-History
+GOTO:Polity
+GOTO:Geography
+GOTO:Economy
+GOTO:Maths
+GOTO:Reasoning
+GOTO:English
+GOTO:Hindi
+GOTO:Misc
+
+
+TAG:Science
+*Science*
+  - NCERT (6-10) thoroughly 
+  - NCERT (11-12) selected
+  - Aashta IAS BPSC PYQ
+  - GhatnaChakra
+  - Lucent (boxes)
+  - UPSC PYQ - Mrunal book (Phy, Chem, Bio)
+
+GOTO:top
+TAG:Current-Affairs
+*Current-Affairs*
+  - Speedy
+  - Eduteria
+  - Vajiram mocks
+
+GOTO:top
+TAG:Bihar-Special
+*Bihar-Special*
+  - Crown (selected)
+  - Eduteria BR Current
+  - Imtiyaz Ahmed
+  - Bihar Economy Survey and Budget
+
+GOTO:top
+TAG:Ancient-History
+*Ancient-History*
+  - Old NCERT
+  - New NCERT
+  - GhatnaChakra
+  - Lucent
+
+GOTO:top
+TAG:Medieval-History
+*Medieval-History*
+  - Old NCERT
+  - New NCERT
+  - GhatnaChakra
+  - Lucent
+
+GOTO:top
+TAG:Modern-History
+*Modern-History*
+  - New NCERT (boxes & summary)
+  - Spectrum
+  - GhatnaChakra
+
+GOTO:top
+TAG:Polity
+*Polity*
+  - NCERT (6-12th)
+  - Laxmikanth
+  - Constitution
+
+GOTO:top
+TAG:Geography
+*Geography*
+  - NCERT (6-12th)
+  - GC Leong
+
+GOTO:top
+TAG:Economy
+*Economy*
+  - Mrunal Notes
+  - Budget / ES
+
+GOTO:top
+TAG:Maths
+*Maths*
+  - BPSC PYQ (KGS)
+  - BPSC PYQ (Recent exams)
+  - Testbook mock questions
+  - RS Aggarwal (selected)
+  - Aditya Ranjan Marathon
+
+GOTO:top
+TAG:Reasoning
+*Reasoning*
+  - Vikramjeet book
+
+GOTO:top
+TAG:English
+*English*
+  - Neetu Singh
+
+GOTO:top
+TAG:Hindi
+*Hindi*
+  - Themes from PYQ
+
+
+GOTO:top
+TAG:Misc
+*Misc*
+  - UPSC PYQ book
+  - BPSC PYQ book
+  - *UPSC CDS PYQ*
