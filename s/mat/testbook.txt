@@ -134,18 +134,67 @@ Q21. If the selling price of 40 articles is equal to the cost price of 50 articl
 
 
 Q19. A shop sells pens at INR 10 each and notebooks at INR 40 each. After a 10% discount on notebooks.A customer buys 3 pens and 2 notebooks. What is the total cost? (Ans: INR 102)
+  [Hint:
+  Pen: 3 x 10 = 30
+  notebook: 2 x 40 = 80
+
+  80 - 10% = 72
+  72 + 30
+  102 ]
 
 
-Q18. A retailer sold an item at ₹36,750 after giving a 26.5% discount. What is 16% of the difference between the original marked price and the selling price? (₹ 2,120)
+*Q18.* A retailer sold an item at ₹36,750 after giving a 26.5% discount. What is 16% of the difference between the original marked price and the selling price? (₹ 2,120)
+  [Hint:
+  x - 26.5% of x = 36,750
+  73.5/100 of x = 36,750
+  x = (36750 x 100 x 10) / (735)
+  50,000
+
+  50,000 - 36,750
+  13,250
+
+  Now, 16% of 13,250
+  2120 ]
 
 
 Q17. A shopkeeper sells two watches for Rs 3000 each. On one watch he gets 20% profit and on another watch 20% loss. Find the overall profit or loss.  (Ans: Rs 250 loss)
+  [Hint:
+  When profit = x% and loss = x%
+  *Loss% = x²/100*
+
+  (20 x 20) / (100)
+  4%
+
+  *Total SP = 3000 + 3000 = 6000*
+
+  4% of 6000
+  240 ]
 
 
-Q16. A fruit vendor bought some oranges 3 for a rupee and equal number 2 for a rupee. If he wants to make a profit of 20%, what should be his selling price per dozen? (Ans: 6)
+*Q16.* A fruit vendor bought some oranges 3 for a rupee and equal number 2 for a rupee. If he wants to make a profit of 20%, what should be his selling price per dozen? (Ans: 6)
+  [Hint:
+  Take 6+6 oranges → cost = 2 + 3 = 5  
+  Add 20% → 6  
+  → per dozen = ₹6 ]
 
 
 Q15. Sum of cost prices of two dogs is ₹ 26,000. Both are sold at profit of 20% and 40% respectively with their selling prices being same. What is the difference between the cost prices of both dogs? (Ans: ₹2,000)
+  [Hint:
+  CP₁ × 120/100 = CP₂ × 140/100
+
+  CP₁ × 120= CP₂ × 140
+
+  CP₁/CP₂ = 140/120
+  CP₁/CP₂ = 7/6
+
+  7+6 = 13 parts
+  26,000/13 = 2,000
+  14,000 - 12,000 = 2,000
+
+  Or
+  Ratio = 7 : 6  
+  Difference = 1 part  
+  1 part = 26000 / 13 = 2000 ]
 
 Q14. A shopkeeper has 150 articles of the same cost price. He sells two-third of them at a profit of 35% and the remaining articles at a loss of 16%. What is his profit percentage in the entire transaction? (Ans: 18%)
 
@@ -190,6 +239,12 @@ ____________________
 TAG:3-time-and-work
 *3-Time-and-work*
 
+*[Q7.]* 12 men can finish a work in 15 days. After working for 5 days, 4 men leave. How many more days will the remaining men take to finish the work ? (Ans: 15 days)
+  [Hint:
+  12 x 15 = 180
+  180 - 16 = 120
+  120 / 8 = 15 ]
+
 *Q6.* Fifteen persons working 12 hours a day earn Rs. 18,000 per week. How many rupees will 18 persons working 9 hours a day earn per week? (Ans: 16,200)
 
 Q5. 12 men can complete a work in 16 days. In how many days will 8 men complete the same work ? (Ans: 24)
@@ -227,7 +282,7 @@ ____________________
 TAG:4-speed-time-and-distance
 *4-Speed-time-and-distance*
 
-*Q16.* A robber steals a bag from a man at 5 p.m. and starts running at 10 km/h. A policeman is informed about the robber at 5 : 12 p.m. and he chases him on a cycle at 15 km/h. At what time is the robber caught by the policeman? (Ans: 5:36 PM)
+*Q15.* A robber steals a bag from a man at 5 p.m. and starts running at 10 km/h. A policeman is informed about the robber at 5 : 12 p.m. and he chases him on a cycle at 15 km/h. At what time is the robber caught by the policeman? (Ans: 5:36 PM)
   [Hint:
   First find headstart of robber
   12 min; 10 km/hr
@@ -244,7 +299,7 @@ TAG:4-speed-time-and-distance
   Police starts at 5:12 p.m.
   5:36 p.m. ]
 
-Q15. In covering a distance of 156 km, Abhay takes 5 hours more than Sameer. If Abhay doubles his speed, then he would take 8 hours less than Sameer. Abhay's speed is (Ans: 6 km/h)
+Q14. In covering a distance of 156 km, Abhay takes 5 hours more than Sameer. If Abhay doubles his speed, then he would take 8 hours less than Sameer. Abhay's speed is (Ans: 6 km/h)
   [Hint:
   156/A − 156/S = 5
   78/A − 156/S = −8
@@ -252,7 +307,7 @@ Q15. In covering a distance of 156 km, Abhay takes 5 hours more than Sameer. If 
   78/A = 13
   A = 6 ]
 
-Q14. A man travels 50 km at speed 25 km/h and next 40 km at 20 km/h and thereafter travel 90 km at 15 km/h. His average speed is– (Ans: 18)
+Q13. A man travels 50 km at speed 25 km/h and next 40 km at 20 km/h and thereafter travel 90 km at 15 km/h. His average speed is– (Ans: 18)
   [Hint:
   Average speed = Total Distance / Total Time
 
@@ -273,10 +328,10 @@ Q14. A man travels 50 km at speed 25 km/h and next 40 km at 20 km/h and thereaft
   180 / 10
   18 ]
 
-*Q13.* If the ratio between the two train’s speed is 8 : 9. If the second train covers 480 kms in 6 hours, then calculate the first train’s speed. (Ans: 71.11 km/h)
+*Q12.* If the ratio between the two train’s speed is 8 : 9. If the second train covers 480 kms in 6 hours, then calculate the first train’s speed. (Ans: 71.11 km/h)
 
 
-*Q12.* What is the average speed of a truck that covers half the distance with a speed of 42 km/hr and the other half with a speed of 56 km/hr? (Ans: 48 km/hr)
+*Q11.* What is the average speed of a truck that covers half the distance with a speed of 42 km/hr and the other half with a speed of 56 km/hr? (Ans: 48 km/hr)
   *Average speed = (2 × v₁ × v₂) / (v₁ + v₂)*
 
   Use above formula only when:
@@ -286,26 +341,36 @@ Q14. A man travels 50 km at speed 25 km/h and next 40 km at 20 km/h and thereaft
   (2 × 42 × 56) / 98
   48 km/hr
 
-Q11. A train moving with the speed of 30 km/hr crosses a platform in 16 minutes. If the length of the train and the platform is same, then what is the length of the platform?  (Ans: 4,000 m)
+Q10. A train moving with the speed of 30 km/hr crosses a platform in 16 minutes. If the length of the train and the platform is same, then what is the length of the platform?  (Ans: 4,000 m)
   [Hint: 8000 / 2]
 
 
-Q10. A 320-m long train crosses a pole in 24 seconds, and passes completely train Y, running in opposite direction at a speed of 60 km/h, in 22 seconds. What is the length (in m) of train Y? (Ans: 340)
+*Q9.* A 320-m long train crosses a pole in 24 seconds, and passes completely train Y, running in opposite direction at a speed of 60 km/h, in 22 seconds. What is the length (in m) of train Y? (Ans: 340)
 
 
-Q9. P and Q run a race of x metres. P gives Q a head start of 250 m. P is 2⅔ times as fast as Q and both finished the race simultaneously. What is the value of x? (Ans: 400)
+*Q8.* P and Q run a race of x metres. P gives Q a head start of 250 m. P is 2⅔ times as fast as Q and both finished the race simultaneously. What is the value of x? (Ans: 400)
 
 
-Q8. In covering a distance of 150 km, Pranay takes 2 hours more than Aman. If Pranay doubles his speed, then he would take 3 hours less than Aman. Pranay's speed is: (Ans: 15 km/hr)
+*Q7.* In covering a distance of 150 km, Pranay takes 2 hours more than Aman. If Pranay doubles his speed, then he would take 3 hours less than Aman. Pranay's speed is: (Ans: 15 km/hr)
 
 
-Q7. On a track of 100 m, A is ahead of B by 20 m. The speed of A is 10 m/sec and that of B is 14 m/sec. In how many seconds will B cover the gap of 20 metres?  (Ans: 5 seconds)
+*Q6.* On a track of 100 m, A is ahead of B by 20 m. The speed of A is 10 m/sec and that of B is 14 m/sec. In how many seconds will B cover the gap of 20 metres?  (Ans: 5 seconds)
+  [Hint:
+  Gap = 20 m
+  B = 14 m/s  
+  A = 10 m/s  
+  Relative speed = 14 − 10 = 4 m/s
+
+  Time = Gap / Relative speed = 20 / 4 = 5 sec ]
 
 
-Q6. A can beat B in a race of 800 m by 72 m or 12 seconds. Find the speed of A (in km/hr, rounded off to two decimal places). (Ans: 23.74)
+Q5. A can beat B in a race of 800 m by 72 m or 12 seconds. Find the speed of A (in km/hr, rounded off to two decimal places). (Ans: 23.74)
+  [Hint:
+  B speed = 72/12 = 6  
+  A:B = 800:728 = 100:91  
+  A = (100/91) × 6  
+  Convert → ×18/5 → 23.74 ]
 
-
-Q5. 12 men can finish a work in 15 days. After working for 5 days, 4 men leave. How many more days will the remaining men take to finish the work ? (Ans: 15 days)
 
 Q4. A 300-m long train A passes a pole in 12 seconds, and it crosses completely another train B, running in the same direction at a speed of 60 km/h in 78 seconds. What is the length (in m) of train B? (Ans: 350)
 
