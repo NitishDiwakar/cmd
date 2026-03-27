@@ -416,47 +416,62 @@ GOTO:top
 TAG:bpsc-hm-2024
 [*BPSC Headmaster 2024*] (Set-A)
 
-Q4. The ratio between the perimeter and 
-the breadth of a rectangle is 5 : 1. If 
-the area of rectangle is 216 sq.cm. 
-The length of rectangle is
+*Q4.* The ratio between the perimeter and the breadth of a rectangle is 5 : 1. If the area of rectangle is 216 sq.cm. The length of rectangle is (Ans: 18 cm)
 
  (A) 15 cm
  (B) 13 cm
  (C) 17 cm
  (D) 11 cm
- (E) None of the above/More than one 
-of the above ✔
+ (E) None of the above/More than one of the above ✔
+
 
 Q8. In the series
   7, 14, 28, .....
   10th term will be
+   [Hint:
+   1,2,4,8,16, 32,64,128,256,512
+   7 x 512
+   3500 + 84
+   3584]
 
  (A) 3584 ✔
  (B) 2496
  (C) 4096
  (D) 1792
- (E) None of the above/More than one 
-of the above
+ (E) None of the above/More than one of the above
 
 
-Q11. The product of the lCM and the 
-HCF of two numbers is 24. If the 
-difference of the number is 2, then 
-the greater of the numbers is
+*Q11.* The product of the lCM and the HCF of two numbers is 24. If the 
+difference of the number is 2, then the greater of the numbers is
+  [Hint:
+  LCM x HCF = 24
+  a - b = 2
+
+  *a × b = LCM × HCF*
+  a × b = 24 ]
 
  (A) 3
  (B) 4
  (C) 2
  (D) 6 ✔
- (E) None of the above/More than one 
-of the above
+ (E) None of the above/More than one of the above
 
-Q20. The difference between simple and 
-compounded interests compounded 
-annually on a certain sum of money 
-for two years at 4% per annum is  
-Re. 1. The sum (in Rs.) is
+
+*Q20.* The difference between simple and compounded interests compounded 
+annually on a certain sum of money for two years at 4% per annum is  
+Re. 1. The sum (in Rs.) is (Ans: 625)
+  [Hint:
+  *CI − SI = P × (r/100)²*
+
+  Given:
+  CI − SI = 1  
+  r = 4%
+
+  Using formula:
+  1 = P × (4/100)²
+  1 = P × (16/10000)
+  P = 10,000 / 16
+  625 ]
 
  (A) 660
  (B) 650
@@ -465,9 +480,8 @@ Re. 1. The sum (in Rs.) is
  (E) None of the above/More than one 
 of the above ✔
 
-Q25. What should be the value of ∗ in
-  985 ∗ 865
-  if the number is divisible by 9 ?
+
+Q25. What should be the value of ∗ in  985 ∗ 865 if the number is divisible by 9 ?
 
  (A) 5
  (B) 6
@@ -476,8 +490,8 @@ Q25. What should be the value of ∗ in
  (E) None of the above/More than one 
 of the above
 
-Q31. Which of the following is not 
-irrational ?
+
+*Q31.* Which of the following is not irrational ?
 
  (A) (3 + √7) (3 - √7) ✔
  (B) (3 - √7)
@@ -486,23 +500,25 @@ irrational ?
  (E) None of the above/More than one 
 of the above
 
-Q39. What is the average speed of a man if he travel ½ time at a speed of 40 km/h, ⅓ the time at a speed of 50 km/h and the rest at a speed of 60 km/h ?
+
+*Q39.* What is the average speed of a man if he travel ½ time at a speed of 40 km/h, ⅓ the time at a speed of 50 km/h and the rest at a speed of 60 km/h ?
 
  (A) 43.6
  (B) 46.5
  (C) 46.66 ✔
  (D) 48
- (E) None of the above/More than one 
-of the above
+ (E) None of the above/More than one of the above
 
-Q52. Every rational number is
+
+*Q52.* Every rational number is
+  [Hint: Rational no -> p/q ]
 
  (A) Integer
  (B) Natural number
  (C) Real number ✔
  (D) Whole number
- (E) None of the above/More than one 
-of the above
+ (E) None of the above/More than one of the above
+
 
 Q56.  The sum of  first five  prime numbers is
 
@@ -510,8 +526,7 @@ Q56.  The sum of  first five  prime numbers is
  (B) 18
  (C) 28 ✔
  (D) 11
- (E) None of the above/More than one 
-of the above
+ (E) None of the above/More than one of the above
 
 
 Q66. Find the wrong number in the series.
@@ -523,9 +538,9 @@ Q66. Find the wrong number in the series.
  (D) 15
  (E) None of the above/More than one of the above
 
-Q68. The value of x in the 
-  12 : 30 : : 14 : x
-  will be
+
+Q68. The value of x in the   12 : 30 : : 14 : x will be 
+  [Hint: 12/30 = 14/x]
 
  (A) 40
  (B) 35 ✔
@@ -533,20 +548,17 @@ Q68. The value of x in the
  (D) 30
  (E) None of the above/More than one of the above
 
-Q77. Which of the following is a perfect 
-square ?
+
+Q77. Which of the following is a perfect square ?
 
  (A) 7928
  (B) 625 ✔
  (C) 64000
  (D) 1057
- (E) None of the above/More than one 
-of the above
+ (E) None of the above/More than one of the above
 
-Q80. The average of seven numbers is 
-18. If one of the number is 17 and 
-is replaced by 31, then the average 
-becomes
+
+Q80. The average of seven numbers is 18. If one of the number is 17 and  is replaced by 31, then the average becomes
 
  (A) 21
  (B) 20 ✔
@@ -554,8 +566,8 @@ becomes
  (D) 19
  (E) None of the above/More than one  of the above
 
-Q89. What should come in place of (?) in 
-the following number series ?
+
+Q89. What should come in place of (?) in the following number series ? 
   132, 156, ?, 210, 240, 272
 
  (A) 182 ✔
@@ -564,7 +576,8 @@ the following number series ?
  (D) 196
  (E) None of the above/More than one of the above
 
- Q100. The pairs of equations
+
+*Q100.* The pairs of equations
   x + 2y – 5 = 0
   –4x – 8y + 20 = 0 have
  
