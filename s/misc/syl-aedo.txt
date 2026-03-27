@@ -73,14 +73,14 @@ TAG:Science
   - Lucent (boxes)
   - UPSC PYQ - Mrunal book (Phy, Chem, Bio)
 
-GOTO:top
+
 TAG:Current-Affairs
 *Current-Affairs*
   - Speedy
   - Eduteria
   - Vajiram mocks
 
-GOTO:top
+
 TAG:Bihar-Special
 *Bihar-Special*
   - Crown (selected)
@@ -88,7 +88,7 @@ TAG:Bihar-Special
   - Imtiyaz Ahmed
   - Bihar Economy Survey and Budget
 
-GOTO:top
+
 TAG:Ancient-History
 *Ancient-History*
   - Old NCERT
@@ -96,7 +96,7 @@ TAG:Ancient-History
   - GhatnaChakra
   - Lucent
 
-GOTO:top
+
 TAG:Medieval-History
 *Medieval-History*
   - Old NCERT
@@ -104,33 +104,33 @@ TAG:Medieval-History
   - GhatnaChakra
   - Lucent
 
-GOTO:top
+
 TAG:Modern-History
 *Modern-History*
   - New NCERT (boxes & summary)
   - Spectrum
   - GhatnaChakra
 
-GOTO:top
+
 TAG:Polity
 *Polity*
   - NCERT (6-12th)
   - Laxmikanth
   - Constitution
 
-GOTO:top
+
 TAG:Geography
 *Geography*
   - NCERT (6-12th)
   - GC Leong
 
-GOTO:top
+
 TAG:Economy
 *Economy*
   - Mrunal Notes
   - Budget / ES
 
-GOTO:top
+
 TAG:Maths
 *Maths*
   - BPSC PYQ (KGS)
@@ -139,23 +139,23 @@ TAG:Maths
   - RS Aggarwal (selected)
   - Aditya Ranjan Marathon
 
-GOTO:top
+
 TAG:Reasoning
 *Reasoning*
   - Vikramjeet book
 
-GOTO:top
+
 TAG:English
 *English*
   - Neetu Singh
 
-GOTO:top
+
 TAG:Hindi
 *Hindi*
   - Themes from PYQ
 
 
-GOTO:top
+
 TAG:Misc
 *Misc*
   - UPSC PYQ book

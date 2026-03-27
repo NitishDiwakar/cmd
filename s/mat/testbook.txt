@@ -185,6 +185,7 @@ Q2. When an article is sold at 3340 of its actual selling price, there is a loss
 
 Q1. An article is sold for Rs. 1,955, after giving two successive discounts of 15% and 20% on its marked price. If no discount is given on the marked price, then there is a gain of 25%. The cost price (in Rs) of the article is: (Ans: 2,300)
 
+GOTO:top
 ____________________
 TAG:3-time-and-work
 *3-Time-and-work*
@@ -221,51 +222,100 @@ Q2. If Karan can complete ¾th of a work in 27 days, then in how many days can �
 
 Q1. Atul and Vignesh can complete a job in 10 and 12 days, respectively, if they work separately. In how many days will the job get completed if Vignesh starts the work and they work on alternate days on the same job? (Ans: 11)
 
+GOTO:top
 ____________________
 TAG:4-speed-time-and-distance
 *4-Speed-time-and-distance*
 
-Q16. A robber steals a bag from a man at 5 p.m. and starts running at 10 km/h. A policeman is informed about the robber at 5 : 12 p.m. and he chases him on a cycle at 15 km/h. At what time is the robber caught by the policeman? (Ans: 5:36 PM)
+*Q16.* A robber steals a bag from a man at 5 p.m. and starts running at 10 km/h. A policeman is informed about the robber at 5 : 12 p.m. and he chases him on a cycle at 15 km/h. At what time is the robber caught by the policeman? (Ans: 5:36 PM)
+  [Hint:
+  First find headstart of robber
+  12 min; 10 km/hr
+  2 km
 
-Q1. In covering a distance of 156 km, Abhay takes 5 hours more than Sameer. If Abhay doubles his speed, then he would take 8 hours less than Sameer. Abhay's speed is (Ans: 6 km/h)
+  Related speed
+  Relative speed = 15 − 10 = 5 km/h
 
-Q2. A man travels 50 km at speed 25 km/h and next 40 km at 20 km/h and thereafter travel 90 km at 15 km/h. His average speed is– (Ans: 18)
+  Time = Distance / Relative Speed
+  2 / 5
+  0.4
+  24 min
 
-Q3. If the ratio between the two train’s speed is 8 : 9. If the second train covers 480 kms in 6 hours, then calculate the first train’s speed. (Ans: 71.11 km/h)
+  Police starts at 5:12 p.m.
+  5:36 p.m. ]
+
+Q15. In covering a distance of 156 km, Abhay takes 5 hours more than Sameer. If Abhay doubles his speed, then he would take 8 hours less than Sameer. Abhay's speed is (Ans: 6 km/h)
+  [Hint:
+  156/A − 156/S = 5
+  78/A − 156/S = −8
+  (156/A − 78/A) = 5 + 8
+  78/A = 13
+  A = 6 ]
+
+Q14. A man travels 50 km at speed 25 km/h and next 40 km at 20 km/h and thereafter travel 90 km at 15 km/h. His average speed is– (Ans: 18)
+  [Hint:
+  Average speed = Total Distance / Total Time
+
+  D   S   T
+  50 25 
+  40 20 
+  90 15 
+
+  s = d/t;
+  t = d/s
+
+  D   S   T
+  50 25  2
+  40 20  2
+  90 15  6
 
 
-Q4. What is the average speed of a truck that covers half the distance with a speed of 42 km/hr and the other half with a speed of 56 km/hr? (Ans: 48 km/hr)
+  180 / 10
+  18 ]
 
-Q5. A train moving with the speed of 30 km/hr crosses a platform in 16 minutes. If the length of the train and the platform is same, then what is the length of the platform?  (Ans: 4,000 m)
-
-
-Q6. A 320-m long train crosses a pole in 24 seconds, and passes completely train Y, running in opposite direction at a speed of 60 km/h, in 22 seconds. What is the length (in m) of train Y? (Ans: 340)
+*Q13.* If the ratio between the two train’s speed is 8 : 9. If the second train covers 480 kms in 6 hours, then calculate the first train’s speed. (Ans: 71.11 km/h)
 
 
+*Q12.* What is the average speed of a truck that covers half the distance with a speed of 42 km/hr and the other half with a speed of 56 km/hr? (Ans: 48 km/hr)
+  *Average speed = (2 × v₁ × v₂) / (v₁ + v₂)*
 
-Q7. P and Q run a race of x metres. P gives Q a head start of 250 m. P is 2⅔ times as fast as Q and both finished the race simultaneously. What is the value of x? (Ans: 400)
+  Use above formula only when:
+  Distance₁ = Distance₂  (equal distances)
+
+  (2 × 42 × 56) / (42 + 56)
+  (2 × 42 × 56) / 98
+  48 km/hr
+
+Q11. A train moving with the speed of 30 km/hr crosses a platform in 16 minutes. If the length of the train and the platform is same, then what is the length of the platform?  (Ans: 4,000 m)
+  [Hint: 8000 / 2]
+
+
+Q10. A 320-m long train crosses a pole in 24 seconds, and passes completely train Y, running in opposite direction at a speed of 60 km/h, in 22 seconds. What is the length (in m) of train Y? (Ans: 340)
+
+
+Q9. P and Q run a race of x metres. P gives Q a head start of 250 m. P is 2⅔ times as fast as Q and both finished the race simultaneously. What is the value of x? (Ans: 400)
 
 
 Q8. In covering a distance of 150 km, Pranay takes 2 hours more than Aman. If Pranay doubles his speed, then he would take 3 hours less than Aman. Pranay's speed is: (Ans: 15 km/hr)
 
 
-Q9. On a track of 100 m, A is ahead of B by 20 m. The speed of A is 10 m/sec and that of B is 14 m/sec. In how many seconds will B cover the gap of 20 metres?  (Ans: 5 seconds)
+Q7. On a track of 100 m, A is ahead of B by 20 m. The speed of A is 10 m/sec and that of B is 14 m/sec. In how many seconds will B cover the gap of 20 metres?  (Ans: 5 seconds)
 
 
-Q10. A can beat B in a race of 800 m by 72 m or 12 seconds. Find the speed of A (in km/hr, rounded off to two decimal places). (Ans: 23.74)
+Q6. A can beat B in a race of 800 m by 72 m or 12 seconds. Find the speed of A (in km/hr, rounded off to two decimal places). (Ans: 23.74)
 
 
-Q11. 12 men can finish a work in 15 days. After working for 5 days, 4 men leave. How many more days will the remaining men take to finish the work ? (Ans: 15 days)
+Q5. 12 men can finish a work in 15 days. After working for 5 days, 4 men leave. How many more days will the remaining men take to finish the work ? (Ans: 15 days)
 
-Q12. A 300-m long train A passes a pole in 12 seconds, and it crosses completely another train B, running in the same direction at a speed of 60 km/h in 78 seconds. What is the length (in m) of train B? (Ans: 350)
+Q4. A 300-m long train A passes a pole in 12 seconds, and it crosses completely another train B, running in the same direction at a speed of 60 km/h in 78 seconds. What is the length (in m) of train B? (Ans: 350)
 
-Q13. A train of length 280 m passes through a tunnel of length (D)m in 40 sec. If the speed of train is 144 km/hr find the value of D ? (Ans: 1,320 m)
-
-
-Q14. A man travels from A to B at a speed of 40 km/h and then from B to C at 60 km/h, where B is between A and C. The ratio of distances AB and BC is 2 : 3. He travels back from C to A at x km/h. If his average speed for the whole journey is 61 7/13 km/h, then what is the value of x? (Ans: 80)
+Q3. A train of length 280 m passes through a tunnel of length (D)m in 40 sec. If the speed of train is 144 km/hr find the value of D ? (Ans: 1,320 m)
 
 
-Q15. In a certain race, A beats B by 35 seconds and B beats C by 45 seconds. The speed of B is the average of the speeds of A and C. What time (in minutes) does C take to run the race? (Ans: 6)
+Q2. A man travels from A to B at a speed of 40 km/h and then from B to C at 60 km/h, where B is between A and C. The ratio of distances AB and BC is 2 : 3. He travels back from C to A at x km/h. If his average speed for the whole journey is 61 7/13 km/h, then what is the value of x? (Ans: 80)
+
+
+Q1. In a certain race, A beats B by 35 seconds and B beats C by 45 seconds. The speed of B is the average of the speeds of A and C. What time (in minutes) does C take to run the race? (Ans: 6)
 
 
 GOTO:top
@@ -299,6 +349,7 @@ Q9. Three partners A, B and C share profit such that 3 times of the A's share is
 
 Q10. The total income of X, Y, and Z is Rs. 75,000. The ratio of X's income to the combined income of Y and Z is 3 : 7 and the ratio of Y's income to the combined income of X and Z is 4 : 11. What is the income (in Rs) of Z? (Ans: 32,500)
 
+GOTO:top
 ____________________
 TAG:6-average
 *5-Average*
@@ -321,20 +372,54 @@ ___________________
 TAG:7-simple-interest
 *7-Simple-Interest*
 
-Q6. The simple interest on the sum for 12 years is three-fifth of the sum. The rate of interest per annum is: (Ans: 5%)
+*Q6.* The simple interest on the sum for 12 years is three-fifth of the sum. The rate of interest per annum is: (Ans: 5%)
+  [Hint:
+  *R = (Fraction x 100) / (T)*
 
-Q1. On a sum of Rs. 30,000, Pratik gets simple interest as follows: 10% in the first year, 20% in the second year and 30% in the third year. What is the sum total of the interest earned by him? (Ans: 18,000)
+  (3/5 x 100) / (12)
+  5 ]
 
-Q2. Sapna invested ₹20,300 on simple interest, partly at 11% per annum and partly at 3% per annum. If she earns equal interests from the two investments after 5 years, then find the sum invested at 11% per annum (in ₹). (Ans: ₹4,350)
+Q5. On a sum of Rs. 30,000, Pratik gets simple interest as follows: 10% in the first year, 20% in the second year and 30% in the third year. What is the sum total of the interest earned by him? (Ans: 18,000)
+  [Hint: 3000 + 6000 + 9000]
+
+  My Mistake:
+  Used → 30000 x 110/100 x 120/100 x 130/100
+  (Above concept is of compound interest)
+
+*Q4.* Sapna invested ₹20,300 on simple interest, partly at 11% per annum and partly at 3% per annum. If she earns equal interests from the two investments after 5 years, then find the sum invested at 11% per annum (in ₹). (Ans: ₹4,350)
+  [Hint:
+  P1 x R1 = P2 x R2
+
+  x x 11 = (20,300 - x) x 3
+  11x = 20,300 x 3 - 3x
+  14x = 20,300 x 3
+  4,350 ]
 
 
-Q3. A person lent Rs. 20000 to B for 3 years and Rs. 16000 to C for 4 years at the same rate of simple interest and received a total of Rs. 9300 from them as interest. What was the annual rate of interest?  (Ans: 7.5%)
+Q3. A person lent Rs. 20,000 to B for 3 years and Rs. 16000 to C for 4 years at the same rate of simple interest and received a total of Rs. 9300 from them as interest. What was the annual rate of interest?  (Ans: 7.5%)
+  [Hint:
+
+  { (20,000 x R x 3) / (100) } + { (16,000 x R x 4) / (100) } = 9,300
+
+  R/100 (20,000 x 3 + 16,000 x 4) = 9,300
+  R/100 x 1,24,000 = 9,300
+
+  R = 7.5 ]
 
 
-Q4. A man has invested ₹54,500 at a rate of 8% per annum simple interest for 3 years. Find the amount (in ₹) that he will receive after 3 years. (Ans: 67,580)
+Q2. A man has invested ₹54,500 at a rate of 8% per annum simple interest for 3 years. Find the amount (in ₹) that he will receive after 3 years. (Ans: 67,580)
+  [Hint: So easy, this question should not be here]
 
 
-Q5. The simple interest on a certain sum for 2½years at 12% per annum is Rs. 600 less than the simple interest on the same sum for 4½ years at 8% per annum, then the sum is: (Ans: Rs 10,000)
+*Q1.* The simple interest on a certain sum for 2½ years at 12% per annum is Rs. 600 less than the simple interest on the same sum for 4½ years at 8% per annum, then the sum is: (Ans: Rs 10,000)
+  [Hint:
+  *When difference of SI given*
+  P x { (R2T2 - R1T1) / (100) } = Difference
+
+  P x (36 - 30) / (100) = 600
+
+  P x 6 / 100 = 600
+  10,000 ]
 
 GOTO:top
 ___________________
@@ -342,11 +427,21 @@ TAG:8-compound-interest
 *7-Compound-Interest*
 
 Q7. How much Rs. 60,000 amounts in three years at compound interest. If the rate of interest double itself each successive, given the rate interest for the first year is 5%? (83,160)
+  [60,000 x 105/100 x 110/100 x 120/100]
 
-Q1. The compound interest on ₹6,000 at a certain rate for 1½ years is ₹1,986, compounded every 6 months. What is the simple interest on the same amount for 3 years at half the previous rate? (Ans: 1800)
+  My mistake: calculation
+
+*[Q6.]* The compound interest on ₹6,000 at a certain rate for 1½ years is ₹1,986, compounded every 6 months. What is the simple interest on the same amount for 3 years at half the previous rate? (Ans: 1800)
+  [Hint:
+  Amount = 6000 + 1986 = 7986
+  6000 → 7986
+  7986 / 6000 = 1331 / 1000
+  11^3 / 10^3 ]
+
+  Note: couldn't understand this
 
 
-Q2. A sum of ₹20,000 is borrowed for 1¼ year at 12% interest per year. If the interest is compounded every 5 months, what is the compound interest on the sum? (Ans: 3,152.50)
+Q5. A sum of ₹20,000 is borrowed for 1¼ year at 12% interest per year. If the interest is compounded every 5 months, what is the compound interest on the sum? (Ans: 3,152.50)
   Given:
   Principal (P) = ₹20,000
   Time (T) = 1(1/4) year = 15 months = 15/12 years 
@@ -366,16 +461,16 @@ Q2. A sum of ₹20,000 is borrowed for 1¼ year at 12% interest per year. If the
  ⇒ CI = ₹3,152.50
  The compound interest on the sum is ₹3,152.50.
 
-Q3. What will be the total amount payable on a sum of ₹3,500 after two years at the rate of 20% per annum if the interest is compounded annually? (Ans: ₹ 5,040)
+Q4. What will be the total amount payable on a sum of ₹3,500 after two years at the rate of 20% per annum if the interest is compounded annually? (Ans: ₹ 5,040)
 
 
-Q4. The difference between the simple interest and the compound interest, compounded annually, on a certain sum of money for 2 years at 14% per annum is ₹741. Find the sum. (Rounded off to the nearest integer.) (Ans: ₹ 34,806)
+Q3. The difference between the simple interest and the compound interest, compounded annually, on a certain sum of money for 2 years at 14% per annum is ₹741. Find the sum. (Rounded off to the nearest integer.) (Ans: ₹ 34,806)
 
 
-Q5. A sum becomes Rs. 15681.6 in 2 years when invested on compound interest (compounded annually). If rate of interest is 32 percent per annum, then what is the sum? (Ans: Rs 9,000)
+Q2. A sum becomes Rs. 15681.6 in 2 years when invested on compound interest (compounded annually). If rate of interest is 32 percent per annum, then what is the sum? (Ans: Rs 9,000)
 
 
-Q6. A certain sum of money at r% compounded annualy after two and three years becomes ₹ 1440 and ₹ 1584 respectivaly. Find value of r. (Ans: 10%)
+Q1. A certain sum of money at r% compounded annualy after two and three years becomes ₹ 1440 and ₹ 1584 respectivaly. Find value of r. (Ans: 10%)
 
 GOTO:top
 ___________________
@@ -385,19 +480,25 @@ TAG:9-number-system
 Q8. Find the lowest positive value of (c – b) such that the 7-digit number 1738b9c is divisible by 12. (Ans: 1)
 
 Q7. The difference between two numbers is 48. The ratio of these two numbers is 7 ∶ 3. What is the sum of the two numbers? (Ans: 120)
+  [Hint:
+  7x : 3x
+  7x - 3x = 48
+  x = 12
+  84 + 36
+  120 ]
 
-Q5. M varies inversely as (N² + 3). If M = 3 when N = 3, then what will be the value of M when N² = 69? (Ans: 1/2)
+*Q5.* M varies inversely as (N² + 3). If M = 3 when N = 3, then what will be the value of M when N² = 69? (Ans: 1/2)
 
 Q4. Successive division of a number by 2, 3, 5 and 7 gives remainders 1, 4, 0 and 5, respectively. What will be the sum of the remainders if the same number is divided by 7, 5, 3 and 2 successively? (Ans: 9)
 
-Q1. Select the option from the following that will complete the number series given below.
+Q3. Select the option from the following that will complete the number series given below.
 62, 73, 95, 128, 172, ___  (Ans: 227)
 
 Q2. Which of the following numbers will be a number of the given series?
   11, 18, 25, 32, 39, …. (Ans: 347)
 
 
-Q3. Five consecutive prime numbers A, B, C, D and E are in ascending order. If product of A × C × E = 1729 and product of B × C × D = 2431, find the next prime number to E. (Ans: 23)
+Q1. Five consecutive prime numbers A, B, C, D and E are in ascending order. If product of A × C × E = 1729 and product of B × C × D = 2431, find the next prime number to E. (Ans: 23)
 
 
 

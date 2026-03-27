@@ -4,6 +4,10 @@ Tags  : #imp
 Descr : 
 ============================
 
+GOTO:31-to-50
+GOTO:51-to-80
+GOTO:81-to-130
+
  1²  =    1
  2²  =    4
  3²  =    9
@@ -36,3 +40,65 @@ Descr :
 28²  =  784
 29²  =  841
 30²  =  900
+
+_______________
+TAG:31-to-50
+*31 to 50*
+  -> 50 + x method
+  
+ 48²
+  -> 2304
+  (distance from 50 and 48 -> 2; 
+  square of 2 ->4;
+  distance from 25 to 48 -> 23)
+
+42²
+  -> 1764
+
+38²
+  -> 1444
+  (careful about carry)
+
+TAG:51-to-80
+*51 to 80*
+  -> 50 + x method
+
+53²
+  -> 2809
+
+57²
+  -> 3249
+
+74²
+  -> 5476
+
+TAG:81-to-130
+*81 to 130*
+  -> Multiplication near 100 method
+
+  94 x 97
+
+  94 : -6
+  97 : -3
+  9118
+  (Mult of right side, and cross add)
+
+  103 x 107
+
+  103 : +3
+  107 : +7
+  11021
+
+  104 x 98
+
+  104 : +4
+  98  : -2
+  102  -8 (minus 8 from 100)
+  10192
+
+88²
+  88 : -12
+  88 : -12
+  7744
+
+
