@@ -489,16 +489,37 @@ Q7. The difference between two numbers is 48. The ratio of these two numbers is 
 
 *Q5.* M varies inversely as (N² + 3). If M = 3 when N = 3, then what will be the value of M when N² = 69? (Ans: 1/2)
 
-Q4. Successive division of a number by 2, 3, 5 and 7 gives remainders 1, 4, 0 and 5, respectively. What will be the sum of the remainders if the same number is divided by 7, 5, 3 and 2 successively? (Ans: 9)
+*[Q4.]* Successive division of a number by 2, 3, 5 and 7 gives remainders 1, 4, 0 and 5, respectively. What will be the sum of the remainders if the same number is divided by 7, 5, 3 and 2 successively? (Ans: 9)
 
 Q3. Select the option from the following that will complete the number series given below.
 62, 73, 95, 128, 172, ___  (Ans: 227)
 
 Q2. Which of the following numbers will be a number of the given series?
-  11, 18, 25, 32, 39, …. (Ans: 347)
+  11, 18, 25, 32, 39, …. (Ans: 46)
 
 
 Q1. Five consecutive prime numbers A, B, C, D and E are in ascending order. If product of A × C × E = 1729 and product of B × C × D = 2431, find the next prime number to E. (Ans: 23)
+  [Hint:
+  1729 = 7 × 13 × 19
+  2431 = 11 × 13 × 17
+
+  Match the pattern (consecutive prime no)
+  A × C × E = 1729  
+  B × C × D = 2431
+
+  Common = 13 ⇒ C = 13
+
+  Arrange consecutive primes:
+  7, 11, 13, 17, 19
+
+  So,
+  A = 7  
+  B = 11  
+  C = 13  
+  D = 17  
+  E = 19
+
+  After 19 -> 23 ]
 
 
 
@@ -506,13 +527,15 @@ GOTO:top
 ___________________
 TAG:10-problems-on-ages
 *10-Problems-on-ages*
-Q1. A father is twice old as his son. 8 years back their ages were in the ratio 8 ∶ 3, then present ages of father and son respectively are (Ans: 40 years, 20 years)
+Q3. A father is twice old as his son. 8 years back their ages were in the ratio 8 ∶ 3, then present ages of father and son respectively are (Ans: 40 years, 20 years)
+  [Hint:
+  8(x-8) = 3(2x-8) ]
 
 
-Q2. 8 times the present age of Anjali is 14 years more than 2 times the present age of Kamal, and 8 times the present age of Kamal is 8 years less than 8 times the present age of Anjali. The sum of the present ages (in years) of Anjali and Kamal is: (Ans: 3)
+*Q2.* 8 times the present age of Anjali is 14 years more than 2 times the present age of Kamal, and 8 times the present age of Kamal is 8 years less than 8 times the present age of Anjali. The sum of the present ages (in years) of Anjali and Kamal is: (Ans: 3)
 
 
-Q3. 8 years ago, the age of father was 27 years more than twice his son's age. After how many years, from now, will he be twice his son's age? (Ans: 19)
+*Q1.* 8 years ago, the age of father was 27 years more than twice his son's age. After how many years, from now, will he be twice his son's age? (Ans: 19)
 
 GOTO:top
 ___________________
@@ -523,19 +546,19 @@ Q7. Find the diameter of a spherical ball whose volume is 38.808 cm3. (Use  π =
 
 Q6. The surface area of a sphere is 2464 cm². Find its volume. (Ans: 11,498⅔ cm³)
 
-Q1. The ratio of the areas of two similar triangles is 49 : 121. What is the ratio of their perimeters ? (Ans: 7:11)
+Q5. The ratio of the areas of two similar triangles is 49 : 121. What is the ratio of their perimeters ? (Ans: 7:11)
 
 
-Q2. What is the surface area of a sphere of radius 8 cm? (use π = 3.14) (Ans: 803.84 cm²)
+Q4. What is the surface area of a sphere of radius 8 cm? (use π = 3.14) (Ans: 803.84 cm²)
 
 
 Q3. If the radius of a cylinder is increased by 50 percent, then by how much percent its height must be reduced, so that the volume of the cylinder remains same?   (Ans: 55.56%)
 
 
-Q4. The base of a right prism is an equilateral triangle with each side measuring 4 cm. If lateral surface area is 180 cm². find the volume of prism (in cm³)? (Ans: 60√3)
+Q2. The base of a right prism is an equilateral triangle with each side measuring 4 cm. If lateral surface area is 180 cm². find the volume of prism (in cm³)? (Ans: 60√3)
 
 
-Q5. Rahul is 3 times as old as Seema. Laxmi was twice as old as Rahul four years ago. In four year's time, Rahul will be 31. What are the present ages of Seema and Laxmi?  (Ans: 9,50)
+Q1. Rahul is 3 times as old as Seema. Laxmi was twice as old as Rahul four years ago. In four year's time, Rahul will be 31. What are the present ages of Seema and Laxmi?  (Ans: 9,50)
 
 GOTO:top
 ___________________
