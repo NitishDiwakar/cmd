@@ -98,27 +98,30 @@ IMG:ncert-11-fig-2dot6.png
 
 *Summary*
 
-Biological classification of plants and animals was first proposed by Aristotle on the basis of simple morphological characters. 
+Biological classification of plants and animals was first proposed by *Aristotle* on the basis of simple morphological characters. 
 
-Linnaeus later classified all living organisms into two kingdoms – Plantae and Animalia. Whittaker proposed an elaborate five kingdom classification – Monera, Protista, Fungi, Plantae and Animalia. 
+*Linnaeus* later classified all living organisms into two kingdoms – *Plantae and Animalia*. 
+
+*Whittaker* proposed an elaborate five kingdom classification – Monera, Protista, Fungi, Plantae and Animalia. 
 
 The main criteria of the five kingdom classification were cell structure, body organisation, mode of nutrition and reproduction, and phylogenetic relationships.
 
-In the five kingdom classification, bacteria are included in Kingdom Monera.
+In the five kingdom classification, *bacteria* are included in Kingdom *Monera*.
 
 Bacteria are cosmopolitan in distribution. These organisms show the most extensive metabolic diversity. 
 
 Bacteria may be autotrophic or heterotrophic in their mode of nutrition. 
 
-Kingdom Protista includes all single-celled eukaryotes such as Chrysophytes, Dinoflagellates, Euglenoids, Slime-moulds and Protozoans. 
+Kingdom *Protista* includes all *single-celled eukaryotes* such as Chrysophytes, Dinoflagellates, Euglenoids, Slime-moulds and Protozoans. 
 
-Protists have defined nucleus and other membrane bound organelles. 
+*Protists* have defined nucleus and other membrane bound organelles. 
+They reproduce both *asexually and sexually*. 
 
-They reproduce both asexually and sexually. Members of Kingdom Fungi show a great diversity in structures and habitat. 
+Members of Kingdom *Fungi* show a great diversity in structures and habitat. 
 
 Most fungi are saprophytic in their mode of nutrition. They show asexual and sexual reproduction. Phycomycetes, Ascomycetes, Basidiomycetes and Deuteromycetes are the four classes under this kingdom.
 
-The plantae includes all eukaryotic chlorophyll-containing organisms. 
+The *plantae* includes all eukaryotic chlorophyll-containing organisms. 
 
 Algae, bryophytes, pteridophytes, gymnosperms and angiosperms are included in this group. 
 
@@ -144,11 +147,16 @@ IMG:ncert-11-fig-3dot6.png
 
 *Summary*
 
-Plant kingdom includes algae, bryophytes, pteridophytes, gymnosperms and angiosperms. 
+*Plant kingdom* includes:
+  - algae, 
+  - bryophytes, 
+  - pteridophytes, 
+  - gymnosperms and 
+  - angiosperms. 
 
-Algae are chlorophyll-bearing simple, thalloid, autotrophic and largely aquatic organisms. Depending on the type of pigment possesed and the type of stored food, algae are classfied into three classes, namely Chlorophyceae, Phaeophyceae and Rhodophyceae. Algae usually reproduce vegetatively by fragmentation, asexually by formation of different types of spores and sexually by formation of gametes which may show isogamy, anisogamy or oogamy.
+*Algae* are *chlorophyll-bearing* simple, thalloid, autotrophic and largely aquatic organisms. Depending on the type of pigment possesed and the type of stored food, algae are classfied into three classes, namely Chlorophyceae, Phaeophyceae and Rhodophyceae. Algae usually reproduce vegetatively by fragmentation, asexually by formation of different types of spores and sexually by formation of gametes which may show isogamy, anisogamy or oogamy.
 
-Bryophytes are plants which can live in soil but are dependent on water for sexual reproduction. 
+*Bryophytes* are *plants* which can live in soil but are dependent on water for sexual reproduction. 
 
 Their plant body is more differentiated than that of algae. 
 
@@ -158,9 +166,9 @@ They possess root-like, leaf-like and stem-like structures. The bryophytes are d
 
 The plant body of liverworts is thalloid and dorsiventral whereas mosses have upright, slender axes bearing spirally arranged leaves. 
 
-The main plant body of a bryophyte is gamete-producing and is called a  gametophyte. 
+The main plant body of a bryophyte is gamete-producing and is called a  *gametophyte*. 
 
-It bears the male sex organs called antheridia  and female sex organs  called archegonia. 
+It bears the male sex organs called *antheridia*  and female sex organs  called *archegonia*. 
 
 The male and female gametes produced fuse to form zygote which produces a multicellular body called a sporophyte. It produces haploid spores. 
 
@@ -168,29 +176,33 @@ The spores germinate to form gametophytes. In pteridophytes the main plant is a 
 
 These organs possess well-differentiated vascular tissues. 
 
-The sporophytes bear sporangia which produce spores. The spores germinate to form  gametophytes which require cool, damp places to grow. 
+The *sporophytes* bear sporangia which produce spores. The spores germinate to form  gametophytes which require cool, damp places to grow. 
 
-The gametophytes bear male and female sex organs called antheridia and archegonia, respectively. 
+The *gametophytes* bear male and female sex organs called *antheridia* and *archegonia*, respectively. 
 
 Water is required for transfer of male gametes to archegonium where zygote is formed after fertilisation. The zygote produces a sporophyte.
 
-The gymnosperms are the plants in which ovules are not enclosed by any  ovary wall. 
+The *gymnosperms* are the plants in which ovules are not enclosed by any  ovary wall. 
 
-After fertilisation the seeds remain exposed and therefore these plants  are called naked-seeded plants. 
+After fertilisation the seeds remain exposed and therefore these plants  are called *naked-seeded plants*. 
 
 The gymnosperms produce microspores and megaspores which are produced in microsporangia and megasporangia borne on the sporophylls. 
 
 The sporophylls – microsporophylls and megasporophylls – are arranged spirally on axis to form male and female cones, respectively. 
 
-The pollen grain germinates and pollen tube releases the male gamete into the ovule, where it fuses with the egg cell in archegonia. Following fertilisation, the zygote develops into embryo and the ovules into seeds. In angiosperms, the male sex organs (stamen) and female sex organs (pistil) are borne in a flower. Each stamen consists of a filament and an anther. 
+The pollen grain germinates and pollen tube releases the male gamete into the ovule, where it fuses with the egg cell in archegonia. Following fertilisation, the zygote develops into embryo and the ovules into seeds. 
 
-The anther produces pollen grains (male gametophyte) after meiosis. The pistil consists of an ovary enclosing one to many ovules. 
+In angiosperms, the male sex organs (*stamen*) and female sex organs (*pistil*) are borne in a flower. Each stamen consists of a filament and an anther. 
+
+The anther produces pollen grains (male *gametophyte*) after meiosis. 
+
+The pistil consists of an ovary enclosing one to many ovules. 
 
 Within the ovule is the female gametophyte or embryo sac which contains the egg cell. 
 
 The pollen tube enters the embryo-sac where two male gametes are discharged. 
 
-One male gamete fuses with egg cell (syngamy) and other fuses with diploid secondary nucleus (triple fusion). 
+One male gamete fuses with egg cell (*syngamy*) and other fuses with diploid secondary nucleus (triple fusion). 
 
 This phenomenon of two fusions is called double fertilisation and is unique to angiosperms. The angiosperms are divided into two classes – the dicotyledons and the monocotyledons.
 
@@ -202,7 +214,7 @@ However, different plant groups as well as individuals may show different patter
 
 GOTO:top
 TAG:4-animal-kingdom
-*4-animal-kingdom*
+*4-Animal-Kingdom*
 
 Germinal Layers
 IMG:ncert-11-fig-4dot2.png
@@ -222,41 +234,41 @@ IMG:ncert-11-tab-4dot2.png
 
 The basic fundamental features such as level of organisation, symmetry, cell organisation, coelom, segmentation, notochord, etc., have enabled us to broadly classify the animal kingdom. Besides the fundamental features, there are many other distinctive characters which are specific for each phyla or class.
 
-Porifera includes multicellular animals which exhibit cellular level of  organisation and have characteristic flagellated choanocytes. 
+*Porifera* includes multicellular animals which exhibit cellular level of  organisation and have characteristic flagellated choanocytes. 
 
 The coelenterates have tentacles and bear cnidoblasts. They are mostly aquatic, sessile or free-floating.
 
-The ctenophores are marine animals with comb plates. 
+The *ctenophores* are marine animals with comb plates. 
 
-The platyhelminths have flat body and exhibit bilateral symmetry. The parasitic forms show distinct suckers and hooks. 
+The *platyhelminths* have flat body and exhibit bilateral symmetry. The parasitic forms show distinct suckers and hooks. 
 
-Aschelminthes are pseudocoelomates and  include parasitic as well as  non-parasitic roundworms.
+*Aschelminthes* are pseudocoelomates and  include parasitic as well as  non-parasitic roundworms.
 
-Annelids are metamerically segmented animals with a true coelom. 
+*Annelids* are metamerically segmented animals with a true coelom. 
 
-The arthropods are the most abundant group of animals characterised by the presence of jointed appendages. 
+The *arthropods* are the most abundant group of animals characterised by the presence of jointed appendages. 
 
 The molluscs have a soft body surrounded by an external calcareous shell. 
 
 The body is covered with external skeleton made of chitin. 
 
-The echinoderms possess a spiny skin. 
+The *echinoderms* possess a spiny skin. 
 
 Their most distinctive feature is the presence of water vascular system. 
 
-The hemichordates are a small group of worm-like marine animals. 
+The *hemichordates* are a small group of worm-like marine animals. 
 
 They have a cylindrical body with proboscis, collar and trunk.
  
-Phylum Chordata includes animals which possess a notochord either throughout or during early embryonic life. Other common features observed in the chordates are the dorsal, hollow nerve cord and paired pharyngeal gill slits.
+*Phylum Chordata* includes animals which possess a notochord either throughout or during early embryonic life. Other common features observed in the chordates are the dorsal, hollow nerve cord and paired pharyngeal gill slits.
 
-Some of the vertebrates do not possess jaws (Agnatha) whereas most of them possess jaws (Gnathostomata). Agnatha is represented by the class, Cyclostomata. 
+Some of the vertebrates do not possess jaws (*Agnatha*) whereas most of them possess jaws (Gnathostomata). Agnatha is represented by the class, Cyclostomata. 
 
 They are the most primitive chordates and are ectoparasites on fishes. Gnathostomata has two super classes, Pisces and Tetrapoda. 
 
 Classes Chondrichthyes and Osteichthyes bear fins for locomotion and are grouped under Pisces. 
 
-The Chondrichthyes are fishes with cartilaginous endoskeleton and are marine. 
+The *Chondrichthyes* are fishes with cartilaginous endoskeleton and are marine. 
 
 Classes, Amphibia, Reptilia, Aves and Mammalia have two pairs of limbs and are thus grouped under Tetrapoda. The amphibians have adapted to live both on land and water. 
 
@@ -264,7 +276,7 @@ Reptiles are characterised by the presence of dry and cornified skin. Limbs are 
 
 Fishes, amphibians and reptiles are poikilothermous (cold blooded). 
 
-Aves are warm-blooded animals with feathers on their bodies and forelimbs modified into wings for flying. 
+*Aves* are warm-blooded animals with feathers on their bodies and forelimbs modified into wings for flying. 
 
 Hind limbs are adapted for walking, swimming, perching or clasping. 
 
@@ -289,7 +301,7 @@ Flowering plants exhibit enormous variation in shape, size, structure, mode of n
 
 They have well developed root and shoot systems. 
 
-Root system is either tap root or fibrous. Generally, dicotyledonous plants have tap roots while monocotyledonous plants have fibrous roots. 
+Root system is either tap root or fibrous. Generally, *dicotyledonous* plants have tap roots while monocotyledonous plants have fibrous roots. 
 
 The roots in some plants get modified for storage of food, mechanical support and respiration.
 
@@ -343,13 +355,13 @@ The vascular tissue system is formed by the xylem and phloem. On the basis of pr
 
 The vascular bundles form the conducting tissue and translocate water,  minerals and food material.
 
-Monocotyledonous and dicotyledonous plants show marked variation in their internal structures. 
+*Monocotyledonous* and *dicotyledonous* plants show marked variation in their internal structures. 
 
 They differ in type, number and location of vascular bundles.
 
 The secondary growth occurs in most of the dicotyledonous roots and stems and it increases the girth (diameter) of the organs by the activity of the vascular cambium and the cork cambium. 
 
-The wood is actually a secondary xylem. There are different types of wood on the basis of their composition and time of production.
+The *wood* is actually a *secondary xylem*. There are different types of wood on the basis of their composition and time of production.
 
 
 
@@ -379,7 +391,7 @@ Cells, tissues, organs and organ systems split up the work in a way that ensures
 
 A tissue is defined as group of cells along with intercellular substances performing one or more functions in the body. 
 
-Epithelia are sheet like tissues lining the body’s surface and its cavities, ducts and tubes. 
+*Epithelia* are sheet like tissues lining the body’s surface and its cavities, ducts and tubes. 
 
 Epithelia have one free surface facing a body fluid or the outside environment. 
 
@@ -394,7 +406,7 @@ Cartilage, bone, blood, and adipose tissue are specialised connective tissues.
 
 Cartilage and bone are both structural materials. Blood is a fluid tissue with transport functions.
 
-Adipose tissue is a reservoir of stored energy. Muscle tissue, which can contract (shorten) in response to stimulation, helps in movement of the body and specific body parts. 
+*Adipose* tissue is a reservoir of stored energy. Muscle tissue, which can contract (shorten) in response to stimulation, helps in movement of the body and specific body parts. 
 
 Skeletal muscle is the muscle tissue attached to bones. Smooth muscle is a component of internal organs. Cardiac muscle makes up the contractile walls of the heart. 
 
@@ -403,7 +415,7 @@ Connective tissue covers all three types of tissues. Nervous tissue  exerts grea
 
 Earthworm, Cockroach and Frog show characteristic features in body  organisation. 
 
-In Pheretima posthuma (earthworm), the body is covered by cuticle.
+In Pheretima posthuma (earthworm), the body is covered by *cuticle*.
 
 All segments of its body are alike except the 14th, 15th and 16th segment, which are thick and dark and glandular, forming clitellum. 
 
@@ -417,7 +429,7 @@ The alimentary canal is a narrow tube made of mouth, buccal cavity, pharynx, giz
 
 The blood vascular system is of closed type with heart and valves. Nervous system is represented by ventral nerve cord. 
 
-Earthworm is hermaphorodite. 
+Earthworm is *hermaphorodite*. 
 
 Two pairs of  testes occur in the 10th and 11th segment, respectively. A pair of ovaries are present on 12 and 13th intersegmental septum. 
 
@@ -425,15 +437,15 @@ It is a protandrous animal with cross fertilisation.
 
 Fertilisation and development take place in cocoon secreted by the glands of clitellum.
 
-The body of Cockroach (Periplaneta americana) is covered by chitinous  exoskeleton. 
+The body of Cockroach (*Periplaneta americana*) is covered by chitinous  exoskeleton. 
 
-It is divided into head, thorax and abdomen. Segments bear jointed  appendages. 
+It is divided into *head, thorax and abdomen*. Segments bear jointed  appendages. 
 
 There are three segments of thorax, each bearing a pair of walking legs. 
 
 Two pairs of wings are present, one pair each on 2nd and 3rd segment.
 
-There are ten segments in abdomen. Alimentary canal is well developed with a mouth surrounded by mouth parts, a pharynx, oesophagus, crop, gizzard, midgut, hindgut and anus. 
+There are *ten* segments in abdomen. Alimentary canal is well developed with a mouth surrounded by mouth parts, a pharynx, oesophagus, crop, gizzard, midgut, hindgut and anus. 
 
 Hepatic caecae are present at the junction of foregut and midgut. 
 
@@ -449,7 +461,7 @@ Female produces 9-10 ootheca bearing developing embryos.
 
 After rupturing of single ootheca sixteen young ones, called nymphs come out.
 
-The Indian bullfrog, Rana tigrina, is the common frog found in India. Body is covered by skin. 
+The Indian bullfrog, *Rana tigrina*, is the common frog found in India. Body is covered by skin. 
 
 Mucous glands are present in the skin which is highly vascularised and helps in respiration in water and on land. Body is divisible into head and trunk.
 
@@ -467,7 +479,7 @@ RBCs are nucleated. Nervous system is organised into central, peripheral and aut
 
 The male reproductive organ is a pair of testes. The female reproductive organ is a pair of ovaries. 
 
-A female lays 2500-3000 ova at a time. The fertilisation and development are external. 
+A female lays *2500-3000* ova at a time. The fertilisation and development are *external*. 
 
 The eggs hatch into tadpoles, which metamorphose into frogs.
 

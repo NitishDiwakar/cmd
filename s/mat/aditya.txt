@@ -45,7 +45,8 @@ GOTO:top
 ______________________
 TAG:1-percentage
 *1-Percentage*
-Q1. If 35% of 60% of A is equal to 25% of 75% of B, then what is the ratio of A to B?
+
+*Q1.* If 35% of 60% of A is equal to 25% of 75% of B, then what is the ratio of A to B?
 
 (a) 25 : 28 ✔
 (b) 7 : 12
@@ -873,7 +874,7 @@ TAG:4-profit-and-loss
 (d) ₹7,282
 
 
-3. Sandeep made a profit of 22% when he sold an over cost for Rs.8540. Find the cost price of the over cost.
+*3.* Sandeep made a profit of 22% when he sold an over cost for Rs.8540. Find the cost price of the over cost.
   [Hint: 4260/61 = 70]
 
 (a) ₹6500
@@ -882,8 +883,10 @@ TAG:4-profit-and-loss
 (d) ₹7500
 
 
-*4.* If an article is sold for ₹402, there is a loss of 33%. At what price should it be sold to get 37% profit?
-  [Hint: 402/67% x 137%; 402/67 = 6; 6 x 137]
+*4.* If an article is sold for ₹402, there is a loss of 33%. At what price should it be sold to get 37% profit? 
+  [Hint: 
+  *Shortcut* #revise
+  402/67% x 137%; 402/67 = 6; 6 x 137]
 
 (a) ₹911
 (b) ₹846
@@ -909,7 +912,10 @@ TAG:4-profit-and-loss
 
 
 *7.* If I gain 124% by selling an item for ₹1,232, then what would be my gain or loss percentage if I sell it for ₹572?
-  [227/100 x x = 1232]
+  [Hint:
+  227/100 x x = 1232
+
+  My mistake: used 24% instead of 124%]
 
 (a) 6% Gain
 (b) 6% Loss
@@ -917,7 +923,11 @@ TAG:4-profit-and-loss
 (d) 4% Gain ✔
 
 
-8. A man loses 28% by selling an article for Rs.144. If he sells it for Rs.288, what will be his gain/loss percentage?
+*8.* A man loses 28% by selling an article for Rs.144. If he sells it for Rs.288, what will be his gain/loss percentage?
+  [Hint:
+  72% -> 144
+  100% -> 200
+  44% ]
 
 (a) Gain, 41%
 (b) Loss, 43%
@@ -926,6 +936,20 @@ TAG:4-profit-and-loss
 
 
 *[9].* If the selling price of an almirah is doubled, then the profit is tripled. Find the initial profit percentage.
+  [Hint: 
+  CP = 100  
+  SP = x
+
+  Profit₁ = x − 100  
+  Profit₂ = 2x − 100
+  
+  2x − 100 = 3(x − 100)
+  2x − 100 = 3x − 300  
+  200 = x
+
+  Profit = 200 − 100 = 100  
+  Profit % = 100%
+  #revisit]
 
 (a) 50%
 (b) 10%
@@ -934,6 +958,8 @@ TAG:4-profit-and-loss
 
 
 *10.* If the selling price is tripled, the profit becomes 5 times. Then find the profit percentage.
+  [Hint:
+  #revisit]
 
 (a) 80%
 (b) 100% ✔
@@ -950,7 +976,9 @@ TAG:4-profit-and-loss
 
 
 *12.* A shopkeeper sold an article at a 26% profit. On selling it for ₹2,250 more, he would get a profit of 41%. If this article is sold at 12% profit, then the selling price would be:
-  [Hint: 15% = 2250; 2250/15% x 112%]
+  [Hint: 
+  15% = 2250; 2250/15% x 112%
+  #revisit ]
 
 (a) ₹16,800 ✔
 (b) ₹15,000
@@ -959,7 +987,7 @@ TAG:4-profit-and-loss
 
 
 *13.* The selling price of 80 items is equal to the cost price of 72 items. What is the percentage of loss incurred in the transaction?
-  [Hint: 80SP=72CP; 10SP = 9CP; SP/CP = 9/10; Loss% = 1/10 x 100; 10%]
+  [Hint: 80SP=72CP; 10SP = 9CP; Loss% = 1/10 x 100; 10% ]
 
 (a) 12%
 (b) 10% ✔
@@ -977,6 +1005,10 @@ TAG:4-profit-and-loss
 
 
 *[15].* The cost price of 36 articles is the same as the selling price of N articles. If the profit is 20%, then the value of N is:
+  [Hint:
+  120% → 1.2  
+  36 ÷ 1.2 = 30
+  #revisit ]
 
 (a) 25
 (b) 42
@@ -984,7 +1016,9 @@ TAG:4-profit-and-loss
 (d) 30 ✔
 
 
-16. By selling 60 pens, a man gain an amount equal to the selling price of 12 pens. What is his gain percentage?
+*16.* By selling 60 pens, a man gain an amount equal to the selling price of 12 pens. What is his gain percentage?
+  [Hint: 48
+  #revisit ]
 
 (a) 20%
 (b) 22%
@@ -992,7 +1026,21 @@ TAG:4-profit-and-loss
 (d) 27%
 
 
-17. By selling two articles for ₹800, a person gains the cost price of three articles. The profit percent is:
+*17.* By selling two articles for ₹800, a person gains the cost price of three articles. The profit percent is:
+  [Hint:
+  Let
+  CP of 2 articles = ₹20  
+  CP of 3 articles = ₹30  
+
+  Profit = ₹30
+  SP = CP + Profit
+  SP = 20 + 30 = ₹50
+  Profit = 30  
+  CP = 20  
+  Profit % = (30 / 20) × 100
+  = 3/2 × 100
+  = 150% 
+  #revisit ]
 
 (a) 125%
 (b) 140%
@@ -1000,7 +1048,8 @@ TAG:4-profit-and-loss
 (d) 150% ✔
 
 
-18. By selling 30 meters of cloth a shopkeeper makes a profit equivalent to the selling price of 10 meters of cloth. Find the selling price of 1 meter of cloth when the cost price of 1 meter of cloth is ₹480.
+*18.* By selling 30 meters of cloth a shopkeeper makes a profit equivalent to the selling price of 10 meters of cloth. Find the selling price of 1 meter of cloth when the cost price of 1 meter of cloth is ₹480.
+  [Hint: #revisit ]
 
 (a) ₹520
 (b) ₹720 ✔
@@ -1009,6 +1058,7 @@ TAG:4-profit-and-loss
 
 
 19. A man purchased a cell phone for ₹24,500 and sold it at a gain of 12.5% calculated on the selling price. The selling price of the cell phone was:
+  [Hint: #revisit ]
 
 (a) ₹25,000
 (b) ₹28,000 ✔
@@ -1017,6 +1067,8 @@ TAG:4-profit-and-loss
 
 
 20. By selling an article for ₹640, a person loses 15% of its selling price. At what price (in ₹) should he sell it to gain 15% on its cost price?
+  [Hint: Be careful on profit/loss on SP
+  #revisit ]
 
 (a) ₹835
 (b) ₹832
@@ -1126,10 +1178,10 @@ ______________________
 TAG:5-profit-and-loss
 *5-Profit-and-loss*
 
-1. A man sells a mobile phone for Rs.680 and
- loses something. If he had sold it for Rs.1070,
- his gain would have been double the former loss.
- The cost price (in ₹) of the mobile phone is:
+*1.* A man sells a mobile phone for Rs.680 and loses something. If he had sold it for Rs.1070, his gain would have been double the former loss. The cost price (in ₹) of the mobile phone is:
+  [Hint:
+  IMG:pl-q1.png
+  #revise ]
 
  (a) 820
  (c) 830
@@ -1137,11 +1189,16 @@ TAG:5-profit-and-loss
  (d) 810 ✔
 
 
-2. The percentage profit earned by James by
- selling an article for Rs.1,920, equals the
- percentage loss suffered by selling it at
- Rs.1,500. What should be the selling price
- if he wants to earn 10% profit?
+2. The percentage profit earned by James by selling an article for Rs.1,920, *equals* the percentage loss suffered by selling it at Rs.1,500. What should be the selling price if he wants to earn 10% profit?
+  [Hint:
+  When profit and loss is equal in "butterfly"
+  Then CP,
+  (1500 + 1920) / 2
+  1710
+
+  1710 x 110/100
+  1881 
+  #revise ]
 
  (a) ₹4,000
  (b) ₹1,881 ✔
@@ -1149,61 +1206,57 @@ TAG:5-profit-and-loss
  (d) ₹2,000
 
 
-3.  The profit earned when a book is sold for
- Rs. 600 is thrice the profit earned when the
- same book is sold for Rs. 400. What should
- be the selling price if seller wants to earn
- 60% profit?
+*3.*  The profit earned when a book is sold for Rs. 600 is thrice the profit earned when the same book is sold for Rs. 400. What should be the selling price if seller wants to earn 60% profit?
+  [Hint: 
+  IMG:pl-q2.png
+  #revise ]
 
  (a) Rs. 420
  (b) Rs. 440
  (c) Rs. 460
  (d) Rs. 480 ✔
 
-4. If a man bought 6 pencils for Rs.5, and sold
- them at 5 pencils for Rs.6, then the gain
- percentage is______.
+*4.* If a man bought 6 pencils for Rs.5, and sold them at 5 pencils for Rs.6, then the gain percentage is______.
+  [Hint: 
+  IMG:pl-q3.png
+  no. of articles must be equal
+  #revisit ]
 
  (a) 42 %
  (b) 41 %
  (c) 43 %
  (d) 44 % ✔
 
-5. A retailer purchased at a rate of 11 mangoes
- for Rs.100 and sold at a rate of 10 mangoes
- for Rs.110. The percentage of profit for per
- mango sold is:
+5. A retailer purchased at a rate of 11 mangoes for Rs.100 and sold at a rate of 10 mangoes for Rs.110. The percentage of profit for per  mango sold is:
+  [Hint: Similar to above ques
+  IMG:pl-q4.png ]
 
  (a) 11%
  (b) 22%
  (c) 21% ✔
  (d) 15.5%
 
-6. A vendor buys 20 pens for ₹15 and sells them
- at 15 for ₹20. How many pens should be
- bought and sold to earn a profit of ₹245?
+
+6. A vendor buys 20 pens for ₹15 and sells them at 15 for ₹20. How many pens should be bought and sold to earn a profit of ₹245?
+  [Hint:
+  IMG:pl-q5.png ]
 
  (a) 280
  (b) 540
  (c) 320
  (d) 420 ✔
 
-7. A person bought two types of pens one at ₹8
- for 9 pens, and the other at ₹8 per pen. He
- bought an equal number of pens of each type.
- If he sold all the pens at ₹6 per pen, what
- was his profit percentage?
+
+7. A person bought two types of pens one at ₹8 for 9 pens, and the other at ₹8 per pen. He bought an equal number of pens of each type. If he sold all the pens at ₹6 per pen, what was his profit percentage?
+  [Hint: Tough, skip for now]
 
  (a) 35% ✔
  (b) 33%
  (c) 32%
  (d) 45%
 
-8. A shopkeeper bought 60 pencils at a rate
- of 4 for ₹5 and another 60 pencils at a rate
- of 2 for ₹3. He mixed all the pencils and
- sold them at a rate of 3 for ₹4. Find his
- gain or loss percentage
+
+8. A shopkeeper bought 60 pencils at a rate of 4 for ₹5 and another 60 pencils at a rate of 2 for ₹3. He mixed all the pencils and sold them at a rate of 3 for ₹4. Find his gain or loss percentage
 
  (a) Profit 3 1/8
  (b) Loss 3 1/33 ✔
@@ -1216,7 +1269,7 @@ ______________________
 TAG:6-profit-and-loss
 *6-Profit-and-loss*
 
-1. A man bought three articles for ₹3,000 each. He sold the articles respectively at 10% profit, 5% profit and 15% loss. The total percentage profit/loss he earned is:
+1. A man bought three articles for ₹3,000 each. He sold the articles respectively at 10% profit, 5% profit and 15% loss. The total ercentage profit/loss he earned is:
 
 (a) 10% loss
 (b) 5% loss
@@ -1581,6 +1634,10 @@ TAG:8-discount
 *8-Discount*
 
 1. A man sold an article for 405 by giving a discount of d% on its marked price. If the marked price of the article is ₹540, then what is the value of d?
+  [Hint:
+  540 x d% = 135
+  d = (135 x 100) /540
+  25 ]
 
 (a) 25 ✔
 (b) 12.5 
@@ -1589,6 +1646,9 @@ TAG:8-discount
 
 
 2. The marked price of an immersion rod in an electronic store is ₹900. The store offers a discount of 12% on its sale. At what price (in ₹) can a customer buy it from the electronic store?
+  [Hint:
+  900 x 88/100
+  792 ]
 
 (a) 787
 (b) 792 ✔
@@ -2378,6 +2438,9 @@ ______________________
 TAG:12-algebra
 *12-Algebra*
 1. If x + 1/x = 2, then find the value of (x^2723 + 1/x^3356).
+  [Hint:
+  x + (1/x) = 2 => x =1
+  #revise ]
 
 (a) 1
 (b) 2 ✔
@@ -3543,6 +3606,7 @@ ______________________
 TAG:17-compound-interest
 *17-Compound-interest*
 1. Shiva borrowed a sum of ₹12,000 from a finance company at the rate of 20% p.a. compound interest, compounded annually. What is the compound interest for 2 years?
+  [Hint: 17280 - 12000]
 
 (a) ₹5,280 ✔
 (b) ₹4,800
@@ -3574,7 +3638,15 @@ TAG:17-compound-interest
 (d) ₹7,044
 
 
-5. A sum of money was lent at 12.5% compound interest for 3 years. If the amount after 3 years is ₹13,851, find the principal.
+*5.* A sum of money was lent at 12.5% compound interest for 3 years. If the amount after 3 years is ₹13,851, find the principal.
+  [Hint:
+  Use ratio method
+  12.5% = 1/8
+
+  A = P × (9/8)³  
+  → multiply by (8/9)³  
+  → direct cancel → 19 × 512
+  #revisit ]
 
 (a) ₹8,728
 (b) ₹10,000
@@ -3591,6 +3663,7 @@ TAG:17-compound-interest
 
 
 7. Find the compound interest on ₹11,000 in 2 years at 4% per annum compounded yearly.
+  [Hint: Lentghy calculation]
 
 (a) ₹875.80
 (b) ₹906.50
@@ -3622,7 +3695,13 @@ TAG:17-compound-interest
 (c) ₹2,362.80 ✔
 (d) ₹2,388.60
 
-11. What will be the amount after 1 year if ₹7,500 is invested at 8% compound interest per annum compounded half-yearly?
+---Half yearly and quartely---
+
+*11.* What will be the amount after 1 year if ₹7,500 is invested at 8% compound interest per annum compounded half-yearly?
+  [Hint:
+  8%, half-yearly
+  4%, 2 year 
+  #revise ]
 
 (a) ₹8,300
 (b) ₹8,112 ✔
@@ -3639,6 +3718,14 @@ TAG:17-compound-interest
 
 
 13. The compound interest on ₹5,500 at 15% per annum for 2 years when compounded every 8 months is:
+  [Hint:
+  Rate = (15% x 8) / 12
+  10%
+
+  Time = 24/8
+  3
+
+  #revise ]
 
 (a) ₹1,880
 (b) ₹1,820.50 ✔
@@ -3646,7 +3733,7 @@ TAG:17-compound-interest
 (d) ₹1,850
 
 
-14. A moneylender borrows money at 4% per annum and pays interest at year end. He lends it at 8% compound interest compounded half-yearly and receives interest at year end. If his annual gain is ₹166.4, find the amount borrowed.
+*14.* A moneylender borrows money at 4% per annum and pays interest at year end. He lends it at 8% compound interest compounded half-yearly and receives interest at year end. If his annual gain is ₹166.4, find the amount borrowed.
 
 (a) ₹6,500
 (b) ₹4,000 ✔

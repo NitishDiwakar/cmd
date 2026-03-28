@@ -51,6 +51,59 @@ ____________________
 TAG:1-number-system
 *1-Number-system*
 
+Q16. By what smallest number should 56,700 be multiplied so that it becomes a perfect square?
+  [Hint:
+  56,700 = 567 x 100
+  100 = 2^2 x 5^5
+
+  567 = 81 x 7
+  3^4 x 7
+  7 ]
+
+Q15. How many three-digit numbers are divisible by 5?
+  [Hint:
+  smallest: 100
+  largest: 995
+
+  Number of terms = (Last − First)/5 + 1
+  (995 - 100) / (5)  + 1
+  895/5  + 1
+  179 + 1
+  180 ]
+
+Q14.  The sum of three prime numbers is 100. One of them is 36 more than the other, the highest prime number is:
+  [Hint:
+  100 -> even
+  One prime number must be 2
+
+  Sum of other two prime no = 98
+  difference = 36
+  x + (x + 36) = 98
+  2x + 36 = 98
+  2x = 62
+  x = 31
+
+  And
+  31 + 36 = 67
+  67 ]
+
+Q13. The difference of two positive numbers is 72 and one is different from the other. The quotient on division is 4. Choose the numbers.
+  [Hint:
+  Difference = 72
+  One # is 4 times other number
+
+  So,
+  1 : 4
+  Difference in Ratio = 3 parts
+  3 parts = 72
+  1 part = 72 ÷ 3 = 24
+
+  So numbers are
+  1 part = 24  
+  4 parts = 24 × 4 = 96
+  24, 96]
+
+
 Q12. Complete teh series:
   7, 26, 63, 124, 215, 342, ?
 
@@ -512,7 +565,15 @@ TAG:29-stocks-and-shares
 GOTO:top
 TAG:30-permutations-and-combinations
 *30-Permutations-and-combinations*
-Q1. How many times the digit 5 will come if we write from 1 to 99 and exclude those numbers which are divisible by 3? (ASO Mains)
+
+Q11. In the numbers 100 to 999, how many times will the digit 9 appear? (Ans: 280)
+  [Hint:
+  Hundreds = 100  
+  Tens = 90  
+  Units = 90  
+  → Total = 280 ]
+
+Q10. How many times the digit 5 will come if we write from 1 to 99 and exclude those numbers which are divisible by 3? (ASO Mains)
 
 (A) 19
 (B) 20
@@ -520,45 +581,45 @@ Q1. How many times the digit 5 will come if we write from 1 to 99 and exclude th
 (D) 13
 
 
-Q2. How many numbers are there in all from 6000 to 6999 (Both 6000 and 6999 included) having all digits same?      [2006, UPSC]
+Q9. How many numbers are there in all from 6000 to 6999 (Both 6000 and 6999 included) having all digits same?      [2006, UPSC]
 
  (a) 216 (b) 356
  (c) 496 ✔ (d) 504
 
 
-Q3. If all the numbers from 501 to 700 are written, what is the total number of times does the digit 6 appear?   [2007]
+Q8. If all the numbers from 501 to 700 are written, what is the total number of times does the digit 6 appear?   [2007]
 
  (a) 138 (b) 139 (c) 140 ✔ (d) 141
 
 
-Q4. In a tournament 14 teams play league/matches. If each team plays against every other team only once then how many matches are played? [2010]
+Q7. In a tournament 14 teams play league/matches. If each team plays against every other team only once then how many matches are played? [2010]
 
  (a) 105 (b) 91 ✔ (c) 85 (d) 78
 
 
-Q5. A person has only  1 and  2 coins with her. If the total number of coins that she has is 50 and the amount of money with her is  75, then the number of  1 and  2 coins are, respectively [2011 - II]
+Q6. A person has only  1 and  2 coins with her. If the total number of coins that she has is 50 and the amount of money with her is  75, then the number of  1 and  2 coins are, respectively [2011 - II]
 
  (a) 15 and 35 (b) 35 and 15
  (c) 30 and 20 (d) 25 and 25 ✔
 
 
-Q6. How many numbers are there between 100 and 300 which either begin with or end with 2? [2016-II]
+Q5. How many numbers are there between 100 and 300 which either begin with or end with 2? [2016-II]
 
  (a) 110 ✔ (b) 111
  (c) 112 (d) None of the above
 
 
-Q7. What is the total number of digits printed, if a book containing 150 pages is to be numebred from 1 to 150 [2017-II]
+Q4. What is the total number of digits printed, if a book containing 150 pages is to be numebred from 1 to 150 [2017-II]
 
  (a) 262 (b) 342 ✔ (c) 360 (d) 450
 
 
-Q8.  There are 4 horizontal and 4 vertical lines, parallel and equidistant to one another on a board. What is the maximum number of rectangles and squares that can be formed? [2017-II]
+Q3.  There are 4 horizontal and 4 vertical lines, parallel and equidistant to one another on a board. What is the maximum number of rectangles and squares that can be formed? [2017-II]
 
  (a) 16 (b) 24 (c) 36 ✔ (d) 42
 
 
-Q9. Certain 3-digit numbers have the following characteristics:
+Q2. Certain 3-digit numbers have the following characteristics:
  1. All the three digits are different. [2017-II]
  2. The number is divisible by 7.
  3. The number on reversing the digits is also divisible by 7.
@@ -567,7 +628,7 @@ Q9. Certain 3-digit numbers have the following characteristics:
  (a) 2 (b) 4 ✔ (c) 6 (d) 3
 
 
-10. How many numbers are there between 99 and 1000 such that the digit 8 occupies the units place? [2017-II]
+1. How many numbers are there between 99 and 1000 such that the digit 8 occupies the units place? [2017-II]
 
  (a) 64 (b) 80 (c) 90 ✔ (d) 104
 
