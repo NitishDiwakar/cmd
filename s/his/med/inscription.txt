@@ -8,6 +8,7 @@ Descr :
   - Pulakeshin II's military success against Harshavardhana
 
 *Allahabad Pillar inscription*
+  - Samudragupta
 
 *Ashokan inscription*
   - Mansehra, Shahbazgadhi
@@ -16,6 +17,9 @@ Descr :
 
   - Kangnahalli
     -> only inscribed stone portrait of Emperor Ashoka
+
+*Ashoka Rock Edicts*
+  - II and XIII (Sangam Literature)
 
 *Bilsad inscription*
 

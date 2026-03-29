@@ -5,6 +5,10 @@ Descr : Dynasty, Capital, Founder
 ============================
 
 
+Chola Dynasty
+  - Rajendra
+    -> Conquered Ceylon
+
 Delhi Sultanate
 - Period 1206 to 1526
 - Capital Delhi
