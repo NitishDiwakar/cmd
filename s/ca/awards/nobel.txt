@@ -5,91 +5,96 @@ Descr :
 ============================
 
 *Nobel Prize 2025*
-Chemistry
-  -*Omar M. Yaghi*
-  -For the development of metal-organic frameworks.
+Chemistry (For the development of metal-organic frameworks)
 
-  -*Susumu Kitagawa*
-  -For the development of metal-organic frameworks.
+  Omar M. Yaghi
 
-  -*Richard Robson*
-  -For the development of metal-organic frameworks.
+  Susumu Kitagawa
 
-Economics (Sveriges Riksbank Prize in Economic Sciences)
-  -*Joel Mokyr*
-  -For having identified the prerequisites for sustained growth through technological progress.
-
-  -*Philippe Aghion*
-  -For the theory of sustained growth through creative destruction (Aghion-Howitt model).
-
-  -*Peter Howitt*
-  -For the theory of sustained growth through creative destruction (Aghion-Howitt model).
-
-Literature
-  *-László Krasznahorkai*
-  -For his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art.
-
-Peace
-  -*María Corina Machado*
-  -For her tireless work promoting democratic rights for the people of Venezuela and for her struggle to achieve a just and peaceful transition from dictatorship to democracy.
-
-Physics
-  -*John Clarke*
-  -For the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit.
-
-  -*Michel Devoret*
-  -For the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit.
-
-  -*John M. Martinis*
-  -For the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit.
-
-Physiology or Medicine
-
-  -*Mary E. Brunkow*
-  -For their discoveries concerning peripheral immune tolerance.
-
-  -*Fred Ramsdell*
-  -For their discoveries concerning peripheral immune tolerance.
-
-  -*Shimon Sakaguchi*
-  -For their discoveries concerning peripheral immune tolerance.
+  Richard Robson
 
 
-*Nobel Prize 2024*
+*Economics* (Sveriges Riksbank Prize in Economic Sciences)
 
-Medicine
-  -*Victor Ambrose* (America)
-  -For their contributions to the discovery of *microRNAs*.
+  Joel Mokyr
+   - For having identified the prerequisites for sustained growth through technological progress.
 
-  -*Gary Ruvkun* (America)
-  -For their contributions to the discovery of *microRNAs*.
+  Philippe Aghion
+   - For the theory of sustained growth through creative destruction (Aghion-Howitt model).
 
-Physics
-  -*John J. Hopfield* (American)
-  -For foundational discoveries and inventions that enable machine learning with artificial neural networks.
+  Peter Howitt
+   - For the theory of sustained growth through creative destruction (Aghion-Howitt model).
 
-  -*Geoffrey E. Hinton* (British-Canadian)
-  -For foundational discoveries and inventions that enable machine learning with artificial neural networks.
 
-Chemistry
-  -*David Baker* (American)
-  -For innovative work in computational protein design.
+*Literature*
 
-  -*Demis Hassabis* (British)
-  -*John M. Jumper* (American)
-  -For groundbreaking AI-based protein structure prediction.
+  László Krasznahorkai
+    -For his compelling and visionary oeuvre that, in the midst of apocalyptic terror, reaffirms the power of art.
 
-Peace
-  -*Nihon Hidankyo* (Japanese organization)
-  -For efforts to create a world free of nuclear weapons.
 
-Economics
-  - *Daron Acemoglu* (Turkish-American)
-  - *Simon Johnson* (British-American)
-  - *James Robinson* (British-American)
+*Peace*
+
+  María Corina Machado
+    - For her work promoting democratic rights in *Venezuela*
+
+*Physics* (For the discovery of macroscopic quantum mechanical tunnelling and energy quantisation in an electric circuit)
+  
+  John Clarke
+
+  Michel Devoret
+
+  John M. Martinis
+
+
+*Physiology or Medicine* (For their discoveries concerning peripheral immune tolerance)
+
+  Mary E. Brunkow
+
+  Fred Ramsdell
+
+  Shimon Sakaguchi
+
+
+
+---Nobel Prize 2024---
+
+*Medicine* (For their contributions to the discovery of *microRNAs*)
+
+  Victor Ambrose (America)
+
+  Gary Ruvkun (America)
+
+
+*Physics*
+  
+  John J. Hopfield (American)
+   -For foundational discoveries and inventions that enable machine learning with artificial neural networks.
+
+  Geoffrey E. Hinton (British-Canadian)
+   -For foundational discoveries and inventions that enable machine learning with artificial neural networks.
+
+*Chemistry*
+  David Baker (American)
+   -For innovative work in computational protein design.
+
+   Demis Hassabis (British)
+   John M. Jumper (American)
+    - For groundbreaking AI-based protein structure prediction.
+
+*Peace*
+
+  Nihon Hidankyo (Japanese organization)
+   - For efforts to create a world free of nuclear weapons.
+
+*Economics*
+
+  - Daron Acemoglu (Turkish-American)
+  - Simon Johnson (British-American)
+  - James Robinson (British-American)
   - For the study of how institutions are formed and affect prosperity.
 
-Literature
-  - *Han Kang* (South Korea)
+*Literature*
+
+  - Han Kang (South Korea)
   - For deeply poetic prose that addresses historical traumas and highlights the fragility of human life.
 

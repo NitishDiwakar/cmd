@@ -5,7 +5,43 @@ Descr :
 ============================
 TAG:top
 
+GOTO:98th-Oscar-2026
+GOTO:71st-National-Film-Award-2025
+GOTO:78th-BAFTA-2025
+GOTO:78th-Cannes-Film-Award-2025
+GOTO:97th-Oscar-2025
+GOTO:67th-Grammy-Award-2025
+GOTO:69th-Filmfare-2024
+GOTO:76th-Emmy-Award-2024
+GOTO:55th-International-Film-Festival-Goa-2024
+GOTO:87th-Golden-Global-Award-2025
+GOTO:25th-IIFA-Award-2025
+
+TAG:98th-Oscar-2026
+*98th Academy (Oscar) Awards 2026*
+
+Best Film
+  - One Battle After Another
+
+Best Directory
+  - Paul Thomas Anderson (OBAA)
+
+Best Actor
+  - Michael B. Jordan (Sinners)
+
+Best Actress
+  - Jessie Buckley (Hamnet)
+
+Best Supporting Actor
+  - Seam Penn (OBAA)
+
+Best Supporting Actress
+  - Amy Madigan (Weapons)
+
+GOTO:top
+TAG:71st-National-Film-Award-2025
 *71st National Film Award - 2025*
+
 Best Film
   - 12th Fail (Hindi)
 
@@ -22,6 +58,7 @@ Best Director
   - Sudipto Sen (The Kerala Story)
 
 GOTO:top
+TAG:78th-BAFTA-2025
 *78th BAFTA - 2025*
 Best Film
   - Conclave (Christopher Nolan)
@@ -36,6 +73,7 @@ Best Actress
   - Mikey Madison (Anora)
 
 GOTO:top
+TAG:78th-Cannes-Film-Award-2025
 *78th Cannes Film Award - 2025*
 Best Film
   - It Was Just an Accident
@@ -56,6 +94,7 @@ Best First Film
   - Hassan Hadi
 
 GOTO:top
+TAG:97th-Oscar-2025
 *97th Oscar - 2025*
 Best Film
   - Anora
@@ -73,6 +112,7 @@ Best Documentary
   - No Other Land
 
 GOTO:top
+TAG:67th-Grammy-Award-2025
 *67th Grammy Award - 2025*
 Album of the Year
   - Beyonce (Cowboy Carter)
@@ -87,6 +127,7 @@ Indo-American *Chandrika Tandon* won the Grammy Award in the Best New Album cate
 
 
 GOTO:top
+TAG::69th-Filmfare-2024
 *69th Filmfare - 2024*
 Best Film
   - 12th Fail
@@ -101,6 +142,7 @@ Best Actress
   - Alia Bhatt (Rocky Aur Rani Kii Prem Kahaani)
 
 GOTO:top
+TAG:76th-Emmy-Award-2024
 *76th Emmy Award - 2024*
 Best Drama Series
   - Shogun
@@ -121,6 +163,7 @@ Best Actress (Comedy)
   - Jean Smart (Hacks)
 
 GOTO:top
+TAG:55th-International-Film-Festival-Goa-2024
 *55th International Film Festival, Goa - 2024*
 Venue
   - Panaji, Goa (20 to 28 November, 2024)
@@ -159,6 +202,7 @@ Satyajit Ray Lifetime Achievement Award
   - Phillip Noyce
 
 GOTO:top
+TAG:87th-Golden-Global-Award-2025
 *87th Golden Global Award - 2025*
 Best Film
   - Emilia Perez
@@ -176,6 +220,7 @@ Best Director
   - Brady Corbet (The Brutalist)
 
 GOTO:top
+TAG:25th-IIFA-Award-2025
 *25th IIFA Award - 2025*
 Best Film
   - Laapataa Ladies (Director - Kiran Rao)

@@ -1,6 +1,6 @@
 ============================
 Title : Polity - PYQ
-Tags  : #
+Tags  : #nomail #noview
 Descr : 
 ============================
 

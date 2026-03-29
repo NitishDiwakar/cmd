@@ -1,0 +1,82 @@
+============================
+Title : Science - misc
+Tags  : #nomail #noview
+Descr : 
+============================
+
+Year is maximum on:
+  - Pluto (248)
+
+Rounded shape of a rain drop is caused because of 
+  - Surface tension
+
+Plaster of Paris
+  - 2CaSO₄H₂O
+
+No of bones in human skull
+  - 22
+
+Latest predecessor of a modern man
+  - Kro-magnon man
+
+Synthesis of protein
+  - Hargovind Khurana
+
+Age of oldest rock system is confirmed by
+  - U-Pb (Uranium-Lead) method
+
+Oldest bird of Jurassic period
+  - Archaeopteryx 
+
+Hottest planet of solar system 
+  - Venus
+
+100 watt electric bulb is lighted for 10 hours, then the consumption of power would be
+  - 1 kWh
+
+If the lens of a glass has power +2 diopter, then the focal length will be
+  -> Given: P = +2
+  -> formula: P = 1/f
+  -> So, f = 1/P
+  -> 0.50 m
+  -> 50 cm
+
+Normal temperature of human body
+  -> 36.9℃ (98.6℉)
+
+Density of water is maximum at
+  -> 4℃
+
+Chromatography
+  - Separation of substances from a mixture
+
+Planet with no natural satellite
+  - Mercury & Venus
+
+Tear gas
+  - CN
+
+Chemical formula of washing powder
+  -> Na₂CO₃
+
+First to discuss evolutio of life
+  - Lamarck (1801)
+
+Metal used as semiconductor in a transistor
+  - Silicon, Germanium
+
+Planet is known as evening star
+  - Venus
+
+Revolution of sun taken by planet Uranus is 
+  - 84 years
+
+Where does action of fertilization occur
+  - Oviduct
+
+Ratio of momentum and velocity of a substance is called
+  - Mass
+
+Distance between the consecutive crests 
+  - Wavelength
+

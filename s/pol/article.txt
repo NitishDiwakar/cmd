@@ -90,15 +90,15 @@ Art. 36
   - DPSP
 Art. 37
   - Application of principles
-Art. 38
+*Art. 38*
   - Social order for welfare
 Art. 39
   - Certain principles of policy
-    - (a) adequate means of livelihood
-    - (b) material resources for common good
-    - (c) no concentration of wealth
-    - (d) equal pay for equal work
-    - (e) health and strength of workers not abused
+     (a) adequate means of livelihood
+     (b) material resources for common good
+     (c) no concentration of wealth
+     (d) equal pay for equal work
+     (e) health and strength of workers not abused
 Art. 40
   - Organization of village panchayats
 
@@ -130,22 +130,24 @@ Art. 50
   - Separation of judiciary
 
 Art. 51
-  - (a) promote international peace
-  - (b) maintain relations
-  - (c) respect international law
-  - (d) settlement by arbitration
-Art. 51A
-  - (a) respect constitution, flag, anthem
-  - (b) cherish ideals
-  - (c) uphold sovereignty
-  - (d) defend country
-  - (e) promote harmony
-  - (f) preserve heritage
-  - (g) protect environment
-  - (h) scientific temper
-  - (i) safeguard public property
-  - (j) strive towards excellence
-  - (k) provide education to child 6-14
+   (a) promote international peace
+   (b) maintain relations
+   (c) respect international law
+   (d) settlement by arbitration
+
+*Art. 51A*
+   (a) respect constitution, flag, anthem
+   (b) cherish ideals
+   (c) uphold sovereignty
+   (d) defend country
+   (e) promote harmony
+   (f) preserve heritage
+   (g) protect environment
+   (h) scientific temper
+   (i) safeguard public property
+   (j) strive towards excellence
+   (k) provide education to child 6-14
+
 Art. 52
   - President of India
 Art. 53
@@ -170,7 +172,7 @@ Art. 61
   - Impeachment procedure
 Art. 62
   - Time of election
-Art. 63
+*Art. 63*
   - Vice President
 Art. 64
   - VP as chairman of council of states
@@ -182,7 +184,7 @@ Art. 67
   - Term of VP
 Art. 68
   - Time of election
-Art. 69
+*Art. 69*
   - Oath of VP
 Art. 70
   - Discharge of president functions
@@ -197,28 +199,29 @@ Art. 74
   - Council of ministers
 Art. 75
   - Provisions as to ministers
-Art. 76
+*Art. 76*
   - Attorney-General
 Art. 77
   - Conduct of business
-Art. 78
+*Art. 78*
   - Duties of PM
 
 Art. 84
   - Qualification of membership of Parliament
-Art. 89
+*Art. 89*
   - Chairman and deputy chairman (RS)
-Art. 93
+*Art. 93*
   - Speaker and deputy speaker (LS)
 Art. 98
   - Secretariat of Parliament
 
 Art. 102
-  - (a) office of profit
-  - (b) unsound mind
-  - (c) undischarged insolvent
-  - (d) not citizen
-  - (e) disqualified by law
+   (a) office of profit
+   (b) unsound mind
+   (c) undischarged insolvent
+   (d) not citizen
+   (e) disqualified by law
+
 Art. 107
   - Passing of Bills
 Art. 108
@@ -273,6 +276,11 @@ Art. 167
   - CM to inform governor
 Art. 169
   - Legislative councils
+*Art. 170*
+  - Legislative Assembly
+
+*Art. 176*
+  - Governor to address Assembly
 
 Art. 213
   - Governor ordinance
@@ -285,36 +293,38 @@ Art. 241
   - High courts for UT
 
 *Art. 243*
-  - A Gram Sabha
-  - B Constitution of Panchayats
-  - C Composition
-  - D Reservation
-  - E Duration
-  - F Disqualification
-  - G Powers
-  - H Taxes
-  - I Finance Commission
-  - J Audit
-  - K Elections
-  - L Application to UT
-  - M Not apply to certain areas
-  - O Bar to court interference
+   A Gram Sabha
+   B Constitution of Panchayats
+   C Composition
+   D Reservation
+   E Duration
+   F Disqualification
+   G Powers
+   H Taxes
+   I Finance Commission
+   J Audit
+   K Elections
+   L Application to UT
+   M Not apply to certain areas
+   O Bar to court interference
+
 Art. 243P
   - Municipalities definitions
+
 Art. 243Q
   - Constitution
-    - R Composition
-    - T Reservation
-    - U
-    - V Disqualification
-    - W Powers
-    - X Taxes
-    - Y Finance commission
-    - Z Audit
-    - ZA Elections
-    - ZD District planning
-    - ZE Metropolitan planning
-    - ZG Bar to court interference
+     R Composition
+     T Reservation
+     U
+     V Disqualification
+     W Powers
+     X Taxes
+     Y Finance commission
+     Z Audit
+     ZA Elections
+     ZD District planning
+     ZE Metropolitan planning
+     ZG Bar to court interference
 Art. 247
   - Additional court
 
@@ -370,6 +380,7 @@ Art. 345
 
 Art. 352
   - Emergency
+  - Word *"Cabinet of Ministers"* used
 Art. 355
   - Duty of centre
 Art. 356

@@ -86,6 +86,8 @@ Descr :
     - C.R. Das
     - Motilal Nehru
 
+  - Nagpur Satyagraha
+
 1924
   - Hindustan Republican Association (HRA)
     - Ramprasad Bismil
@@ -104,7 +106,7 @@ Descr :
   - Simon Commission arrived
     - Lahore
     - Lala Lajpat Rai martyred
-  - *No Tax Mvmt* (Bardoli)
+  - *No Tax Mvmt* (Bardoli Satyagraha)
 
 1929
   - Bhagat Singh surrendered
@@ -143,6 +145,8 @@ Descr :
     - Founded All India Forward Block (AIFB)
     - 1942: Leader of INA
     - 1943: Rani Lakshmibai Regiment
+
+  - Rajkot Satyagraha
 
 1942
   - Cripps Mission
