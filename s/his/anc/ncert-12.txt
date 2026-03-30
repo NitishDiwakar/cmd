@@ -557,27 +557,289 @@ GOTO:top
 TAG:10-Exploring-Official-Archieves
 *10-Exploring-Official-Archieves*
 
+Timeline
+
+1765
+  - English East India Company acquires Diwani of Bengal
+
+1773
+  - Regulating Act passed by the British Parliament to regulate the activities of the East India Company
+
+1793
+  - Permanent Settlement in Bengal
+
+1800s
+  - Santhals begin to come to the Rajmahal hills and settle there
+
+1818
+  - First revenue settlement in the Bombay Deccan
+
+1820s
+  - Agricultural prices begin to fall
+
+1840s-50s
+  - A slow process of agrarian expansion in the Bombay Deccan
+
+1855-56
+  - Santhal rebellion
+
+1861
+  - Cotton boom begins
+
+1875
+  - Ryots in Deccan villages rebel
+ 
+
 
 GOTO:top
 TAG:11-1857-Revolt-and-its-Representations
 *11-1857-Revolt-and-its-Representations*
 
+IMG:territories-under-British-control.png
+
+Timeline
+
+1801
+  - Subsidiary Alliance introduced by Wellesley in Awadh
+
+1856
+  - Nawab Wajid Ali Shah deposed; Awadh annexed
+
+*1856-57*
+  - Summary revenue settlements introduced in Awadh by the British
+
+*1857*
+
+10 May
+  - Mutiny starts in Meerut
+
+11-12 May
+  - Delhi garrisons revolt; Bahadur Shah accepts nominal leadership
+
+20-27 May
+  - Sepoys mutiny in Aligarh, Etawah, Mainpuri, Etah
+
+30 May
+  - Rising in Lucknow
+
+May-June
+  -  Mutiny turns into a general revolt of the people
+
+30 June
+  - British suffer defeat in the battle of Chinhat
+
+25 Sept
+  - British forces under Havelock and Outram enter the Residency in Lucknow
+
+July 
+  - Shah Mal killed in battle
+
+*1858*
+
+June
+  - Rani Jhansi killed in battle
 
 GOTO:top
 TAG:12-Urbanization-Planning-and-Architecture
 *12-Urbanization-Planning-and-Architecture*
+
+Timeline
+
+1500-1700
+  - European trading companies establish bases in India: the Portuguese in Panaji in 1510; the Dutch in Masulipatnam, 1605; the British in Madras in 1639, in Bombay in 1661, and in Calcutta in 1690; the French in Pondicherry in 1673
+
+1757
+  - Decisive victory of the British in the Battle of Plassey
+  - the British become rulers of Bengal
+
+1773
+  - Supreme Court set up in Calcutta by the East India Company
+
+1784
+  - Asiatic Society founded by Sir William Jones
+
+1793
+  - Cornwallis Code enacted
+
+1803
+  - L. *Wellesley’s Minute* on Calcutta town improvement
+
+1818
+  - British takeover of the Deccan; 
+  - Bombay becomes the capital of the new province
+
+1853
+  - Railway from Bombay to Thane
+
+1857
+  - First spinning and weaving mill in Bombay
+  - Universities in Bombay, Madras and Calcutta
+
+1870s
+  - Beginning of elected representatives in municipalities
+
+1881
+  - Madras harbour completed
+
+1896
+  - First screening of a film at Watson’s Hotel, Bombay
+  - Plague starts spreading to major cities
+
+1911
+  - Transfer of capital from Calcutta to Delhi
+
 
 
 GOTO:top
 TAG:13-Civil-Disobedience-and-Beyond
 *13-Civil-Disobedience-and-Beyond*
 
+Timeline
+
+1915
+  - Mahatma Gandhi returns from South Africa
+
+1917
+  - Champaran movement
+
+1918
+  - Peasant movements in Kheda (Gujarat), and workers’ movement in Ahmedabad
+
+1919
+  - Rowlatt Satyagraha (March-April)
+
+1919
+  - Jallianwala Bagh massacre (April)
+
+1921
+  - Non-cooperation and Khilafat Movements
+
+1928
+  - Peasant movement in Bardoli
+
+1929
+  - “Purna Swaraj” accepted as Congress goal at the Lahore Congress (December)
+
+1930
+  - Civil Disobedience Movement begins; Dandi March (March-April)
+
+1931
+  - Gandhi-Irwin Pact (March); Second Round Table Conference (December) 
+
+1935
+  - Government of India Act promises some form of representative government
+
+1939
+  - Congress ministries resign
+
+1942
+  - Quit India Movement begins (August)
+
+1946
+  - Gandhi visits Noakhali and other riot-torn areas to stop communal violence
+
 
 GOTO:top
 TAG:14-Politics-Memories-Experiences
 *14-Politics-Memories-Experiences*
 
+Timeline
+
+1930
+  - The Urdu poet Mohammad Iqbal speaks of the need for a “North-West Indian Muslim state” as an autonomous unit within a single, loose Indian federation
+
+1933
+  - The name Pakistan or Pak-stan is coined by a Punjabi Muslim student at Cambridge, Choudhry Rehmat Ali
+
+1937-39
+  - Congress ministries come to power in seven out of 11 provinces of British India
+
+1940
+  - The Muslim League moves a resolution at Lahore demanding a measure of autonomy for the Muslim-majority areas
+
+1946
+  - Elections are held in the provinces. The Congress wins massively in the general constituencies. The League’s success in the Muslim seats is equally spectacular
+
+March to June
+  -  The British Cabinet sends a three-member Cabinet Mission to Delhi
+
+August
+  - The Muslim League decides on “Direct Action” for creating Pakistan
+
+16 August
+  - Violence breaks out between Hindus-Sikhs and Muslims in Calcutta, lasting several days and leaving several thousand people dead
+
+March 1947
+  - The Congress high command votes for dividing the Punjab into Muslim-majority and Hindu/Sikh-majority halves and asks for the application of a similar principle to Bengal; the British begin to quit India
+
+14-15  August 1947
+  - Pakistan is formed
+  - India gains independence. Gandhi tours Noakhali in East Bengal to restore communal harmony
+
 
 GOTO:top
 TAG:15-The-Beginning-of-a-New-Era
 *15-The-Beginning-of-a-New-Era*
+
+Timeline
+
+*1945*
+
+26 July 
+  - Labour Government comes into power in Britain
+
+December-January
+  - General Elections in India
+
+
+*1946*
+
+16 May
+  - Cabinet Mission announces its constitutional scheme
+
+16 June
+  - Muslim League accepts Cabinet Mission’s constitutional scheme
+  - Cabinet Mission presents scheme for the formation of an Interim Government at the Centre
+
+16 August
+  - Muslim League announces Direct Action Day
+
+2 September
+  - Congress forms Interim Government with Nehru as the Vice-President
+
+13 October
+  - Muslim League decides to join the Interim Government
+
+3-6 December
+  - British Prime Minister, Attlee, meets some Indian leaders; talks fail
+
+9 December
+  - Constituent Assembly begins its sessions
+
+
+*1947*
+
+29 January
+  - Muslim League demands dissolution of Constituent Assembly
+
+*16 July*
+  - Last meeting of the Interim Government
+
+11 August
+  - Jinnah elected President of the Constituent Assembly of Pakistan
+
+14 August
+  - Pakistan Independence; celebrations in Karachi
+
+14-15 August
+  - At midnight India celebrates Independence
+
+
+*1949*
+
+December
+  - Constitution is signed
+
+
+
+
