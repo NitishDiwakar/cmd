@@ -1,0 +1,247 @@
+============================
+Title : Biology - Misc
+Tags  : #imp #biology #science
+Descr :
+============================
+
+TAG:top
+GOTO:Fruits-and-Edible-Part
+GOTO:Number-of-Chromosomes-in-different-organisms
+GOTO:Category-and-Plants
+GOTO:Some-Botany-Facts
+
+TAG:Fruits-and-Edible-Part
+*Fruits and Edible Part*
+  Apple      : Fleshy thalamus
+  Pear       : Fleshy thalamus
+  Mango      : Mesocarp
+  Guava      : Entire fruit
+  Grapes     : Pericarp and Placenta
+
+  Papaya     : Mesocarp
+  Coconut    : Endosperm
+  Tomato     : Pericarp and Placenta
+  Banana     : Mesocarp & Endocarp
+  Wheat      : Starchy endosperm
+
+  Cashewnut  : Peduncle & cotyledons
+  Litchi     : Fleshy Aril
+  Gram       : Cotyledons & Embryo
+  Groundnut  : Cotyledons
+  Mulberry   : entire fruit
+
+  Jackfruit  : Bract, Perianth and seed
+  Pine apple : Bract and Perianth 
+  Orange     : Juicy hair
+
+
+TAG:GOTO:Number-of-Chromosomes-in-different-organisms
+*Number of Chromosomes in different organisms* (in pair)
+  Pegion - 40 
+  Dog - 39
+  Horse - 32
+  Chimpanzee - 24
+  Human - 23
+  Wheat - 21
+
+  Cat - 19
+  Frog - 13 
+  Tomato - 12
+  Onion - 8
+  Pea - 7
+  Ascairs - 1 
+
+
+GOTO:top
+TAG:Category-and-Plants
+*Category and Plants*
+ 
+Liliaceae
+  - Garlic, Onion
+Palmae
+  - Nut, Palm, Coconut, Date
+Graminaeceae
+  - Wheat, Maize, Bamboo, Sugarcane, Rice, Bajra, Oat
+
+---Dicotyledons plants--- (two cotyledon)
+Cruciferae
+  - Radish, Turnip, Mustard
+
+Malvaceae
+  - Jute, Lady finger
+
+Leguminaceae
+  - Pulse, Babool, Lajwanti, Ashok, Tamarind
+
+Composite
+  - Sunflower, Magigold, Lily etc
+
+Rutaceae
+  - Lemon, Orange
+
+Cucurbitaceae
+  - Melon, Water melon, Guard, Bitter
+
+Solanaceae
+  - Potato, Chilly, Brinjal, Belladonna, Tomato
+
+Rosaceae
+  - Strawberry, Apple, Almond
+
+
+GOTO:top
+TAG:Some-Botany-Facts
+*Some Botany Facts*
+
+Largest Angiosperm Tree
+  - Eucalyptus
+
+Longest tree in world
+  - Sequois (AKA Red Wood of California)
+
+Smallest Angiosperm Plant
+  - Lemna
+
+Plant with largest leaf
+  - Victoria Regia
+
+Largest fruit
+  - Lodoicea
+
+Smallest seed
+  - Orchid
+
+Smallest flower
+  - Wolfia
+
+Largest seed egg
+  - Cyas
+
+Smallest Chromosomes
+  - in Algae
+
+Longest Chromosomes
+  - in Trillium
+
+Plant with largest number of chromosome
+  - Ophioglossum
+
+Plant with least number of chromosome
+  - Heplapapopus gracilis
+
+The smallest gymnosperm plant
+  - Zamia pygmea
+
+Smallest cell
+  - Mycoplasma Sallisepticum
+
+Fruit like a Tennis ball
+  - Kenth
+
+
+GOTO:top
+TAG:Medicinal-Discoveries
+*Medicinal-Discoveries*
+
+Vitamin
+  - F.G. Hopkins, Cosimir Funk
+
+Vit. A
+  - Mc Collum
+
+Vit. B
+  - Mc Collum
+
+Vit. D
+  - Mc Collum
+
+Vit. C 
+  - Holst
+
+Hearth Transplantation
+  - Christian Bernard
+
+Homoeopathy
+  - Hahnemann
+
+Malaria parasite and treatment
+  - Ronald Ross
+
+Diarrhoea and treatment of plague
+  - Kitajato
+
+Sex hormon
+  - Stenach
+
+Open Heart Surgery
+  - Waltallilehak
+
+Contraceptive pills
+  - Pincus
+
+First test tube baby
+  - Edwards and Stepto
+
+Electrocardiograph 
+  - Iwanyaan
+
+Antigen
+  - Karl Landsteiner
+
+RNA
+  - James Watson and Arthor Arg
+
+DNA
+  - James Watson and Crik
+
+Insulin & Diabetes
+  - Banting
+
+Vaccine of Chickenpox 
+  - Edward Jenner
+
+T.B bacteria
+  - Robert Koch
+
+Polio Vaccin
+  - Johan E. Salk
+
+BCG
+  - Guerin Calmatte
+
+Blood transfer
+  - Karl Landsteiner
+
+
+GOTO:top
+TAG:Ecology-GK
+*Ecology-GK*
+
+Largest living reptile
+  - Sea Turtle
+
+Largest living bird
+  - Ostrich
+
+Smallest bird
+  - Humming bird
+
+Smallest mammal
+  - Shrew
+
+Fasted flying bird
+  - Spine tailed Swift
+
+Egg lying mammal
+  - Echinda and Duckbiled Platypus
+
+
+Study of Dream
+  - Oneirology
+
+Study of beauty of human
+  - Kalology
+
+Strongest part in body
+  - Enamel of teeth
+
