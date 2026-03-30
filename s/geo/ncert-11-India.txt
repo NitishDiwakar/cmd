@@ -1,0 +1,123 @@
+============================
+Title : Geography 11 - India
+Tags  : #nomail #noview
+Descr : 
+============================
+
+TAG:top
+GOTO:1-India-Location
+GOTO:2-Structure-and-Physiography
+GOTO:3-Drainage-System
+GOTO:4-Climate
+GOTO:5-Natural-Vegetation
+GOTO:6-Soils
+GOTO:7-Natural-Hazards-and-Disasters
+
+
+TAG:1-India-Location
+*1-India-Location*
+
+India: Administrative Divisions
+IMG:ncert-11-India-fig-1dot1.png
+
+Location of India in Eastern World
+IMG:ncert-11-India-fig-1dot2.png
+
+
+GOTO:top
+TAG:2-Structure-and-Physiography
+*2-Structure-and-Physiography*
+
+India - Physical
+IMG:ncert-11-India-fig-2dot2.png
+
+Western Himalayas
+IMG:ncert-11-India-fig-2dot5.png
+
+Himalayan Mountain - South to North
+IMG:ncert-11-India-fig-2dot6.png
+
+Eastern Himalayas
+IMG:ncert-11-India-fig-2dot7.png
+
+
+
+GOTO:top
+TAG:3-Drainage-System
+*3-Drainage-System*
+
+Major Rivers of India
+IMG:ncert-11-India-fig-3dot2.png
+
+
+
+GOTO:top
+TAG:4-Climate
+*4-Climate*
+
+Summer Monsoon Winds
+IMG:ncert-11-India-fig-4dot2.png
+
+India - Normal dates of onset of South Western Monsoon
+IMG:ncert-11-India-fig-4dot5.png
+
+India - Mean monthly temperature in January
+IMG:ncert-11-India-fig-4dot6.png
+
+India - Pressure and Surface Winds in January
+IMG:ncert-11-India-fig-4dot7.png
+
+India - Mean monthly temperature in July
+IMG:ncert-11-India-fig-4dot8.png
+
+Pressure and surface winds - July
+IMG:ncert-11-India-fig-4dot9.png
+
+India - Seasonal rainfal (June - Sept)
+IMG:ncert-11-India-fig-4dot10.png
+
+India - Annual Rainfall
+IMG:ncert-11-India-fig-4dot11.png
+
+India - Variability in Annual Rainfall
+IMG:ncert-11-India-fig-4dot12.png
+
+India - Climatic regions according to Koeppan Scheme
+IMG:ncert-11-India-fig-4dot13.png
+
+
+
+GOTO:top
+TAG:5-Natural-Vegetation
+*5-Natural-Vegetation*
+
+Natural Vegetation
+IMG:ncert-11-India-fig-5dot2.png
+
+India - Biosphere Reserves
+IMG:ncert-11-India-fig-5dot9.png
+
+
+
+GOTO:top
+TAG:6-Soils
+*6-Soils*
+
+Major soil types in India
+IMG:ncert-11-India-fig-6dot2.png
+
+GOTO:top
+TAG:7-Natural-Hazards-and-Disasters
+*7-Natural-Hazards-and-Disasters*
+
+Earthquake and Hazard zones
+IMG:ncert-11-India-fig-7dot2.png
+
+Wind and Cyclone Hazard zones
+IMG:ncert-11-India-fig-7dot4.png
+
+Flood Hazard Zones
+IMG:ncert-11-India-fig-7dot6.png
+
+Drought Prone Areas
+IMG:ncert-11-India-fig-7dot8.png

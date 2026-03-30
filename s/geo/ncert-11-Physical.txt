@@ -1,0 +1,244 @@
+============================
+Title : Geography 11 - Physical
+Tags  : #nomail #noview
+Descr : 
+============================
+
+TAG:top
+GOTO:1-Geography-as-a-Discipline
+GOTO:2-The-Origin-and-Evolution-of-the-Earth
+GOTO:3-Interior-of-the-Earth
+GOTO:4-Distribution-of-Oceans-and-the-Continents
+GOTO:5-Minerals-and-Rocks
+GOTO:6-Geomorphic-Processes
+GOTO:7-Landforms-and-their-Evolution
+GOTO:8-Composition-and-Structure-of-Atmosphere
+GOTO:9-Solar-Radiation-Heat-Balance-and-Temperature
+GOTO:10-Atmospheric-Circulation-and-Weather-System
+GOTO:11-Water-in-the-Atmosphere
+GOTO:12-World-Climate-and-Climate-Change
+GOTO:13-Water-Oceans
+GOTO:14-Movements-of-Ocean-Water
+GOTO:15-Life-on-the-Earth
+GOTO:16-Biodiversity-and-Conservation
+
+
+TAG:1-Geography-as-a-Discipline
+*1-Geography-as-a-Discipline*
+
+Geography and its relation with other discipline
+IMG:ncert-11-Physicial-fig-1dot1.png
+
+Branches of Geography
+IMG:ncert-11-Physicial-fig-1dot2.png
+
+GOTO:top
+TAG:2-The-Origin-and-Evolution-of-the-Earth
+*2-The-Origin-and-Evolution-of-the-Earth*
+
+
+GOTO:top
+TAG:3-Interior-of-the-Earth
+*3-Interior-of-the-Earth*
+
+Earthquake
+IMG:ncert-11-Physicial-fig-3dot2.png
+
+Interior of Earth
+IMG:ncert-11-Physicial-fig-3dot2.png
+
+Volcanic Landform
+IMG:ncert-11-Physicial-fig-3dot2.png
+
+
+
+GOTO:top
+TAG:4-Distribution-of-Oceans-and-the-Continents
+*4-Distribution-of-Oceans-and-the-Continents*
+
+Distribution of Earthquake and Volcanos
+IMG:ncert-11-Physicial-fig-4dot2.png
+
+Sea Floor Spreading
+IMG:ncert-11-Physicial-fig-4dot2.png
+
+Position of continents - geological past
+IMG:ncert-11-Physicial-fig-4dot4.png
+
+Major and minor plates of the world
+IMG:ncert-11-Physicial-fig-4dot5.png
+
+Movement of Indian plate
+IMG:ncert-11-Physicial-fig-4dot6.png
+
+
+
+GOTO:top
+TAG:5-Minerals-and-Rocks
+*5-Minerals-and-Rocks*
+
+Rock Cycle
+IMG:ncert-11-Physicial-fig-5dot1.png
+
+
+GOTO:top
+TAG:6-Geomorphic-Processes
+*6-Geomorphic-Processes*
+
+Denudational Process and their Driving Force
+IMG:ncert-11-Physicial-fig-6dot1.png
+
+Climate regimes and depth of weathering mantles
+IMG:ncert-11-Physicial-fig-6dot2.png
+
+
+
+GOTO:top
+TAG:7-Landforms-and-their-Evolution
+*7-Landforms-and-their-Evolution*
+
+Various carst features
+IMG:ncert-11-Physicial-fig-7dot8.png
+
+Some Glacial erosional and depositional forms
+IMG:ncert-11-Physicial-fig-7dot11.png
+
+Panoramic diagram of glacial landscape
+IMG:ncert-11-Physicial-fig-7dot12.png
+
+Various types of sand dunes
+IMG:ncert-11-Physicial-fig-7dot14.png
+
+
+
+GOTO:top
+TAG:8-Composition-and-Structure-of-Atmosphere
+*8-Composition-and-Structure-of-Atmosphere*
+
+Structure of Atmosphere
+IMG:ncert-11-Physicial-fig-8dot1.png
+
+
+
+GOTO:top
+TAG:9-Solar-Radiation-Heat-Balance-and-Temperature
+*9-Solar-Radiation-Heat-Balance-and-Temperature*
+
+Summer Solstice
+IMG:ncert-11-Physicial-fig-9dot1.png
+
+Heat budget of the Earth
+IMG:ncert-11-Physicial-fig-9dot2.png
+
+Latitudional variation in net radiation balance
+IMG:ncert-11-Physicial-fig-9dot3.png
+
+The distribution of surface air temperature in month of January
+IMG:ncert-11-Physicial-fig-9dot4a.png
+
+The distribution of surface air temperature in month of July
+IMG:ncert-11-Physicial-fig-9dot4b.png
+
+Range of temperature between January and July
+IMG:ncert-11-Physicial-fig-9dot5.png
+
+
+
+GOTO:top
+TAG:10-Atmospheric-Circulation-and-Weather-System
+*10-Atmospheric-Circulation-and-Weather-System*
+
+Isobar, pressure and wind system in Northern Hemisphere
+IMG:ncert-11-Physicial-fig-10dot1.png
+
+Distribution of pressure in January
+IMG:ncert-11-Physicial-fig-10dot2.png
+
+Distribution of pressure in July
+IMG:ncert-11-Physicial-fig-10dot3.png
+
+Geostrophic wind
+IMG:ncert-11-Physicial-fig-10dot4.png
+
+Convergence and Divergence of winds
+IMG:ncert-11-Physicial-fig-10dot5.png
+
+Simplified general Circulation of the Atmosphere
+IMG:ncert-11-Physicial-fig-10dot6.png
+
+Land and Sea breezes
+IMG:ncert-11-Physicial-fig-10dot7.png
+
+Vertical section of Warm front, Cold front and Occluded front
+IMG:ncert-11-Physicial-fig-10dot8.png
+
+Extra tropical cyclones
+IMG:ncert-11-Physicial-fig-10dot9.png
+
+Vertical section of tropical cyclone
+IMG:ncert-11-Physicial-fig-10dot10.png
+
+
+
+GOTO:top
+TAG:11-Water-in-the-Atmosphere
+*11-Water-in-the-Atmosphere*
+
+
+GOTO:top
+TAG:12-World-Climate-and-Climate-Change
+*12-World-Climate-and-Climate-Change*
+
+Climatic types - according to Koeppan
+IMG:ncert-11-Physicial-fig-12dot2.png
+
+
+
+GOTO:top
+TAG:13-Water-Oceans
+*13-Water-Oceans*
+
+Hydrological cycle
+IMG:ncert-11-Physicial-fig-13dot1.png
+
+Thermocline
+IMG:ncert-11-Physicial-fig-13dot3.png
+
+Spatial Pattern of Surface Temperature
+IMG:ncert-11-Physicial-fig-13dot4.png
+
+Surface salinity of world's ocean
+IMG:ncert-11-Physicial-fig-13dot5.png
+
+
+GOTO:top
+TAG:14-Movements-of-Ocean-Water
+*14-Movements-of-Ocean-Water*
+
+Motion of waves and water molecules
+IMG:ncert-11-Physicial-fig-14dot1.png
+
+*Relation between gravitational force and tides*
+IMG:ncert-11-Physicial-fig-14dot2.png
+
+Major currents in Pacific, Atlantic and Indian Ocean
+IMG:ncert-11-Physicial-fig-14dot3.png
+
+
+GOTO:top
+TAG:15-Life-on-the-Earth
+*15-Life-on-the-Earth*
+
+Carbon cycle
+IMG:ncert-11-Physicial-fig-15dot2.png
+
+Nitrogen cycle
+IMG:ncert-11-Physicial-fig-15dot3.png
+
+
+GOTO:top
+TAG:16-Biodiversity-and-Conservation
+*16-Biodiversity-and-Conservation*
+
+Some ecological hotspots in world
+IMG:ncert-11-Physicial-fig-16dot1.png
