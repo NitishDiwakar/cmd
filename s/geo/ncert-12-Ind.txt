@@ -1,0 +1,131 @@
+============================
+Title : Geography 12 - India
+Tags  : #nomail #noview
+Descr : 
+============================
+
+TAG:top
+GOTO:1-Population-Distribution-Density-Growth-and-Composition
+GOTO:2-Migration-Types-Causes-and-Consequences
+GOTO:3-Human-Development
+GOTO:4-Human-Settlements
+GOTO:5-Land-Resources-and-Agriculture
+GOTO:6-Water-Resources
+GOTO:7-Mineral-and-Energy-Resources
+GOTO:8-Manufacturing-Industries
+GOTO:9-Planning-and-Sustainable-Development-in-Indian-Context
+GOTO:10-Transport-and-Communication
+GOTO:11-International-Trade
+GOTO:12-Geographical-Perscpective-on-Selected-Issues-and-Problems
+
+
+ 
+TAG:1-Population-Distribution-Density-Growth-and-Composition
+*1-Population-Distribution-Density-Growth-and-Composition*
+
+Classification of Modern Indian Languages
+IMG:ncert-12-1-tab1dot2.png
+
+Religious Communities of India - 2011
+IMG:ncert-12-1-tab1dot3.png
+
+GOTO:top
+TAG:2-Migration-Types-Causes-and-Consequences
+*2-Migration-Types-Causes-and-Consequences*
+
+
+GOTO:top
+TAG:3-Human-Development
+*3-Human-Development*
+
+HDI 2020
+IMG:ncert-12-3-tab3.png
+
+GOTO:top
+TAG:4-Human-Settlements
+*4-Human-Settlements*
+
+
+GOTO:top
+TAG:5-Land-Resources-and-Agriculture
+*5-Land-Resources-and-Agriculture*
+
+Distribution of Cotton and Jute
+IMG:ncert-12-5-fig5dot5.png
+
+Distribution of Sugarcane
+IMG:ncert-12-5-fig5dot9.png
+
+GOTO:top
+TAG:6-Water-Resources
+*6-Water-Resources*
+
+India - River basins
+IMG:ncert-12-fig6dot1.png
+
+
+Ganga and its tributaries and towns located on them
+IMG:ncert-12-fig6dot2.png
+
+GOTO:top
+TAG:7-Mineral-and-Energy-Resources
+*7-Mineral-and-Energy-Resources*
+
+India - Metallic Minerals
+IMG:ncert-12-fig7dot2.png
+
+India - Minerals (non ferrous)
+IMG:ncert-12-fig7dot3.png
+
+India - Conventional Energy Resources
+IMG:ncert-12-fig7dot5.png
+
+India - Oil Refineries
+IMG:ncert-12-fig7dot6.png
+
+
+
+
+GOTO:top
+TAG:8-Manufacturing-Industries
+*8-Manufacturing-Industries*
+
+India - Iron and Steel Plants
+IMG:ncert-12-8-fig8dot1.png
+
+Cotton and Textile Industries
+IMG:ncert-12-8-fig8dot11.png
+
+India - Some Software Technology Parks
+IMG:ncert-12-8-fig8dot12.png
+
+India - Major Industrial Regions
+IMG:ncert-12-8-fig8dot13.png
+
+
+GOTO:top
+TAG:9-Planning-and-Sustainable-Development-in-Indian-Context
+*9-Planning-and-Sustainable-Development-in-Indian-Context*
+
+Indira Gandhi Canal
+IMG:ncert-12-9-fig9dot3.png
+
+
+GOTO:top
+TAG:10-Transport-and-Communication
+*10-Transport-and-Communication*
+
+
+GOTO:top
+TAG:11-International-Trade
+*11-International-Trade*
+
+India - Major Ports and Sea Routes
+IMG:ncert-12-11-fig11dot4.png
+
+India - Air Routes
+IMG:ncert-12-11-fig11dot5.png
+
+GOTO:top
+TAG:12-Geographical-Perscpective-on-Selected-Issues-and-Problems
+*12-Geographical-Perscpective-on-Selected-Issues-and-Problems*
