@@ -1,7 +1,14 @@
 ============================
-Title : Mountains - World
+Title : Bihar Geog - Misc
 Tags  : #nomail
 Descr :
 ============================
 
-IMG:Major-Mountain-Ranges-of-the-World-Map.png
+
+IMG:Bihar_district_map.png
+
+IMG:Bihar-NP-TR-WS.jpg
+
+
+
+

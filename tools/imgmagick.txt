@@ -7,6 +7,24 @@ Descr : Image manipulation from cli
 # Resize
 magick input.jpg -resize 1200 output.jpg (set width keep AR)
 
+# Resize within size limit
+magick input.jpg -define jpeg:extent=100kb output.jpg
+
+# Resize within size limit - in windows
+
+mkdir output
+
+for %f in (*.png) do magick "%f" -define jpeg:extent=200kb "output\%~nf.jpg"
+
+
+# Resize within size limit - in linux (not tested)
+mkdir -p output
+
+for f in *.png; do
+    magick "$f" -define jpeg:extent=200kb "output/${f%.png}.jpg"
+done
+
+
 # Batch resize
 magick *.jpg -resize 1200 resized_%03d.jpg
 
