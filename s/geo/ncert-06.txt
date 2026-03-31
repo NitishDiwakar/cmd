@@ -19,7 +19,7 @@ TAG:1-The-Earth-in-the-Solar-System
 *1-The-Earth-in-the-Solar-System*
 
 The Solar System
-IMG:ncert-06-ch1-fig-1dot2.png
+IMG:ncert-06-ch1-fig-1dot2.jpg
 
 
 GOTO:top
@@ -71,7 +71,7 @@ TAG:5-Major-Domains-of-the-Earth
 *5-Major-Domains-of-the-Earth*
 
 The World: Continents and Oceans
-IMG:ncert-06-fig-5dot1.png
+IMG:ncert-06-fig-5dot1.jpg
 
 
 Isthumus and Straits
@@ -87,7 +87,7 @@ TAG:6-Major-Landforms-of-the-Earth
 *6-Major-Landforms-of-the-Earth*
 
 Landforms
-IMG:ncert-06-fig-6dot1.png
+IMG:ncert-06-fig-6dot1.jpg
 
 
 
@@ -96,15 +96,15 @@ TAG:7-Our-Country-India
 *7-Our-Country-India*
 
 India and its Neighbouring Countries
-IMG:ncert-06-fig-7dot1.png
+IMG:ncert-06-fig-7dot1.jpg
 
 
 Political Map of India
-IMG:ncert-06-fig-7dot2.png
+IMG:ncert-06-fig-7dot2.jpg
 
 
 India: Physical Divisions
-IMG:ncert-06-fig-7dot3.png
+IMG:ncert-06-fig-7dot3.jpg
 GOTO:top
 TAG:8-India-Climate-Vegetation-and-Wildlife
 *8-India-Climate-Vegetation-and-Wildlife*

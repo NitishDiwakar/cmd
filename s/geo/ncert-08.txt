@@ -27,16 +27,16 @@ TAG:3-Mineral-and-Power-Resources
 *3-Mineral-and-Power-Resources*
 
 World: Distribution of Iron, Copper and Bauxite
-IMG:ncert-08-fig-3dot5.png
+IMG:ncert-08-fig-3dot5.jpg
 
 World: Distribution of Mineral oil and coal
-IMG:ncert-08-fig-3dot6.png
+IMG:ncert-08-fig-3dot6.jpg
 
 Nuclear Energy
 IMG:ncert-08-fig-3dot17.png
 
 Geothermal Energy
-IMG:ncert-08-fig-3dot19.png
+IMG:ncert-08-fig-3dot19.jpg
 
 Tidal Energy
 IMG:ncert-08-fig-3dot20.png
@@ -50,7 +50,7 @@ TAG:4-Agriculture
 *4-Agriculture*
 
 World distribution of arable land
-IMG:ncert-08-fig-4dot1.png
+IMG:ncert-08-fig-4dot1.jpg
 
 
 GOTO:top
@@ -58,13 +58,13 @@ TAG:5-Industries
 *5-Industries*
 
 World Industrial Regions
-IMG:ncert-08-fig-5dot4.png
+IMG:ncert-08-fig-5dot4.jpg
 
 World: Major ore producting areas
-IMG:ncert-08-fig-5dot8.png
+IMG:ncert-08-fig-5dot8.jpg
 
 World: Major cotton textile manufacturing regions
-IMG:ncert-08-fig-5dot10.png
+IMG:ncert-08-fig-5dot10.jpg
 
 
 
@@ -73,7 +73,7 @@ TAG:6-Human-Resources
 *6-Human-Resources*
 
 World: Differing rate of population growth
-IMG:ncert-08-fig-6dot5.png
+IMG:ncert-08-fig-6dot5.jpg
 
 Population pyramid of Kenya
 IMG:ncert-08-fig-6dot7.png

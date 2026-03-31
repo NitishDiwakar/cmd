@@ -25,10 +25,10 @@ TAG:2-Inside-Our-Earth
 *2-Inside-Our-Earth*
 
 Interior of the Earth
-IMG:ncert-07-fig-2dot1.png
+IMG:ncert-07-fig-2dot1.jpg
 
 Continental Crust and Oceanic Crust
-IMG:ncert-07-fig-2dot2.png
+IMG:ncert-07-fig-2dot2.jpg
 
 Rock Cycle
 IMG:ncert-07-fig-2dot4.png
@@ -46,7 +46,7 @@ TAG:4-Air
 *4-Air*
 
 Layers of the Atmosphere
-IMG:ncert-07-fig-4dot2.png
+IMG:ncert-07-fig-4dot2.jpg
 
 Major Pressure Belts and Wind Systems
 IMG:ncert-07-fig-4dot4.png
@@ -60,7 +60,7 @@ TAG:5-Water
 *5-Water*
 
 Major Seas, Lakes, and Rivers
-IMG:ncert-07-fig-5dot2.png
+IMG:ncert-07-fig-5dot2.jpg
 
 Water distribution
 IMG:ncert-07-ch5-water-distribution.png
@@ -69,7 +69,7 @@ Spring Tide and Neap Tide
 IMG:ncert-07-fig-5dot5.png
 
 Ocean Currents
-IMG:ncert-07-fig-5dot6.png
+IMG:ncert-07-fig-5dot6.jpg
 
 
 
@@ -83,17 +83,17 @@ TAG:7-Human-Environment-Settelement-Transport-and-Communication
 *7-Human-Environment-Settelement-Transport-and-Communication*
 
 World: Major Sea Port and Airport
-IMG:ncert-07-fig-7dot11.png
+IMG:ncert-07-fig-7dot11.jpg
 
 GOTO:top
 TAG:8-Human-environment-Interactions-TheTropical-and-the-Subtropical-Region
 *8-Human-environment-Interactions-TheTropical-and-the-Subtropical-Region*
 
 Amazon Basin in South America
-IMG:ncert-07-fig-8dot2.png
+IMG:ncert-07-fig-8dot2.jpg
 
 Ganga-Brahmaputra Basin
-IMG:ncert-07-fig-8dot8.png
+IMG:ncert-07-fig-8dot8.jpg
 
 
 GOTO:top
@@ -101,7 +101,7 @@ TAG:9-Life-in-the-Desert
 *9-Life-in-the-Desert*
 
 Sahara in Africa
-IMG:ncert-07-fig-9dot2.png
+IMG:ncert-07-fig-9dot2.jpg
 
 Ladakh
-IMG:ncert-07-fig-9dot4.png
+IMG:ncert-07-fig-9dot4.jpg

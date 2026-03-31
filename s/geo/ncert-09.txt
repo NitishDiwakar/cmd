@@ -20,23 +20,23 @@ India in the World
 IMG:ncert-09-fig-1dot1.png
 
 India: Extent and Standard Meridian
-IMG:ncert-09-fig-1dot3.png
+IMG:ncert-09-fig-1dot3.jpg
 
 India on International Highway of Trade and Commerce
-IMG:ncert-09-fig-1dot4.png
+IMG:ncert-09-fig-1dot4.jpg
 
 India and Adjacent Countries
-IMG:ncert-09-fig-1dot5.png
+IMG:ncert-09-fig-1dot5.jpg
 
 GOTO:top
 TAG:2-Physical-Features-of-India
 *2-Physical-Features-of-India*
 
 Himalaya
-IMG:ncert-09-fig-2dot1.png
+IMG:ncert-09-fig-2dot1.jpg
 
 Relief
-IMG:ncert-09-fig-2dot1.png
+IMG:ncert-09-fig-2dot2.jpg
 
 
 GOTO:top
@@ -44,7 +44,7 @@ TAG:3-Drainage
 *3-Drainage*
 
 Major Rivers and Lakes
-IMG:ncert-09-fig-3dot4.png
+IMG:ncert-09-fig-3dot4.jpg
 
 
 GOTO:top
@@ -75,10 +75,10 @@ TAG:5-Natural-Vegetation-and-Wildlife
 *5-Natural-Vegetation-and-Wildlife*
 
 Natural Vegetation
-IMG:ncert-09-fig-5dot3.png
+IMG:ncert-09-fig-5dot3.jpg
 
 Wildlife Reserves
-IMG:ncert-09-fig-5dot8.png
+IMG:ncert-09-fig-5dot8.jpg
 
 
 GOTO:top

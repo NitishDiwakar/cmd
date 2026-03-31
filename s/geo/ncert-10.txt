@@ -21,7 +21,7 @@ Interdependent relationship between nature, technology and institutions
 IMG:ncert-10-fig-1dot1.png
 
 Classification of resources
-IMG:ncert-10-fig-1dot2.png
+IMG:ncert-10-fig-1dot2.jpg
 
 India: Land under important relief features
 IMG:ncert-10-fig-1dot3.png
@@ -31,7 +31,7 @@ India: Land use
 IMG:ncert-10-fig-1dot4.png
 
 
-IMG:ncert-10-fig-india-soil-types.png
+IMG:ncert-10-fig-india-soil-types.jpg
 
 IMG:ncert-10-fig-india-rivers-dams.png
 
@@ -52,9 +52,9 @@ GOTO:top
 GOTO:4-Agriculture
 *4-Agriculture*
 
-IMG:ncert-10-fig-india-distribution-of-rice.png
+IMG:ncert-10-fig-india-distribution-of-rice.jpg
 
-IMG:ncert-10-fig-india-distribution-of-wheat.png
+IMG:ncert-10-fig-india-distribution-of-wheat.jpg
 
 
 
@@ -65,32 +65,32 @@ GOTO:5-Minerals-and-Energy-Resources
 Classification of minerals
 IMG:ncert-10-fig-5dot1.png
 
-IMG:ncert-10-fig-india-iron-manganese-bauxite-mica.png
+IMG:ncert-10-fig-india-iron-manganese-bauxite-mica.jpg
 
 Production of limestone - state wise share
 IMG:ncert-10-fig-5dot7.png
 
-IMG:ncert-10-fig-india-coal-oil-natural-gas.png
+IMG:ncert-10-fig-india-coal-oil-natural-gas.jpg
 
-IMG:ncert-10-fig-india-nuclear-and-thermal-power-plants.png
+IMG:ncert-10-fig-india-nuclear-and-thermal-power-plants.jpg
 
 
 GOTO:top
 GOTO:6-Manufacturing-Industries
 *6-Manufacturing-Industries*
 
-IMG:ncert-10-fig-india-cotton-silk.png
+IMG:ncert-10-fig-india-cotton-silk.jpg
 
-IMG:ncert-10-fig-india-iron-steel-plants.png
+IMG:ncert-10-fig-india-iron-steel-plants.jpg
 
-IMG:ncert-10-fig-india-software-tech-parks.png
+IMG:ncert-10-fig-india-software-tech-parks.jpg
 
 
 GOTO:top
 GOTO:7-Lifelines-of-National-Economy
 *7-Lifelines-of-National-Economy*
 
-IMG:ncert-10-fig-india-national-highways.png
+IMG:ncert-10-fig-india-national-highways.jpg
 
 IMG:ncert-10-fig-india-ports-airports.png
 

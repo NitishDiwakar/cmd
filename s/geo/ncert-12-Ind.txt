@@ -51,7 +51,7 @@ TAG:5-Land-Resources-and-Agriculture
 *5-Land-Resources-and-Agriculture*
 
 Distribution of Cotton and Jute
-IMG:ncert-12-5-fig5dot5.png
+IMG:ncert-12-5-fig5dot5.jpg
 
 Distribution of Sugarcane
 IMG:ncert-12-5-fig5dot9.png
@@ -61,7 +61,7 @@ TAG:6-Water-Resources
 *6-Water-Resources*
 
 India - River basins
-IMG:ncert-12-fig6dot1.png
+IMG:ncert-12-fig6dot1.jpg
 
 
 Ganga and its tributaries and towns located on them
@@ -121,10 +121,10 @@ TAG:11-International-Trade
 *11-International-Trade*
 
 India - Major Ports and Sea Routes
-IMG:ncert-12-11-fig11dot4.png
+IMG:ncert-12-11-fig11dot4.jpg
 
 India - Air Routes
-IMG:ncert-12-11-fig11dot5.png
+IMG:ncert-12-11-fig11dot5.jpg
 
 GOTO:top
 TAG:12-Geographical-Perscpective-on-Selected-Issues-and-Problems

@@ -18,7 +18,7 @@ TAG:1-India-Location
 *1-India-Location*
 
 India: Administrative Divisions
-IMG:ncert-11-India-fig-1dot1.png
+IMG:ncert-11-India-fig-1dot1.jpg
 
 Location of India in Eastern World
 IMG:ncert-11-India-fig-1dot2.png
@@ -29,7 +29,7 @@ TAG:2-Structure-and-Physiography
 *2-Structure-and-Physiography*
 
 India - Physical
-IMG:ncert-11-India-fig-2dot2.png
+IMG:ncert-11-India-fig-2dot2.jpg
 
 Western Himalayas
 IMG:ncert-11-India-fig-2dot5.png
@@ -38,7 +38,7 @@ Himalayan Mountain - South to North
 IMG:ncert-11-India-fig-2dot6.png
 
 Eastern Himalayas
-IMG:ncert-11-India-fig-2dot7.png
+IMG:ncert-11-India-fig-2dot7.jpg
 
 
 
@@ -59,7 +59,7 @@ Summer Monsoon Winds
 IMG:ncert-11-India-fig-4dot2.png
 
 India - Normal dates of onset of South Western Monsoon
-IMG:ncert-11-India-fig-4dot5.png
+IMG:ncert-11-India-fig-4dot5.jpg
 
 India - Mean monthly temperature in January
 IMG:ncert-11-India-fig-4dot6.png
@@ -104,17 +104,17 @@ TAG:6-Soils
 *6-Soils*
 
 Major soil types in India
-IMG:ncert-11-India-fig-6dot2.png
+IMG:ncert-11-India-fig-6dot2.jpg
 
 GOTO:top
 TAG:7-Natural-Hazards-and-Disasters
 *7-Natural-Hazards-and-Disasters*
 
 Earthquake and Hazard zones
-IMG:ncert-11-India-fig-7dot2.png
+IMG:ncert-11-India-fig-7dot2.jpg
 
 Wind and Cyclone Hazard zones
-IMG:ncert-11-India-fig-7dot4.png
+IMG:ncert-11-India-fig-7dot4.jpg
 
 Flood Hazard Zones
 IMG:ncert-11-India-fig-7dot6.png

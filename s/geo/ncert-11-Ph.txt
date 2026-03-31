@@ -59,14 +59,17 @@ TAG:4-Distribution-of-Oceans-and-the-Continents
 Distribution of Earthquake and Volcanos
 IMG:ncert-11-Physicial-fig-4dot2.png
 
+Distribution of Earthquake and Volcanos
+IMG:ncert-11-Physicial-fig-4dot2.jpg
+
 Sea Floor Spreading
-IMG:ncert-11-Physicial-fig-4dot2.png
+ncert-11-Physicial-fig-4dot3.jpg
 
 Position of continents - geological past
 IMG:ncert-11-Physicial-fig-4dot4.png
 
 Major and minor plates of the world
-IMG:ncert-11-Physicial-fig-4dot5.png
+IMG:ncert-11-Physicial-fig-4dot5.jpg
 
 Movement of Indian plate
 IMG:ncert-11-Physicial-fig-4dot6.png
@@ -98,13 +101,13 @@ TAG:7-Landforms-and-their-Evolution
 *7-Landforms-and-their-Evolution*
 
 Various carst features
-IMG:ncert-11-Physicial-fig-7dot8.png
+IMG:ncert-11-Physicial-fig-7dot8.jpg
 
 Some Glacial erosional and depositional forms
-IMG:ncert-11-Physicial-fig-7dot11.png
+IMG:ncert-11-Physicial-fig-7dot11.jpg
 
 Panoramic diagram of glacial landscape
-IMG:ncert-11-Physicial-fig-7dot12.png
+IMG:ncert-11-Physicial-fig-7dot12.jpg
 
 Various types of sand dunes
 IMG:ncert-11-Physicial-fig-7dot14.png
@@ -134,13 +137,13 @@ Latitudional variation in net radiation balance
 IMG:ncert-11-Physicial-fig-9dot3.png
 
 The distribution of surface air temperature in month of January
-IMG:ncert-11-Physicial-fig-9dot4a.png
+IMG:ncert-11-Physicial-fig-9dot4a.jpg
 
 The distribution of surface air temperature in month of July
 IMG:ncert-11-Physicial-fig-9dot4b.png
 
 Range of temperature between January and July
-IMG:ncert-11-Physicial-fig-9dot5.png
+IMG:ncert-11-Physicial-fig-9dot5.jpg
 
 
 
@@ -152,10 +155,10 @@ Isobar, pressure and wind system in Northern Hemisphere
 IMG:ncert-11-Physicial-fig-10dot1.png
 
 Distribution of pressure in January
-IMG:ncert-11-Physicial-fig-10dot2.png
+IMG:ncert-11-Physicial-fig-10dot2.jpg
 
 Distribution of pressure in July
-IMG:ncert-11-Physicial-fig-10dot3.png
+IMG:ncert-11-Physicial-fig-10dot3.jpg
 
 Geostrophic wind
 IMG:ncert-11-Physicial-fig-10dot4.png
@@ -199,16 +202,16 @@ TAG:13-Water-Oceans
 *13-Water-Oceans*
 
 Hydrological cycle
-IMG:ncert-11-Physicial-fig-13dot1.png
+IMG:ncert-11-Physicial-fig-13dot1.jpg
 
 Thermocline
 IMG:ncert-11-Physicial-fig-13dot3.png
 
 Spatial Pattern of Surface Temperature
-IMG:ncert-11-Physicial-fig-13dot4.png
+IMG:ncert-11-Physicial-fig-13dot4.jpg
 
 Surface salinity of world's ocean
-IMG:ncert-11-Physicial-fig-13dot5.png
+IMG:ncert-11-Physicial-fig-13dot5.jpg
 
 
 GOTO:top
@@ -222,7 +225,7 @@ IMG:ncert-11-Physicial-fig-14dot1.png
 IMG:ncert-11-Physicial-fig-14dot2.png
 
 Major currents in Pacific, Atlantic and Indian Ocean
-IMG:ncert-11-Physicial-fig-14dot3.png
+IMG:ncert-11-Physicial-fig-14dot3.jpg
 
 
 GOTO:top
@@ -241,4 +244,4 @@ TAG:16-Biodiversity-and-Conservation
 *16-Biodiversity-and-Conservation*
 
 Some ecological hotspots in world
-IMG:ncert-11-Physicial-fig-16dot1.png
+IMG:ncert-11-Physicial-fig-16dot1.jpg
