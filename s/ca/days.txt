@@ -23,41 +23,84 @@ Important Days
 ============================
 
 TAG:Jan 
+  3  - Women Teacher Day
+  4  - World Braile Day
+  6  - World Day of War Orphans
   9  - Pravasi Bharatiya Divas
   10 - *World Hindi Day*
   12 - National Youth Day
   15 - *Army Day* (India)
+  16 - National Startup Day
+  18 - National Immunization Day
   23 - Parakram day (Netaji Subhash Chandra birth anniversary)
+  24 - National Girl Child Day
+     - International Day of Education
   25 - *National Voters' Day*
-  26 - Republic Day (India)
-  30 - Martyrs' Day, World Leprosy Day
+  27 - International Holocaust Rememberence Day
+  30 - Martyrs' Day (Gandhi death)
+     - World Leprosy Day
+     - World Neglected Tropical Disease 
 
 TAG:Feb
 FEBRUARY 
+  1  - Indian Coast Guard Day
+  2  - World Wetlands Dayh
   4  - *World Cancer Day*
+  6  - No Female Genital Mutilation
+  8  - Safer Internet Day
+  10 - World Pulses Day
+     - National Deworming Day
   11 - Samarpan Diwas (Pandit Dindayal Upadhyay death anniversary)
+     - International Day of Women in Science
+  12 - National Productivity Day
+     - Darwin Day
   20 - *World Social Justice Day*
+     - Arunachal Foundation Day
   21 - World Mother Language Day
+  22 - World Thinking Day
+  24 - Central Excise Day
+  27 - World NGO Day
   28 - *National Science Day*
+     - Rare Disease Day
 
 TAG:Mar
 MARCH 
+  1  - Zero Discrimination Day
+     - World Civil Day
   3  - World Wildlife Day
+     - World Hearing Day
   4  - Chabahar Day
+     - National Safety Day
   8  - International Women's Day
+  10 - CISF Raising Day
   14 - Pi Day
   15 - *World Consumer Rights Day*
+  16 - National Vaccination Day
+  20 - International Day of Happiness
+     - *World Sparrow Day*
+  21 - World Forestry Day
+     - World Down Syndrome Day
+     - World Poetry Day
   22 - World Water Day, Bihar Day
+  23 - World Meteorological Day
   24 - World Tuberculosis Day
+  27 - World Theatre Day
 
 TAG:Apr
 APRIL
+  1  - Odisha Foundation Day
+  5  - National Maritime Day
   7  - *World Health Day*
+  11 - National Safe Motherhood Day
   14 - Equality Day (Ambedkar Jayanti)
   18 - World Heritage Day
+  21 - National Civil Service Day
   22 - Earth Day
+  24 - Panchayati Raj Day
   25 - *World Malaria Day*
   26 - World Intellectual Property Day
+  28 - World Day for Safety and Health at Work
+  30 - Ayushman Bharat Day
 
 TAG:May
 MAY 
@@ -80,8 +123,10 @@ JUNE
   29 - National Statistics Day
 
 TAG:Jul
+JULY
   1  - Doctor's Day/GST Day
   11 - World Population Day
+  15 - World Youth Skill Day
   19 - Bank Nationalization Day
   26 - Kargil Vijay Diwas
   28 - World Hepatitis Day

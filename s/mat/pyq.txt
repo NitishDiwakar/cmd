@@ -51,7 +51,7 @@ TAG:Aso-Mains-2026
 
 95. How many times the digit 5 will come if we write from 1 to 99 and exclude those numbers which are divisible by 3?
   [Hint:
-  - Digit 5 from 1–99 = 19
+  - Digit 5 from 1–99 = 19 #revise
   - Multiples of 3 with 5 → 15, 45, 75, 51, 54, 57
   - Remove 6 occurrences]
 
@@ -79,7 +79,7 @@ TAG:Aso-Mains-2026
 
 98. When it is 25 past 4 on the clock, the angle between its minute hand and hour hand is
   [Hint:
-  -> *(30H +- 11/2M)*
+  -> *(30H +- 11/2M)* #revise
   -> 30*4 +- 11/2*25
   -> 120 +- 137.5
   -> 17.5 ]
@@ -104,7 +104,7 @@ TAG:Aso-Mains-2026
 100. If the salary of an officer is increased by 25% and then decreased by 25%, then what is the net percentage change in his salary?
   [Hint:
   Shortcut method
-  *(percentage change = x^2/100)* 
+  *(percentage change = x^2/100)* #revise
 
   or
   100 x 125/100 x 75/100 ]
@@ -186,7 +186,8 @@ TAG:Aso-Pre-2025
 
   Take highest powers:
   LCM = 2^3 × 3^3 × 5 × 7
-  7560 ]
+  7560 
+  #revise ]
 
 (A) 16
 (B) 12
@@ -206,7 +207,8 @@ TAG:Aso-Pre-2025
 
   (13 × x) / (7) = 39
   x = 39 × 7 / (13)
-  21 ]
+  21 
+  #revise ]
 
 (A) 14
 (B) 3
@@ -258,7 +260,7 @@ TAG:Aso-Pre-2025
 
 
 60. One half of a number is 96. What is 67% of this number?
-  [Hint: (48 * 67) / 25]
+  [Hint: (48 * 67) / 25 #revisit ]
 
 (A) 19.296
 (B) 128.64 ✔
@@ -268,7 +270,7 @@ TAG:Aso-Pre-2025
 
 *64.* A car completes a journey in 15 hrs, travelling the first half of the distance at 20 km/h and the remaining half at 30 km/h. What is the total distance covered?
   [Hint:
-  Avg speed = (2ab) / (a+b)
+  Avg speed = (2ab) / (a+b) #revise
   24 km/hr
 
   s = 24 km/hr; t = 15 hr; d = ?
@@ -297,7 +299,7 @@ TAG:Aso-Pre-2025
   144 : 145
 
   (29) x (144 / 145)
-  ]
+  #revisit ]
 
 (A) 4:50 AM
 (B) 4:48 AM ✔
@@ -315,7 +317,7 @@ TAG:Aso-Pre-2025
 
 *101.* Three metal cubes with edges of lengths 3 cm, 4 cm and 5 cm are melted together to form one larger cube. Assuming no metal is lost during melting, what will be the edge length of the resulting cube?
   [Hint:
-  *Volume = side³*
+  *Volume = side³* #revise 
   1st Cube -> 3^3 = 9
   2nd Cube -> 4^3 = 64
   3rd Cube -> 5^3 = 125
@@ -331,6 +333,7 @@ TAG:Aso-Pre-2025
 
 
 *[104.]* The probability that a leap year has 53 Wednesdays is
+  [Hint: #revisit ]
 
 (A) 3/7
 (B) 1/7
@@ -356,7 +359,7 @@ TAG:Aso-Pre-2025
 
 
 127. Seema’s age after 15 years will be 5 times her age 5 years back. What is Seema’s present age?
-  [Hint: x + 15 = 5(x - 5) ]
+  [Hint: x + 15 = 5(x - 5) #revise ]
 
 (A) 50 years
 (B) 5 years
@@ -365,6 +368,8 @@ TAG:Aso-Pre-2025
 
 
 129. Monu cycles from city A to city B at 18 km/h and returned back from city B to city A at 12 km/h. Find his average speed over the whole journey.
+  [Hint: 
+  Avg speed = 2ab / (a+b) #revise]
 
 (A) 14.4 km/h ✔
 (B) 12.4 km/h
@@ -377,7 +382,7 @@ TAG:Aso-Pre-2025
   Difference stays same
   Initial diff = 3x - 2x = x  
   After 5 yrs diff = (4 - 3) parts = 1 part
-  So 1 part = 5 ⇒ x = 5 ]
+  So 1 part = 5 ⇒ x = 5 #revisit ]
 
 (A) 10 years, 12 years
 (B) 12 years, 15 years
@@ -386,6 +391,7 @@ TAG:Aso-Pre-2025
 
 
 138. 80 copies of a book cost Rs. 600. What will 300 copies cost?
+  [Hint: #revise ]
 
 (A) Rs. 8,000
 (B) Rs. 1,000
@@ -404,7 +410,7 @@ TAG:Aso-Pre-2025
 
 
 *[141.]* The sides of a triangle are in the ratio 6 : 8 : 12, then it is a
-  [Hint: Revise all similar geometery shapes]
+  [Hint: Revise all similar geometery shapes #revisit ]
 
 (A) Equilateral triangle
 (B) Scalene triangle ✔

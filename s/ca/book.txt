@@ -28,7 +28,7 @@ Basic Structure and Republic
 *Breaking the Glass Ceiling*
   - Shakti Gurung
 
-Call of the Gir
+*Call of the Gir*
   - Parimal Nathwani
 
 Do Palko Ki Chhao Me
@@ -82,7 +82,7 @@ Just a Mercenary
 *Kargil War - The Turning Point*
   - Magod Basappa Ravindranath
 
-Khaki Mein Sthitpragya
+*Khaki Mein Sthitpragya*
   - Anil Raturi
 
 Kutty Cricket Story
@@ -91,7 +91,7 @@ Kutty Cricket Story
 Leo - The Untold Story of CSK
   - P S Raman
 
-M.S. S- The Man Who Fed India
+M.S. Swaminathan - The Man Who Fed India
   - *Priyambada Jayakumar*
 
 Maha Swapnikudu
@@ -115,7 +115,7 @@ Narratives of the Bench
 Naye Bharat Ka Samved
   - Ramnath Kovind (Released)
 
-Nine Yard Sarees
+*Nine Yard Sarees*
   - Prashanti Ram
 
 *Nitish Kumar, the Gandhi of Bihar*
@@ -169,7 +169,7 @@ Diary of a Cricketer's Wife
 Emergency Diaries
   - Released by Amit Shah
 
-The Idea of Democracy
+*The Idea of Democracy*
   - Sam Pitroda
 
 The Man Who Became Cinema
@@ -181,13 +181,13 @@ The New Icon: Savarkar and the Facts
 The One: Cricket, My life and More
   - Shikhar Dhawan
 
-The Rise of the Hitman
+*The Rise of the Hitman*
   - R. Kaushik
 
 The Unyielding Judge
   - AN Grover
 
-The World After Gaza
+*The World After Gaza*
   - Pankaj Mishra
 
 To the Seventh Generation
@@ -202,5 +202,5 @@ Why the Constitution Matters
 Winner's Mindset
   - Shane Watson
 
-Witness
+*Witness*
   - Sakshi Malik

@@ -387,50 +387,51 @@ GOTO:top
 ____________________
 TAG:5-ratio
 *5-Ratio*
-Q1. The income ratio of A and B is 4:5 and their expenditure ratio is 1:2. If A saves Rs. 600 & B saves Rs. 300 then, find the income of B. (Ans: 1,500)
 
-Q2. The value of a diamond varies directly as the square of its weight. If a diamond worth ₹24,000 is divided into two pieces in the ratio 3 : 5, then what will be the loss in its value? (Ans: 11,250)
+Q10. The income ratio of A and B is 4:5 and their expenditure ratio is 1:2. If A saves Rs. 600 & B saves Rs. 300 then, find the income of B. (Ans: 1,500) #revisit
 
-Q3. The ratio of the two parallel sides of a trapezium is 3 : 2. The shortest distance between these sides is 30 cm and the area of the trapezium is 900 cm² .What is the sum of lengths of the parallel sides? (Ans: 60 cm)
+Q9. The value of a diamond varies directly as the square of its weight. If a diamond worth ₹24,000 is divided into two pieces in the ratio 3 : 5, then what will be the loss in its value? (Ans: 11,250)
 
-
-Q4. There are 5481 students in a school and the ratio of boys to girls in the school is 34 : 29, then find the number of boys in school. (Ans: 2,958)
+Q8. The ratio of the two parallel sides of a trapezium is 3 : 2. The shortest distance between these sides is 30 cm and the area of the trapezium is 900 cm² .What is the sum of lengths of the parallel sides? (Ans: 60 cm)
 
 
-Q5. A, B and C started a business, five times the investment of A equals to 3 times investment of B and capital of B is twice that of C. Then, ratio of their properties. (Ans: 6:10:5)
+Q7. There are 5481 students in a school and the ratio of boys to girls in the school is 34 : 29, then find the number of boys in school. (Ans: 2,958)
 
 
-Q6. A sum of ₹ 6,270 is divided among A, B and C in such a way that the ratio of A's share to B and C's combined share is 3 : 7 and the ratio of B's share to A and C's combined share is 2 : 9. What is C's share? (Ans: 3,249)
+Q6. A, B and C started a business, five times the investment of A equals to 3 times investment of B and capital of B is twice that of C. Then, ratio of their properties. (Ans: 6:10:5)
 
 
-Q7. Alloy ‘A’ has three metals; metal A, B and C in the ratio 1 ∶ 2 ∶ 3. Alloy B has Metal A, B and C in the ratio 2 ∶ 3 ∶ 4. In what ratio, should the two alloys be mixed to get 20% metal A in the f inal mix? (Ans: 2:3)
+Q5. A sum of ₹ 6,270 is divided among A, B and C in such a way that the ratio of A's share to B and C's combined share is 3 : 7 and the ratio of B's share to A and C's combined share is 2 : 9. What is C's share? (Ans: 3,249)
 
 
-Q8. Anusha starts a business with ₹28,000 and after 4 months, Minal joins with Anusha as her partner. After a year, the profit is divided in the ratio 8 : 5. How much capital did Minal invest? (Ans: ₹ 26,250)
+Q4. Alloy ‘A’ has three metals; metal A, B and C in the ratio 1 ∶ 2 ∶ 3. Alloy B has Metal A, B and C in the ratio 2 ∶ 3 ∶ 4. In what ratio, should the two alloys be mixed to get 20% metal A in the f inal mix? (Ans: 2:3)
 
 
-Q9. Three partners A, B and C share profit such that 3 times of the A's share is equal to 6 times of the B's share and also equal to 12 times of the C's share. What is the ratio of the profits of A, B and C respectively?  (Ans: 4:2:1)
+Q3. Anusha starts a business with ₹28,000 and after 4 months, Minal joins with Anusha as her partner. After a year, the profit is divided in the ratio 8 : 5. How much capital did Minal invest? (Ans: ₹ 26,250)
 
 
-Q10. The total income of X, Y, and Z is Rs. 75,000. The ratio of X's income to the combined income of Y and Z is 3 : 7 and the ratio of Y's income to the combined income of X and Z is 4 : 11. What is the income (in Rs) of Z? (Ans: 32,500)
+Q2. Three partners A, B and C share profit such that 3 times of the A's share is equal to 6 times of the B's share and also equal to 12 times of the C's share. What is the ratio of the profits of A, B and C respectively?  (Ans: 4:2:1)
+
+
+Q1. The total income of X, Y, and Z is Rs. 75,000. The ratio of X's income to the combined income of Y and Z is 3 : 7 and the ratio of Y's income to the combined income of X and Z is 4 : 11. What is the income (in Rs) of Z? (Ans: 32,500)
 
 GOTO:top
 ____________________
 TAG:6-average
 *5-Average*
 
-Q6. The average age of 18 students in a class is x, and teacher age of 43 is included, then the average age increases by 1. Find the new average age of the students including the teacher in a class. If one more student aged 25 is included in a class. (Ans: 25)
+Q6. The average age of 18 students in a class is x, and teacher age of 43 is included, then the average age increases by 1. Find the new average age of the students including the teacher in a class. If one more student aged 25 is included in a class. (Ans: 25) #revisit
 
-Q5. Find the ratio between the bowling average and strike rate of bowler playing an ODI match with 6 overs to deliver, giving away 120 runs and taking 4 wickets. (Ans: 10:3)
+Q5. Find the ratio between the bowling average and strike rate of bowler playing an ODI match with 6 overs to deliver, giving away 120 runs and taking 4 wickets. (Ans: 10:3) #revisit
 
-Q1. The monthly salary of some workers in a factory is ₹ 28,500. When four workers whose average monthly salary is ₹ 25,600 left the factory and three workers whose monthly salary is ₹ 34,400 joined the factory, the average monthly salary of workers in the factory now increases by ₹ 1,172. The number of workers initially in the factory was: (Ans: 26)
+Q4. The monthly salary of some workers in a factory is ₹ 28,500. When four workers whose average monthly salary is ₹ 25,600 left the factory and three workers whose monthly salary is ₹ 34,400 joined the factory, the average monthly salary of workers in the factory now increases by ₹ 1,172. The number of workers initially in the factory was: (Ans: 26) #revisit
 
-Q2. The average score of 120 students in a test is 70. If the average score of the passed students is 78 and that of the failed students is 30, what is the number of failed students? (Ans: 20)
+Q3. The average score of 120 students in a test is 70. If the average score of the passed students is 78 and that of the failed students is 30, what is the number of failed students? (Ans: 20) #revisit
 
-Q3. The average marks of Gopal in 12 papers is 83. If he got the same highest marks in two papers and the same lowest marks in three papers, excluding the highest and lowest marks, the average of the remaining papers is 89, and the difference between the highest and the lowest marks is 39. If the highest is 2 marks less and lowest is 6 marks more, then the average of 12 papers is: (Ans: 84⅙)
+Q2. The average marks of Gopal in 12 papers is 83. If he got the same highest marks in two papers and the same lowest marks in three papers, excluding the highest and lowest marks, the average of the remaining papers is 89, and the difference between the highest and the lowest marks is 39. If the highest is 2 marks less and lowest is 6 marks more, then the average of 12 papers is: (Ans: 84⅙)
 
 
-Q4. The average runs scored by a batsman in 23 matches is 41. In the next 10 matches, the batsman scored an average of 16 runs. Find his average runs scored (rounded off to two decimal places) in all the 33 matches. (Ans: 3,342)
+Q1. The average runs scored by a batsman in 23 matches is 41. In the next 10 matches, the batsman scored an average of 16 runs. Find his average runs scored (rounded off to two decimal places) in all the 33 matches. (Ans: 3,342)
 
 GOTO:top
 ___________________
@@ -640,9 +641,12 @@ GOTO:top
 ___________________
 TAG:13-lcm-and-hcf
 *13-LCM-and-HCF*
-Q1. The sum of two numbers is 132 and their L.C.M. is 630. What are the two numbers?  (90, 42)
 
-Q2. The sum and LCM of two numbers is 132 and 360. Find the both numbers. (Ans: 60,72)
+Q4. The sum of two numbers is 132 and their L.C.M. is 630. What are the two numbers?  (90, 42)
+  [Hint: #revist ]
+
+Q3. The sum and LCM of two numbers is 132 and 360. Find the both numbers. (Ans: 60,72)
+  #revisit 
 	Given:
 	Sum (a + b) = 132; LCM(a, b) = 360
 	Formula used:
@@ -656,9 +660,9 @@ Q2. The sum and LCM of two numbers is 132 and 360. Find the both numbers. (Ans: 
 	Check: LCM(60, 72) = 360; Sum = 60 + 72 = 132
 	∴ The numbers are 60 and 72.
 
-Q3. If the ratio of two numbers is 9: 8 and their HCF is 31, find their LCM. (Ans: 2,232)
+Q2. If the ratio of two numbers is 9 : 8 and their HCF is 31, find their LCM. (Ans: 2,232) #revisit 
 
-Q4. The sum of two numbers is 1206, and their HCF is 9. Which of the following could be the two numbers? (Ans: 585, 621)
+Q1. The sum of two numbers is 1206, and their HCF is 9. Which of the following could be the two numbers? (Ans: 585, 621) #revisit
 
 
 
