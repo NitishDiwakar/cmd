@@ -24,147 +24,187 @@ Important Days
 
 TAG:Jan 
   3  - Women Teacher Day
-  4  - World Braile Day
-  6  - World Day of War Orphans
+  4  - W. Braile Day
+  6  - W. Day of War Orphans
   9  - Pravasi Bharatiya Divas
-  10 - *World Hindi Day*
+  10 - *W. Hindi Day*
   12 - National Youth Day
   15 - *Army Day* (India)
   16 - National Startup Day
   18 - National Immunization Day
   23 - Parakram day (Netaji Subhash Chandra birth anniversary)
   24 - National Girl Child Day
-     - International Day of Education
+     - Int. Day of Education
   25 - *National Voters' Day*
-  27 - International Holocaust Rememberence Day
+  27 - Int. Holocaust Rememberence Day
   30 - Martyrs' Day (Gandhi death)
-     - World Leprosy Day
-     - World Neglected Tropical Disease 
+     - W. Leprosy Day
+     - W. Neglected Tropical Disease 
 
 TAG:Feb
 FEBRUARY 
   1  - Indian Coast Guard Day
-  2  - World Wetlands Dayh
-  4  - *World Cancer Day*
+  2  - W. Wetlands Dayh
+  4  - *W. Cancer Day*
   6  - No Female Genital Mutilation
   8  - Safer Internet Day
-  10 - World Pulses Day
+  10 - W. Pulses Day
      - National Deworming Day
   11 - Samarpan Diwas (Pandit Dindayal Upadhyay death anniversary)
-     - International Day of Women in Science
+     - Int. Day of Women in Science
   12 - National Productivity Day
      - Darwin Day
-  20 - *World Social Justice Day*
+  20 - *W. Social Justice Day*
      - Arunachal Foundation Day
-  21 - World Mother Language Day
-  22 - World Thinking Day
+  21 - W. Mother Language Day
+  22 - W. Thinking Day
   24 - Central Excise Day
-  27 - World NGO Day
+  27 - W. NGO Day
   28 - *National Science Day*
      - Rare Disease Day
 
 TAG:Mar
 MARCH 
   1  - Zero Discrimination Day
-     - World Civil Day
-  3  - World Wildlife Day
-     - World Hearing Day
+     - W. Civil Day
+  3  - W. Wildlife Day
+     - W. Hearing Day
   4  - Chabahar Day
      - National Safety Day
-  8  - International Women's Day
+  8  - Int. Women's Day
   10 - CISF Raising Day
   14 - Pi Day
-  15 - *World Consumer Rights Day*
+  15 - *W. Consumer Rights Day*
   16 - National Vaccination Day
-  20 - International Day of Happiness
-     - *World Sparrow Day*
-  21 - World Forestry Day
-     - World Down Syndrome Day
-     - World Poetry Day
-  22 - World Water Day, Bihar Day
-  23 - World Meteorological Day
-  24 - World Tuberculosis Day
-  27 - World Theatre Day
+  20 - Int. Day of Happiness
+     - *W. Sparrow Day*
+  21 - W. Forestry Day
+     - W. Down Syndrome Day
+     - W. Poetry Day
+  22 - W. Water Day, Bihar Day
+  23 - W. Meteorological Day
+  24 - W. Tuberculosis Day
+  27 - W. Theatre Day
 
 TAG:Apr
 APRIL
   1  - Odisha Foundation Day
   5  - National Maritime Day
-  7  - *World Health Day*
+  7  - *W. Health Day*
   11 - National Safe Motherhood Day
   14 - Equality Day (Ambedkar Jayanti)
-  18 - World Heritage Day
+  18 - W. Heritage Day
   21 - National Civil Service Day
   22 - Earth Day
   24 - Panchayati Raj Day
-  25 - *World Malaria Day*
-  26 - World Intellectual Property Day
-  28 - World Day for Safety and Health at Work
+  25 - *W. Malaria Day*
+  26 - W. Intellectual Property Day
+  28 - W. Day for Safety and Health at Work
   30 - Ayushman Bharat Day
 
 TAG:May
 MAY 
-  1  - International Workers' Day
-  3  - International Press Freedom Day
-  7  - World Asthma Day
-  8  - World Red Cross Day
-  25 - World Football Day
-  31 - World No Tobacco Day
+  1  - Int. Workers' Day
+  3  - Int. Press Freedom Day
+  4  - Coal Miners Day
+     - Int. Fire Fighters Day
+  7  - W. Asthma Day
+  8  - W. Red Cross Day
+     - W. Thalassemia Day
+  25 - W. Football Day
+  11 - National Technology Day
+  12 - Int. Nurses Day
+  17 - W. Telecommunication Day
+     - Commonwealth Day
+  25 - W. Football Day
+  28 - *Savarkar Jayanti*
+  30 - Goa Statehood Day
+     - Int. Potato Day
+  31 - W. No Tobacco Day
 
 TAG:Jun
 JUNE
-  5  - World Environment Day
-  7  - World Food Safety Day
-  8  - World Oceans Day
-  14 - World Blood Donor Day
-  20 - World Refugee Day
-  21 - International Day of Yoga
+  1  - W. Milk Day
+  2  - Int. Sex Worker Day
+  5  - W. Environment Day
+  7  - W. Food Safety Day
+  8  - W. Oceans Day
+     - W. Brain Tumor Day
+  12 - W. Day Against Child Labour
+  14 - W. Blood Donor Day
+  15 - W. Wind DAy
+     - W. Elder Abuse Awareness Day
+  17 - W. Day to Combat Desertification
+  18 - Autistic Day
+  19 - W. Sickle Cell Awareness DAy
+  20 - *W. Refugee Day*
+  21 - Int. Day of Yoga
+     - W. Music Day
+     - W. Hydrography Day
+  23 - Int. Olympic Day
+     - UN Public Service Day
+     - Int. Widows Day
   25 - Samvidhaan Hatya Diwas
+  26 - Int. Day of Drug Abuse
   29 - National Statistics Day
+  30 - Asteroid Day
 
 TAG:Jul
 JULY
   1  - Doctor's Day/GST Day
-  11 - World Population Day
-  15 - World Youth Skill Day
+  11 - *W. Population Day*
+  12 - Malala Day
+  15 - *W. Youth Skill Day*
+  17 - W. Day for Int. Justice
+  18 - Nelson Mandela Day
   19 - Bank Nationalization Day
-  26 - Kargil Vijay Diwas
-  28 - World Hepatitis Day
-  29 - International Tiger Day
+  26 - *Kargil Vijay Diwas*
+  28 - W. Hepatitis Day
+     - W. Nature Conservation Day
+  29 - *Int. Tiger Day*
+  30 - W. Day Against Trafficking in Persons
 
 TAG:Aug
 AUGUST
   6  - Hiroshima Day
-  7  - Javelin Day (Neeraj Chopra)
-  12 - International Youth Day
+  7  - Handloom Day (Swadeshi)
+     - Javelin Day (Neeraj Chopra)
+  8  - QIM Day (1942)
+  9  - W. Sanskrit Day
+     - Int. Day of World's Indigenous People
+  12 - *Int. Youth Day*
+  13 - W. Organ Donation Day
   14 - Partition Horrors Remembrance Day
   15 - Independence Day (India)
   20 - Sadbhavna Diwas (Rajiv Gandhi)
-  23 - National Space Day
-  29 - National Sports Day (Major Dhyan Chand birth anniversary)
+  23 - *National Space Day*
+     - Slave Trade Abolitition
+  26 - Women Equality Day
+  29 - Int. Day Against Nuclear Tests
+     - National Sports Day (Major Dhyan Chand birth anniversary)
 
 TAG:Sep
 SEPTEMBER
   5  - Teacher's Day
-  8  - International Literacy Day
+  8  - Int. Literacy Day
   11 - Mahakavi Day (Death Anniversary Subramania Bharati)
   14 - Hindi Day
   17 - Social Justice day (E. V. Ramasamy's birthday)
   23 - National Ayurveda Day
-  27 - World Tourism Day
-  29 - World Heart Day
+  27 - W. Tourism Day
+  29 - W. Heart Day
 
 TAG:Oct
 OCTOBER
   2  - Non-violence Day/Gandhi Jayanti
-  3  - World Animal Day
+  3  - W. Animal Day
   5  - National Dolphin Day
   7  - Nijgiri Tahar Day
   8  - Air Force Day
-  11 - International Girl Child Day
-  14 - World Standards Day
-  15 - World Students Day (APJ Abdul Kalam)
-  16 - World Food Day
+  11 - Int. Girl Child Day
+  14 - W. Standards Day
+  15 - W. Students Day (APJ Abdul Kalam)
+  16 - W. Food Day
   24 - United Nations Day
   31 - National Unity Day (Sardar Patel's birth anniversary)
   31 - Indira Gandhi Death anniversary
@@ -174,23 +214,23 @@ NOVEMBER
   7  - National Cancer Awareness Day
   11 - National Education Day
   12 - National Bird Day
-  14 - Children's Day, World Diabetes Day
+  14 - Children's Day, W. Diabetes Day
   15 - Janjatiya Gaurav Diwas (Birsa Munda Birth Anniversary)
   16 - National Press Day
-  3  - International Biosphere Reserve Day
-  20 - World Children's Day
+  3  - Int. Biosphere Reserve Day
+  20 - W. Children's Day
   25 - No non-veg Day
   26 - National Constitution Day
 
 TAG:Dec
 DECEMBER
-  1  - World AIDS Day
-  2  - World Computer Literacy Day
+  1  - W. AIDS Day
+  2  - W. Computer Literacy Day
   4  - Indian Navy Day
-  5  - World Soil Day
+  5  - W. Soil Day
   6  - Maitri Diwas (Bhar-Bangladesh)
-  10 - International Human Rights Day
-  14 - World Energy Day
+  10 - Int. Human Rights Day
+  14 - W. Energy Day
   16 - Vijay Diwas
   24 - National Consumer Rights Day
   25 - Good Governance Day
