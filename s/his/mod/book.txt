@@ -1,10 +1,292 @@
 ============================
-Title : Books
+Title : Books, Magazines and Newspapers
 Tags  : #
 Descr :
 ============================
 
+TAG:top
+GOTO:Books-Writer-Wise
 
+Bengal Gazette (1780)
+  - James Augustus Hicky (Irishman)
+
+India Gazette (1787, Calcutta)
+  - Henry Lous
+  - Vivian Derozio
+
+Indian Herald (1789, Bombay)
+  - R. Williams
+
+Calcutta Journal (1818)
+  - J.S. Bukingham
+
+Bengal Gazette - Bengali newspaper (1818)
+  - Harishchandra Ray
+
+Sambad Kaumudi (1821)
+  - Raja Rammohan Roy
+
+Mirat-ul-Akbar (1822)
+  - Raja Rammohan Roy
+
+Banga-Duta (1822)
+  - Raja Rammohan Roy
+  - Dwarkanath Tagore
+
+East Indian (1825)
+  - Henry Vivian Derozio
+
+Bombay Times (1838)
+  - Thomas Bennet
+  - Robert Knight (foundation laid)
+
+Rast Goftar (1851)
+  - Dadabhai Naoroji
+
+Hindu Patriot (1853)
+  - Girish Chandra Ghosh
+  - Harish Chandra Mukherjee
+
+Somaprakasha (1858)
+  - Dwarkanath Vidyabhushan
+
+Indian Mirror (1862)
+  - Fornightly, Calcutta
+  - Devendranath Tagore
+
+Bengalee; Amrita Bazar Patrika (1862)
+  - Girishchandra Ghosh
+  - S.N. Banerjea (takenover in 1879)
+
+National Paper (1865)
+  - Devendranath Tagore
+
+Amtrita Bazar Patrika (1868)
+  - Sisir Kumar Ghosh
+  - Motilal Ghosh
+
+Bangadarshana (1873)
+  - Bankimchandra Chatarjee
+
+Indian Statesman (1875)
+  - Robert Knight (started)
+
+The Hindu (1878)
+  - G.S. Aiyer
+  - Viraghavachari
+  - Subba Rao Pandit
+
+Tribune (1881)
+  - Daily, Lahore
+  - Dyal Singh Majithia
+
+Kesari (1881)
+  - Marathi, daily
+  - Tilak, Chiplunkar, Agarkar
+
+Maharatta (1881)
+  - English, weekly
+  - Tilak, Chiplunkar, Agarkar
+
+Swadeshmitram
+  - G.S. Aiyar
+
+Paridasak (1886)
+  - Bipin Chandra Pal (publisher)
+
+Yugantar (1906)
+  - Barindra Kumar Ghosh
+  - Bhupendranath Datta
+
+Sandhya (1906)
+  - Brahmabandhab Upadhyay
+
+*Indian Sociologist* (London)
+  - Shyamji Krishna Varma
+
+Bande Mataram (Paris)
+  - Madam Bhikaji Cama
+
+Talvar (Berlin)
+  - Virendranath Chattopadhyaya
+
+Free Hindustan (Vancouver)
+  - Tarak Nath Das
+
+Ghadr (San Franciso)
+  - Ghadr Party
+
+Reshwa (1908)
+  - Ajit Singh
+
+Bombay Chronicle (1913, daily)
+  - Pherozeshah Mehta
+
+The Hindustan Times (1920)
+  - K.M. Panikkar (Akali dal movement)
+
+*The Milap* (1923, Lahore)
+  - M.K. Chand
+
+Leader 
+  - Madan Mohan Malviya
+
+Kirti (1926, Punjab)
+  - Santosh Singh
+
+Kudi Arasu (1910, Tamil)
+  - E.V. Ramaswamy Naicker (Periyar)
+
+Kranti (1927, MH)
+  - S.S. Mirajkar
+  - K.N. Joglekar
+  - S.V. Ghate
+
+Langal; Ganabani (1927, Bengal)
+  - Gopu Chakravarti
+  - Dharani Goswami
+
+Bandi Jivan
+  - Sachindranath Sanyal
+
+National Herald (1938)
+  - Jawaharlal Nehru
+
+
+GOTO:TOP
+_______________
+
+New India
+  - Ani Besant
+
+India Wins Freedom
+  - Maulana Abul Kalam Azad
+
+*Unhappy India*
+  - Lala Lajpat Rai
+
+Durgesh Nandini
+  - Bankimchandra Chatarjee
+
+The Man Who Divided India
+  - Rafik Zakaria
+
+The Story of My Deportation
+  - Lala Lajpat Rai
+
+A Nation in Making
+  - Surendranath Banerjee
+
+Hindu Polity
+  - K.P. Jayaswal
+
+*The Wonder That Was India*
+  - A.L. Basham
+
+An Introduction tto The Study of Indian History
+  - D.D. Koshambi
+
+The Early History of India
+  - Winset Arthor Smith
+
+New Lamps for the Old
+  - Aurbindo Ghosh
+
+Indian Unrest
+  - Velentine Shirol
+
+*The Indian Struggle*
+  - Subhash Chandra Bose
+
+The Economic Life of Northern India
+  - Lallan G. Gopal
+
+A Comprehensive history of India : The Delhi Sultanate
+  - Habib and Nizami
+
+History of the Khiljis
+  - K.S. Lal
+
+Early Chauhan Dynasties
+  - Dasrath Sharma
+
+*History of the Freedom Movement in Bihar*
+  - K.K. Dutta
+
+History of the Freedom Movement in India
+  - Tarachand
+  - R.C. Mazumadar (Other title, 3 books volume)
+
+The Indian Musalmans
+  - W.W. Hunter
+
+Awadh in Revolt
+  - Rudranshu Mukharjee
+
+The Sepoy Mutiny and the Rovolt of 1857
+  - R.C. Mazumdar
+
+The Great Rebelion
+  - Ashok Mehta
+
+Civil Rebilion in the Indian Mutinies
+  - S.B. Choudhary
+
+Eighteen Fifty-Seven
+  - S.N. Sen
+
+The Peasants and The Raj
+  - Erik Stokes
+
+Tehjib-Ul-Akhlakh (Civilization and Morality)
+  - Saiyyad Ahmed Khan
+
+Springing Tiger
+  - Biography of Subhash Chandra Bose
+  - Hugh Toy
+
+Introduction to Dreamland
+  - Bhagat Singh
+
+The Dreamland
+  - Lala Ramsaran Das
+
+The Philosophy of Bomb
+  - Bhagwati Charan Vohra
+
+Annihilation of Caste
+  - B.R. Ambedkar
+
+Jawarlal Nehru - A Biography
+  - Frank Morres
+
+India Divided
+  - Dr. Rajendra Prasad
+
+Bangabasi
+  - Jogendra Nath Bose
+
+The Great Divide
+  - H.V. Hudson
+
+The Guilty Men of Indias Partition
+  - Ram Manohar Lohia
+
+Captive Lady
+  - Michael Madhusudan Dutt
+
+*Gora*
+  - Rabindranath Tagore
+
+The Broken Wing
+  - Sirojni Naidu
+
+
+
+
+
+_______________
+TAG:Books-Writer-Wise
 Bal Gangadhar Tilak
     - Maratha
     - Kesari (Marathi, 1881)
