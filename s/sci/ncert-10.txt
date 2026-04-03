@@ -57,6 +57,25 @@ GOTO:top
 TAG:2-acids-bases-and-salts
 *2-acids-bases-and-salts*
 
+Figure 2.1 Reaction of zinc granules with dilute sulphuric acid and testing hydrogen gas by burning
+IMG:ncert-10-fig-2dot1.jpg
+
+Figure 2.2 Passing carbon dioxide gas through calcium hydroxide solution
+IMG:ncert-10-fig-2dot2.png
+
+Figure 2.3 Acid solution in water conducts electricity
+IMG:ncert-10-fig-2dot3.png
+
+Figure 2.4 Preparation of HCl gas
+IMG:ncert-10-fig-2dot4.png
+
+Figure 2.7 pH of some common substances shown on a pH paper (colours are only a rough guide)
+IMG:ncert-10-fig-2dot7.png
+
+Table 2.3 Some naturally occurring acids
+IMG:ncert-10-tab2dot3.png
+
+
 *Summary*
 
 Acid-base indicators are dyes or mixtures of dyes which are used to indicate the presence of acids and bases.
@@ -89,6 +108,14 @@ Salts have various uses in everyday life and in industries.
 GOTO:top
 TAG:3-metals-and-non-metals
 *3-metals-and-non-metals*
+
+*Table 3.2 Activity series : Relative reactivities of metals*
+IMG:ncert-10-fig-tab-3dot2.png
+
+Figure 3.13 Investigating the conditions under which iron rusts. In tube A, both air and water are present. In tube B, there is no air dissolved in the water. In tube C, the air is dry. 
+
+
+Iron nail rust in tube A, but not in B and C.
 
 *Summary*
 
@@ -128,6 +155,9 @@ Non-metals do not displace hydrogen from dilute acids. They react with hydrogen 
 GOTO:top
 TAG:4-carbon-and-its-compounds
 *4-carbon-and-its-compounds*
+
+Table 4.1 Melting points and boiling points of some compounds of carbon
+IMG:ncert-10-tab-4dot1.png
 
 Carbon is a versatile element that forms the basis for all living organisms and many of the things we use.
 
@@ -178,6 +208,31 @@ GOTO:top
 TAG:6-life-processes
 *6-life-processes*
 
+Figure 6.1 Cross section of leaf
+IMG:ncert-10-fig-6dot1.jpg
+
+Figure 6.6 *Human alimentary canal*
+IMG:ncert-10-fig-6dot6.jpg
+
+Figure 6.9 Figure 6.9 Figure 6.9 Figure 6.9 Human respiratory system
+IMG:ncert-10-fig-6dot9.jpg
+
+Figure 6.10 Schematic sectional view of the *human heart*
+IMG:ncert-10-fig-6dot10.jpg
+
+
+Figure 6.11 Schematic representation of transport and exchange of oxygen and carbon dioxide
+IMG:ncert-10-fig-6dot11.jpg
+
+
+Figure 6.13 Excretory system in human beings
+IMG:ncert-10-fig-6dot13.jpg
+
+
+Figure 6.14 Structure of a nephron
+IMG:ncert-10-fig-6dot14.jpg
+
+
 Carbohydrates which are not used immediately are stored in the form of *starch*
 
 Food we eat is stored in our body in the form of *glycogen*
@@ -197,8 +252,17 @@ Food we eat is stored in our body in the form of *glycogen*
   
   - *Alimentary canal* is basically a long time extending from mouth to the anus.
   - Salaiva contains an enzyme called *salivary amylase*
+  - *gastric glands* (digestion in stomach)
+    -> present in the wall of the stomach
+    -> release *hydrochloric acid* (enzyme - *pepsin*)
+
+Fats are present in intestine in the form of *large globules*
+
+Herbivore
+  - Longer small intestine 
   
 
+*ATP* -> energy currency
 
 
 
@@ -233,6 +297,20 @@ GOTO:top
 TAG:7-control-and-coordination
 *7-control-and-coordination*
 
+Figure 7.1 (a) Structure of neuron, (b) Neuromuscular junction
+IMG:ncert-10-fig-7dot1.jpg
+
+
+Figure 7.3 Human brain
+IMG:ncert-10-fig-7dot3.jpg
+
+Figure 7.7 Endocrine glands in human beings (a) male, (b) female
+IMG:ncert-10-fig-7dot7.jpg
+
+Table 7.1 : Some important hormones and their functions
+IMG:ncert-10-tab7dot1.jpg
+
+
 *Summary*
 
 Control and coordination are the functions of the nervous system and hormones in our bodies.
@@ -252,6 +330,24 @@ A feedback mechanism regulates the action of the hormones.
 GOTO:top
 TAG:8-how-do-organisms-reproduce
 *8-how-do-organisms-reproduce*
+
+
+Figure 8.7 Longitudinal section of flower
+IMG:ncert-10-fig-8dot7.jpg
+
+Figure 8.8 Germination of pollen on stigma
+IMG:ncert-10-fig-8dot8.jpg
+
+Figure 8.9 Germination
+IMG:ncert-10-fig-8dot9.png
+
+Figure 8.10 Human–male reproductive system
+IMG:ncert-10-fig-8dot10.jpg
+
+Figure 8.11 Human–female reproductive system
+IMG:ncert-10-fig-8dot11.jpg
+
+
 
 *Summary*
 
@@ -291,6 +387,9 @@ Contraception to avoid pregnancy can be achieved by the use of condoms, oral pil
 GOTO:top
 TAG:9-heredity-and-evolution
 *9-Heredity-and-Evolution*
+
+Figure 9.6 Sex determination in human beings
+IMG:ncert-10-fig-9dot6.png
 
 *Summary*
 
@@ -335,6 +434,25 @@ GOTO:top
 TAG:10-light-reflection-andrefraction
 *10-light-reflection-andrefraction*
 
+Figure 10.1 Schematic representation of spherical mirrors; the shaded side is non-reflecting.
+IMG:ncert-10-fig-10dot1.png
+
+Figure 10.2 (a) Concave mirror (b) Convex mirror
+IMG:ncert-10-fig-10dot2.png
+
+Table 10.2 Nature, position and relative size of the image formed by a convex mirror
+IMG:ncert-10-tab-10dot2.png
+
+Table 10.3 Absolute refractive index of some material media
+IMG:ncert-10-tab-10dot3.png
+
+Table 10.4 Nature, position and relative size of the image formed by a convex lens for various positions of the object
+IMG:ncert-10-tab-10dot4.jpg
+
+Table 10.5 Nature, position and relative size of the image formed by a concave lens for various positions of the object
+IMG:ncert-10-tab-10dot5.png
+
+
 *Summary*
 
 Light seems to travel in straight lines.
@@ -374,6 +492,27 @@ GOTO:top
 TAG:11-the-human-eye-and-the-colourful-world
 *11-The-Human-Eye-and-The-Colourful-World*
 
+Figure 11.1 The human eye
+IMG:ncert-10-fig-11dot1.png
+
+Figure 11.2 (a), (b) The myopic eye, and (c) correction for myopia with a concave lens
+IMG:ncert-10-fig-11dot2.png
+
+Figure 11.3 (a), (b) The hypermetropic eye, and (c) correction for hypermetropia
+IMG:ncert-10-fig-11dot3.png
+
+Figure 11.5 Dispersion of white light by the glass prism
+IMG:ncert-10-fig-11dot5.png
+
+Figure 11.9 Apparent star position due to atmospheric refraction
+IMG:ncert-10-fig-11dot9.png
+
+Figure 11.10 Atmospheric refraction effects at sunrise and sunset
+IMG:ncert-10-fig-11dot10.png
+
+Figure 11.12 Reddening of the Sun at sunrise and sunset
+IMG:ncert-10-fig-11dot12.png
+
 *Summary*
 
 The ability of the eye to focus on both near and distant objects, by adjusting its focal length, is called the accommodation of the eye.
@@ -398,6 +537,15 @@ GOTO:top
 TAG:12-electricity
 *12-electricity*
 
+
+Figure 12.1 A schematic diagram of an electric circuit comprising – cell, electric bulb, ammeter and plug key
+IMG:ncert-10-fig-12dot1.png
+
+Table 12.1 Symbols of some commonly used components in circuit diagrams
+IMG:ncert-10-tab12dot1.png
+
+Table 12.2 Electrical resistivity* of some substances at 20°C
+IMG:ncert-10-tab12dot2.png
 *Summary*
 
 A stream of electrons moving through a conductor constitutes an electric current.
@@ -428,6 +576,19 @@ The commercial unit of electrical energy is kilowatt hour (kWh).
 GOTO:top
 TAG:13-magnetic-effects-of-electric-current
 *13-magnetic-effects-of-electric-current*
+
+Figure 13.13 Fleming’s left-hand rule
+IMG:ncert-10-fig-13dot13.png
+
+Figure 13.15 A simple electric motor
+IMG:ncert-10-fig-13dot15.png
+
+Figure 13.18 Fleming’s right-hand rule
+IMG:ncert-10-fig-13dot18.png
+
+Figure 13.20 A schematic diagram of one of the common domestic circuits
+IMG:ncert-10-fig-13dot20.png
+
 
 *Summary*
 
