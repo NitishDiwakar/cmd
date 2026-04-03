@@ -4,6 +4,22 @@ Tags  : #imp
 Descr :
 ============================
 
+TAG:top
+
+Acarangasutra
+  - Jain text
+  - 1st of 12th Anga
+  - 24th Tirthankar (Mahaveer)
+
+Sutrakritanga
+  - Jain text 
+  - 2nd of 12 Anga
+  - Gandhara Sudharmasvami (wrote)
+
+Brihatkalpasutra 
+  - Biography of Jain Tirthankars
+
+
 Bhasa - 3rd century AD; Ganapati Shastri (rediscovered)
   - Pratijnayaugandharayan
   - Swapnavasavadatt

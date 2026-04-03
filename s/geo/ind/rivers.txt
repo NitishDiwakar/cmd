@@ -10,3 +10,10 @@ IMG:rivers-my-notes-b.jpg
 IMG:rivers-my-notes-c.jpg
 
 
+*Rivers and Tributaries*
+
+Jhelum
+  - Kishenganga
+
+Mahananda
+  - Mechi
