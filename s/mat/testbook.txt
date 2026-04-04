@@ -492,6 +492,8 @@ ___________________
 TAG:8-compound-interest
 *7-Compound-Interest*
 
+IMG:ci.png
+
 Q7. How much Rs. 60,000 amounts in three years at compound interest. If the rate of interest double itself each successive, given the rate interest for the first year is 5%? (83,160)
   [60,000 x 105/100 x 110/100 x 120/100]
 
@@ -528,6 +530,7 @@ Q5. A sum of ₹20,000 is borrowed for 1¼ year at 12% interest per year. If the
  The compound interest on the sum is ₹3,152.50.
 
 Q4. What will be the total amount payable on a sum of ₹3,500 after two years at the rate of 20% per annum if the interest is compounded annually? (Ans: ₹ 5,040)
+  IMG:ci-q.png
 
 
 Q3. The difference between the simple interest and the compound interest, compounded annually, on a certain sum of money for 2 years at 14% per annum is ₹741. Find the sum. (Rounded off to the nearest integer.) (Ans: ₹ 34,806)
@@ -537,13 +540,17 @@ Q2. A sum becomes Rs. 15681.6 in 2 years when invested on compound interest (com
 
 
 Q1. A certain sum of money at r% compounded annualy after two and three years becomes ₹ 1440 and ₹ 1584 respectivaly. Find value of r. (Ans: 10%)
+  [Hint:
+  1584 - 1440
+  144
+  144 is 10% of 1440 ]
 
 GOTO:top
 ___________________
 TAG:9-number-system
 *9-Number-System*
 
-Q8. Find the lowest positive value of (c – b) such that the 7-digit number 1738b9c is divisible by 12. (Ans: 1)
+Q8. Find the lowest positive value of (c – b) such that the 7-digit number 1738b9c is divisible by 12. (Ans: 1) #revisit
 
 Q7. The difference between two numbers is 48. The ratio of these two numbers is 7 ∶ 3. What is the sum of the two numbers? (Ans: 120)
   [Hint:

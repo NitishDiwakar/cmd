@@ -54,6 +54,9 @@ Descr :
     - Lala Hardayal
     - Sardar Kartar Singh
 
+1914
+  - Komagata Maru incident (May)
+
 1915
   - Gandhi returned from South Africa (9 January)
     - Tolstoy Farm (SA)
@@ -161,6 +164,9 @@ Descr :
 
   - Rajkot Satyagraha
 
+1940
+  - August Offer
+
 1942
   - Cripps Mission
   - Quit India Movement
@@ -172,12 +178,15 @@ Descr :
 1945
   - WWII ended
   - United Nations founded
+  - *INA Trial*
 
 1946
   - Cabinet Mission
     - Pethick-Lawrence (Head)
     - A.V. Alexander
     - Stafford Cripps
+
+  - Royal Indian Navy Revolt
 
 1947
   - February: Announcement by British PM Clement Attlee

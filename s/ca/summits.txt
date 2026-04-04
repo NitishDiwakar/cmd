@@ -6,6 +6,9 @@ Descr :
 TAG:top
 // For international summits see ir/summit.txt
 
+9th Global Technology Summit 2025 (April)
+  - New Delhi
+
 *AI Impact Summit 2026* (Feb 16-20)
   - "Sarvajan Hitaye, Sarvajan Sukhaye" (Welfare for All, Happiness For all)
   - 3 Sutra: People, Planet, Progress

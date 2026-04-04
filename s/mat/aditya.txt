@@ -10012,6 +10012,7 @@ TAG:42-time-and-distance
 
 
 17. A thief is spotted by a policeman from a distance of 400m. When the policeman starts chasing, the thief also starts running. If the speed of the thief is 32 km/h and that of the policeman is 40 km/h, then how far would the thief have run before he is overtaken?
+  IMG:tsd-q4.png #revisit #revise
 
 (a) 1500 m
 (b) 1000 m

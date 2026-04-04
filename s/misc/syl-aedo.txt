@@ -44,6 +44,36 @@ IMG:syllabus-aedo.jpg
   - कूट लेखन एवं कूट व्याख्या
 
 
+English Translation
+
+  - Questions related to Number System
+  - Computation of Whole Numbers
+  - Decimals and Fractions
+  - Relationship between Numbers
+  - Basic Arithmetic Operations
+
+  - Percentage
+  - Ratio and Proportion
+  - Average
+  - Interest and Profit & Loss
+  - Analogy
+
+  - Similarity and Difference
+  - Spatial Visualization
+  - Spatial Orientation
+  - Problem Solving
+  - Analysis
+
+  - Visual Memory
+  - Discrimination
+  - Observation
+  - Relationship Concepts
+  - Arithmetic Reasoning
+
+  - Verbal and Non-Verbal Classification
+  - Arithmetic Number Series
+  - Non-Verbal Series
+  - Coding and Decoding
 
 __________
 

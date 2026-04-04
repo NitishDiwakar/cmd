@@ -187,3 +187,19 @@ Q9. Gopal bought a cell phone and sold it to Ram at 10% profit. Then Ram wanted 
  (a) Neither loss nor gain(b) Loss 1%
  (c) Gain 1% ✔ (d) Gain 0.5%
 
+
+Q10. A man purchases two clocks A and B at a total cost of Rs. 650. He sells A with 20% profit and B at a loss of 25% and gets the same selling price for both the clocks. What are the purchasing prices of A and B respectively? (Ans: Rs 250 & Rs 400)
+  [Hint:
+  When SP same:
+  CP ratio = (100 − loss%) : (100 + profit%)
+
+  75 : 120
+  5 : 8
+
+  Total = 650
+  13 parts = 650
+  1 part = 50
+
+  5 x 50 = 250
+  8 x 50 = 400 #revise ]
+
