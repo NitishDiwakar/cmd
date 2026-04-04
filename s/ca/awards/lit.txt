@@ -5,62 +5,69 @@ Descr :
 ============================
 
 *Sahitya Academi Award - 2024*
- - English
-    Easterine Kire (Novel - Spirit Nights)
 
- - Hindi
-    Gagan Gill (Poetry - *Main Jab Tak Aai Bahar*)
+English
+  - Easterine Kire (Novel - Spirit Nights)
 
- - Maithili
-    Mahendra Malangia (Essay - Prabandh Sangrah)
+Hindi
+  - Gagan Gill (Poetry - *Main Jab Tak Aai Bahar*)
 
- - Sanskrit
-    Dipak Kumar Sharma (Poerty - Bhaskaracaritam)
+Maithili
+  - Mahendra Malangia (Essay - Prabandh Sangrah)
 
- - Dogri
-    Chaman Arora (Short Story - Ik Hor Ashwthama)
+Sanskrit
+  - Dipak Kumar Sharma (Poerty - Bhaskaracaritam)
+
+Dogri
+  - Chaman Arora (Short Story - Ik Hor Ashwthama)
 
 
 *Sahitya Academi Yuva Puraskar - 2025*
- - Hindi
-    Parvati Tirkey (Poetry Collection - Phir Ugna)
+ 
+Hindi
+  - Parvati Tirkey (Poetry Collection - Phir Ugna)
 
- - English
-    Advaita Kottari (Siddhartha-Who Became the Buddha)
+English
+  - Advaita Kottari (Siddhartha-Who Became the Buddha)
 
- - Maithili
-    Neha Jha Mani (Poetry Collection - Banaras As Hum)
+Maithili
+  - Neha Jha Mani (Poetry Collection - Banaras As Hum)
 
- - Sanskrit
-    Dr. Dheeraj Kumar Pandey
+Sanskrit
+  - Dr. Dheeraj Kumar Pandey
 
 
 *Sahitya Academi Bal Puraskar - 2025*
- - English
-    Nitin Kushalappa M.P.
+ 
+English
+ - Nitin Kushalappa M.P.
 
- - Hindi
-    Sushil Shukla (for story '*Ek Baate Barah*')
+Hindi
+  - Sushil Shukla (for story '*Ek Baate Barah*')
 
- - Maithili
-    Munni Kamat (for story 'Chukka')
+Maithili
+  - Munni Kamat (for story 'Chukka')
 
- - Sanskrit
-    Preeti Poojara (for poetry collection 'Baalvishwam')
+Sanskrit
+  - Preeti Poojara (for poetry collection 'Baalvishwam')
 
 
 *Pulitzer Prize - 2025*
- - Public Service
-    Kavita Surana, Lizzie Presser, Cassandra Jaramillo, Stacy Kranitz
 
- - Editorial Writing
-    Raj Mankad and Team (Husson Chronicle)
+Public Service
+  - Kavita Surana
+  - Lizzie Presser
+  - Cassandra Jaramillo
+  - Stacy Kranitz
 
- - National Reporting
-    Staff of The Wall Street Journal
+Editorial Writing
+  - Raj Mankad and Team (Husson Chronicle)
 
- - International Reporting
-    Declan Walsh & NYT staff (Sudan confict)
+National Reporting
+  - Staff of The Wall Street Journal
 
- - Breaking News Reporting
-    The Washington Post Staff
+International Reporting
+  - Declan Walsh & NYT staff (Sudan confict)
+
+Breaking News Reporting
+  - The Washington Post Staff
