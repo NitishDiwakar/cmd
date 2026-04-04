@@ -4,3 +4,26 @@ Tags  : #
 Descr : 
 ============================
 
+
+IMG:pnc.png
+
+Q1. Out of 10 boys & 8 girls 3 boys and 3 girls to be selected. How many ways?
+  [Hint: AND = Multiply]
+  IMG:pnc-q1.png
+
+Q2. In how many different ways can the letters of the word "FOOTBALL" be arranged such that all vowels are always together?
+  IMG:pnc-q2.png
+
+Q3. Arrange 6 people in a circle. How many ways?
+  [Hint: (6-1)! #revise ]
+
+*Q4.* How many three digit numbers divisible by 5 can be formed using any of the digits from 0 to 9 such that none of the digits can be repeated?
+  [Hint: take two cases when 0 involved 
+  IMG:pnc-q3.png #revise ]
+
+Q5. How many different words can be formed by arranging the letters of word 'DELHI' such that words starts and end with vowel?
+  IMG:pnc-q4.png
+
+Q6. Find rank of a word "MATHS"
+  IMG:pnc-q5.png
+
