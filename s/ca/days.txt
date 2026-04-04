@@ -186,53 +186,86 @@ AUGUST
 TAG:Sep
 SEPTEMBER
   5  - Teacher's Day
-  8  - Int. Literacy Day
-  11 - Mahakavi Day (Death Anniversary Subramania Bharati)
-  14 - Hindi Day
-  17 - Social Justice day (E. V. Ramasamy's birthday)
-  23 - National Ayurveda Day
+  8  - *Int. Literacy Day*
+  10 - W. Suicide Prevention Day
+  11 - National Forest Martyrs Day
+     - Mahakavi Day (Death Anniversary Subramania Bharati)
+  12 - W. First Aid Day
+  14 - हिंदी दिवस
+  15 - Engineers Day
+     - Int. Day of Democracy
+  16 - W. Ozone Day
+  17 - Hyderabad Mukti
+     - Social Justice day (E. V. Ramasamy's birthday)
+  21 - Int. Day of Peace
+  23 - National *Ayurveda Day*
   27 - W. Tourism Day
-  29 - W. Heart Day
+  29 - *W. Heart Day*
 
 TAG:Oct
 OCTOBER
+  1  - Int. Day of Older Person
   2  - Non-violence Day/Gandhi Jayanti
   3  - W. Animal Day
+  4  - W. Habitat Day
   5  - National Dolphin Day
-  7  - Nijgiri Tahar Day
-  8  - Air Force Day
-  11 - Int. Girl Child Day
+     - *W. Teachers Day*
+  7  - W. Cotton Day
+     - Nijgiri Tahar Day
+  8  - *Indian Air Force Day*
+  9  - W. Postal Day
+  11 - *Int. Day of Girl Child*
   14 - W. Standards Day
   15 - W. Students Day (APJ Abdul Kalam)
+     - Gl. Handwashing Day
   16 - W. Food Day
-  24 - United Nations Day
+  17 - *Int. Day for Eradication of Poverty*
+  20 - W. Statistics Day
+  21 - NaMo Bharat Day
+  24 - *UN Day*
   31 - National Unity Day (Sardar Patel's birth anniversary)
-  31 - Indira Gandhi Death anniversary
+  31 - National Unity Day
+     - Indira Gandhi Death anniversary
 
 TAG:Nov
 NOVEMBER
+  3  - Int. Biosphere Reserve Day
   7  - National Cancer Awareness Day
+  10 - W. Science Day for Peace and Development
   11 - National Education Day
   12 - National Bird Day
+     - Public Service Broadcasting Day
   14 - Children's Day, W. Diabetes Day
   15 - Janjatiya Gaurav Diwas (Birsa Munda Birth Anniversary)
   16 - National Press Day
-  3  - Int. Biosphere Reserve Day
-  20 - W. Children's Day
-  25 - No non-veg Day
+  19 - *Int. Mens Day*
+     - W. Toilet Day
+  20 - Universal Children's Day
+  21 - W. Television Day
+  24 - Lachit Divas
+  25 - No non-veg Day (U.P. Gv.)
   26 - National Constitution Day
 
 TAG:Dec
 DECEMBER
   1  - W. AIDS Day
   2  - W. Computer Literacy Day
-  4  - Indian Navy Day
+     - *National Pollution Control Day*
+  4  - *Indian Navy Day*
   5  - W. Soil Day
   6  - Maitri Diwas (Bhar-Bangladesh)
-  10 - Int. Human Rights Day
+     - Ambedkar death
+  7  - Armed Force Flag Day
+  9  - Int. Anti-Corruption Day
+  10 - Int. *Human Rights Day*
+  12 - Universal Health Coverage Day
   14 - W. Energy Day
   16 - Vijay Diwas
-  24 - National Consumer Rights Day
+  20 - Int. Human Solidarity Day
+  21 - *W. Meditation Day*
+     - W. Basketball Day
+  23 - Farmers Day
+  24 - *National Consumer Rights Day*
   25 - Good Governance Day
-  14 - Veer Baal Diwas
+  26 - Veer Baal Diwas
 

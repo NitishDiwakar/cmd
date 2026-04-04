@@ -4,6 +4,9 @@ Tags  : #
 Descr : 
 ============================
 
+TAG:top
+GOTO:pyq-upsc
+
 Basic
 Distance (D) = Speed (S) × Time (T)
 Speed (S)    = Distance / Time
@@ -14,4 +17,22 @@ km/hr        = 5/18 m/s
 1 m/s        = 18/5 km/hr
 
 
+TAG:pyq-upsc
+*PYQ-UPSC*
 
+Q1. A person travels from X to Y at a speed of 40 kmph and returns by increasing his speed by 50%. What is his average speed for both the trips? (Ans: 48 kmph)
+  [Hint:
+  Avg speed =  2 ab / (a+b) ]
+
+
+Q2. A worker reaches his factory 3 minutes late if his speed from his house to the factory is 5 kmph. If the walks at a speed of 6 kmph, then he reaches the factory 7 minutes early. The distance of the factory from his house is: (Ans: 5km)
+  IMG:tsd-q1.png  #revise
+
+Q3. A bus is moving at a speed of 30 km/hr ahead of a car which speed of 50 km/hr. HOw many kilometers apart are they if it takes 15 minutes for the car to catch up the bus? (Ans: 5km)
+  IMG:tsd-q2.png
+
+
+Q4. A train of length 150 metres, moving at a speed of 90 km/hr can cross a 200 metres bride in: (Ans:)
+  IMG:tsd-q3.png
+
+Q5. Total time taken by a aperson in going to a place by walking and returning on cycle is 5 hours 45 minutes. He would have gained 2 hours by cycling both ways. The time taken by him to walk both ways is: (Ans: 7 hours 45 minutes) #revisit 
