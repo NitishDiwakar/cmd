@@ -298,31 +298,34 @@ Art. 241
    C Composition
    D Reservation
    E Duration
+
    F Disqualification
    G Powers
    H Taxes
    I Finance Commission
    J Audit
    K Elections
+
    L Application to UT
    M Not apply to certain areas
    O Bar to court interference
 
+
 Art. 243P
   - Municipalities definitions
 
-Art. 243Q
-  - Constitution
+     Q Constitution
      R Composition
      T Reservation
-     U
+     U Duration
      V Disqualification
      W Powers
+
      X Taxes
-     Y Finance commission
+     Y *Finance commission*
      Z Audit
      ZA Elections
-     ZD District planning
+     ZD *District planning*
      ZE Metropolitan planning
      ZG Bar to court interference
 Art. 247
@@ -388,3 +391,16 @@ Art. 356
 Art. 360
   - Financial emergency
 
+
+Art. 371
+  A - Nagaland
+  B - Assam
+  C - Manipur
+  D - Andhra / Telangana
+  E - Central University in Andhra Pradesh
+
+  F - Sikkim
+  G - Mizoram
+  H - Arunachal Pradesh
+  I - Goa
+  J - Karnataka
