@@ -36,16 +36,17 @@ Q2. If an article is sold for ₹402, there is a loss of 33%. At what price shou
 
 *Q3.* When an article is sold for ₹480, there is a loss of 50/3%. To gain 25/3%, it should be sold for ₹ : (Q5)
   [Hint: #revisit ]
-	50/3%    = 1/6
+	50/3% = 1/6
 	So, loss = 1/6 of 480
-	SP       = 5/6 of CP
-	480      = 5/6 * CP
+
+	SP = 5/6 of CP
+	480 = 5/6 * CP
 	576
 
 	Now, 2nd condition
-	Gain       = 25/3% = 1/12
+	Gain = 25/3% = 1/12
 	So, Profit = 1/12 of CP
-	New SP     = 13/12 * CP
+	New SP = 13/12 * CP
 	13/12 * 576
 	624
 
@@ -57,17 +58,18 @@ Q2. If an article is sold for ₹402, there is a loss of 33%. At what price shou
 
 Q4. A grocer pruchased 10 kg rice for ₹700. He spends some amount on transportation and then sells it for ₹1,400. IF the % of profit made by the grocer is 30%, then what is the amount he spends on transportation? (Round of to last integer) (Q6)
 	(700+x) * 130/100 = 1400
-	700+x             = 14000/13
-	x                 = 377
+	700+x = 14000/13
+	x = 377
 
 
 Q5. If I gain 124% by selling an item for ₹1,232, then what would be my gain or loss % if I sell if for ₹572? (Q7)
 	x * 224/100 = 1232
-	x           = 123200/224
+	x = 123200/224
 	550 (CP)
-	Now, SP     = 572
-	Profit      = 22
-	Profit %    = 22/550 * 100
+
+	Now, SP = 572
+	Profit  = 22
+	Profit % = 22/550 * 100
 	4% (Ans)
 
 
