@@ -1,0 +1,11 @@
+============================
+Title : Reasoning - Misc
+Tags  : #
+Descr :
+============================
+
+
+
+Number of times in a day the hour hand and the minute hand of a clock at right angles is
+  -> 44
+

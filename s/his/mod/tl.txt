@@ -118,6 +118,7 @@ Descr :
   - *No Tax Mvmt* (Bardoli Satyagraha)
 
 1929
+  - Poorna Swaraj Resolution
   - Bhagat Singh surrendered
 
 1930
@@ -140,6 +141,9 @@ Descr :
   - 3rd Round Table Conference
     - Congress absent
     - Md. Ali Jinnah absent
+
+  - Poona Pact
+  - Communal Award
 
 1935
   - Government of India Act, 1935

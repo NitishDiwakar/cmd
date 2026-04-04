@@ -443,7 +443,7 @@ TAG:7-simple-interest
   *R = (Fraction x 100) / (T)*
 
   (3/5 x 100) / (12)
-  5 ]
+  5 #revise ]
 
 Q5. On a sum of Rs. 30,000, Pratik gets simple interest as follows: 10% in the first year, 20% in the second year and 30% in the third year. What is the sum total of the interest earned by him? (Ans: 18,000)
   [Hint: 3000 + 6000 + 9000]
@@ -459,7 +459,7 @@ Q5. On a sum of Rs. 30,000, Pratik gets simple interest as follows: 10% in the f
   x x 11 = (20,300 - x) x 3
   11x = 20,300 x 3 - 3x
   14x = 20,300 x 3
-  4,350 ]
+  4,350 #revisit ]
 
 
 Q3. A person lent Rs. 20,000 to B for 3 years and Rs. 16000 to C for 4 years at the same rate of simple interest and received a total of Rs. 9300 from them as interest. What was the annual rate of interest?  (Ans: 7.5%)
