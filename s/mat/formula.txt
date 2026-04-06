@@ -6,7 +6,7 @@ Descr :
 
 TAG:top
 GOTO:1-number-system
-
+GOTO:2-Area
 
 GOTO:top
 TAG:1-number-system
@@ -26,3 +26,9 @@ Divisibility of 13
   - Add this product to the remaining truncated part of the number.
   - Repeat this process if necessary.
 
+
+TAG:Area
+*Area*
+IMG:area-fundamental-concept-p1.png
+
+IMG:area-fundamental-concept-p2.png

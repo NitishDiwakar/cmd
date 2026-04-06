@@ -431,6 +431,47 @@ GOTO:top
 TAG:19-boats-and-streams
 *19-Boats-and-streams*
 
+Speed downstream = (u + v) km/hr
+Speed upwnstream = (u - v) km/hr
+
+If the speed downstream is a km/hr and speed upstream is b km/hr, then:
+
+Speed in still water = 1/2 (a+b) km/hr
+
+Rate of stream = 1/2 (a-b) km/hr
+
+Q1. The speed of a boat when travelling downstream is 32 km/hr, whereas when travelling upstream is 28 km/hr. What is the speed of the boat in still water and the speed of stream?
+  [Hint:
+  in still water 
+  1/2 (a+b) km/hr
+  1/2 (32+28) km/hr
+  30 km/hr
+
+  speed of stream
+  1/2 (a-b) km/hr
+  1/2 (32-28)
+  2 km/hr #revise ]
+
+Q2. A man can row 6 km/hr in still water. It takes him twice as long to row up as to row down the river. Find the rate of stream.
+  [Hint:
+  Let rate upstream be x km/hr
+  Then, rate downstream = 2x km/hr
+
+  Rate in still water,
+  1/2 (x + 2x) km/hr
+  3x/2 km/hr
+
+  3x/2 = 6
+  x = 4 km/hr
+
+  So, rate upstream = 4 km/hr and
+  rate downstram = 8 km/hr
+
+  Rate of stream = 1/2 (8-4) km/hr
+  2 km/hr #revise ]
+  
+
+
 GOTO:top
 TAG:20-problems-on-trains
 *20-Problems-on-trains*
@@ -438,7 +479,11 @@ TAG:20-problems-on-trains
 GOTO:top
 TAG:21-mixture-and-alligation
 *21-Mixture-and-alligation*
-Q1. In a mixture of 60 litres, the ratio of acid and water is 2:1. If the ratio of acid and water is to be 1:2, then the amount of water (in litres) to be added to the mixture will be: (ASO Mains)
+
+Q5. In what ratio must rice at Rs. 9.30 per kg be mixed with rice at Rs 10.80 per kg so that the mixture be worth Rs 10 per kg?
+  IMG:mixture-alligation-q1.png #revise
+
+Q4. In a mixture of 60 litres, the ratio of acid and water is 2:1. If the ratio of acid and water is to be 1:2, then the amount of water (in litres) to be added to the mixture will be: (ASO Mains)
 
 (A) 50
 (B) 45
@@ -446,13 +491,13 @@ Q1. In a mixture of 60 litres, the ratio of acid and water is 2:1. If the ratio 
 (D) 60 ✔
 
 
-Q2. A person has to completely put each of three liquids: 403 litres of petrol, 465 litres of diesel and 496 litres of Mobile Oil in bottles of equal size without mixing any of the above three types of liquids such that each bottle is completely filled. What is the least possible number of bottles required? [2007]
+Q3. A person has to completely put each of three liquids: 403 litres of petrol, 465 litres of diesel and 496 litres of Mobile Oil in bottles of equal size without mixing any of the above three types of liquids such that each bottle is completely filled. What is the least possible number of bottles required? [2007]
 
  (a) 34 (b) 44 ✔
  (c) 46 (d) None of the above
 
 
-Q3.  30g of sugar was mixed in 180 ml water in a vessel A, 40 g of sugar Was mixed in 280 ml of water in vessel B and 20 g of sugar was mixed in 100 ml of water in vessel C. The solution in vessel B is : [2016-II]
+Q2.  30g of sugar was mixed in 180 ml water in a vessel A, 40 g of sugar Was mixed in 280 ml of water in vessel B and 20 g of sugar was mixed in 100 ml of water in vessel C. The solution in vessel B is : [2016-II]
 
  (a) sweeter than that in C
  (b) sweeter than that in A
@@ -460,7 +505,7 @@ Q3.  30g of sugar was mixed in 180 ml water in a vessel A, 40 g of sugar Was mix
  (d) less sweet than that in C ✔
 
 
-Q4. There is a milk sample with 50% water in it. If 1/3rd of this
+Q1. There is a milk sample with 50% water in it. If 1/3rd of this
  milk is added to equal amount of pure milk, then water in
  the new mixture will fall down to [2017-II]
 
@@ -488,6 +533,12 @@ Q2. The compound interest on ₹6,000 at a certain rate for 1½ years is ₹1,98
 GOTO:top
 TAG:24-area
 *24-Area*
+
+IMG:area-fundamental-concept-p1.png
+
+IMG:area-fundamental-concept-p2.png
+
+
 
 GOTO:top
 TAG:25-volume-and-surface-area
