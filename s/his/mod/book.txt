@@ -1,7 +1,7 @@
 ============================
 Title : Books, Magazines and Newspapers
 Tags  : #
-Descr :
+Descr : From Spectrum, GC, 
 ============================
 
 TAG:top
@@ -290,6 +290,117 @@ Rast Goftar (1854)
 Nibandhmala (1874)
   - Vishnushastri Chiplunkar
 
+Saadhna
+  - Rabindranath Tagore
+
+Jhanda geet
+  - Shyamlal Parshad
+
+"Ai mere watan ke logo.."
+  - Pradeep
+
+"Mazhab nahi sikhata aapas me bair karna.."
+  - Iqbal
+
+Golden Threshold
+  - Sirojni Naidu
+
+Landmarks in Indian Constitutional and National Development
+  - Gurumukh Nihal Singh
+
+Congress Presidential Addresses
+  - G.A. Natesan
+
+Discovery of India
+  - Jawaharlal Nehru 
+  - in Ahmednagar Fort Jail
+
+Mother India
+  - Lady Catherin Mayo
+
+Freedom at Midnight
+  - Larry Collins and Dominique Lapierre
+
+Mountbatten and Partition of India
+  - Larry Collins and Dominique Lapierre
+
+Journey through the Kingdom of Awadh in the year 1849-50
+  - W.H. Sleeman
+
+Planned Economy of India
+  - M. Wishweshwaraiya
+
+The Routes of Ancient India
+  - W.A. Fareservice
+
+Bharat ki Dusri Swatantrata
+  - M.G. Devasahayam 
+  - about JP movement
+
+Planning and the Poor
+  - B.S. Minhas
+
+Problems of The far east : Japan-Korea-China
+  - George N. Curzon
+
+The Alphabet : A Key to the History of Mankind (1948)
+  - David Diringer
+
+The Proudest Day
+  - Chandrakumar and Mohindar Puri
+
+Show Business
+  - Shashi Tharoor
+
+Jhopdi Se Rashtrapati Bhawan Tak
+  - Mahendra Kulshreshtha
+  - about APJ Abdul Kalam
+
+Lucknow Boy
+  - Vinod Mehta
+
+The Road Ahead (2005)
+  - Bill Gates
+
+Price of Partition
+  - Rafik Zakaria
+
+India 2020
+  - APJ Abdul Kalam
+
+Pathology of Corruption
+  - S.S. Gill
+
+The God of Small Things
+  - Arundhati Roy
+
+*India from Curzon to Nehru*
+  - Durga Das
+
+Gandhian Constitution for Free India
+  - Shriman Narayan Agrawal
+
+Geographical Factors in Indian History
+  - K.M. Panikkar
+
+New Dimensions of India's Foreign Policy
+  - Atal Bihari Vajpayee
+
+Ignited Minds
+  - APJ Abdul Kalam
+
+Ayodhya : 6 December, 1992
+  - P.V. Narsimha Rao
+
+The Audacity of Hope
+  - Barak Obama
+
+
+
+
+
+
+
 
 GOTO:top
 _______________
@@ -336,4 +447,6 @@ Rajendra Prasad
 
 *The partition of Bengal or Separation of Bihar (1906)*
   - Mahesh Narayan & Sachidanand Sinha
+
+
 

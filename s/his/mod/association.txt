@@ -1,5 +1,5 @@
 ============================
-Title : Associations
+Title : Associations & Organizations
 Tags  : #
 Descr :
 ============================
@@ -57,3 +57,7 @@ The Society of Jesus
 *Mohammedan anglo oriental defence association*
   - 1893
   - Saiyyad Ahmed Khan
+
+All India Harijan Sangh (1932)
+  - Gandhi
+

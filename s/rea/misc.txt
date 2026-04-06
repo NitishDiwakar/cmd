@@ -1,6 +1,6 @@
 ============================
 Title : Reasoning - Misc
-Tags  : #
+Tags  : #nomail #noview
 Descr :
 ============================
 
@@ -8,4 +8,10 @@ Descr :
 
 Number of times in a day the hour hand and the minute hand of a clock at right angles is
   -> 44
+
+Mirror image in clock
+  -> minus 11:60 #revise
+
+Water image
+  -> minus 17:90 #revise
 
