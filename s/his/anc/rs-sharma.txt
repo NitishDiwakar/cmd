@@ -723,10 +723,116 @@ GOTO:top
 TAG:17-The-Age-of-the-Satavahanas
 *17-The-Age-of-the-Satavahanas*
 
+Satavahana Dynasty
+  Founder: Simuka
+  Capital: Paithan (MH)
+
+Gautamiputra Satakarni (AD 106-130)
+
+Vishishtiputra Pulamayi (AD 130-154)
+
+"Gaulmika"
+  - Adm. in rural area
+
+"Kataka, Skandhavar"
+  - Mil. camps
+
+Gathasaptasi
+  - Written by Hala
+  - Prakrit
+  - 700 verses
+
+
+*Vakataka Dynasty*
+  Mid 3rd cen - 6th cen.
+  Founder: Vindhyashakti  
+  Last ruler: Prithvisena II 
+
+
+*Kharvela King* (Chhedi Dynasty)
+  - Kalinga
+  - 1st Century (After Ashoka death)
+  - "Bhikshu Raja" 
+  - Udayagiri caves
+  - Khandagiri caves
+
 
 GOTO:top
 TAG:18-The-Dawn-of-History-in-the-Deep-South
 *18-The-Dawn-of-History-in-the-Deep-South*
+
+Satvahana
+
+Ikshvaku (220-320 CE)
+
+Pallavas (275-897)
+  
+  - Founder Simha vishnu
+
+
+CHOLA
+  Kaveri delta, TN
+  Capital: Uraiyur
+  Port: *Puhar*
+  Emblem: Tiger
+
+
+CHERA
+  Capital: Vanji (AKA Karur)
+  Ports: Musiri, Tondi
+  Emblem: Bow and Arrow
+
+PANDYA
+  Madurai
+  Port: Korkai
+  Emblem: Fish
+
+
+*Landscapes*
+  Kurinji - hilly
+  Mullai - forest
+  Muruthan - riverine
+  Neythal - Coastal
+  Polai - Banjar
+
+*3-level of rulers*
+  Kizhar - head of village
+  Velir - Controlled hilly & forest area
+  Vendar - King
+
+Ummanar
+  - Salt merchant
+
+Chattu
+  - mobile merchant
+
+Buddhista sites
+  - Amaravati stupa
+  - Buddha statue at Nagarjunakonda
+  - Kanchipuram
+
+Uraiyur
+  - cotton trade
+
+Vellalas
+  - rich peasant
+
+Arasur
+  - ruling class
+
+Kadasiyar
+  - lowest class
+
+Pariyar
+  - Agri labours
+
+Aihole inscription
+  - Ravikirti
+
+Dantidurga
+  - Rashtrakuta dynasty
+  - C. 735-756
+
 
 
 GOTO:top
@@ -738,26 +844,90 @@ GOTO:top
 TAG:20-The-Rise-and-Growth-of-the-Gupta-Empire
 *20-The-Rise-and-Growth-of-the-Gupta-Empire*
 
+Sri Gupta (240-280 AD)
+
+Ghatotkacha (280-319)
+
+Chandragupta I (319-334)
+
+Samudragupta (335-380)
+  - Napolean of India
+  - Harisen (darbari writer)
+  - Meghavarman -> to Srilanka (Buddhist mission)
+
+Chandragupta II (380-412)
+  - won West Malwa & Gujrat
+  - *Ujjain* -> 2nd capital
+  - "Vikramaditya"
+  - Fa-Xian (399-414)
+
+*9-Ratna of Chandragupta*
+  Amarsimha (S. Grammar)
+  Dhanvantri (Ayurveda)
+  Harisena
+  Kalidasa
+  Kahapanaka
+  Sanku (Architecture)
+  Varahamihira (Astronomer)
+  Vararuchi
+  Vetalbhatta (magic)
+
+
 
 GOTO:top
 TAG:21-Life-in-the-Gupta-Age
 *21-Life-in-the-Gupta-Age*
 
+Narad Smriti
+  - 5th cen.
+
+Katyayana (6th cen)
+  - law giver
 
 GOTO:top
 TAG:22-Spread-of-Civilization-inEastern-India
 *22-Spread-of-Civilization-inEastern-India*
+
+"Pitribhakta"
+  - Marathas
+
+12 Lunar months
+  - Marathas (5th cen. mid)
+
+Bhaskarvarman
+  - 7th cen
+
 
 
 GOTO:top
 TAG:23-Harsha-and-His-Times
 *23-Harsha-and-His-Times*
 
+Harshavardhana (606-647)
+  - Priyadarshika
+  - Ratnawali
+  - Nagananda
+  - Dhawak (Ghost writer)
+
+Harsha ka Tila
+  - Thanesar
+
+"Skandhawar"
+  - military camp
+
 
 GOTO:top
 TAG:24-Formation-ofNew-States-and-Fural-Expansions-in-the-Peninsula
 *24-Formation-ofNew-States-and-Fural-Expansions-in-the-Peninsula*
 
+Kadamba kingdom
+  Founder: Mayurasharman
+  Capital: Vaijayanti
+
+Narsimhavarman (630-668)
+  - Pallava King
+  - 7-ratha temple
+  - Mahabalipuram
 
 GOTO:top
 TAG:25-Developments-in-Philosophy
@@ -782,3 +952,14 @@ TAG:28-Sequence-of-Social-Changes
 GOTO:top
 TAG:29-Legacy-in-Science-and-Civilization
 *29-Legacy-in-Science-and-Civilization*
+
+Aryabhatta (476-500)
+  - decimal system
+  - Suryasiddhanta
+
+"Vasudhaiva Kutumbakam"
+  - Maha Upnishad
+
+"Satyameva Jayate"
+  - Mundaka Upnishad
+
