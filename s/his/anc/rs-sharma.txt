@@ -450,10 +450,6 @@ Samba Shikharji
   - Parasnath Hills
 
 
-GOTO:top
-TAG:11-Territorial-States-and-the-First-Magadhan-Empire
-*11-Territorial-States-and-the-First-Magadhan-Empire*
-
 *Buddha*
   Born: 563 BC (Lumbini, Nepal)
   Sakya Clan
@@ -542,31 +538,186 @@ Suttanipata
 *Buddhist Councils*
 IMG:Buddhist-Councils.png
 
+GOTO:top
+TAG:11-Territorial-States-and-the-First-Magadhan-Empire
+*11-Territorial-States-and-the-First-Magadhan-Empire*
+
+Mahajanapada (16)
+
+*Bimbisara*
+  AKA: Shronika
+  Haryank d.
+  Comtemp. of Buddha
+  Ruled 52 yrs (544 BC - 492 BC)
+  Sent *Jivak* to Ujjain 
+
+*Ajatashatru (492-460 BC)*
+  - Rathamusala
+
+*Udayin (460-444 BC)*
+
+*Shishunagas*
+  - Ca. -> Vaishali
+
+*Nanda*
+
+*Mahapadmananda*
+  - "Sarvakshatrantak"
+  - *Ekarat* (in puranas)
+
+Puranas mentioned Mauryan empires
+  - Vishnu Puran
+  - Vayu Puran
+
+*Sohagaura Copper Plate* inscription
+  - near: Tapti river (Gorakhpur)
+
+
+*Haryanka Dynasty* (C. 544-413 BC)
+  
+  Bimbisara (AKA Seniya, 544-493 BC)
+
+  Ajatashatru
+
+  Udayin (Rajgir to Patliputra)
+
+  *Nagadasaka* (last)
+
+
+*Shishunaga Dynasty*
+ 
+  Shishunaga (Patliputra to Vaishali)
+
+  Kalashok (Vaishali to Pataliputra)
+
+*Nanda Dynasty*
+  
+  Mahapadma (C. 345 - 329 BC)
+
+  Dhanananda
+
+*Maurya Dynasty*
+
+  Ch. Maurya (322-298 BC)
+
+  Bindusara (298 BC - 273 BC)
+    -> *Amitraghata*
+
+  Ashoka (273-237 BC)
+
+
+*Sunga Dynasty* (185 BC - 72 BC)
+  
+  Pushyamitra Sunga
+    -> defeated *Demetreous* (Indo-Greek)
+
+  Agnimitra
+    -> "Malvikagnimitram"
+
+  Vasumitra
+    -> defeated Milinda (Garud Stambh, Vidisha, MP)
+
+  Devbhuti
+
+
+*Kanva Dynasty* (72 BC - 27 BC)
+  
+  Vasudeva Kanva
+
+
+*Kharvela Dynasty* (2nd Cen. BC)
+
+
+Some Imp. Offices
+
+Samharta
+  - Revenue collector
+
+Panyadhyaksha
+  - Supreme of Commerce
+
+Yukta
+  - Subordinate revenue officer
+
+Pradeshika
+  - Chief Revenue Officer
+
+Rajuka
+  - Revenue settlement officer
+
+Samshtadhyaksha
+  - Sup. of market
+
+Pauthavadhyaksha
+  - Sup. of weight & measure
+
+
+
 
 GOTO:top
 TAG:12-Iranian-and-Macedonian-Invasions
 *12-Iranian-and-Macedonian-Invasions*
 
+326 BC
+  - Alexender invasion
+  - via Khyber Pass
 
 GOTO:top
 TAG:13-State-and-Varna-Society-in-the-Age-of-the-Buddha
 *13-State-and-Varna-Society-in-the-Age-of-the-Buddha*
 
+*Sulvasutra*
+  - Measurement
 
 GOTO:top
 TAG:14-The-Ageo-of-the-Mauryas
 *14-The-Ageo-of-the-Mauryas*
+
+*Ashoka's Pillar Edicts*
+  
+  I : Ashoka's Principle - Protection of People
+  II : Defines Dhamma as min sins, many virtures
+  III : Abolishes sins - cruelty, anger etc
+  IV : Duties of Rajukas
+  V : List of animals not to kill
+  VI : Dhamma Policy
+  VII : Works done by Ashoka for Dhamma Policy
+
 
 
 GOTO:top
 TAG:15-Significance-of-the-Maurya-Rule
 *15-Significance-of-the-Maurya-Rule*
 
+Pana
+  - Silver coin
+  - 3/4th of tola
+
+Bull Capital -> Rampurva
 
 GOTO:top
 TAG:16-Central-Asian-Contacts-and-Their-Results
 *16-Central-Asian-Contacts-and-Their-Results*
 
+Menander (165-145 BC)
+  AKA : Milinda
+  Indo-Greek ruler
+  Capital : Sialkot
+
+
+Sakas
+  - Founder: Maues (AKA Moga)
+  - Famous ruler: *Kanishk* (started Saka era)
+  - Last ruler: Rudrasimha III
+
+*Rudradaman I* (AD 130-150)
+  - Saka ruler
+  - *Sudarshan lake*
+
+Junagarh inscription
+  - Rudradaman
+  - Kathiawar
+  - AD 150
 
 GOTO:top
 TAG:17-The-Age-of-the-Satavahanas
