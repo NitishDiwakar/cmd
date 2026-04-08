@@ -4,6 +4,9 @@ Tags        : #noview #nomail
 Description :
 =================================
 
+TAG:top
+GOTO:sea-and-border
+
 Shivasamudram waterfall
   - Kaveri river
 
@@ -54,4 +57,53 @@ Aravalli
 
 Total time zones of world
   - 24
+
+
+TAG:sea-and-border
+*Sea-and-border*
+
+*CASPEAN Sea*
+  TARIK
+
+  T: Turkmenistan
+  A: Azerbaizan
+  R: Russia
+  I: Iran
+  K: Kazakhstan
+
+
+*Red Sea*
+  SEEDSY
+
+  S: Sudan
+  E: Egypt
+  E: Eriteria
+  D: Djibouti
+  S: Saudi Arabia
+  Y: Yemen
+
+*Black Sea*
+  BuRGUR-Tea
+
+  B: Bulgaria
+  R: Romania
+  G: Georgia
+  U: Ukraine
+  R: Russia
+  T: Turkey
+
+*Baltic Sea*
+  RuDe Germany SELL Poland & Finland
+
+  Ru: Russia
+  De: Denmark
+  Germany
+  S: Sweden
+  E: Estonia
+  L: Latvia
+  L: Lithuania
+  Poland
+  Finland
+
+
 
