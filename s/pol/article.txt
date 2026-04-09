@@ -302,9 +302,9 @@ Art. 241
    F Disqualification
    G Powers
    H Taxes
-   I Finance Commission
+   I *Finance Commission*
    J Audit
-   K Elections
+   K *Elections*
 
    L Application to UT
    M Not apply to certain areas
@@ -316,7 +316,7 @@ Art. 243P
 
      Q Constitution
      R Composition
-     T Reservation
+     T *Reservation*
      U Duration
      V Disqualification
      W Powers

@@ -22,8 +22,9 @@ Descr :
 6ᵗʰ (1956)
   - Inter-state trade - Union list
 
-7ᵗʰ (1956)
+*7ᵗʰ (1956)*
   - Abolished the existing classification of states - A, B, C, D
+  - Governor: more than 1 state
 
 8ᵗʰ (1960)
   - Extended reservation
@@ -39,7 +40,7 @@ ____________________
 11ᵗʰ (1961)
   - Changed election procedure of vice president
 
-12ᵗʰ (1962)
+*12ᵗʰ (1962)*
   - Goa, Daman & Diu
 
 13ᵗʰ (1962)
@@ -52,7 +53,8 @@ ____________________
   - HC to issue writs outside; Legislature council in UT of HP, Manipur, Tripura, Goa, Daman and Diu, Puducherry
 
 16ᵗʰ (1963)
-  - State to impose restr on FOS; Included sovereignty and integrity in oaths
+  - State to impose restr on Freedom of Speech
+  - Included sovereignty and integrity in oaths
 
 17ᵗʰ (1964)
   - Acq of land - fair compensation
@@ -60,7 +62,7 @@ ____________________
 18ᵗʰ (1966)
   - Parliament can made new state - joining two states
 
-19ᵗʰ (1966)
+*19ᵗʰ (1966)*
   - Abolished the system of Election tribunals, HC now on
 
 20ᵗʰ (1966)
@@ -83,7 +85,7 @@ ____________________
 25ᵗʰ (1971)
   - Curtailed FR to property
 
-26ᵗʰ (1971)
+*26ᵗʰ (1971)*
   - Abolished privy purse
 
 27ᵗʰ (1971)
@@ -100,7 +102,7 @@ ____________________
 
 ____________________
 
-31ˢᵗ (1972)
+*31ˢᵗ (1972)*
   - Increased LS seats from 525 to 545
 
 32ⁿᵈ (1973)
@@ -122,10 +124,12 @@ ____________________
   - Legislative aseembly and council of ministers for UT of Arunachal Pradesh
 
 38ᵗʰ (1975)
-  - Declaration of Emergency -> non justiciable; Ordinances by President, governor -> non justiciable
+  - Declaration of Emergency -> non justiciable
+  - Ordinances by President, governor -> non justiciable
 
 39ᵗʰ (1975)
   - Election dispute of PM, President, Vice president, Speaker -> non justiciable
+
 40ᵗʰ (1976)
   - EEZ
 
@@ -141,7 +145,8 @@ ____________________
   - Restored judicial review
 
 44ᵗʰ (1978)
-  - Fixed many of 42nd; Restored original term of LS to 5 years
+  - Fixed many of 42nd
+  - Restored original term of LS to 5 years
 
 45ᵗʰ (1980)
   - Extended reservation
@@ -180,13 +185,13 @@ ____________________
 55ᵗʰ (1986)
   - Spl provisions for Arunachal - Assembly strength = 30
 
-56ᵗʰ (1987)
+*56ᵗʰ (1987)*
   - Goa: Assembly strength -> *30* members
 
 57ᵗʰ (1987)
   - Reserved seats for STs in LA of Arunachal, Meghalaya, Mixoram and Nagaland
 
-58ᵗʰ (1987)
+*58ᵗʰ (1987)*
   - Authorative texts of Const. in *Hindi*
 
 59ᵗʰ (1988)
@@ -198,7 +203,7 @@ ____________________
 
 ____________________
 
-61ˢᵗ (1989)
+*61ˢᵗ (1989)*
   - Voting age ↓ (21 to 18)
 
 62ⁿᵈ (1989)
@@ -223,7 +228,7 @@ ____________________
 68ᵗʰ (1991)
   - Punjab emergency rel.
 
-69ᵗʰ (1991)
+*69ᵗʰ (1991)*
   - Special status to UT of Delhi
   - *National Capital Territory of Delhi*
   - 70 mem LA and 7 member council of ministers
@@ -234,8 +239,8 @@ ____________________
 
 ____________________
 
-71ˢᵗ (1992)
-  - +3 languages in 8th schedule (inc to 18)
+*71ˢᵗ (1992)*
+  - +3 languages in 8th schedule (↑ to 18)
     - Konkani
     - Manipuri
     - Nepali
@@ -315,7 +320,7 @@ ____________________
 
 ____________________
 
-91ˢᵗ (2003)
+*91ˢᵗ (2003)*
   - Limit the size of council of ministers
   - 15% of total strength of LS 
   - In states
@@ -324,7 +329,7 @@ ____________________
   - Exemption in 10th Sch.
     - split of one-third
 
-92ⁿᵈ (2003)
+*92ⁿᵈ (2003)*
   - Bodo
   - Dogri
   - Maithili

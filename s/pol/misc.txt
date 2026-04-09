@@ -4,6 +4,9 @@ Tags  : #
 Descr : 
 ============================
 
+TAG:top
+GOTO:Panchayati-Raj-Committees
+
 Delimition Com. 2008
   - Gen: 412
   - SC : 84
@@ -11,4 +14,26 @@ Delimition Com. 2008
 
 State funding of elections takes place in
   - Austria, Germany, Canada, France, Israel, Norway, Japan, Sweden
+
+
+TAG:Panchayati-Raj-Committees
+*Panchayati-Raj-Committees*
+
+Balwant Rai Mehta Com. (1957)
+
+Ashok Mehjta Com. (1977)
+
+Dantewala Com. (1978)
+
+Hanumanth Rao Com. (1984)
+
+G.V.K. Rao Com. (1985)
+
+L.M. Singhvi Com. (1986)
+
+Thungon Com. (1988)
+
+Gadgil Com. (1988)
+
+
 

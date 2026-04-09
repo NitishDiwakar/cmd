@@ -8,15 +8,17 @@ Descr :
 Attorney General
   - Art. 76
 
-EC
+Election Commision
   - Art. 324
+  - Term: 6 year or 65 year
+  - Qualification: not mentioned in constitution
 
 
 UPSC
   - Art. 315-323
 
 
-CAG
+*CAG*
   - CAG, under Article 148 of the Indian Constitution, is the watchdog
       of public finance, ensuring transparency and accountability in
       government expenditure
@@ -24,7 +26,7 @@ CAG
   - Auditor of Union and states
   Appt method:
     - App by president
-    - 6 years or till 65 years of age
+    - *6 years or till 65 years* of age
     - Removal via impeachment
 
 
@@ -33,8 +35,8 @@ GST
 
 
 FC
-  - The Finance Commission is a constitutional body under Article 280,
-      established to recommend fiscal arrangements between the Union
+  - The Finance Commission is a constitutional body under *Article 280*,
+  - established to recommend fiscal arrangements between the Union
       and States for a fixed period
   Appt method:
     - President appoints
@@ -55,12 +57,7 @@ NCBC
 
 
 Special officer for Linguistic minorities
-  - Art. 350-B
-
-
-Attorney General of India
-  - Art. 76
-
+  - *Art. 350-B*
 
 Advocate General of the state
-  - 165
+  - Art. 165
