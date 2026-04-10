@@ -25,7 +25,35 @@ ratio 3: 5: 7, the price of the costliest item is:
 Q2. A boat takes 90 minutes to go 49.2 km upstream. The ratio of the speed of the boat in still water to that of the stream is 3 : 2. How much total time (in hours) will the boat take to go 44.8 km upstream and 71.2 km downstream? #revisit
 
 
-Q3. Yashika buys 6 apples and 6 mangoes for ₹216. When the cost of an apple is decreased by 30% and that of a mango remains the same, then the cost of 5 a apples and 8 mangoes is ₹162. What is the original cost of 7 apples and 2 mangoes? #revisit
+*Q3.* Yashika buys 6 apples and 6 mangoes for ₹216. When the cost of an apple is decreased by 30% and that of a mango remains the same, then the cost of 5 a apples and 8 mangoes is ₹162. What is the original cost of 7 apples and 2 mangoes? 
+  [Hint:
+  6A+6M=216
+  A+M=36 --Eq. 1
+
+  Apply price change
+  5(0.7A)+8M=162
+  3.5A+8M=162 --Eq. 2
+
+  From Eq. 1
+  A=36−M
+
+  Putting this is Eq. 2
+  3.5(36-M) + 8M = 162
+  126- 3.5M + 8M = 162
+
+  126+4.5M=162
+
+  4.5M = 162 - 126
+  M = 8
+  Then, 
+  A = 36-8
+  28
+
+  Required Value
+  7A+2M
+  7(28)+2(8)
+  196+16
+  212 #revise ]
 
 
 Q15. Selling price of a bat is ₹1144 and profit percentage is 30 percent. If selling price is ₹704, then what will be the loss percentage?
@@ -38,13 +66,25 @@ Q15. Selling price of a bat is ₹1144 and profit percentage is 30 percent. If s
 Q19. A certain sum (in) is divided between A, B and C such that the ratio ot shares ot : A and B is 3/1 that of B and C is 5: 3 and that of C and D is also 5: 3. lf the difference between the shares of B and D is ₹1,280 then what is the difference (in) of shares of A and C? #revisit
 
 
-Q20. A can complete a certain work in 36 days. B is 33% less efficient than A and C is 50% less efficient than B. All the three started the work together, but A left 9 days after the start of the work and B left 3 days before the completion of the work. In how many days was the whole work completed? #revisit
+Q20. A can complete a certain work in 36 days. B is 33% less efficient than A and C is 50% less efficient than B. All the three started the work together, but A left 9 days after the start of the work and B left 3 days before the completion of the work. In how many days was the whole work completed? 
+  [Hint:
+  A -> 36 days
+  B -> 54 days (18 x 3)
+  C -> 108 days 
+ 
+  LCM -> 108
+
+  Ratio (A:B:C), 
+  3:2:1
+
+  27 + (2T - 6) + T = 108
+  29 #revisit ]
 
 
 Q21. Let x be the least number of 5 digits, which when divided by 28, 40, 42 and 48, leaves remainder 6 in each case and x is divisible by 246. What is the sum of the digits ofx? #revisit
 
 
-Q23. A salt and water mixture, of which 7.5% is salt, costs 22. 50 per litre. Another salt and water mixture, of which 17. 5% is salt, costs z per litre. If the cost of twelve litres of a salt and water mixture, of which 22.5% is salt, is 450, find the value of Z. #revisit
+Q23. A salt and water mixture, of which 7.5% is salt, costs 22.50 per litre. Another salt and water mixture, of which 17.5% is salt, costs z per litre. If the cost of twelve litres of a salt and water mixture, of which 22.5% is salt, is 450, find the value of Z. #revisit
 
 
 Q25. A shopkeeper buys three varieties of pulses at Rs 132, Rs 160 and Rs 192 per kg respectively and mixes them in the ratio 9:2:1. The marked price per kg of the blended pulses is fixed at Rs 238, the shopkeeper gives a discount equal to 1/n of the marked price and still earns a profit of 40%. What is the value of n? #revisit
@@ -165,10 +205,10 @@ Q79. On selling a stool for ₹8,378, the value of gain is 20% more than the val
   [Hint: Butterfly concept]
 
 
-Q83. A right triangle with sides 56 cm, 42 cm and 70 cm is rotated about the side of 56 cm to form a cone. The total surface area (in cm2 ) of the cone so formed is:
+Q83. A right triangle with sides 56 cm, 42 cm and 70 cm is rotated about the side of 56 cm to form a cone. The total surface area (in cm^2 ) of the cone so formed is:
 
 
-Q86. A trader lost 5% by selling a shirt for ₹950. He will gain x% by selling it for ₹1,350. The value of x is:
+Q86. A trader lost 5% by selling a shirt for ₹950. He will gain x% by selling it for ₹1,350. The value of x is: (Ans: 35%)
 
 
 Q88. One pipe can fill the tank in 18 minutes while another pipe can empty the completely filled tank in 19 minutes. If both the pipes are operated together on empty tank, how long (in minutes) willit take to fil one-third of the tank?
@@ -196,7 +236,7 @@ Q89. Daksh travels 445 km at 89 km/hr, the next 495 km at 55 km/hr and the next 
   Total distance = 445 + 495 + 250 = 1190 km  
   Total time = 5 + 9 + 5 = 19 hr
 
-  Average speed
+  *Average speed* #revise
   1190 / 19 = 62.63 km/hr #revise ]
 
 
