@@ -292,6 +292,9 @@ Art. 213
 Art. 214
   - High courts
 
+Art. 231
+  - Power to establish a common High Court for two or more states
+
 Art. 239
   - UT administration
 Art. 241
@@ -397,7 +400,7 @@ Art. 360
   - Financial emergency
 
 
-Art. 371
+*Art. 371*
   A - Nagaland
   B - Assam
   C - Manipur
