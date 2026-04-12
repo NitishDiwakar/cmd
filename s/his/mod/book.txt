@@ -6,6 +6,7 @@ Descr : From Spectrum, GC,
 
 TAG:top
 GOTO:Books-Writer-Wise
+GOTO:Ghatnachakra
 
 Bengal Gazette (1780)
   - James Augustus Hicky (Irishman)
@@ -23,7 +24,7 @@ Calcutta Journal (1818)
 Bengal Gazette - Bengali newspaper (1818)
   - Harishchandra Ray
 
-Sambad Kaumudi (1821)
+*Sambad Kaumudi* (1821)
   - Raja Rammohan Roy
 
 Mirat-ul-Akbar (1822)
@@ -33,7 +34,7 @@ Banga-Duta (1822)
   - Raja Rammohan Roy
   - Dwarkanath Tagore
 
-East Indian (1825)
+*East Indian* (1825)
   - Henry Vivian Derozio
 
 Bombay Times (1838)
@@ -43,7 +44,7 @@ Bombay Times (1838)
 Rast Goftar (1851)
   - Dadabhai Naoroji
 
-Hindu Patriot (1853)
+*Hindu Patriot* (1853)
   - Girish Chandra Ghosh
   - Harish Chandra Mukherjee
 
@@ -58,7 +59,7 @@ Bengalee; Amrita Bazar Patrika (1862)
   - Girishchandra Ghosh
   - S.N. Banerjea (takenover in 1879)
 
-National Paper (1865)
+*National Paper* (1865)
   - Devendranath Tagore
 
 Amtrita Bazar Patrika (1868)
@@ -88,7 +89,7 @@ Maharatta (1881)
   - English, weekly
   - Tilak, Chiplunkar, Agarkar
 
-Swadeshmitram
+*Swadeshmitram*
   - G.S. Aiyar
 
 Paridasak (1886)
@@ -110,7 +111,7 @@ Bande Mataram (Paris)
 Talvar (Berlin)
   - Virendranath Chattopadhyaya
 
-Free Hindustan (Vancouver)
+*Free Hindustan* (Vancouver)
   - Tarak Nath Das
 
 Ghadr (San Franciso)
@@ -134,7 +135,7 @@ Leader
 Kirti (1926, Punjab)
   - Santosh Singh
 
-Kudi Arasu (1910, Tamil)
+*Kudi Arasu* (1910, Tamil)
   - E.V. Ramaswamy Naicker (Periyar)
 
 Kranti (1927, MH)
@@ -155,6 +156,8 @@ National Herald (1938)
 
 GOTO:TOP
 _______________
+TAG:Ghatnachakra
+*Ghatnachakra*
 
 New India
   - Ani Besant
@@ -168,13 +171,13 @@ India Wins Freedom
 Durgesh Nandini
   - Bankimchandra Chatarjee
 
-The Man Who Divided India
+*The Man Who Divided India*
   - Rafik Zakaria
 
 The Story of My Deportation
   - Lala Lajpat Rai
 
-A Nation in Making
+*A Nation in Making*
   - Surendranath Banerjee
 
 Hindu Polity
@@ -183,13 +186,13 @@ Hindu Polity
 *The Wonder That Was India*
   - A.L. Basham
 
-An Introduction tto The Study of Indian History
+An Introduction to The Study of Indian History
   - D.D. Koshambi
 
 The Early History of India
   - Winset Arthor Smith
 
-New Lamps for the Old
+*New Lamps for the Old*
   - Aurbindo Ghosh
 
 Indian Unrest
@@ -220,7 +223,7 @@ History of the Freedom Movement in India
 The Indian Musalmans
   - W.W. Hunter
 
-Awadh in Revolt
+*Awadh in Revolt*
   - Rudranshu Mukharjee
 
 The Sepoy Mutiny and the Rovolt of 1857
@@ -232,18 +235,18 @@ The Great Rebelion
 Civil Rebilion in the Indian Mutinies
   - S.B. Choudhary
 
-Eighteen Fifty-Seven
+*Eighteen Fifty-Seven*
   - S.N. Sen
 
 The Peasants and The Raj
   - Erik Stokes
 
-Tehjib-Ul-Akhlakh (Civilization and Morality)
+*Tehjib-Ul-Akhlakh* (Civilization and Morality)
   - Saiyyad Ahmed Khan
 
 Springing Tiger
   - Biography of Subhash Chandra Bose
-  - Hugh Toy
+  - *Hugh Toy*
 
 Introduction to Dreamland
   - Bhagat Singh
@@ -263,13 +266,13 @@ Jawarlal Nehru - A Biography
 India Divided
   - Dr. Rajendra Prasad
 
-Bangabasi
+*Bangabasi*
   - Jogendra Nath Bose
 
 The Great Divide
   - H.V. Hudson
 
-The Guilty Men of Indias Partition
+*The Guilty Men of Indias Partition*
   - Ram Manohar Lohia
 
 Captive Lady
@@ -293,7 +296,7 @@ Nibandhmala (1874)
 Saadhna
   - Rabindranath Tagore
 
-Jhanda geet
+*Jhanda geet*
   - Shyamlal Parshad
 
 "Ai mere watan ke logo.."
@@ -315,7 +318,7 @@ Discovery of India
   - Jawaharlal Nehru 
   - in Ahmednagar Fort Jail
 
-Mother India
+*Mother India*
   - Lady Catherin Mayo
 
 Freedom at Midnight
@@ -327,13 +330,13 @@ Mountbatten and Partition of India
 Journey through the Kingdom of Awadh in the year 1849-50
   - W.H. Sleeman
 
-Planned Economy of India
+*Planned Economy of India*
   - M. Wishweshwaraiya
 
 The Routes of Ancient India
   - W.A. Fareservice
 
-Bharat ki Dusri Swatantrata
+*Bharat ki Dusri Swatantrata*
   - M.G. Devasahayam 
   - about JP movement
 
@@ -352,7 +355,7 @@ The Proudest Day
 Show Business
   - Shashi Tharoor
 
-Jhopdi Se Rashtrapati Bhawan Tak
+*Jhopdi Se Rashtrapati Bhawan Tak*
   - Mahendra Kulshreshtha
   - about APJ Abdul Kalam
 
@@ -368,7 +371,7 @@ Price of Partition
 India 2020
   - APJ Abdul Kalam
 
-Pathology of Corruption
+*Pathology of Corruption*
   - S.S. Gill
 
 The God of Small Things
@@ -377,13 +380,13 @@ The God of Small Things
 *India from Curzon to Nehru*
   - Durga Das
 
-Gandhian Constitution for Free India
+*Gandhian Constitution for Free India*
   - Shriman Narayan Agrawal
 
 Geographical Factors in Indian History
   - K.M. Panikkar
 
-New Dimensions of India's Foreign Policy
+*New Dimensions of India's Foreign Policy* (1979)
   - Atal Bihari Vajpayee
 
 Ignited Minds

@@ -6,8 +6,9 @@ Descr :
 
 
 1st
+  - 1885
   - Bombay
-  - WC Banerjee
+  - *WC Banerjee*
 
 2nd
   - Calcutta
@@ -15,20 +16,34 @@ Descr :
 
 3rd
   - Madras
-  - Badruddin
+  - *Badruddin*
 
 4th
   - Allahabad
   - George Yule
 
 
-
 5th
-
+  - 1889
+  - Bombay
+  - President: William Wedderburn
 
 6th
+  - 1890
+  - Calcutta
+  - Feroz Shah Mehta
 
+*27th*
+  - 1912
+  - Bankipur, Bihar
+  - President: Rao Bahadur Raghunath Narasinha Mudholkar
 
 37th
+  - 1922
   - Gaya, Bihar
   - Chittaranjan Das
+
+53rd
+  - 1940
+  - Ramgarh
+  - President: Maulana Abul Kalam Azad

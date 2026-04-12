@@ -37,7 +37,7 @@ Descr :
 
 
 [Viceory]
-1. Caning (1858-62)
+1. Canning (1858-62)
 
 2. Elgin I (1862-63)
 
@@ -61,7 +61,7 @@ Descr :
 
 12. Minto II (1905-10)
 
-13. Hardinge (1910-16)
+13.  *Hardinge* (1910-16)
 
 14. Chemsford (1916-21)
 

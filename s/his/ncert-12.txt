@@ -441,7 +441,7 @@ c.1200-1300
 c.1300-1400
   - Establishment of the Vijayanagara Empire (1336?)
   - Establishment of the Bahmani kingdom (1347)
-  - Sultanates in Jaunpur, Kashmir and Madura
+  - Sultanates in Jaunpur, Kashmir and Madurai
 
 c.1400-1500
   - Establishment of the Gajapati kingdom of Orissa (1435)
@@ -531,25 +531,25 @@ c.1530
   - Manuscript of Babur’s memoirs in Turkish – saved from a storm – becomes part of the family collection of the Timurids
 
 c.1587
-  - Gulbadan Begum begins to write the Humayun Nama
+  - *Gulbadan Begum* begins to write the *Humayun Nama*
 
 1589
   - Babur’s memoirs translated into Persian as Babur Nama
 
 1589-1602
-  - Abu’l Fazl works on the Akbar Nama
+  - *Abu’l Fazl* works on the *Akbar Nama*
 
 1605-22
   - Jahangir writes his memoirs, the Jahangir Nama
 
 1639-47
-  - Lahori composes the first two daftars of the Badshah Nama
+  - *Abdul Hamid Lahori* composes the first two daftars of the *Badshah Nama*
 
 c.1650
-  - Muhammad Waris begins to chronicle the third decade of Shah Jahan’s reign
+  - *Muhammad Waris* begins to chronicle the third decade of Shah Jahan’s reign (Badshahnama)
 
 1668
-  - Alamgir Nama, a history of the first ten years of Aurangzeb’s reign compiled by Muhammmad Kazim
+  - *Alamgir Nama*, a history of the first ten years of Aurangzeb’s reign compiled by *Muhammmad Kazim*
  
 
 
@@ -566,7 +566,7 @@ Timeline
   - Regulating Act passed by the British Parliament to regulate the activities of the East India Company
 
 1793
-  - Permanent Settlement in Bengal
+  - Permanent Settlement in Bengal (Cornwallis)
 
 1800s
   - Santhals begin to come to the Rajmahal hills and settle there
@@ -600,10 +600,11 @@ IMG:territories-under-British-control.png
 Timeline
 
 1801
-  - Subsidiary Alliance introduced by Wellesley in Awadh
+  - *Subsidiary Alliance* introduced by *Wellesley* in *Awadh*
 
-1856
-  - Nawab Wajid Ali Shah deposed; Awadh annexed
+*1856*
+  - Nawab Wajid Ali Shah deposed
+  - Awadh annexed
 
 *1856-57*
   - Summary revenue settlements introduced in Awadh by the British
@@ -614,7 +615,8 @@ Timeline
   - Mutiny starts in Meerut
 
 11-12 May
-  - Delhi garrisons revolt; Bahadur Shah accepts nominal leadership
+  - Delhi garrisons revolt
+  - Bahadur Shah accepts nominal leadership
 
 20-27 May
   - Sepoys mutiny in Aligarh, Etawah, Mainpuri, Etah
@@ -626,10 +628,12 @@ May-June
   -  Mutiny turns into a general revolt of the people
 
 30 June
-  - British suffer defeat in the battle of Chinhat
+  - British suffer defeat in the *Battle of Chinhat*
+    -> near Ismailganj
+    -> Henry Lawrence 
 
 25 Sept
-  - British forces under Havelock and Outram enter the Residency in Lucknow
+  - British forces under *Havelock* and *Outram* enter the Residency in Lucknow
 
 July 
   - Shah Mal killed in battle
@@ -637,7 +641,7 @@ July
 *1858*
 
 June
-  - Rani Jhansi killed in battle
+  - Rani Jhansi killed in battle (*18th June*)
 
 GOTO:top
 TAG:12-Urbanization-Planning-and-Architecture
@@ -646,17 +650,24 @@ TAG:12-Urbanization-Planning-and-Architecture
 Timeline
 
 1500-1700
-  - European trading companies establish bases in India: the Portuguese in Panaji in 1510; the Dutch in Masulipatnam, 1605; the British in Madras in 1639, in Bombay in 1661, and in Calcutta in 1690; the French in Pondicherry in 1673
+  - European trading companies establish bases in India: 
+    -> Portuguese in Panaji in 1510
+    -> Dutch in Masulipatnam, 1605
+
+    -> British in Madras in 1639, in Bombay in 1661, and in Calcutta in 1690
+    -> French in Pondicherry in *1673*
 
 1757
-  - Decisive victory of the British in the Battle of Plassey
+  - Decisive victory of the British in the *Battle of Plassey*
+    -> *23rd June* 1757
+    -> Clive Lyod Vs Siraj-ud-Daulah
   - the British become rulers of Bengal
 
 1773
   - Supreme Court set up in Calcutta by the East India Company
 
 1784
-  - Asiatic Society founded by Sir William Jones
+  - *Asiatic Society* founded by Sir William Jones
 
 1793
   - Cornwallis Code enacted
@@ -665,7 +676,7 @@ Timeline
   - L. *Wellesley’s Minute* on Calcutta town improvement
 
 1818
-  - British takeover of the Deccan; 
+  - British takeover of the Deccan
   - Bombay becomes the capital of the new province
 
 1853
@@ -678,7 +689,7 @@ Timeline
 1870s
   - Beginning of elected representatives in municipalities
 
-1881
+*1881*
   - Madras harbour completed
 
 1896
@@ -696,8 +707,8 @@ TAG:13-Civil-Disobedience-and-Beyond
 
 Timeline
 
-1915
-  - Mahatma Gandhi returns from South Africa
+*1915*
+  - Mahatma Gandhi returns from South Africa (9th Jan.)
 
 1917
   - Champaran movement
@@ -709,7 +720,7 @@ Timeline
   - Rowlatt Satyagraha (March-April)
 
 1919
-  - Jallianwala Bagh massacre (April)
+  - Jallianwala Bagh massacre (13th April)
 
 1921
   - Non-cooperation and Khilafat Movements
@@ -717,14 +728,16 @@ Timeline
 1928
   - Peasant movement in Bardoli
 
-1929
+1929 (26th Jan.)
   - “Purna Swaraj” accepted as Congress goal at the Lahore Congress (December)
 
 1930
-  - Civil Disobedience Movement begins; Dandi March (March-April)
+  - Civil Disobedience Movement begins
+  - Dandi March (12th March- 6th April)
 
 1931
-  - Gandhi-Irwin Pact (March); Second Round Table Conference (December) 
+  - Gandhi-Irwin Pact (March)
+  - Second Round Table Conference (December) 
 
 1935
   - Government of India Act promises some form of representative government
@@ -749,10 +762,10 @@ Timeline
   - The Urdu poet Mohammad Iqbal speaks of the need for a “North-West Indian Muslim state” as an autonomous unit within a single, loose Indian federation
 
 1933
-  - The name Pakistan or Pak-stan is coined by a Punjabi Muslim student at Cambridge, Choudhry Rehmat Ali
+  - The name Pakistan or Pak-stan is coined by a Punjabi Muslim student at Cambridge, *Choudhry Rehmat Ali*
 
 1937-39
-  - Congress ministries come to power in seven out of 11 provinces of British India
+  - Congress ministries come to power in *7 out of 11* provinces of British India
 
 1940
   - The Muslim League moves a resolution at Lahore demanding a measure of autonomy for the Muslim-majority areas
@@ -786,7 +799,7 @@ Timeline
 *1945*
 
 26 July 
-  - Labour Government comes into power in Britain
+  - *Labour Government* comes into power in Britain
 
 December-January
   - General Elections in India
@@ -804,7 +817,7 @@ December-January
 16 August
   - Muslim League announces Direct Action Day
 
-2 September
+*2 September*
   - Congress forms Interim Government with Nehru as the Vice-President
 
 13 October
@@ -813,7 +826,7 @@ December-January
 3-6 December
   - British Prime Minister, Attlee, meets some Indian leaders; talks fail
 
-9 December
+*9 December*
   - Constituent Assembly begins its sessions
 
 
