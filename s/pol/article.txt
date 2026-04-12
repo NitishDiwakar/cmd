@@ -77,8 +77,10 @@ Art. 24
 Art. 29
   - Protection of interests of minorities
 
-Art. 32
+*Art. 32*
   - Remedies for enforcement of rights
+  - Supreme Court oas protector of FR
+  
 Art. 33
   - (a) Members of armed forces
   - (b) Forces maintaining public order
@@ -281,6 +283,9 @@ Art. 169
 
 *Art. 176*
   - Governor to address Assembly
+
+Art. 194
+  - Legislative privileges of a mem ber of House of State legislature
 
 Art. 213
   - Governor ordinance
