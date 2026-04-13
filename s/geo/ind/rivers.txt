@@ -17,3 +17,12 @@ Jhelum
 
 Mahananda
   - Mechi
+
+Brahmaputra
+  - Teesta
+
+Narmada
+  - Hiran
+
+Tapti 
+  - Purna

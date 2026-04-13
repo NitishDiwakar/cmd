@@ -14,10 +14,12 @@ Torres Strati
   - Australia & Papua New Guina
 
 Malacca Strait
-  - Andaman Sea (Indian Ocean) and the South China Sea (Pacific Ocean)
+  - Andaman Sea (Indian Ocean) and the South China Sea (Pacific Ocean)\
+  - between Malaysia and Sumatra
 
 Sunda Strait (Indonesia)
   - Java Sea & Indian Ocean
+  - between Java & Sumatra
 
 *Yucatan Strait*
   - Gulf of Mexico and Caribbean Sea
@@ -63,6 +65,9 @@ Dover strait (England-France)
 
 Florida Strait
   - Gulf of Mexico & Atlantic Ocean
+
+*Makassar strait*
+  - Island of Borneo and Sulavesi (in Indonesia)
 
 
 LINK:https://lotusarise.com/major-straits-of-the-world-upsc

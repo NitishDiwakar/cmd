@@ -40,5 +40,11 @@ Gadgil Com. (1988)
 Elected unopposed as vice president of India
   - Md Hidayatullah
 
-
-
+No of RS seats - state wise
+  
+  Bihar: 16
+  West Bengal: 16
+  UP: 31
+  Maharashtra: 19
+  Tamil Nadu: 18
+  Chhatisgarh: 5

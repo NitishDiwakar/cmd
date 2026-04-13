@@ -4,7 +4,7 @@ Tags  : #
 Descr :
 ============================
 TAG:top
-// For international summits see ir/summit.txt
+// For international summits see misc/ir/summit.txt
 
 9th Global Technology Summit 2025 (April)
   - New Delhi
@@ -35,6 +35,10 @@ TAG:top
 
 The India AI Impact Summit 2026 conveyed a powerful message: India is not merely adabpting to the revolution, it is actively shaping it.
 ___________________________________________
+
+3rd Central Asian Youth Delegation 
+  - India hosted
+  - 22 to 28 March
 
 SEMICON India Conference 2024
   - Greater Noida, Uttar Pradesh (11-13 Septemebr, 2024)
