@@ -51,4 +51,5 @@ Q6. A right circular cylinder of height 10 cm is formed by folding a rectangular
 
 
 
-
+Find two numbers when lcm, hcf and n1 is given
+  n2 = (LCM x HCF) / 2

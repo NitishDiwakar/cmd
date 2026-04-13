@@ -32,3 +32,8 @@ TAG:Area
 IMG:area-fundamental-concept-p1.png
 
 IMG:area-fundamental-concept-p2.png
+
+
+Perimeter of rhombus when diagonals are given:
+IMG:perimeter-of-rhombous.png
+

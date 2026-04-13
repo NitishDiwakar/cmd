@@ -560,7 +560,13 @@ Q1. March 1, 2008 was Saturday. Which day was it on March 1, 2002? [2008]
 GOTO:top
 TAG:28-clocks
 *28-Clocks*
-1. When it is 25 past 4 on the clock, the angle between its minute hand and hour hand is: (ASO Mains)
+
+8. A clock is set right at 5 a.m.. It gains 10 minutes in 24 hours. What will be the right time when the clock indicates 10 a.m. on the next day?
+  [Hint: 
+  24 hr = 1440 minutes
+  1440 : 1430 ]
+
+7. When it is 25 past 4 on the clock, the angle between its minute hand and hour hand is: (ASO Mains)
 
 (A) 17.5° ✔
 (B) 13.5°
@@ -572,12 +578,12 @@ TAG:28-clocks
   -> 120 +- 137.5
   -> 17.5
 
-Q2. The number of times in a day the Hour-hand and the Minute hand of a clock are at right angles, is [1997, UPSC]
+Q6. The number of times in a day the Hour-hand and the Minute hand of a clock are at right angles, is [1997, UPSC]
 
  (a) 44 (b) 48 ✔ (c) 24 (d)12
 
 
-Q3. An accurate clock shows the time as 3.00. After hour hand has moved 135°, the time would be [1998, UPSC]
+Q5. An accurate clock shows the time as 3.00. After hour hand has moved 135°, the time would be [1998, UPSC]
 
  (a) 7.30 ✔ (b)6. 30 (c) 8.00 (d)9.30
 
@@ -587,18 +593,18 @@ Q4. An accurate clock shows 8 o' clock in the morning. Throughout how many degre
  (a) 150° (b)144° (c) 168° (d)180° ✔
 
 
-Q5. When the time in the wall-clock is 3.25 p.m., the acute angle between the hours-hand and the minutes-hand is [2002]
+Q3. When the time in the wall-clock is 3.25 p.m., the acute angle between the hours-hand and the minutes-hand is [2002]
 
  (a) 60° (b)52.5° (c) 47.5° ✔ (d)42°
 
 
-Q6. How many times are an hour hand and a minute hand of a clock at right angles during their motion from 1.00 p.m. to
+Q2. How many times are an hour hand and a minute hand of a clock at right angles during their motion from 1.00 p.m. to
  10.00 p.m.? [2009]
 
  (a) 9 (b) 10 (c) 18 ✔ (d) 20
 
 
-Q7. A watch loses 2 minutes in every 24 hours. while another watch gains 2 minutes in every 24 hours. At a particular instant, the two watches showed an identical time. Which of the following statements is correct if 24-hour clock is followed? [2017-II]
+Q1. A watch loses 2 minutes in every 24 hours. while another watch gains 2 minutes in every 24 hours. At a particular instant, the two watches showed an identical time. Which of the following statements is correct if 24-hour clock is followed? [2017-II]
 
  (a) The two watches show the identical time again on
  completion of 30 days.

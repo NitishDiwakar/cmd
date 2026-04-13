@@ -20,7 +20,8 @@ Vedanta Aluminium Limited
      -> Brahmaputra river
 
   3: Kottapuram - Kollam
-  4: Telangana, AP, TN
+  4: Kakinada - Puducherry
+     ->Telangana, AP, TN
      -> Godawari r.
 
 
