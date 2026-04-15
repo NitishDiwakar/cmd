@@ -864,7 +864,7 @@ Glucose is the favoured substrate for respiration. Fats and proteins can also be
 
 The initial stage of cellular respiration takes place in the cytoplasm. 
 
-Each glucose molecule is broken through a series of enzyme catalysed reactions into two molecules of pyruvic acid. This process is called glycolysis. 
+Each glucose molecule is broken through a series of enzyme catalysed reactions into two molecules of *pyruvic acid*. This process is called *glycolysis*. 
 
 The fate of the pyruvate depends on the availability of oxygen and the organism. 
 

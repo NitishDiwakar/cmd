@@ -23,36 +23,36 @@ Water image
 
 *Positional Value*
 
-A 1
-B 2
-C 3
-D 4
-E 5
+A 1   (Z 26)
+B 2   (Y 25)
+C 3   (X 24)
+D 4   (W 23)
+E 5   (V 22)
 
-F 6
-G 7
-H 8
-I 9
-J 10
+F 6   (U 21)
+G 7   (T 20)
+H 8   (S 19)
+I 9   (R 18)
+J 10  (Q 17)
 
-K 11
-L 12
-M 13
-N 14
-O 15
+K 11  (P 16)
+L 12  (O 15)
+M 13  (N 14)
+N 14  (M 13)
+O 15  (L 12)
 
-P 16
-Q 17
-R 18
-S 19
-T 20
+P 16  (K 11)
+Q 17  (J 10)
+R 18  (I 9)
+S 19  (H 8)
+T 20  (G 7)
 
-U 21
-V 22
-W 23
-X 24
-Y 25
-Z 26
+U 21  (F 6)
+V 22  (E 5)
+W 23  (D 4)
+X 24  (C 3)
+Y 25  (B 2)
+Z 26  (A 1)
 
 
 How many alphabets look same in mirror
