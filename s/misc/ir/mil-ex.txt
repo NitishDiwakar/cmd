@@ -8,7 +8,7 @@ Descr :
 Participants : India – Sri Lanka
 Venue : Colombo, Sri Lanka
 
-'Ja Mata' Exercise 2025 (Navy)
+*Ja Mata* Exercise 2025 (Navy)
 Participants : India – Japan
 Venue : Chennai Coast
 
@@ -20,9 +20,9 @@ Venue : Assam and Manipur
 Participants : Iran
 Venue : Gulf of Oman and North Indian Ocean
 
-14th 'Bold Kurukshetra' 2025 (Army)
+14th *Bold Kurukshetra* 2025 (Army)
 Participants : India – Singapore
-Venue : Jodhpur
+Venue : *Jodhpur*
 
 'Prachand Shakti' Exercise 2025 (Army)
 Participants : Indian Army
@@ -40,11 +40,11 @@ Venue : Near Mumbai, Arabian Sea
 Participants : NATO Countries
 Venue : Baltic Sea Region
 
-8th 'Shakti' Exercise 2025 (Army)
+8th *Shakti* Exercise 2025 (Army)
 Participants : India – France
 Venue : Camp Larzac, La Cavalerie, France
 
-1st 'Tiger Claw' Exercise 2025 (Army)
+1st *Tiger Claw* Exercise 2025 (Army)
 Participants : India – USA
 Venue : Multiple locations, North India
 
@@ -64,15 +64,15 @@ Venue : Teesta Field Firing Range, West Bengal
 Participants : Multinational
 Venue : UAE
 
-6th 'Dustlik' Exercise 2025 (Army)
+6th *Dustlik* Exercise 2025 (Army)
 Participants : India – Uzbekistan
 Venue : Aundh (Pune)
 
-4th 'Tiger Triumph' 2025 (Navy)
+4th *Tiger Triumph* 2025 (Navy)
 Participants : India – USA
 Venue : Visakhapatnam & Kakinada (Andhra Pradesh)
 
-14th 'Indra 2025' Exercise (Navy)
+14th *Indra 2025* Exercise (Navy)
 Participants : India – Russia
 Venue : Chennai Coast & Bay of Bengal
 
@@ -80,11 +80,11 @@ Venue : Chennai Coast & Bay of Bengal
 Participants : Indian Armies
 Venue : Arunachal Pradesh
 
-'Aikeyme' Exercise 2025 (Navy)
+*Aikeyme* Exercise 2025 (Navy)
 Participants : India – Tanzania
 Venue : Indian Ocean
 
-12th 'Khanjar' Exercise 2025 (Army)
+12th *Khanjar* Exercise 2025 (Army)
 Participants : India – Kyrgyzstan
 Venue : Bishkek, Kyrgyzstan
 
@@ -92,7 +92,7 @@ Venue : Bishkek, Kyrgyzstan
 Participants : Indian Navy
 Venue : Arabian Sea & Bay of Bengal
 
-23rd 'Varuna' Exercise 2025 (Navy)
+23rd *Varuna* Exercise 2025 (Navy)
 Participants : India – France
 Venue : Arabian Sea
 
@@ -100,7 +100,7 @@ Venue : Arabian Sea
 Participants : Multinational
 Venue : Guam Coast, Western Pacific Ocean
 
-6th 'Dharma Guardian' Exercise 2025 (Army)
+6th *Dharma Guardian* Exercise 2025 (Army)
 Participants : India – Japan
 Venue : Mount Fuji, Japan
 
@@ -108,7 +108,7 @@ Venue : Mount Fuji, Japan
 Participants : India – Egypt
 Venue : Rajasthan
 
-13th 'Ekuverin' Exercise 2025 (Navy)
+13th '*Ekuverin*' Exercise 2025 (Navy)
 Participants : India – Maldives
 Venue : Maafilafushi, Maldives
 
@@ -120,7 +120,7 @@ Venue : Saljhandi, Nepal
 Participants : India – Sri Lanka
 Venue : Visakhapatnam
 
-'Desert Knight' 2024 (Air Force)
+*Desert Knight* 2024 (Air Force)
 Participants : India – France – UAE
 Venue : Over Arabian Sea
 
@@ -136,7 +136,7 @@ Venue : Bentong Camp, Malaysia
 Participants : India – Indonesia
 Venue : Jakarta, Indonesia
 
-13th 'Agni Warrior' 2024 (Army)
+13th *Agni Warrior* 2024 (Army)
 Participants : India – Indonesia
 Venue : Maharashtra
 
