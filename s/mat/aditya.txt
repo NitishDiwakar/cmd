@@ -46,7 +46,7 @@ ______________________
 TAG:1-percentage
 *1-Percentage*
 
-*Q1.* If 35% of 60% of A is equal to 25% of 75% of B, then what is the ratio of A to B?
+*Q1.* If 35% of 60% of A is equal to 25% of 75% of B, then what is the ratio of A to B? (#revise)
 
 (a) 25 : 28 ✔
 (b) 7 : 12
@@ -63,6 +63,13 @@ Q2. If 45% of 50% of a number is 27, then what is the number?
 
 
 Q3. By how much is 60% of 75 greater than 1/5 of 25?
+  [Hint:
+  37.5 + 7.5
+  45
+  Now, question says
+  By how much is 45 is greater than 5
+  45 - 4
+  40 ]
 
 (a) 37
 (b) 38
@@ -70,7 +77,8 @@ Q3. By how much is 60% of 75 greater than 1/5 of 25?
 (d) 34
 
 
-Q4. If p% of (25 + q)% of 300 = 18% of 200 and q% of 180% of 40 = 36% of 50, then what is the value of (p – q)?
+*Q4.* If p% of (25 + q)% of 300 = 18% of 200 and q% of 180% of 40 = 36% of 50, then what is the value of (p – q)?
+  [IMG:ad-per-q3.png ]
 (a) 1
 (b) -1 ✔
 (c) 3
@@ -78,6 +86,13 @@ Q4. If p% of (25 + q)% of 300 = 18% of 200 and q% of 180% of 40 = 36% of 50, the
 
 
 Q5. If 18 toys out of 75 toys are for boys and the rest are for girls, what is the percentage of girls toys?
+  [Hint:
+  57 is x% of 75
+  x = (57 x 100) / 75
+  x = 5700 / 75
+  x = 1900 / 25
+  x = 380 / 5
+  x = 76 ]
 
 (a) 18%
 (b) 67%
@@ -93,6 +108,13 @@ Q6. If a person’s salary increases from ₹200 per day to ₹234 per day, then
 
 
 Q7. Shantanu’s income decreased from Rs 42,800 to Rs.37,236. Find the percentage decrease in his income.
+  [Hint:
+  #revise quick subtraction of
+  42,800 - 37,236
+  5564
+  x% of 42,800 = 5564
+  x = 556400 / 42800
+  #revise quick cancellation of above ]
 
 (a) 13% ✔
 (b) 14%
@@ -100,7 +122,11 @@ Q7. Shantanu’s income decreased from Rs 42,800 to Rs.37,236. Find the percenta
 (d) 12%
 
 
-Q8. Arun receives a monthly salary. The ratio of his expenditure to savings is 8 : 2. What percentage of his salary does he spend?
+*Q8.* Arun receives a monthly salary. The ratio of his expenditure to savings is 8 : 2. What percentage of his salary does he spend?
+  [Hint:
+  8x & 2x
+  Let, 800 & 200
+  Then, total = 1000 ]
 
 (a) 40%
 (b) 20%
@@ -109,6 +135,12 @@ Q8. Arun receives a monthly salary. The ratio of his expenditure to savings is 8
 
 
 Q9. Lucas's monthly income is ₹42,500. If his income increases by 18% then find his new monthly income (in ₹).
+  [Hint
+  18% = 10% + 5% + 3%
+  42,500 + 4,250 + 2125 + 1275
+  #revise mental addition of above
+  42,500 + 7,650
+  50,150 ]
 
 (a) 47,500
 (b) 48,120
@@ -117,6 +149,13 @@ Q9. Lucas's monthly income is ₹42,500. If his income increases by 18% then fin
 
 
 Q10. Ram received an annual salary of ₹ 48,580 in the year 2008. This was 25% more than his salary in 2007. What was his salary in 2007?
+  [Hint
+  125% of x = 48,580
+  x = (48,580 x 100) / 125
+  x = (48,580 x 4) / 5
+  x = 9716 x 4
+  x = 36,000 + 2800 + 64
+  x = 38,864 ]
 
 (a) ₹39,670
 (b) ₹38,864 ✔
@@ -124,27 +163,42 @@ Q10. Ram received an annual salary of ₹ 48,580 in the year 2008. This was 25% 
 (d) ₹33,864
 
 
-Q11. If 30% of Ravi's income is equal to 40% of Suresh's income, then 50% of Ravi's income is equal to what percentage of Suresh's income?
+*Q11.* If 30% of Ravi's income is equal to 40% of Suresh's income, then 50% of Ravi's income is equal to what percentage of Suresh's income?
+  [IMG:ad-per-q11.png #revise]
 
-(a) 62% ✔
+(a) 66 2/3 % ✔
 (b) 33 2/3 %
-(c) 61%
+(c) 66 1/3 %
 (d) 33 1/3 %
 
 
 Q12. If 70 is subtracted from 70% of a number, the remainder is 70. What is the number?
+  [Hint:
+  Let, number = 100x
+  70x - 70 = 70
+  70x = 140
+  x = 2
+  200 #revise ]
+
 (a) 400
 (b) 100
 (c) 300
 (d) 200 ✔
 
 
-Q13. When 50% of first number is subtracted from 80% of second number, then the resultant becomes two-fifth of first number. First number is approximately ____ % of second number.
+*Q13.* When 50% of first number is subtracted from 80% of second number, then the resultant becomes two-fifth of first number. First number is approximately ____ % of second number.
+  [Hint:
+  80y - 50x = 100x x 2/5
+  80y = 90x
+  y/x = 9/8
+
+  8/9 x 100% #revise ]
 
 (a) 88 8/9 % ✔
 (b) 77 7/9 %
 (c) 82 2/9 %
 (d) 75 5/9 %
+
 
 Q14. Two numbers are, respectively, 10% and 25% more than the third number. The ratio of the two numbers is:
 
@@ -155,19 +209,35 @@ Q14. Two numbers are, respectively, 10% and 25% more than the third number. The 
 
 
 Q15. Two numbers are respectively 61% and 35% less than a third number. The first number is what percentage of the second number?
+  [Hint:
+  39  65  100
+  x% of 65 = 39
+  x = (39 x 100) / 65
+  60 ]
+
 (a) 60% ✔
 (b) 24%
 (c) 48%
 (d) 30%
 
+
 Q16. Let x = 6/7 and let y = 1/x. y is ____ more than x.
+  [Hint:
+  y = 7/6
+  IMG:AR-per-q16.png
+  #revise ]
+
 (a) 33.66%
 (b) 33.33%
 (c) 36.66%
 (d) 36.11% ✔
 
 
-Q17. A quantity 4/5 is changed to 5/4. How much percentage change is given to the quantity?
+Q17. A quantity 4/5 is changed to 5/6. How much percentage change is given to the quantity?
+  [Hint: #revise
+  Same ratio method like above,
+  100/24
+  4.166666 ]
 
 (a) 4.73%
 (b) 4.71%
@@ -175,7 +245,11 @@ Q17. A quantity 4/5 is changed to 5/4. How much percentage change is given to th
 (d) 4.37%
 
 
-Q18. A man multiplied a number by 8 instead of 5/8. What is the percentage error in the calculation?
+Q18. A man multiplied a number by 8/5 instead of 5/8. What is the percentage error in the calculation?
+  [Hint:
+  "instead of" ke badd wala original no hota hai
+  IMG:AR-per-q18.png
+  #revise ]
 
 (a) 124%
 (b) 162%
@@ -183,7 +257,12 @@ Q18. A man multiplied a number by 8 instead of 5/8. What is the percentage error
 (d) 100%
 
 
-Q19. A pupil multiplied a figure by 3 instead of 5/3. What is the percentage error in the calculation?
+Q19. A pupil multiplied a figure by 3/5 instead of 5/3. What is the percentage error in the calculation?
+  [Hint: same as above
+  25 : 9
+  diff = 16
+  (16 x 100) / 25
+  64 ]
 
 (a) 64% ✔
 (b) 47%
@@ -192,6 +271,8 @@ Q19. A pupil multiplied a figure by 3 instead of 5/3. What is the percentage err
 
 
 Q20. If the numerator of a fraction is increased by 140% and the denominator of the fraction is decreased by 20%, the resultant fraction is 12/7. Find the original fraction.
+  [Hint:
+  IMG:AR-per-q20.png #revise ]
 
 (a) 4/9
 (b) 4/7 ✔
@@ -207,7 +288,11 @@ Q21. The salary of employees in a factory was reduced by 20% due to economic cri
 (d) 12.5%
 
 
+*AB Rule* - When one is increase by reduction other
+
 Q22. By what percentage should a racer increase the speed to reduce the time by 25% to cover a fixed distance?
+  [Hint:
+  IMG:AR-per-q22.png #revise ]
 
 (a) 33 1/3 % ✔
 (b) 37 1/3 %
@@ -216,6 +301,8 @@ Q22. By what percentage should a racer increase the speed to reduce the time by 
 
 
 Q23. If the price of rice is raised by 20%, then by what percentage should a person reduce his consumption of rice so that his expenditure remains the same? (correct to one decimal place)
+  [Hint:
+  IMG:AR-per-q23.png #revise ]
 
 (a) 14.7%
 (b) 18.7%
@@ -317,6 +404,30 @@ TAG:2-percentage
 *2-Percentage*
 
 1. Ravi's salary was increased by 50%. After some time, his new salary was also increased by 50%. Find his gain percentage of salary.
+  [Hint: #revise
+  Ratio method
+  IMG:AR-lec2-q1.png  
+
+  Successive formula
+  IMG:AR-lec2-q1-m2.png 
+
+  *Special trick* (if both increase):
+  +6%, +3%
+  9.18% (add, mul.) #revise
+
+  +7%, +4%
+  11.28%
+
+  +5%, +1%
+  6.05 (not 6.50) #revise
+
+  +20%, +10%
+  30.200
+  32.00 (transfer 2) #revise
+
+  +30%, +20%
+  50.600
+  56% ]
 
 (a) 125% ✔
 (b) 100%
@@ -324,7 +435,22 @@ TAG:2-percentage
 (d) 150%
 
 
-2. If each side of a cube is decreased by 12%, then the percentage decrease in its total surface area is:
+*2.* If each side of a cube is decreased by 12%, then the percentage decrease in its total surface area is:
+  [Hint:
+  if, Area(2D) -> 2 times
+  Volume(3D) -> 3 times
+
+  -12%, -12%
+
+  Use formula
+  -12 -12 + (12 x 12 / 100)
+  -24 + 1.44
+  -22.56 (minus 2, then 56)
+
+  Tip: -12 -12 = -24
+  add anything to -24, it will less than it,
+  then go by option
+  #revise ]
 
 (a) 25.66%
 (b) 28.23%
@@ -333,6 +459,15 @@ TAG:2-percentage
 
 
 3. A number is increased by 25% and then decreased by 16%. By what percentage is the resulting number less than/more than the original number?
+  [Hint:
+  formula: a + b + (a x b / 100)
+
+  25 - 16 - (15 x 16 / 100)
+  9 (+ve)
+  Now, some digit minus from 9
+  so, answer will be in positive and < 9
+  go by options
+  #revise ]
 
 (a) does not change
 (b) decreases by 5%
@@ -340,7 +475,12 @@ TAG:2-percentage
 (d) decreases by 13%
 
 
-4. The breadth of a rectangular lawn is decreased by 8% and its length is increased by 15%. Find the percentage change in the lawn area.
+*4.* The breadth of a rectangular lawn is decreased by 8% and its length is increased by 15%. Find the percentage change in the lawn area.
+  [Hint: as above
+  15 - 8
+  7 (+ve)
+  less than 7 and +ve
+  go with options #revise ]
 
 (a) 8.5% increase
 (b) 8.5% decrease
@@ -349,6 +489,21 @@ TAG:2-percentage
 
 
 5. If the radius of a sphere is increased by 12%, then the volume will be increased by approximately:
+  [Hint:
+  Volume -> 3D
+  3 times successive
+
+  *trick for 3 times same successive*
+  3a.3a^2 a^3 #revise
+
+  +5%, +5%, +5%
+  15.75/125
+  15.7625 #revise
+  
+  Similarly,
+  +12%, +12%, +12%
+  36/432/1728
+  40.4928 ]
 
 (a) 42.5%
 (b) 45.49%
@@ -357,14 +512,21 @@ TAG:2-percentage
 
 
 6. If the base radius and the height of a right circular cone are increased by 10%, then the percentage increase in the volume is:
+  [Hint: same as above
+  30.300/1000
+  33.1000 
+
+  Note: It is useful in CI also ]
 
 (a) 33.1% ✔
 (b) 20.2%
 (c) 22.1%
 (d) 30.2%
 
+IMG:succ-table.png #revise
 
 7. The total percentage change in the volume of a cuboid if its length and breadth are decreased by 15% and 25%, respectively, while its height is increased by 60% is:
+  [IMG:AR-lec2-q7.png #revise ]
 
 (a) 5% decrease
 (b) 2% decrease
@@ -373,6 +535,7 @@ TAG:2-percentage
 
 
 8. A number is first decreased by 10%, then increased by 30% and then further it is decreased by 20%. What is the net decrease percentage in the number?
+  [IMG:AR-lec2-q8.png #revise ]
 
 (a) 4 1/5 %
 (b) 6 2/5 % ✔
@@ -381,6 +544,11 @@ TAG:2-percentage
 
 
 9. A number is first increased by 12% and then increased by 23%. The number, so obtained, is now decreased by 34%. What is the net increase or decrease percent in the original number (nearest to an integer)?
+  [Hint: calculative data,
+  Do not use ratio method
+
+  Use successive method
+  Note: calculative question ]
 
 (a) 10% increase
 (b) 9% decrease ✔
@@ -389,6 +557,7 @@ TAG:2-percentage
 
 
 10. Ramnarayan's salary was reduced by 3 1/8 %, and then, the reduced salary was increased by 7 2/5 %. By what percentage (rounded off to two decimal places) is his new salary more/less as compared to his original salary?
+  [IMG:AR-lec2-q10.png #revise ]
 
 (a) 3.03% less
 (b) 4.04% more ✔
@@ -397,14 +566,18 @@ TAG:2-percentage
 
 
 11. The length and breadth of a rectangle are in the ratio 5:3. If the length is increased by 44% and Breadth is increased by 60%, What would be the percentage increase in its perimeter?
+  [IMG:AR-lec2-q11.png #revise ]
 
 (a) 45%
 (b) 46%
 (c) 49%
 (d) 50% ✔
 
+*Series Method*
 
-12. Two years ago, the population of a town was 9487500. Due to migration to big cities, it decreases every year at the rate of 8%. The present population of the town is:
+*12.* Two years ago, the population of a town was 9487500. Due to migration to big cities, it decreases every year at the rate of 8%. The present population of the town is:
+  [Hint: user *Digital Sum* in lengthy calculation, 
+  quickly find D.S. of options first ]
 
 (a) 9060110
 (b) 7060320
@@ -412,7 +585,9 @@ TAG:2-percentage
 (d) 8030220 ✔
 
 
-13. Amit gets 6% increase in his sale amount in the first year and 20% in the second year, with that his present sale is Rs.254400, what was his sale (in Rs.) two years ago?
+*13.* Amit gets 6% increase in his sale amount in the first year and 20% in the second year, with that his present sale is Rs.254400, what was his sale (in Rs.) two years ago?
+  [Hint:
+  x x 106/100 x 120/100 = 254400 ]
 
 (a) 200000 ✔
 (b) 180000
@@ -421,6 +596,7 @@ TAG:2-percentage
 
 
 14. In the first year the population of a town decreased by 5% due to the Corona virus first wave. In the next year it decreased again by 5% due to the second wave and in the third year it increased by 5%. At the end of the third year the population was 9,47,625. What was the population at the beginning of the first year?
+  [Hint: calculative]
 
 (a) 7,00,000
 (b) 10,00,000 ✔
@@ -428,7 +604,8 @@ TAG:2-percentage
 (d) 9,92,519
 
 
-15. A person spends 25% of his income on goods of daily uses. Furthermore, he spends 18% of the rest on house rent and 16% of the rest on travel. After that, only ₹861 is left with him. What is his salary?
+15. A person spends 25% of his income on goods of daily uses. Furthermore, he spends 18% *of the rest* on house rent and 16% of the rest on travel. After that, only ₹861 is left with him. What is his salary?
+  [IMG:AR-lec2-q15.png #revise ]
 
 (a) ₹1852 1/3
 (b) ₹1666 2/3 ✔
@@ -437,6 +614,8 @@ TAG:2-percentage
 
 
 16. The strength of a school increases and decreases every alternate year by 20%. It started with an increase in the year 2015 and the initial strength was 3000. Find the strength of the school in the year 2017 and also the percentage of increase in strength, respectively.
+  [Hint: find succ %
+  IMG:AR-lec2-q16.png ]
 
 (a) 4556, 17.2%
 (b) 3556, 16.2%
@@ -445,6 +624,7 @@ TAG:2-percentage
 
 
 17. A person, while trading the shares of a particular company, observes that its price has gone down by 10% from the previous day. In anticipation of increment on the next day, he holds it for the next day. But the share price further falls down by another 8% of the previous day. Then he sells his shares and gets Rs.12,420. How much could he have saved had he sold it the previous day?
+  [IMG:AR-lec2-q17.png ]
 
 (a) ₹1,080 ✔
 (b) ₹1,220
