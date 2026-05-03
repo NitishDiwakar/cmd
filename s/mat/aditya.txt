@@ -719,7 +719,11 @@ GOTO:top
 ______________________
 TAG:3-percentage
 *3-Percentage*
-1. If the price of rice is reduced by 24%, it allows Alok to buy 10 kg more rice for ₹2,500. The reduced rate of rice per kg is:
+
+*1.* If the price of rice is reduced by 24%, it allows Alok to buy 10 kg more rice for ₹2,500. The reduced rate of rice per kg is:
+  #revisit #revise
+  [Hint:
+  IMG:AR-per-l3-q1.png ]
 
 (a) ₹25 
 (b) ₹50
@@ -728,6 +732,9 @@ TAG:3-percentage
 
 
 2. A reduction of 15% in the price of washing powder enables a purchaser to obtain 5 kg more for ₹1,275. The original price of the washing powder per kg is:
+  [Hint:
+  IMG:AR-per-l3-q2.png 
+  #revise ]
 
 (a) ₹40
 (b) ₹35
@@ -736,6 +743,10 @@ TAG:3-percentage
 
 
 3. When the price of a commodity increased by 23%, a family reduced its consumption such that the expenditure was only 5% more. By what percentage has the family reduced the consumption (correct to one decimal place)?
+  [Hint:
+  IMG:AR-per-l3-q3.png
+  shortcut: IMG:AR-per-l3-q3-shortcut.png
+  #revise ]
 
 (a) 14.20%
 (b) 15.8%
@@ -744,14 +755,21 @@ TAG:3-percentage
 
 
 4. The price of diesel is increased by 26%. A person wants to increase his expenditure by 15% only. By what percentage should he decrease his consumption (correct to one decimal place)?
+  [Hint: 100 wala method
+  IMG:AR-per-l3-q4.png
+  #revise]
 
 (a) 7.2%
 (b) 6.5%
 (c) 8.7% ✔
 (d) 9.5%
 
+[Income-Expenditure-Saving]
 
 5. The ratio of Richa's expenditure and savings is 2 : 1. If her income and expenditure increase by 20% and 15% respectively, find the percentage increase in her savings.
+  [Hint:
+  IMG:AR-per-l3-q5.png
+  #revise ]
 
 (a) 20%
 (b) 35%
@@ -759,23 +777,34 @@ TAG:3-percentage
 (d) 30% ✔
 
 
-6. A person saves 10% of his monthly income. If his monthly income increases by 30%, he saves 20% more than the previous savings. The percentage increase in his expenditure (up to two decimal places) is:
+6. A person saves 10% of his monthly income. If his monthly income increases by 30%, he saves 20% more than the previous savings. The percentage increase in his expenditure (up to two decimal places) is: 
+  [Hint: jitna nazar ques pe utna hi nazar options pe
+  IMG:AR-per-l3-q6.png #revise ]
 
 (a) 37.33%
-(b) 31.11%
+(b) 31.11% ✔
 (c) 40.44%
-(d) 24.89% ✔
+(d) 24.89% 
 
 
 7. Radha saves x% of her income. If her income increases by 28% and the expenditure increases by 20%, then her savings increase by 40%. What is the value of x?
+  [Hint: Allegation method
+  IMG:AR-per-l3-q7.png
+  #revise #revisit]
 
 (a) 35
 (b) 40 ✔
 (c) 50
 (d) 25
 
+[Passing/Failure in an Exam]
 
-8. John got 20% marks in an examination and failed by 10 marks. In the same examination, Jack got 35% marks which were 20 more than the minimum passing marks. Find the percentage of minimum marks required to pass.
+*8.* John got 20% marks in an examination and failed by 10 marks. In the same examination, Jack got 35% marks which were 20 more than the minimum passing marks. Find the percentage of minimum marks required to pass.
+  [Hint:
+  15% -> 30
+  1% -> 2
+  total marks -> 200
+  #revise ]
 
 (a) 30%
 (b) 35%
@@ -784,14 +813,27 @@ TAG:3-percentage
 
 
 9. In an examination a student who got 20% marks failed by 30 marks. Another student who got 32% marks got 42 marks more than the required marks to pass. Find the maximum number of marks.
+  [Hint:
+  12% -> 72
+  1% -> 6
+  Total -> 600 ]
 
 (a) 600 ✔
 (b) 700
 (c) 500
 (d) 400
 
+[*Election*]
 
 10. In an election between two candidates, one candidate got 38% of the votes and yet lost by 7200 votes. If all votes were valid, the total votes cast were:
+  [Hint:
+  38%
+  62%
+
+  24% = 7200
+  1% = 300
+  total = 30,000
+  #revise ]
 
 (a) 13,800
 (b) 13,000
@@ -799,8 +841,10 @@ TAG:3-percentage
 (d) 30,000 ✔
 
 
-11. In an election between two candidates, 75% of eligible voters voted and 6% of the votes cast were invalid. A candidate got 15,228 votes which were 90% of valid votes. Find total eligible voters.
-
+*11.* In an election between two candidates, 75% of eligible voters voted and 6% of the votes cast were invalid. A candidate got 15,228 votes which were 90% of valid votes. Find total eligible voters.
+  [Hint:
+  IMG:AR-per-l3-q11.png
+  #revise ]
 (a) 24,850
 (b) 27,000
 (c) 25,600
@@ -808,6 +852,9 @@ TAG:3-percentage
 
 
 12. Two candidates contested an election. 80% voters cast their votes and 5% were invalid. The winner got 70% of valid votes and won by 36,480 votes. Find total voters.
+  [Hint:
+  IMG:AR-per-l3-q12.png
+  #revise #revisit ]
 
 (a) 1,15,000
 (b) 1,20,000 ✔
@@ -816,6 +863,9 @@ TAG:3-percentage
 
 
 13. In an election between two candidates, 3% did not vote and 5% votes were invalid. The winner got 54% of valid votes and won by 11,058 votes. Find the number of voters who did not vote.
+  [Hint: similar to above ques.
+  into 3% at last
+  #revisit ]
 
 (a) 5050
 (b) 3750
@@ -823,7 +873,10 @@ TAG:3-percentage
 (d) 4125
 
 
-14. In an election between two candidates, 80% voters cast their votes and 53 votes were invalid. The winner got 48% of all voters and won by 1013 votes. Find total voters in the list.
+*14.* In an election between two candidates, 80% voters cast their votes and 53 votes were invalid. The winner got 48% of all voters and won by 1013 votes. Find total voters in the list.
+  [Hint: 
+  IMG:AR-per-l3-q14.png
+  #revise #revisit ]
 
 (a) 6000 ✔
 (b) 5600
@@ -832,6 +885,9 @@ TAG:3-percentage
 
 
 15. Two candidates participated in an election. 20% voters did not vote and 10% votes were invalid. The winner got 40% of total voters and won by 2400 votes. Find total voters.
+  [Hint:
+  IMG:AR-per-l3-q15.png
+  #revise ]
 
 (a) 20000
 (b) 24000
@@ -839,7 +895,10 @@ TAG:3-percentage
 (d) 30000 ✔
 
 
-16. In an election, 20% voters did not vote and 80 voters cast blank ballots. The winner secured 45% of all voters and got 280 votes more than his rival. Find total voters.
+*16.* In an election, 20% voters did not vote and 80 voters cast blank ballots. The winner secured 45% of all voters and got 280 votes more than his rival. Find total voters.
+  [Hint:
+  IMG:AR-per-l3-q16.png
+  #revise ]
 
 (a) 2000 ✔
 (b) 2800
@@ -847,15 +906,22 @@ TAG:3-percentage
 (d) 1500
 
 
-17. In an election, y% voters did not vote. 10% votes were invalid. The winner got 59.375% of valid votes and won by 2484 votes. If total voters were 16,000, find y.
+*17.* In an election, y% voters did not vote. 10% votes were invalid. The winner got 59.375% of valid votes and won by 2484 votes. If total voters were 16,000, find y. (CGL 2024 Prelims, PYQ)
+  [Hint: Top notch ques.
+  IMG:AR-per-l3-q17.png
+  #revise #revisit ]
 
 (a) 7.2
 (b) 8.4
 (c) 8 ✔
 (d) 7.5
 
+[*Miscellaneous types*]
 
 18. A is 25% more than B and B is 30% less than C. If C is 20% more than D, then by what percentage is A more than D?
+  [Hint:
+  IMG:AR-per-l3-q18.png
+  #revise ]
 
 (a) 3%
 (b) 6%
@@ -864,6 +930,9 @@ TAG:3-percentage
 
 
 19. The income of A is 30% less than B and B is 137.5% more than C. If A’s income is ₹28,500 less than B, find income of C.
+  [Hint:
+  IMG:AR-per-l3-q19.png
+  #revise #revisit ]
 
 (a) 40,000 ✔
 (b) 50,000
@@ -872,6 +941,9 @@ TAG:3-percentage
 
 
 20. A’s income is 45% more than B. C’s income is 60% less than the sum of incomes of A and B. D’s income is 20% more than C. If difference between B and D incomes is ₹13,200, find income of C.
+  [Hint:
+  IMG:AR-per-l3-q20.png
+  #revise #revisit ]
 
 (a) 75,000
 (b) 73,500 ✔
@@ -879,7 +951,10 @@ TAG:3-percentage
 (d) 72,000
 
 
-21. Ravi initially had chocolates. Bhanu initially had 80% of Ravi’s chocolates. Ravi gave 10% of his chocolates to his sister while Bhanu received 35% more chocolates. If Bhanu finally had 54 chocolates, how many chocolates did Ravi give his sister?
+*21.* Ravi initially had chocolates. Bhanu initially had 80% of Ravi’s chocolates. Ravi gave 10% of his chocolates to his sister while Bhanu received 35% more chocolates. If Bhanu finally had 54 chocolates, how many chocolates did Ravi give his sister?
+  [Hint:
+  IMG:AR-per-l3-q21.png
+  #revise #revisit ]
 
 (a) 3
 (b) 6
@@ -887,7 +962,10 @@ TAG:3-percentage
 (d) 4
 
 
-22. The price of an item is increased twice successively. Final price = ₹2,295, initial price = ₹1,000. The second percentage increase was twice the first. Find the second increase.
+*22.* The price of an item is increased twice successively. Final price = ₹2,295, initial price = ₹1,000. The second percentage increase was twice the first. Find the second increase.
+  [Hint:
+  
+  #revisit ]
 
 (a) 35%
 (b) 65%
@@ -895,8 +973,11 @@ TAG:3-percentage
 (d) 25%
 
 
-23. The price of an article increases by 20% every year. If the difference between price at end of third year and fourth year is ₹324, find price at end of second year.
-
+*23.* The price of an article increases by 20% every year. If the difference between price at end of third year and fourth year is ₹324, find price at end of second year.
+  [Hint:
+  Munni method by Aditya Ranjan - YT
+  #revisit ]
+  
 (a) ₹1350 ✔
 (b) ₹1250
 (c) ₹1260
