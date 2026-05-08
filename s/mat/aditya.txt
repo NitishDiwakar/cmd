@@ -1136,7 +1136,9 @@ TAG:4-profit-and-loss
 
 
 *3.* Sandeep made a profit of 22% when he sold an over cost for Rs.8540. Find the cost price of the over cost.
-  [Hint: 4260/61 = 70]
+  [Hint: If SP is given - see 100 + profit or 100 - loss
+  IMG:AR-pl-l1-q3.png
+  #revise ]
 
 (a) ₹6500
 (b) ₹6000
@@ -1156,6 +1158,8 @@ TAG:4-profit-and-loss
 
 
 *[5].* When an article is sold for ₹480, there is a loss of 16 2/3%. To gain 8 1/3%, it should be sold for ₹ :
+  [Hint: check fraction values
+  #revisit ]
 
 (a) ₹620
 (b) ₹624 ✔
@@ -1164,7 +1168,11 @@ TAG:4-profit-and-loss
 
 
 *6.* A grocer purchased 10 kg rice for ₹700. He spends some amount on transportation and then sells it for ₹1,400. If the percentage of profit made by the grocer is 30%, then what is the amount (in ₹) he spends on transportation? (Round off to the nearest integer)
-  [Hint: (700+x) x 130 / 100 = 14000; 700 + x = 14000 / 13 = 1077; x = 377]
+  [Hint: 
+  (700+x) x 130 / 100 = 14000 
+  700 + x = 14000 / 13 = 1077 
+  x = 377 
+  #revise ]
 
 (a) 350
 (b) 380
@@ -1174,9 +1182,12 @@ TAG:4-profit-and-loss
 
 *7.* If I gain 124% by selling an item for ₹1,232, then what would be my gain or loss percentage if I sell it for ₹572?
   [Hint:
-  227/100 x x = 1232
+  IMG:AR-pl-l1-q7.png
 
-  My mistake: used 24% instead of 124%]
+  Note: Always use (100+x) wheter profit or loss,
+  if ans in +ve then gain, -ve means loss
+
+  #revise #revisit ]
 
 (a) 6% Gain
 (b) 6% Loss
@@ -1185,10 +1196,12 @@ TAG:4-profit-and-loss
 
 
 *8.* A man loses 28% by selling an article for Rs.144. If he sells it for Rs.288, what will be his gain/loss percentage?
-  [Hint:
+  [Hint: same as above
   72% -> 144
   100% -> 200
-  44% ]
+  44% 
+  IMG:AR-pl-l1-q8.png
+  #revise ]
 
 (a) Gain, 41%
 (b) Loss, 43%
@@ -1210,6 +1223,8 @@ TAG:4-profit-and-loss
 
   Profit = 200 − 100 = 100  
   Profit % = 100%
+
+  IMG:AR-pl-l1-q9.png
   #revisit]
 
 (a) 50%
@@ -1220,6 +1235,7 @@ TAG:4-profit-and-loss
 
 *10.* If the selling price is tripled, the profit becomes 5 times. Then find the profit percentage.
   [Hint:
+  IMG:AR-pl-l1-q10.png
   #revisit]
 
 (a) 80%
@@ -1246,9 +1262,15 @@ TAG:4-profit-and-loss
 (c) ₹15,800
 (d) ₹16,120
 
+[*CP of X = SP of Y*]
 
 *13.* The selling price of 80 items is equal to the cost price of 72 items. What is the percentage of loss incurred in the transaction?
-  [Hint: 80SP=72CP; 10SP = 9CP; Loss% = 1/10 x 100; 10% ]
+  [Hint: 
+  80SP = 72CP
+  10SP = 9CP
+  Loss% = 1/10 x 100
+  10% 
+  #revise ]
 
 (a) 12%
 (b) 10% ✔
@@ -1256,8 +1278,11 @@ TAG:4-profit-and-loss
 (d) 11 1/9%
 
 
-*14.* If the selling price of 40 articles is equal to the cost price of 50 articles, then the percentage gain is:
-  [Hint: 40SP = 50CP; 4SP = 5CP; 1/4 X 100]
+14. If the selling price of 40 articles is equal to the cost price of 50 articles, then the percentage gain is:
+  [Hint: 
+  40SP = 50CP
+  4SP = 5CP
+  1/4 X 100 ]
 
 (a) 25% ✔
 (b) 20% 
@@ -1267,9 +1292,8 @@ TAG:4-profit-and-loss
 
 *[15].* The cost price of 36 articles is the same as the selling price of N articles. If the profit is 20%, then the value of N is:
   [Hint:
-  120% → 1.2  
-  36 ÷ 1.2 = 30
-  #revisit ]
+  IMG:AR-pl-l1-q15.png
+  #revise ]
 
 (a) 25
 (b) 42
@@ -1279,7 +1303,8 @@ TAG:4-profit-and-loss
 
 *16.* By selling 60 pens, a man gain an amount equal to the selling price of 12 pens. What is his gain percentage?
   [Hint: 48
-  #revisit ]
+  IMG:AR-pl-l1-q16.png
+  #revise #revisit ]
 
 (a) 20%
 (b) 22%
@@ -1301,7 +1326,9 @@ TAG:4-profit-and-loss
   Profit % = (30 / 20) × 100
   = 3/2 × 100
   = 150% 
-  #revisit ]
+  IMG:AR-pl-l1-q17.png
+  Note: no use of ₹800
+  #revise #revisit ]
 
 (a) 125%
 (b) 140%
@@ -1317,9 +1344,13 @@ TAG:4-profit-and-loss
 (c) ₹960
 (d) ₹820
 
+[*Profit on SP*]
+IMG:AR-pl-l1-profit-on-sp-and-cp.png
 
 19. A man purchased a cell phone for ₹24,500 and sold it at a gain of 12.5% calculated on the selling price. The selling price of the cell phone was:
-  [Hint: #revisit ]
+  [Hint: 
+  IMG:AR-pl-l1-q19.png
+  #revise #revisit ]
 
 (a) ₹25,000
 (b) ₹28,000 ✔
@@ -1329,6 +1360,7 @@ TAG:4-profit-and-loss
 
 20. By selling an article for ₹640, a person loses 15% of its selling price. At what price (in ₹) should he sell it to gain 15% on its cost price?
   [Hint: Be careful on profit/loss on SP
+  IMG:AR-pl-l1-q20.png
   #revisit ]
 
 (a) ₹835
@@ -1338,6 +1370,8 @@ TAG:4-profit-and-loss
 
 
 21. By selling an article at 4/10 of its actual selling price, Nirbhay incurs a loss of 17%. If he sells it at 88% of its actual selling price, then the profit percentage:
+  [Hint:
+  #revisit ]
 
 (a) 82.6% ✔
 (b) 81.3%
@@ -1346,6 +1380,8 @@ TAG:4-profit-and-loss
 
 
 22. By selling an article at 2/5 of its actual selling price, Manav incurs a loss of 27%. If he sells it at 84% of its actual selling price, then the profit percentage is:
+  [Hint:
+  #revisit ]
 
 (a) 56.9%
 (b) 52.6%
@@ -7663,6 +7699,7 @@ TAG:34-mixture-and-allegation
 *34-Mixture-and-allegation*
 
 1. In a mixture of 25 litres, the ratio of acid to water is 4 : 1. Another 3 litres of water is added to the mixture. The ratio of acid to water in the new mixture is
+  [Hint: #revise ]
 
 (a) 5 : 2 ✔
 (b) 2 : 5
@@ -7671,6 +7708,7 @@ TAG:34-mixture-and-allegation
 
 
 2. There is a 32 litres mixture of milk and water. The ratio of milk and water in this mixture is 5 : 3. How many litres of water should be added to this mixture so that the resultant mixture has 50% water in it?
+  [Hint: #revise ]
 
 (a) 8 ✔
 (b) 6
@@ -7679,6 +7717,7 @@ TAG:34-mixture-and-allegation
 
 
 3. In a mixture, milk and water are in ratio of 7 : 9. Some milk is added to the mixture because of which ratio of milk and water becomes 11 : 9. How much milk was added as a percentage of initial mixture?
+  [IMG:AR-lec-34-q3.png #revise ]
 
 (a) 10%
 (b) 60%
@@ -7686,7 +7725,10 @@ TAG:34-mixture-and-allegation
 (d) 25% ✔
 
 
-4. A mixture contains alcohol and water in the ratio of 12:5. On adding 14 liters of water, the ratio of alcohol to water becomes 4:3. The quantity of alcohol in the mixture is:
+4. A mixture contains alcohol and water in the ratio of 12:5. On adding 14 liters of water, the ratio of alcohol to water becomes 4:3. The quantity of alcohol in the mixture is: (CHSL, 2024)
+  [Hint: 
+  IMG:AR-lec-34-q4.png
+  #revise #revisit ]
 
 (a) 18 L
 (b) 28 L
@@ -7694,7 +7736,10 @@ TAG:34-mixture-and-allegation
 (d) 42 L ✔
 
 
-5. A mixture of acid and water contains 20 percent acid. When 10 litres of water is added to the mixture, then the percentage of acid becomes 15 percent. What is the original quantity of mixture?
+*5.* A mixture of acid and water contains 20 percent acid. When 10 litres of water is added to the mixture, then the percentage of acid becomes 15 percent. What is the original quantity of mixture? (CGL Mains)
+  [Hint: tough question
+  IMG:AR-lec-34-q5.png
+  #revise #revisit ]
 
 (a) 25 litres
 (b) 40 litres
@@ -7703,6 +7748,8 @@ TAG:34-mixture-and-allegation
 
 
 6. A vessel contains 18 litres mixture of milk and water in the ratio 5 : 1. If 3 litres of milk is added to the vessel, then how much water (in litres) should be added to the vessel to have milk and water in the ratio 9 : 2?
+  [Hint: Keep an eye on optoins
+  #revise ]
 
 (a) 2
 (b) 1.5
@@ -7711,6 +7758,8 @@ TAG:34-mixture-and-allegation
 
 
 7. A beaker contains acid and water in the ratio 1 : x. When 50 ml of water is mixed in 300 ml of the mixture the ratio of acid to water becomes 2 : 5. What is the value of x?
+  [Hint: beautiful question 
+  #revisit ]
 
 (a) 2 ✔
 (b) 1

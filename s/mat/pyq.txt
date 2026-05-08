@@ -594,5 +594,5 @@ Q89. What should come in place of (?) in the following number series ?
  (E) None of the above/More than one of the above
 
 
- GOTO:top
+GOTO:top
  

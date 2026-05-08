@@ -1,0 +1,92 @@
+============================
+Title : BPSC Sources
+Tags  : #
+Descr :  
+============================
+
+TAG:top
+GOTO:current
+GOTO:br-spl
+GOTO:science
+GOTO:ancient-history
+GOTO:medieval-history
+GOTO:modern-history
+GOTO:geography
+GOTO:polity
+
+
+
+TAG:current
+*Current*
+
+  - Eduteria mag
+  - Speedy mag
+  - BCW/only ias mag
+  - Vision PT 365
+  - Vision monthly
+  - SKC sir monthly video
+  - PIB my ministry-wise compilation 
+  - Drishti BR special monthly mag
+  - Indian express - explained
+
+TAG:br-spl
+*Bihar Special*
+
+  - Crown
+  - Eduteria objective
+  - Manish Ranjan (selective)
+
+
+TAG:science
+*Science*
+
+  - NCERT (6-12th)
+  - Lucent
+  - GC
+  - Pram IAS PYQ
+
+TAG:ancient-history
+*Ancient History*
+
+  - Old NCERT (RS Sharma)
+  - New NCERT
+  - Lucent
+  - GC
+  - Imtyaz Ahmed - objective
+  - TN Board
+
+
+TAG:medieval-history
+*Medieval History*
+
+  - Old NCERT (Satish Chandra)
+  - New NCERT
+  - Lucent
+  - GC
+  - Imtyaz Ahmed - objective
+  - TN Board
+
+
+TAG:modern-history
+*Modern History*
+
+  - New NCERT
+  - Spectrum
+  - TN Board
+  - Imtyaz Ahmed - objective
+
+
+TAG:geography
+*Geography*
+
+  - NCERT (6-12)
+  - Lucent
+  - GC
+
+
+TAG:polity
+*Polity*
+
+  - Laxmikanth
+  - GC
+
