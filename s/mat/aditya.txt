@@ -7767,8 +7767,12 @@ TAG:34-mixture-and-allegation
 (d) 4
 
 
----Type 2---
+*Type - II (Equal replacement)*
+
 8. A vessel contains 20 litres of acid. 5 litres of acid is taken out of the vessel and replaced by the same quantity of water. Next 5 litres of the mixture are withdrawn, and again the vessel is filled with the same quantity of water. The ratio of acid left in the vessel with the quantity of acid initially in the vessel is :
+  [Hint:
+  IMG:AR-lec-34-q8.png
+  #revise ]
 
 (a) 4 : 5
 (b) 4 : 25
@@ -7778,6 +7782,9 @@ TAG:34-mixture-and-allegation
 
 
 9. A container contains 36 liters of water. 6 liters of water was taken out from this container and replaced with oil. This process was repeated twice. How much water is inside the container?
+  [Hint:
+  IMG:AR-lec-34-q9.png
+  #revise #revisit ]
 
 (a) 30 litres
 (b) 28 litres
@@ -7786,6 +7793,9 @@ TAG:34-mixture-and-allegation
 
 
 10. A milk container contains 100 litre of milk. 10 litres of milk is taken out from it and 10 litres of water is added. This process is replaced 3 times. find the quantity of milk left in the container at the end?
+  [Hint:
+  IMG:AR-lec-34-q10.png
+  #revise ]
 
 (a) 72.9 litres ✔
 (b) 70.9 litres
@@ -7793,7 +7803,10 @@ TAG:34-mixture-and-allegation
 (d) 68.2 litres
 
 
-11. The ratio of milk to water in a 100 litres mixture is 2 : 3. 10 litres of this mixture is withdrawn and replaced with milk. This process is repeated 2 more times. What is the percentage of milk in final mixture?
+11. The ratio of milk to water in a 100 litres mixture is 2 : 3. 10 litres of this mixture is withdrawn and replaced with milk. This process is repeated 2 more times. What is the percentage of milk in final mixture? [SSC Mains, 2022]
+  [Hint:
+  IMG:AR-lec-34-q11.png
+  #revise #revisit ]
 
 (a) 56.26 percent ✔
 (b) 58.21 percent
@@ -7802,6 +7815,9 @@ TAG:34-mixture-and-allegation
 
 
 12. The ratio of milk and water in a 100 litre container is 1 : 4. 10 litre of mixture is taken out from it and 10 litre of milk is added. This process is repeated 2 time. Find the quantity of milk left in the end? (in %)
+  [Hint:
+  IMG:AR-lec-34-q12.png
+  #revise #revisit ]
 
 (a) 36.4
 (b) 35.2 ✔
@@ -7810,6 +7826,9 @@ TAG:34-mixture-and-allegation
 
 
 13. The ratio of glycerine and water in a mixture is 3 : 1, how much portion of the mixture should be removed and how much water should be replaced so that the ratio of glycerine and water becomes 1 : 1?
+  [Hint:
+  IMG:AR-lec-34-q13.png
+  #revise #revisit ]
 
 (a) 3/4
 (b) 1/3 ✔
@@ -7818,6 +7837,9 @@ TAG:34-mixture-and-allegation
 
 
 14. A mixture of milk and water contains 18 parts of milk and 8 parts of water. How much fraction of the mixture should be removed and replaced by water so the ratio of water and milk are equal?
+  [Hint:
+  IMG:AR-lec-34-q14.png
+  #revisit ]
 
 (a) 1/18
 (b) 12/18
@@ -7826,7 +7848,10 @@ TAG:34-mixture-and-allegation
 
 
 ---Type 3---
-15. A vessel contained a solution of acid and water, in which water was 64%. Four litres of the solution was taken out of the vessel and the same quantity of water was added. If the resulting solution contains 30% acid, the quantity (in litres) of the water in the solution, at the beginning in the vessel, was:
+15. A vessel contained a solution of acid and water, in which water was 64%. Four litres of the solution was taken out of the vessel and the same quantity of water was added. If the resulting solution contains 30% acid, the quantity (in litres) of the water in the solution, at the beginning in the vessel, was: [SSC Mains]
+  [Hint:
+  IMG:AR-lec-34-q15.png
+  #revise ]
 
 (a) 11.36
 (b) 15.36 ✔
@@ -7835,6 +7860,9 @@ TAG:34-mixture-and-allegation
 
 
 16. A jar contained a mixture of two liquids A and B in the ratio 4 : 1. When 10 litres of the mixture was taken out and 10 litres of liquid B was poured into the jar, this ratio became 2 : 3. The quantity of liquid A contained in the jar initially was
+  [Hint:
+  IMG:AR-lec-34-q16.png
+  #revise ]
 
 (a) 4 litres
 (b) 8 litres
@@ -7843,6 +7871,8 @@ TAG:34-mixture-and-allegation
 
 
 17. A container contains a mixture of two liquids, A and B, in the ratio 7 : 5. If 9 liters of the mixture is replaced by 9 liters of Liquid B, then the ratio of the two liquids becomes 7 : 9. How much of liquid A was there in the container initially?
+  [Hint:
+  IMG:AR-lec-34-q17.png ]
 
 (a) 21 liters ✔
 (b) 35 liters
@@ -7852,6 +7882,9 @@ TAG:34-mixture-and-allegation
 
 ---Type 4---
 18. Two containers of equal capacity are full of mixture of milk and water. In the first, the ratio of milk to water is 3 : 7 and in the second it is 7 : 9. Now both the mixtures are mixed in a bigger container. What is the resulting ratio of milk to water?
+  [Hint: Agar diya gaya ho ki kis ratio me milaya gaya hai tow ratio method laga denge, aur diya gaya ho ki milane ke baad itna ho ja raha hai tow allegation method laga denge.
+  IMG:AR-lec-34-q18.png
+  #revise ]
 
 (a) 59 : 101 ✔
 (b) 57 : 107
@@ -7860,6 +7893,8 @@ TAG:34-mixture-and-allegation
 
 
 19. The compositions of two mixtures A and B are as follows: The ratio of copper and tin in mixture A is 1 : 2. The ratio of copper and tin in mixture B is 1 : 3. If mixture C is made by using equal quantities of mixture A and B, then find the ratio of copper and tin in mixture C.
+  [Hint: same as above
+  IMG:AR-lec-34-q19.png ]
 
 (a) 2 : 5
 (b) 7 : 17 ✔
@@ -7868,6 +7903,9 @@ TAG:34-mixture-and-allegation
 
 
 20. In two types of brass, the ratios of Copper to Zinc are 8:3 and 15:7 respectively. If the two types of brass be melted and mixed in the ratio 5:2 a new type of brass is obtained. The ratio of Copper to Zinc in this new type of brass is
+  [Hint:
+  IMG:AR-lec-34-q20.png 
+  #revise ]
 
 (a) 3 : 2
 (b) 2 : 3
@@ -7876,6 +7914,7 @@ TAG:34-mixture-and-allegation
 
 
 21. Mixture A contains chocolate and milk in the ratio 4:3 and mixture B contains chocolate and milk in the ratio 5 : 2. A and B are taken in the ratio 5:6 and mixed to form a new mixture. The percentage of chocolate in the new mixture is closest to:
+  [Hint: HW]
 
 (a) 35%
 (b) 69%
@@ -7884,6 +7923,9 @@ TAG:34-mixture-and-allegation
 
 
 22. Vessel A contains milk and water in the ratio 4: 5. Vessel B contains milk and water in the ratio 2 : 1. If x litres mixture of A is mixed with y litres mixture of B, then the ratio of milk to water in the mixture becomes 8 : 5. Find the ratio x : y.
+  [Hint: Allegation method
+  IMG:AR-lec-34-q21.png
+  #revise ]
 
 (a) 3 : 10 ✔
 (b) 5 : 6
@@ -7893,6 +7935,9 @@ TAG:34-mixture-and-allegation
 
 ---Type 5---
 23. A drink is made by mixing water and juice in the ratio 9 : 7. If x litres of water and 2x litres of juice are mixed in 160 litres of drink, then the new ratio becomes 13 : 15. The quantity of drink (in litres) is:
+  [Hint:
+  IMG:AR-lec-34-q22.png 
+  #revise ]
 
 (a) 240
 (b) 280 ✔
@@ -7901,6 +7946,7 @@ TAG:34-mixture-and-allegation
 
 
 24. A mango juice is made by mixing water and mango concentrate in the ratio 9 : 7. If x litres of water and 3x litres of mango concentrate is mixed in 160 litres of mango juice, then the new ratio becomes 13 : 14. What is the quantity of the new mango juice (in litres)?
+  [Hint: HW]
 
 (a) 197 litre
 (b) 212 litre ✔
@@ -7909,6 +7955,9 @@ TAG:34-mixture-and-allegation
 
 
 25. Two containers have mixtures of milk and water, respectively, in the ratios 3 : 2 and 6 : 5. In what ratio should the contents be mixed so that the ratio of milk to water in the final mixture is 4 : 3?
+  [Hint:
+  IMG:AR-lec-34-q25.png
+  #revise ]
 
 (a) 10 : 11 ✔
 (b) 6 : 13
@@ -7917,6 +7966,9 @@ TAG:34-mixture-and-allegation
 
 
 26. A chemist has two solutions of alcohol and water. Solution A contains 70% alcohol, and solution B contains 30% alcohol. In what ratio should he mix them to get a solution containing 50% alcohol?
+  [Hint: "In what ratio" - allegation lagana hai
+  IMG:AR-lec-34-q26.png
+  #revise]
 
 (a) 2 : 1
 (b) 1 : 1 ✔
@@ -7925,6 +7977,7 @@ TAG:34-mixture-and-allegation
 
 
 27. In what ratio, sugar costing Rs.78 per kg be mixed with sugar costing Rs.46 per kg such that by selling the mixture at Rs.75 per kg there is a gain of 20%?
+  [Hint: revisit ]
 
 (a) 33 : 37
 (b) 31 : 29
@@ -7934,6 +7987,9 @@ TAG:34-mixture-and-allegation
 
 ---Type 6---
 28. The concentrations of three acids, A, B, and C, are specified as 20%, 30%, and 40%, respectively. They are blended in a ratio of 3 : 5 : a, yielding a solution with a concentration of 30%. What is the value of 'a'?
+  [Hint:
+  IMG:AR-lec-34-q28.png
+  #revise #revisit ]
 
 (a) 3 ✔
 (b) 1
