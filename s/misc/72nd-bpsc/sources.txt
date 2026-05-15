@@ -32,8 +32,10 @@ TAG:current
 TAG:br-spl
 *Bihar Special*
 
+  - GC BPSC PYQ
   - Crown
   - Eduteria objective
+  - Bihar Ek Parichary (Imtz)
   - Manish Ranjan (selective)
 
 

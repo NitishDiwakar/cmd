@@ -4,22 +4,17 @@ Tags  : #ca #award #imp
 Descr :
 ============================
 
-*Sahitya Academi Award - 2024*
+*Sahitya Academi Award - 2025*
 
-English
-  - Easterine Kire (Novel - Spirit Nights)
+  Hindi
+    - Mamta Kaliya (Jeete ji Allahabad)
 
-Hindi
-  - Gagan Gill (Poetry - *Main Jab Tak Aai Bahar*)
+  English
+    - Navtej Sarna (Novel: Crimson spring)
 
-Maithili
-  - Mahendra Malangia (Essay - Prabandh Sangrah)
+  Maithili
+    - Dr. Mahendra Jha (Dhaatri Paat San Gaam)
 
-Sanskrit
-  - Dipak Kumar Sharma (Poerty - Bhaskaracaritam)
-
-Dogri
-  - Chaman Arora (Short Story - Ik Hor Ashwthama)
 
 
 *Sahitya Academi Yuva Puraskar - 2025*
@@ -50,6 +45,25 @@ Maithili
 
 Sanskrit
   - Preeti Poojara (for poetry collection 'Baalvishwam')
+
+
+*Sahitya Academi Award - 2024*
+
+English
+  - Easterine Kire (Novel - Spirit Nights)
+
+Hindi
+  - Gagan Gill (Poetry - *Main Jab Tak Aai Bahar*)
+
+Maithili
+  - Mahendra Malangia (Essay - Prabandh Sangrah)
+
+Sanskrit
+  - Dipak Kumar Sharma (Poerty - Bhaskaracaritam)
+
+Dogri
+  - Chaman Arora (Short Story - Ik Hor Ashwthama)
+
 
 
 *Pulitzer Prize - 2025*
