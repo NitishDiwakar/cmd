@@ -6,6 +6,7 @@ Descr :
 
 TAG:top
 GOTO:71st
+GOTO:70th
 
 
 TAG:71st
@@ -130,3 +131,129 @@ IMG:71st-gs-i-q8-or.png
 
   
 
+GOTO:top
+TAG:70th
+*70th*
+
+*Section - I*
+
+1. Write short notes on the following:
+
+  a. The Indian Councils Act, 1861 [8 marks]
+
+  b. Role of bihar in the Quit India Movement. [8 marks]
+
+  c. Santhal uprising [8]
+
+  d. Patna Kalam painting. [7]
+
+  e. Art and ARchitecture of Mauryan Age [7]
+
+
+2a. Describe the Champaran Indigo Movement and explain its impacts on the Indian freedom stuggle. [38]
+
+OR
+
+2b. How far the British policy was responsible for the emergence of Indian National Movement? Explan. [38]
+
+3a. Examine the expansion of Western Education in Bihar from mid-nineteenth century onwards. [38]
+
+OR
+
+3b. Assess the constructive works of Mahatma Gandhi. [38]
+
+
+*Section - II*
+
+4. Answer the following questions:
+
+  a. Discuss the direction of unity and coalition politics of opposition parties after the defeat of Aam Aadmi Party in Delhi Assembly Elections, 2025 [8]
+
+  b. Russia-Ukraine war has completed three years. Throwing light on the causes of this war, and discuss its effects on the World politics. [8]
+
+  c. Maha Kumbh Fair was organized in India from Monday, 13 January, 2025 to 26th February, 2025. How was this fair a symbol of Indian culture, religious faith and social harmony? Explain with examples. [8]
+
+  d. Throw detailed light on the need and importance of caste based Census in Bihar. [7]
+
+  e. Analyze logically what the future of United States of America will be at national and international level under the leadership of newly elected President Donald Trump. [7]
+
+
+5a. Uttarakhand has become the first state to implement the Uniform Civil Code in India. Explain the Uniform Civil Code in this regard. Also explain with examples, what changes will it bring to the Indian society on social, cultural, religious and legal basis. [38]
+
+
+OR
+
+5b. Discuss the Constitutional provisions governing Presidents Rule in India, giving reasons for the imposition of Presidents Rule in Manipur recently and also evaluate its effectiveness in the present times. [38]
+
+
+6a. Discuss the concept of 'One Nation, One Election' and its implication on the federal STructure of India. What are the potential advantages and disadvantages of synchronizing elections to the Lok Sabha and State Assemblies? Analyze. [38]
+
+6b. Throwing light on the increasing women participation in Indian politics and society and the Women's Reservation Act, 2023 (Narishakti VAndan Act, 2023), Analyze the social, economic and political changes taking place in Indian society due to its implementation. [38]
+
+
+*Section - III*
+
+7. The following table demonstrates the number of candidates appeared, qualified and selected in a competitive examination from five States Delhi, Himachal Pradesh (H.P.), Uttar Pradesh (U.P.), Punjab and Haryana over the years 1994 to 2000. Study the table carefully and answer the questions given below it: 
+
+IMG:70th-gs-i-q7.png
+
+  a. For which State the average number of candidates selected over the years is maximum? [6 marks]
+
+  b. For which year the percentage of candidates qualified from Haryana over the candidates appeared from Haryana is highest? [6]
+
+  c. In the year 1999, which State had the lowest percentage of candidates selected over the candidates appeared from that State? [6]
+
+  d. For which State the ratio of candidates selected and teh candidates qualified is highest for the year 1997? [6]
+
+  e. Which state has highest percentage of total candidates selected over the total candidates appeared from that State during the years under consideration? [6]
+
+  f. Find the ratio of the total candidates selected, qualified and appeared from U.P. during the year 1994 to 2000. [6]
+
+
+OR
+
+7(or). The bar diagram given below shows the production (in tons) of three crops- paddy, wheat and maize during the year 2002 to 2005 in a country. STudy the diagram carefully and answer the question given below it:
+
+IMG:70th-gs-i-q7-or.png
+
+  a. What is the ratio of total production of paddy, wheat and maize in the country during the year 2002 to 2005?
+
+  b. The total production of maize is what percentage of the total production of the three crops during the years under consideration? [6]
+
+  c. The average production of wheat is what percentage of the average production of paddy during the years under consideration? [8]
+
+  d. What percentage of the production of maize should be increased or decreased, so that the total production of maize is exactly half of the total production of paddy in the country during 2002 - 2005? [8]
+
+  e. If the year 2004, the production of wheat is increased by 50% and the production of paddy is decreased by 40%, then the production of paddy will be what percentage of the production of wheat? [8]
+
+
+8. The following pie-charts represent the expenditure (in rupees) of two families A and B. Study the charts carefully and answer the questions given below them:
+
+IMG:70th-gs-i-q8.png
+
+  a. What is the total expenditure of the two families (in rupees) on food? [6]
+
+  b. The total expenditure of the two families on fuel is what percent of the total expenditure of the two families on clothing? [6]
+
+  c. If the expenditure of the two families on food and house rent is increased by 20% and 30% respectively, then what will be the percentage increase in the total expenditure of the two families combined? [8]
+
+  d. The expenditure on clothing for the two families is increased by 15%. What percentage of expenditure on miscellaneous should be decreased by the two families separately, so that their total expenditure remains the same? [8]
+
+  e. If the expenditure of the two families on food, clothing and house rent is increased by 10%, 20% and 30% respectively, then find the ratio of their total expenditures on food, clothing and house rent. [8]
+
+
+OR
+
+8(or). The following graphs shows the exports from three companies X, Y and Z (in Rs. crores) during the year 1993 to 1999. Study the graph carefully and answer the questions given below it:
+
+IMG:70th-gs-i-q8-or.png
+
+  a. Which company had the steepest rise in its exports compared to the previous year and in which year? [6]
+
+  b. Which company had the highest percentage increase in its exports in the year 1999 as compared to the year 1993 and what was this percent? [6]
+
+  c. If in the year 2000, the exports of the three companies X, Y and Z are increased by 10%, 20% and 30% respectively as compared to their exports in the previous year, then what will be the ratio of thier exports in the year 2000? [8]
+
+  d. What percentage of export should be increased by the companies X and Y in the year 1996, so that their export becomes double of the export done by company Z in the year 1996?
+
+  e. If in 1992, the export by the company Z was 30% less than that in 1993 and the export by the company X was 30% more than in 1993, then what was the difference (in Rs. crores) between the exports by the companies Z and X in the year 1992? [8]
