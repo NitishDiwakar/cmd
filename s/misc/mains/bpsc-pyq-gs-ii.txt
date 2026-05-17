@@ -6,6 +6,7 @@ Descr :
 
 TAG:top
 GOTO:71st
+GOTO:70th
 
 
 TAG:71st
@@ -92,3 +93,90 @@ OR
 8b. "*The New Indian Space Policy 2023* has opened the floodgates for the private sector." Is this transition merely about technological development, or has it qualitatively transformed India's capabilities for *national security*, *disaster response* and *border management*? In the context of *drone* warm technology, the security of satellite based communication and the strategic significance of *GSLV* program, propose the essential pillars of a comprehensive 'Security-Development-Innovation' strategy for India's space and allied technologies. [36]
 
 
+
+GOTO:top
+TAG:70th
+*70th*
+
+*Section - I*
+
+1. Write short answer of the following questions:
+
+  a. Article - 32 is the "Heart and Soul of the Constitution of India". Explan. [8 marks]
+
+  b. "Criminalisation of politics and politicisation of Criminals". Analyse this statement in the context of Bihar State. [8]
+
+  c. "In India, at present caste is no more social phenomenon, rather it is a political phenomenon". Do you agree with this statement? Analyse and give reasons to support your answer. [8]
+
+  d. What is collegium? What is it at the c enter of critisim? Express your views. [7]
+
+  e. In the light of 73rd and 74th Amendment in the Constitution of India, discuss the role of Local Self Government in empowering the women at grassroot level in Bihar. [7]
+
+
+2a. Trace the Evolution of Political Parties in India from one party dominance to the era of Coalition Governments. Has the coalition politics undermined the authority of the Prime Minister in India? Give reasons. [19+19=38]
+
+OR
+
+2b. "When there is a change Government at the Center, the Governor's also change." In the context of this statement examine the role of Governor in India as a link between the Center and the STates. Can he in any way act according to his own discretion? [19+19=38]
+
+
+3a. "Besided being a medium of communication, language has also been effective as a symbol of identity". In the light of this statement analyse the political impact of linguistic identity in India. [38]
+
+OR
+
+3b. Write an essay on the political and constitutional changes in Jammu and Kashmir after the abrogation of Article -370. [38]
+
+
+*Section - II*
+
+4. Write short answer of the following questions:
+
+  a. Explain the climatic considtions and mechanism of winter rainfall in India with their spatial spread. [8]
+
+  b. Discuss the environmental and economic benefits of mangrove forest cover along the Indian coast with examples. [8]
+
+  c. What are the suitable geographical conditions for the cultivation of major types of millets in India? Explain with examples. [8]
+
+  d. Explain the ecological conditions suitalbe for the cultivation of Makhana (Fox seeds or Lotus seeds) crop. What measures are being taken by the Government to increase its production and marketing? [7]
+
+  e. Discuss the growth and development of automobile industries in and around four largest metropolitan city regions of India. [7]
+
+
+5a. "The Peninsular India is more rich in rock and mineral resources". Discuss the statement in relation to their geological formations and associated quarrying and mining activities. [38]
+
+OR
+
+5b. Distinguish between the alluvial and the diluvial soils of India and explain their process of formation, characteristics and distribution pattern with examples. [38]
+
+
+6a. Discuss the causes and consequences of the out migration of population from Bihar and the measures taken by the STate to stabilize the population. [38]
+
+OR
+
+6b. Examine the ecological and economic benefits of solar energy generation in India with suitable examples. [38]
+
+
+*Section - III*
+
+7. Write short answer of the following questions:
+
+  a. Explain how science and technology is helping in agricultural productivity and food preservations. [6]
+
+  b. What is cyber crime? Write different types of cyber crime and explain how technology is helping to minimize such crimes? [6]
+
+  c. "We need science and technology in every sphere of life beginning from teh treatment of diseases, such as cancer to book a train/air ticket". Justify the statement. [6]
+
+  d. Describe how technology of DNA fingerprinting helps in the area of forensic science.
+
+  e. What is STEM educattion? Describe how it is useful in providing quality education in different regions of Bihar to prepare students for the future workforce. [6]
+
+  f. Explain how the drone technology in India is helping extensively in varous areas of national security. Justify with suitable examples.
+
+
+  8a. Discuss how the significant milestones, like Chandrayaan and Mangalyaan have enhanced the significance of India's space program globally? Also mention how these space mission are helpful in the sectors like agriculture, disaster management and urban planning. [36]
+
+  OR
+
+  8b. What do you understand be WiFi? Explain how it is helped in development of economy, infrastructure and higher education in India. [36]
+
+  
