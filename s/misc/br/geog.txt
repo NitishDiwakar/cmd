@@ -10,6 +10,7 @@ GOTO:soil
 
 
 IMG:Geology-of-Bihar.png
+IMG:Bihar-map.jpg
 
 Location on earth
   - 24°20'10" N to 27°31'15" N
@@ -63,12 +64,47 @@ TAG:soil
     - North Western part of West Champaran
     - Bhabar plains
     - Rocks and pebble are predominant
-    - brownish
-    - acidic
+    - Colour: brownish
+    - Nature: acidic
 
 2. Terai Soil
     - South of Someshwar range
     - Highest concentration - Araria
+    - Crops: rice
+
+3. Alluvial Soil
+  
+  3a. Khadar Soil (newer)
+  3b. Bhangar Soil (older)
+
+
+*Soils of North Bihar Plain*
+
+1. Old Alluvial Soil
+    - South Bihar, where flood water never reach
+    - Rohtas, Gaya, Aurangabad, Patna, Jehanabad, Munger, Bhagalpur
+    - heavy *Clay Soil*, - *Kewal soil*
+    - Colour: brown to yellow
+    - Nature: balanced with alkalinity and acidic
+
+2. Tal Soil
+    - Buxar to Banka
+    - remains water logged for months due to rain water
+    - Colour: light grey to dark grey
+    - Unsuitable for kharif growth
+    - Crops: Pulses, oilseed, wheat
+
+3. *Balthar Soil*
+    - AKA Red and Yellow soil
+    - between Chhotanagpur plateau and South Ganga plain
+    - Narrow belt extending from *Kaimur to Rajmahal hills*
+    - Colour: red (due to presence of iron)
+    - less fertile
+    - suitable for: Maize, jowar-bajra, gram
+
+4. Red Sandy Soil
+    - Kaimur and Rohtas
+    - High percentage of sand
 
 
 Someshwar fort 
