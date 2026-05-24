@@ -4,6 +4,10 @@ Tags  : #
 Descr :
 ============================
 
+TAG:top
+GOTO:divisions
+GOTO:soil
+
 
 IMG:Geology-of-Bihar.png
 
@@ -18,6 +22,7 @@ Length
   - 345 km (North to South)
   - 483 km (East to West)
 
+TAG:divisions
 *Divisions*
 
   Patna Division
@@ -46,6 +51,24 @@ Length
 
   Munger Division
     - Munger, Jamui, Khagaria, Lakhisarai, Begusarai, Sheikhpura
+
+
+GOTO:top
+TAG:soil
+*Soil*
+
+*Soils of North Bihar Plain*
+
+1. Piedmont Swamp Soil
+    - North Western part of West Champaran
+    - Bhabar plains
+    - Rocks and pebble are predominant
+    - brownish
+    - acidic
+
+2. Terai Soil
+    - South of Someshwar range
+    - Highest concentration - Araria
 
 
 Someshwar fort 
