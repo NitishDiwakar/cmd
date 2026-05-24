@@ -14,6 +14,7 @@ GOTO:78th-Cannes-Film-Award-2025
 GOTO:97th-Oscar-2025
 GOTO:68th-Grammy-Award-2026
 GOTO:67th-Grammy-Award-2025
+GOTO:70th-Filmfare-2025
 GOTO:69th-Filmfare-2024
 GOTO:76th-Emmy-Award-2024
 GOTO:55th-International-Film-Festival-Goa-2024
@@ -181,6 +182,23 @@ Song of the Year
   - Kendrick Lamar (Not Like Us)
 
 Indo-American *Chandrika Tandon* won the Grammy Award in the Best New Album category for her album 'Triveni'.
+
+
+GOTO:top
+TAG::70th-Filmfare-2025
+*70th Filmfare - 2025*
+Best Film
+  - Laapataa Ladies
+
+Best Director
+  - Kiran Rao
+
+Best Actor
+  - Abhishek Bachchan (Want to Talk)
+  - Kartik Aryan (Chandu Champion)
+
+Best Actress
+  - Alia Bhatt (Jigra)
 
 
 GOTO:top

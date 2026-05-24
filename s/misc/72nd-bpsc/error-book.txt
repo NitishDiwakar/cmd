@@ -1,0 +1,19 @@
+============================
+Title : 72nd bpsc - Error book
+Tags  : #
+Descr : Topics need revision
+============================
+
+TAG:top
+GOTO:polity
+
+
+TAG:polity
+  - Money bill
+  - Writs 
+  - Center-state relation
+  - No confidence motion
+      - Ag. entire ministry only
+      - Lok sabha: 50 members sign
+  - Preamble (rote it)
+  - 
