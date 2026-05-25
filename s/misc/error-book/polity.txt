@@ -1,14 +1,10 @@
 ============================
-Title : 72nd bpsc - Error book
+Title : Error book - Polity
 Tags  : #
 Descr : Topics need revision
 ============================
 
-TAG:top
-GOTO:polity
-
-
-TAG:polity
+Polity
   - Money bill
   - Writs 
   - Center-state relation
