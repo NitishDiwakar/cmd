@@ -4,6 +4,68 @@ Tags  : #data #br
 Descr : 
 ============================
 
+
+*Bihar Economic Survey 2025-26*
+
+Bihar's Economic growth 
+  -> 14.9% (India: 12%)
+
+GSDP for 2024-25
+  - Current price: ₹9,91,997 crore (13.1% ↑)
+  - Constant price: ₹5,31,372 crore (8.6% ↑)
+
+Per capita income
+  - ₹76,490 (Current price)
+  - ₹40,973 (Constant price)
+
+Bihar's per capita NSDP at constant prices (2011-12)
+  - ₹36,342 (31.7% of the all india average for states)
+
+
+Contributions
+  - Primary   : 18.3% 
+  - Secondary : 26.8%
+  - Tertiary  : 54.8%
+
+Sectoral growth
+  - Primary   : 9.6%
+  - Secondary : 15.5%
+  - Tertiary  : 13.5% at current, 8.9% at constant
+
+
+Bihar's Economy growth (2024-25)
+  - Current Price: 15.5%
+  - Constant Price: 11.1%
+
+*Key points*
+  - 20th Economic Survey of the state
+  - Per Capita GSDP 
+     at Current price ↑
+     ₹46,412 (in 2020-21) to *₹76,490* (in 2024-25)
+
+     at Constrant price (2011-12) ↑
+     ₹30,159 (in 2020-21) to *₹40,973* (in 2024-25)
+
+  - Highest per capita GDP (at current price)
+    Patna (₹2,42,200) > Begusari (₹1,05,600) > Munger (₹93,921)
+
+  - Capital expenditure in total expentiture by State gvmt ↑
+    15.8% (in 2020-21) to *22.3%* (in 2024-25)
+
+  - Revenue expenditure ↓
+    84.2% to 77.7%
+
+  - Receipts by state gvmt in its revenue account ↑
+    ₹1.28 lakh crore (in 2020-21) to ₹2.18 lakh crore (in 2024-25)
+
+  - Share of agri, forestory and fishing together
+    *23.1%*
+
+
+
+
+
+_________________________________
 Constant price - GSDP growing
   - 8.6%
 Current price
@@ -15,15 +77,9 @@ growth over previous year
   - 22% 
 
 
-Contributions
-  - Tertiary  : 54.8%
-  - Secondary : 26.8%
-  - Primary   : 18.3% 
 
-Sectoral growth
-  - Tertiary  : 13.5%
-  - Secondary : 15.5%
-  - Primary   : 9.6%
+
+
 
 
 Revenue surplus estimated
