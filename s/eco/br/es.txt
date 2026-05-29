@@ -39,27 +39,58 @@ Bihar's Economy growth (2024-25)
 
 *Key points*
   - 20th Economic Survey of the state
-  - Per Capita GSDP 
-     at Current price ↑
-     ₹46,412 (in 2020-21) to *₹76,490* (in 2024-25)
 
-     at Constrant price (2011-12) ↑
-     ₹30,159 (in 2020-21) to *₹40,973* (in 2024-25)
+*Per Capita GSDP*
+  Current price
+  2020-21: ₹46,412 
+  2024-25: *₹76,490*
 
-  - Highest per capita GDP (at current price)
-    Patna (₹2,42,200) > Begusari (₹1,05,600) > Munger (₹93,921)
+  Constrant price (2011-12)
+  2020-21: ₹30,159 
+  2024-25: *₹40,973* 
 
-  - Capital expenditure in total expentiture by State gvmt ↑
-    15.8% (in 2020-21) to *22.3%* (in 2024-25)
+Highest per capita GSDP (at current price)
+  - Patna (₹2,42,200) > Begusari (₹1,05,600) > Munger (₹93,921)
 
-  - Revenue expenditure ↓
-    84.2% to 77.7%
+Lowest per capita GSDP
+  - Sheohar (₹22,047) < Araria (₹23,670) < and Sitamarhi (₹24,332)
 
-  - Receipts by state gvmt in its revenue account ↑
-    ₹1.28 lakh crore (in 2020-21) to ₹2.18 lakh crore (in 2024-25)
+Capital expenditure in total expentiture by State gvmt ↑
+  - 15.8% (in 2020-21) to *22.3%* (in 2024-25)
 
-  - Share of agri, forestory and fishing together
-    *23.1%*
+Revenue expenditure ↓
+  - 84.2% to 77.7%
+
+Receipts by state gvmt in its revenue account ↑
+  - ₹1.28 lakh crore (in 2020-21) to ₹2.18 lakh crore (in 2024-25)
+
+Share of agri, forestory and fishing together
+  - *23.1%*
+
+
+[Power Sector]
+
+Per capita electricity consumption 
+  2011-12: 134 kWh
+  2024-25: *374 kWh*
+
+AT&C Losses
+  2013-14: 42.99%
+  2024-25: 15.54%
+
+
+[Agriculture growth]
+
+Agriculture
+  Rice production ↑ 4.3%
+  Wheat production ↑ 7.1%
+  Maize production ↑ 12.6%
+
+Animal Husbandry & Fisheries
+  Milk production ↑ 4.2%
+  Egg production ↑ 10.0%
+  Fish production ↑ 9.9%
+
 
 
 
