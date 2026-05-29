@@ -4,6 +4,9 @@ Tags  : #
 Descr :
 ============================
 
+TAG:top
+GOTO:rivers-old-and-new-names
+
 Vikramshila University 
 	- Dharmapala
 
@@ -49,3 +52,20 @@ By which name Firos Shah Tughluq translated Sanskrit works into Persian
 *रस चिकित्सा*
   - Nagarjuna
 
+
+GOTO:top
+TAG:rivers-old-and-new-names
+*Rivers - old nad new names*
+
+Vitasa - Jhelum
+Asikini - Chenab
+Parushni - Ravi
+Yavyavati - Zhob (Baluchistan)
+
+
+Sabha and Samiti, daughter of 
+  - Prajapati
+
+Jabalopanisada
+  - 1st mentioned Ashrama
+  - Sage Yajnavalkya

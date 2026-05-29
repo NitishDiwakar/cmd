@@ -84,6 +84,7 @@ TAG:geography
   - NCERT (6-12)
   - Lucent
   - GC
+  - Indian Minerals Yearbook 2023
 
 
 TAG:polity

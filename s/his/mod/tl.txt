@@ -75,8 +75,12 @@ Descr :
 
 1918
   - Ahmedabad Mill Strike
-    - Gandhi's first hunger strike
-    - Founded Labour Association
+      Gandhi's first hunger strike
+      Founded Labour Association
+
+  - United Province Kisan Sabha 
+      Indra Narayan Dwivedi
+      Gauri Shankar Mishra
 
 1919
   - Rowlatt Act
@@ -187,6 +191,8 @@ Descr :
     - Stafford Cripps
 
   - Royal Indian Navy Revolt
+
+  - Tebhaga Movement (September)
 
 1947
   - February: Announcement by British PM Clement Attlee

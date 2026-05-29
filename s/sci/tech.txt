@@ -1,0 +1,19 @@
+============================
+Title : Science - Tech
+Tags  : #imp
+Descr : 
+============================
+
+'Artificial Intelligence'
+  - Coined by: John McCarthy (1955)
+
+URL
+  - Uniform Resource Locator
+
+
+*Chatbots*
+
+Suman Sakhi Chatbot
+  - health
+
+

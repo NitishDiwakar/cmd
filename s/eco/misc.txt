@@ -4,6 +4,11 @@ Tags        : #noview #nomail
 Description :
 =================================
 
+New base year
+  - GDP: 2022-23 (earlier: 2011-12)
+  - IIP: 2022-23
+  - CPI: 2024
+
 Plan holiday
   -> 1966-69
 

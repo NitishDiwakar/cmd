@@ -255,7 +255,7 @@ The Dreamland
   - Lala Ramsaran Das
 
 The Philosophy of Bomb
-  - Bhagwati Charan Vohra
+  - Bhagwati Charan Vohra (requested by Chandrasekhar Aazad)
 
 Annihilation of Caste
   - B.R. Ambedkar
@@ -463,3 +463,5 @@ The Searchlight
   - Sachidananda Sinha
   - Bihar based
 
+The Secret Doctrine
+  - H.P. Blavatsky

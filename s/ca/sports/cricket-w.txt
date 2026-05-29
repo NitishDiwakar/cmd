@@ -1,10 +1,14 @@
 ============================
-Title : Women Premiere League
+Title : Women Cricket
 Tags  : #
 Descr :
 ============================
 
-[2026]
+Women's T20 World Cup 2026
+  - England and Wales
+  - June 12 to July 5
+
+[Women IPL 2026]
 Date         : 9 Jan to 5 Feb 2026
 Teams        : 5 (Delhi, Gujarat, Mumbai, RCB, UP Warriorz)
 Winner       : *RCB* (2nd title)
@@ -15,7 +19,7 @@ Most Wickets : *Sophie Devine* - Guj (17)
 Final        : Vadodara
 _____________________________
 
-[2025]
+[Women IPL 2025]
 Winner       : MI
 Runner       : Delhi
 POT          : Nat Sciver-Brunt (MI)
