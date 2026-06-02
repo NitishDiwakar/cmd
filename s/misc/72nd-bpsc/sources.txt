@@ -7,7 +7,8 @@ Descr :
 TAG:top
 GOTO:current
 GOTO:br-spl
-GOTO:science
+GOTO:science-physics
+GOTO:science-chemistry
 GOTO:ancient-history
 GOTO:medieval-history
 GOTO:modern-history
@@ -39,13 +40,30 @@ TAG:br-spl
   - Manish Ranjan (selective)
 
 
-TAG:science
-*Science*
+TAG:science-physics
+*Science - Physics*
 
-  - NCERT (6-12th)
+  - Dharmendra Sir classes notes revision
+  - PramIAS PYQ
+  - CDS PYQ
+  - UPSC PYQ
+  - Ghatna Chakra
+  - NCERT (9-10) thouroughly
+  - NCERT (11-12) selective
+  - Lucent 
+
+
+TAG:science-chemistry
+*Science - Chemistry*
+
+  - PramIAS PYQ
+  - Rahul Paliwal Lectures
+  - CDS PYQ
+  - UPSC PYQ
+  - NCERT (9-10) thouroughly
+  - NCERT (11-12) selective
   - Lucent
-  - GC
-  - Pram IAS PYQ
+
 
 TAG:ancient-history
 *Ancient History*
