@@ -55,9 +55,7 @@ New English School; Deccan Education Society;
     - Gopal Ganesh Agarkar; Tilak
 
 
-11
-  Org name:
-    - The Servants of India Society
+The Servants of India Society
   Founded by:
     - Gopal Krishna Gokhale (1866–1915)
   More info:
@@ -65,9 +63,7 @@ New English School; Deccan Education Society;
     - After Gokhale: Srinivas Shastri
 
 
-12
-  Org name:
-    - Social Service League
+Social Service League
     - All India Trade Union Congress (1920)
   Founded by:
     - Narayan Malhar Joshi
@@ -75,18 +71,25 @@ New English School; Deccan Education Society;
     - Follower of Gokhale
 
 
-13
-  Org name:
-    - Ramakrishna Mission (1897)
+Ramakrishna Mission (1897)
   Founded by:
     - Swami Vivekananda
 
 
-14
-  Org name:
-    - Arya Samaj (1875)
+Arya Samaj (1875)
   Founded by:
     - Dayananda Saraswati
 
 
-15
+Deoband movement (1866)
+  - Muhammad Qasim Nanautavi
+  - Rashid Ahmad Gangohi
+
+Ramkrishna Mission (1897, 1st May)
+
+Hindu Mela in Calcutta (1867)
+  - AKA: Chaitra Mela
+  - Nabagopal Mitra
+  - Rajnarayan Basu
+  - Manmohan Bose
+
