@@ -4,6 +4,7 @@ Tags  : #
 Descr :
 ============================
 
+*PART I (1-4) - The Union and its Territory*
 Art. 1 (1)
   - India, that is Bharat shall be a union of states
 Art. 2
@@ -15,6 +16,8 @@ Art. 3
     - (c) ↓ area
     - (d) alter the boundaries
     - (e) alter the name of any State
+
+*PART II (5-11) - Citizenship*
 Art. 5
   - (a) born in territory of India
   - (b) either his parents was born in territory of India
@@ -30,6 +33,10 @@ Art. 10
 
 Art. 11
   - Parliament to regulate
+
+*PART III (12-35) - FR*
+Art. 12
+  - Definition
 Art. 13
   - Laws inconsistent with or in derogation of the FR
 Art. 14
@@ -88,6 +95,10 @@ Art. 33
   - (d) telecommunication systems for forces
 Art. 34
   - Martial Law
+Art. 35
+  - Legislation to give effect to the provisions of this Part
+
+*PART IV (36-51) - DPSP*
 Art. 36
   - DPSP
 Art. 37
@@ -137,6 +148,7 @@ Art. 51
    (c) respect international law
    (d) settlement by arbitration
 
+*PART IV A (51A) - FD*
 *Art. 51A*
    (a) respect constitution, flag, anthem
    (b) cherish ideals
@@ -150,6 +162,7 @@ Art. 51
    (j) strive towards excellence
    (k) provide education to child 6-14
 
+*PART V (52-151) - The Union*
 Art. 52
   - President of India
 Art. 53
@@ -268,6 +281,7 @@ Art. 143
 Art. 148
   - CAG
 
+*PART VI (152-237) - The States*
 Art. 153
   - Governors
 Art. 154
@@ -309,11 +323,16 @@ Art. 227
 Art. 231
   - Power to establish a common High Court for two or more states
 
+*PART VII (238) - The STates in Part B of the 1st Schedule*
+  - Repealled
+
+*PART VIII (239-242) - The UT*
 Art. 239
   - UT administration
 Art. 241
   - High courts for UT
 
+*PART IX (243-243-o) - The Panchayats*
 *Art. 243*
    A Gram Sabha
    B Constitution of Panchayats
@@ -333,6 +352,7 @@ Art. 241
    O Bar to court interference
 
 
+*PART IX A (243p-243zg) - The Municipalities*
 Art. 243P
   - Municipalities definitions
 
@@ -350,6 +370,12 @@ Art. 243P
      ZD *District planning*
      ZE Metropolitan planning
      ZG Bar to court interference
+
+*PART IX B (243zh-243zt) - The Co-Operative Societies*
+
+*PART X (244-244a) - The Scheduled and Tribal Areas*
+
+*PART XI (245-263) - Relations Between The Union and The States*
 Art. 247
   - Additional court
 
@@ -360,6 +386,8 @@ Art. 262
   - Inter state water
 Art. 263
   - Inter state council
+
+*PART XII (264-300a) - Finance, Property, Contracts and Suits*
 Art. 266
   - Consolidated fund
 Art. 267
@@ -375,14 +403,25 @@ Art. 292
 Art. 293
   - Borrowing by state
 
+*PART XIII (301-307) - Trade, Commerce and Intercourse within Territory of India*
+
+
+*PART XIV (308-323) - Services Under the Union and The States*
+
 Art. 312
   - All India Service
+
+*PART XIV A (323a-323b) - Tribunals*
+
+*PART XV (324-329a) - Elections*
 Art. 324
   - EC
 Art. 325
   - Not to discriminate
 Art. 326
   - Adult franchise
+
+*PART XVI (330-342) - Special Provisions Relating to Certain Classes*
 Art. 330
   - SC/ST reservation LS
 
@@ -401,11 +440,14 @@ Art. 341
   - Schedule Caste
 Art. 342
   - ST
+
+*PART XVII (343-351) - Official Language*
 Art. 343
   - Official Language of Union
 Art. 345
   - Of state
 
+*PART XVIII (352-360) - Emergency Provisions*
 Art. 352
   - Emergency
   - Word *"Cabinet of Ministers"* used
@@ -416,6 +458,12 @@ Art. 356
 Art. 360
   - Financial emergency
 
+
+*PART XIX (361-367) - Miscellaneous*
+
+*PART XX (368) - Amendments*
+
+*PART XXI (369-392) - Temporary, Transitional and Special Provisions*
 
 *Art. 371*
   A - Nagaland
@@ -429,3 +477,6 @@ Art. 360
   H - Arunachal Pradesh
   I - Goa
   J - Karnataka
+
+
+*PART XXII (393-395) - Short Title, Commencement, Authoritative Text in Hindi and Repeals*

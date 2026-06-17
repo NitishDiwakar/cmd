@@ -402,11 +402,12 @@ Tirthankars
     - Siddhartha (Jnatrika clan)
     - Trishla (Sister of Lichchhavi chief Chetaka)
   Wife: Yasoda
-  Daughter: Anojja
+  Daughter: *Anojja*
 
   Kaivalya
     - Jimbhikagrama village
     - Under Sal tree
+    - Rijupalika river
   1st deciple
     - Jamali (son in law)
 
@@ -427,7 +428,7 @@ Councils
 
 Patrons
   South:
-    - Kadamba dynasty
+    - Kadamba dynasty (F: Mayurasharma, 345 CE)
     - Ganga dynasty
     - Amoghavarsha 
     - Kumarpala (Chalukya d.)
@@ -446,7 +447,8 @@ Philosophy
 
 Samba Shikharji
   - JH
-  - river: Shetrunji
+  - river: *Shetrunji*
+     (Origin: Chachai Hills of the Gir Forest in the Junagadh district of Gujarat)
   - Parasnath Hills
 
 
@@ -456,6 +458,7 @@ Samba Shikharji
   Parents: Suddhodana, Mayadevi
   1st teacher: *Alara Kalama*
   Chairoiteer: Channa
+  Mother: Mayadevi (Koliya clan)
 
 *Event & Symbol*
   Avakranti - White elephant
