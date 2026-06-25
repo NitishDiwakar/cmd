@@ -1,7 +1,9 @@
 ============================
-Title : NFHS-5
+Title : NFHS-5 & NFHS-6
 Tags  : #noview #nomail
 Descr :
 ============================
 
 prsindia: PDF:nfhs5-stats.pdf
+
+PDF:NFHS-6-Drishti.pdf

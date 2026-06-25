@@ -5,3 +5,29 @@ Descr :
 ============================
 
 IMG:russia.jpg
+
+Largest country
+  -> 11.5% of the Earth's total landmass
+
+Europe's Highest Peak
+  - Mount Elbrus (5,642 meters)
+
+World's Deepest Lake
+  - Lake Baikal in Siberia
+
+Europe's Longest River
+  - The Volga River
+
+Longest River in Russia
+  - Lena River
+
+Coldest Inhabited Place
+  - The village of Oymyakon in Siberia (-67.7°C)
+
+Most Land Borders
+  - With 16 sovereign nations
+
+Taiga Forest 
+  - Largest contiguous biome/forest on Earth
+  - 20% of world's total forest
+

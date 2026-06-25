@@ -6,4 +6,10 @@ Descr :
 
 IMG:australia.jpg
 
+Highest Peak
+  - Mount Kosciuszko (2,228 meters) in the Snowy Mountains of New South Wales
+
+Largest Coral System
+  - The Great Barrier Reef (2,300 km)
+
 
