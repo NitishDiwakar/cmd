@@ -5,6 +5,19 @@ Descr :
 ============================
 
 
+============================
+2026 T20 World Cup (Men's, 10th WC)
+============================
+Host
+  - India & Sri Lanka
+  - Winner: India
+  - Runner: NZ
+  - Teams: 20
+  - Matches: 55
+  - PoT: Sanju Samson
+  - Most Runs: Sahibzada Farhan (383)
+  - Most Wickets: Bumrah & Varun (14)
+
 
 ============================
 ICC Champions Trophy-2025
@@ -24,6 +37,27 @@ Player of the Match:
 
 Player of the Tournament:
   - Rachin Ravindra
+
+
+============================
+IPL 2026
+============================
+Teams: 10
+Matches: 74
+Most Valuable Player
+  - Vaibhav S. (RR)
+
+Most Runs 
+  - Vaibhav S. (776)
+
+Most Wickets
+  - Rabada (Guj, 29)
+
+Winner
+  - RCB
+
+Runner
+  - Guj. Titans
 
 
 ============================
