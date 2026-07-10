@@ -19,24 +19,31 @@ TAG:dynasty
 Brihadrath
 
 Haryank (544 BC - 413 BC)
-  - F: Bimbisar
+  - Founder: Bimbisar
   - Udayin (shifted capital to Patliputra)
+  - Last: Nagadasaka
 
 Shishunaga (413 BC - 345 BC)
   - Shishunaga (shifted capital to Vaishali)
   - Kalashoka (shifted capital to Patna)
+  - Last: *Mahanandin*
 
 Nanda (345 BC - 321 BC)
   - F: Mahapadma Nanda (Parshuram avtar)
 
 Maurya
 
-Sunga (185 BC - 75 BC)
+Sunga (185 BC - 75 \BC)
+  - F: Pushyamitra Sunga
+  - Last: Devabhuti
 
 Kanva
+  - F: Vasudeva Kanva (73 BC)
+  - Last: *Susarman*
 
 Gupta dynasty (320-550 CE)
   - F: Sri Gupta
+  - Last: Vishnugupta 
 
 Pushyabhuti dynasty (6th-7th Cen.)
   - Harshavardhan
