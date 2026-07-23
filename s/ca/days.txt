@@ -45,7 +45,9 @@ TAG:Feb
 FEBRUARY 
   1  - Indian Coast Guard Day
   2  - W. Wetlands Dayh
+     - Rheumatoid Arthritis Awareness Day
   4  - *W. Cancer Day*
+     - National Science Day
   6  - No Female Genital Mutilation
   8  - Safer Internet Day
   10 - W. Pulses Day
@@ -56,8 +58,10 @@ FEBRUARY
      - Darwin Day
   20 - *W. Social Justice Day*
      - Arunachal Foundation Day
+     - Int. Mother Language Day
   21 - W. Mother Language Day
   22 - W. Thinking Day
+  23 - W. Peace and Understanding Day
   24 - Central Excise Day
   27 - W. NGO Day
   28 - *National Science Day*
