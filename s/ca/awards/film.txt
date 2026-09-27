@@ -7,6 +7,7 @@ TAG:top
 
 GOTO:98th-Oscar-2026
 GOTO:83rd-Golden-Globe-Award-2026
+GOTO:72nd-National-Film-Award-2026
 GOTO:71st-National-Film-Award-2025
 GOTO:79th-BAFTA-2026
 GOTO:78th-BAFTA-2025
@@ -60,6 +61,59 @@ Best Actress
 
 Best Director
   - Paul Thomas Anderson
+
+GOTO:top
+TAG:72nd-National-Film-Award-2026
+*72nd National Film Award - 2026*
+
+Location: Ekta Nagar (Kevadia), Guj (1st time outside Delhi)
+
+Conferred By
+  - President Droupadi Murmu
+
+Jury Leadership: Jayaraj (11 member)
+
+Cash Prize
+  - ₹3 Lakh (Swarna)
+  - ₹2 Lakh (Rajat)
+
+Dadasaheb Falke Award
+  - Anant Nag (₹15 Lakh)
+
+Best Feature film
+  - Article 370 (Director: Aditya Suhas Jambhale)
+
+Best Actor in leading role
+  - Kartik Aryan (Chandu Champion)
+  - Mammootty, Malyali (Bramayugam)
+
+Best Actoress in leading role
+  - Yami Gautam (Article 370)
+
+Best Director
+  - Rajkumar Periyasamy (Tamil biographical film - Amaran)
+
+Best popular film providing wholesome entertainment
+  - Kalki 2898 AD (Telugu), Director: Nag Ashwin
+
+Best debut film of a Director
+  - Veer Sawarkar (Director: Randeep Hooda)
+
+Best non-feature film
+  - Bhangaar
+
+Best Supporting Actor
+  - Sanjay Mishra (Bhakshak)
+
+Best Feature Film Promoting National, Social and Environmental Values
+  - Captain Miller (Tamil)
+
+Best Screenplay (original)
+  - Sukumar (Pushpa 2)
+
+Best film critic
+  - Sanjeev Shrivastava
+
 
 GOTO:top
 TAG:71st-National-Film-Award-2025
