@@ -5,11 +5,40 @@ Descr :
 ============================
 
 
-Shankari Prasad Case, 1951
+*Shankari Prasad Case, 1951*
+  - Articles affected: Art. 13 and Art. 368
 
-Champakam Dorairajan Case, 1951
+  - The Case Core: The First Constitutional Amendment Act of 1951 was challenged on the ground that it violated Fundamental Rights (specifically the right to property under Article 31). The question was whether an amendment constitutes a "law" under Article 13(2).
 
-Golakhnath Case, 1967
+  - The Judicial Verdict: The Supreme Court ruled that the power to amend the Constitution under Article 368 includes the power to amend Fundamental Rights. It held that the word "law" in Article 13(2) refers only to ordinary statutory laws, not constitutional amendments. This defined the early functional scope of Article 13 and Article 368.
+
+
+
+*State of Madras Vs. Champakam Dorairajan Case, 1951*
+  - Articles Affected: Article 15 (Prohibition of discrimination) and Article 46 (Promotion of educational interests of SCs/STs).
+
+  - SC struck down a Madras Government communal order that reserved seats in medical and engineering colleges based on caste proportions.
+
+  - The Resulting Amendment: This judgment directly forced the Parliament to pass the 1st Constitutional Amendment Act (1951). It added Article 15(4), empowering the State to make special provisions for the advancement of socially and educationally backward classes, SCs, and STs
+
+
+*Golakhnath Case, 1967*
+  - Articles affected: Art. 13 and Art. 368
+
+  - The Case Core: The validity of the 17th Constitutional Amendment Act, which placed certain state land reform laws into the Ninth Schedule, was legally challenged
+
+  - SC ruled that Parliament cannot take away or abridge Fundamental Rights through constitutional amendments.
+
+  - 24th Constitutional Amendment Act (1971): edited Article 13 and Article 368 to state that nothing in Article 13 applies to amendments made under Article 368, giving Parliament unhindered power to amend any part of the Constitution.
+
+
+*Kesavananda Bharati v. State of Kerala (1973)*
+  - Art. affected: Art 31C and Art. 368
+  - Basic Structure Doctrine
+
+*Indira Nehru Gandhi v. Raj Narain (1975)*
+
+
 
 
 
