@@ -1,7 +1,7 @@
 ============================
 Title : Economy Survey - Bihar 
 Tags  : #data #br
-Descr : 
+Descr : Key data from Economy Survey (Bihar)
 ============================
 
 

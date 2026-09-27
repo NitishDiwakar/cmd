@@ -1,7 +1,7 @@
 ============================
 Title : Economy Survey  
 Tags  : #
-Descr : 
+Descr : Key data from Economy Survey (Union)
 ============================
 
 *Economic Survey 2025-26*
@@ -32,6 +32,7 @@ PFCE Growth:
 PFCE Share in GDP:
   61.5%
   (highest since 2011-12)
+  (PFCE = Private Final Consumption Expenditure)
 
 GFCF Growth:
   7.8%
