@@ -5,8 +5,11 @@ Descr : Computer Science
 ============================
 
 TAG:1-Digital-Logic
+1-Digital-Logic
 TAG:2-Computer-Organization-and-Architecture
+2-Computer-Organization-and-Architecture
 TAG:3-Programming-and-Data-Structure
+3-Programming-and-Data-Structure
 
 GOTO:1-Digital-Logic
 *Unit 1: Digital Logic*
