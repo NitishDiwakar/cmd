@@ -4,14 +4,11 @@ Tags  :
 Descr : Computer Science
 ============================
 
-TAG:1-Digital-Logic
-1-Digital-Logic
-TAG:2-Computer-Organization-and-Architecture
-2-Computer-Organization-and-Architecture
-TAG:3-Programming-and-Data-Structure
-3-Programming-and-Data-Structure
-
 GOTO:1-Digital-Logic
+GOTO:2-Computer-Organization-and-Architecture
+GOTO:3-Programming-and-Data-Structure
+
+TAG:1-Digital-Logic
 *Unit 1: Digital Logic*
 
   - Data and number systems
@@ -41,7 +38,8 @@ GOTO:1-Digital-Logic
   - Logic families - TTL, ECL, MOS and CMOS, their operation and specifications
 
 
-GOTO:2-Computer-Organization-and-Architecture
+GOTO:TOP
+TAG:2-Computer-Organization-and-Architecture
 *Unit 2: Computer Organization and Architecture*
 
   - Introduction to Data Representation and Number System: Introduction to Decimal, Binary, Octal, Hexadecimal number system
@@ -69,7 +67,8 @@ GOTO:2-Computer-Organization-and-Architecture
   - Arithmetic Logic Unit: Half Adder, Full Adder, Binary Adder,2’s Complement Adder Subtractor
 
 
-GOTO:3-Programming-and-Data-Structure
+GOTO:TOP
+TAG:3-Programming-and-Data-Structure
 *Unit 3: Programming and Data Structure*
 
   - Data, Entity, Information, Difference between Data and Information, Data type , Build in data type, Abstract data type
