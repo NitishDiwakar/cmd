@@ -7,6 +7,7 @@ Descr :
 TAG:top
 GOTO:71st
 GOTO:70th
+GOTO:69th
 
 
 TAG:71st
@@ -257,3 +258,65 @@ IMG:70th-gs-i-q8-or.png
   d. What percentage of export should be increased by the companies X and Y in the year 1996, so that their export becomes double of the export done by company Z in the year 1996?
 
   e. If in 1992, the export by the company Z was 30% less than that in 1993 and the export by the company X was 30% more than in 1993, then what was the difference (in Rs. crores) between the exports by the companies Z and X in the year 1992? [8]
+
+
+GOTO:top
+TAG:69th
+*69th*
+
+*Section - I*
+
+1. Write Short notes on the following:
+
+  a. Indian Councils Act, 1892
+
+  b. Santhal Uprising
+
+  c. Champaran Satyagraha
+
+  d. Art and Architecture of Mauryan Period
+
+  e. Cave Paintings of Eastern Indian in Ancient Period
+
+2a. "Bihar has been the centre of learning and spiritualism for ancient time." Explain in detail. [38 marks]
+
+OR
+
+2b. Evaluate the Champaran Indigo Movement and explain its impacts on the Indian Freedom Struggle. [38]
+
+3a. Critically examine the contribution of moderate phase of the Indian National Congress Movement. [38 marks] 
+
+OR
+
+3b. Trace the development of modern edcation in Bihar and its impact. [38 marks]
+
+
+*Section - II*
+
+4. Answer the following questions:
+
+ a. Explain the concern of the Supreme Court of India on combating gender stereotypes.
+
+ b. Examine the relevance of the Bhartiya Nagarik Suraksha Sanhita, 2023 in Indian governance system.
+
+ c. Evaluate the role of Artificial Intelligence in decision-making process of the Legislative institutions. 
+
+ d. Describe the parameters and impacts of the Global Wage Report, 2022-23.
+
+ e. What are the basic provisions of the Foreign Trade Policy, 2023 regarding export promotion initiatives in India?
+
+
+5a. Provide a brief overview of the Manipur crisis. In your view, what could be the potential repercussion of this ethno-religious conflict on the landscape of national politics? Comment. [38 marks]
+
+OR
+
+5b. How does India's leadership within the G-20 reflect its commitment upholding the ancient philosophy of 'Vasudhaiva Kutumbakam' (the world is one family)? Examine the ways in which India's approach alighs with this philosophy and contributes to global cooperation and development through its role in the G-20.  [38 marks]
+
+6a. What could be the potential positive and negative societal consequences of introducing a Uniform Civil Code in India, considering its rich diversity? Explain. [38 marks]
+
+6b. How does India's growing status as an emerging space power align with its ambitions and achievement in space exploration, particularly in the context of Chandrayaan-3 mission by ISRO? Discuss the mission's goals and its role in India's jouney towards becoming a prominent player in the global space arena. [38 marks]
+
+
+*Section - III*
+  [see pdf of PYP]
+

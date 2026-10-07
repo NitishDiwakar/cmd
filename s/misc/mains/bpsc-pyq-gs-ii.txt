@@ -7,6 +7,7 @@ Descr :
 TAG:top
 GOTO:71st
 GOTO:70th
+GOTO:69th
 
 
 TAG:71st
@@ -180,3 +181,78 @@ OR
   8b. What do you understand be WiFi? Explain how it is helped in development of economy, infrastructure and higher education in India. [36]
 
   
+GOTO:TOP
+TAG:69th
+*69th*
+
+*Section - I*
+
+1. Write short answer of the following questions:
+
+ a. Critically examine the basic structure theory regarding the Indian Constitution.
+
+ b. Is reservation for Economically Weaker Sections (EWS) justified? Comment.
+
+ c. Critically describe about the amendment process of the Indian Constitution. 
+
+ d. Explain how Preamble of the Indian Constitution provides a blueprint about the goals of the Constitution.
+
+ e. Describe how caste census is going the influence the politics of Bihar.
+
+
+2a. Discuss the institutional relationship between the President and the Prime Minister as per the Indian Constitutional text. Discuss their changing role in the present context. [38]
+
+OR
+
+2b. "Indian federalism is fundamentally rooted in two simultaneous pursuits of nationhood : an embrace of state-based cultural diversities and a commitment to the larger Indian political community." Examine critically the nature of Indian model of federalism in the light of the above statement. [38 marks]
+
+
+3a. Discuss and analyze the fundamental principles of coalition Politics in Bihar from the point of view of the fulfilment of the national interests specifically. [38 marks]
+
+3b. Elucidate and evaluate the local government and its working from the point of view of the empowerment of the Panchayat Raj and the City Institutions with the examples from the grassroot level in Bihar. [19+19 = 38]
+
+
+*Section - II*
+
+4. Write short answer of the following questions:
+
+ a. Analyze the mechanisma and characteristics of Indian monsoon system.
+
+ b. What are the sources of energy in India? Are they sufficient to meet domestic needs? What are the possible alternative sources of energy for India? Present a critical review. [38 marks]
+
+ c. Discuss the state of tourism industry in India and analyze its future in the country.
+
+ d. Describe the distribution of Scheduled Caste and Scheduled Tribe population in Bihar and comment on their level of socio-economic conditions.
+
+ e. Divide India into major physiographic divisions and describe the region in which the land of Bihar State is included.
+
+
+5a. Explain the factors affecting the climate of Bihar. In what way and in how many parts the agro-climatic zone has been divided in the State? How many seasons are found here in a yar? Discuss the effect of these seasons on agriculture.
+
+5b. How are cities classified by the Directorate of Population in India? Throw light on the total population and their rate of growth as per 2011 Census of various classified cities. Discuss the population of Bihar as per 2011 Census and also throw light on the trend of working population in the State. [38]
+
+
+6a. Explain 'trickle-down' theory of economics, its major elements, benefits limitations and criticism in context to Indian planning.
+
+6b. Describe 'monsoon system of India', its nature, types, climate change, distribution, synonyms, east and west jet stream and feasibility. [38 marks]
+
+
+*Section - III*
+
+7. Write short answer of the following questions:
+
+ a. What is the role of computer in modern society?
+
+ b. Which suitable examples, discuss the relationship between technology and social development. 
+
+ c. Discuss the role of science and technology in industiral development of Bihar.
+
+ d. Discuss how modern technology helped us during corona pandemic.
+
+ e. Write a note on the role of technology in sustainable development. 
+
+
+8a. Misuse of technology and its wrong application lead to pollute the environment and cause climate changes. Discuss with suitalbe examples, how misuse of technology has become a curse to the environment of India. [36]
+
+8b. Nanotechnologies have a huge potential to revolutionise our life. Discuss the emerging applications of nanotechnology in human health. [36 marks]
+
