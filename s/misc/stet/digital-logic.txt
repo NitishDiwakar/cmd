@@ -1,0 +1,195 @@
+============================
+Title : Digital Logic
+Tags  : 
+Descr : 
+============================
+
+[Syllabus]
+  - Data and number systems
+  - Binary, Octal and Hexa decimal representation and their conversions 
+  - BCD,ASCII, EBDIC, Gray codes and their conversions
+  - Signed binary number representation with 1’s and 2’s complement methods 
+  - Binary arithmetic
+  - Venn diagram
+  - Boolean algebra
+  - Various Logic gates-their truth tables and circuits
+  - Representation in SOP and POS forms
+  - Minimization of logic expressions by algebraic method
+  - Kmap method
+
+  - Combinational circuits-Adder and Subtractor circuits
+  - Applications and circuits of Encoder ,Decoder, Comparator ,Multiplexer, De-Multiplexer, rand Parity Generator. 
+
+  - Memory Systems : RAM ,ROM, EPROM, EEROM, Design of combinational circuits-using ROM, Programming logic devices and gate arrays. (PLAs and PLDs) 
+
+  - Sequential Circuits-Basic memory element-S-R, J-K,D and T Flip Flops
+  - Various types of Registers and counters and their design
+  - Irregular counter
+  - State table and state transition diagram
+  - Sequential circuits design methodology. 
+
+  - Different types of A/D and D/A conversion techniques
+  - Logic families - TTL, ECL, MOS and CMOS, their operation and specifications
+
+
+*PYQ*
+Q1. In Karnaugh Maps, which of the following terms refers to a group of adjacent cells that can be combined to simplify a logic expression?
+
+ A. Block
+ B. Cluster
+ C. Pair
+ D. Group ✔
+
+
+Q2. Which type of adder is designed to overcome the propagation delay issues in ripple carry adders and generate carry signals more efficiently?
+
+ A. Ripple Carry Adder
+ B. Carry Look-Ahead Adder ✔
+ C. Binary Adder
+ D. Half Adder
+
+
+Q3. To convert a Gray Code to its binary equivalent, which technique is commonly used?
+
+ A. Subraction method
+ B. Addition method
+ C. Exclusive OR (XOR) operation ✔
+ D. Division method
+
+
+Q4. Which technology offers the highest level of customization for implementing digital logic circuits?
+
+ A. ROM-based design
+ B. PLA-based design
+ C. FPGA-based design ✔
+ D. Gate Array-based design
+
+
+Q5. How many inputs does a full-adder circuit have for each individual binary digit being added or subtracted?
+
+ A. 1 input
+ B. 2 inputs
+ C. 3 inputs ✔
+ D. 4 inputs
+
+
+Q6. Convert the Boolean Function F(A,B,C) = Π(0,2,4,5,7) to its simplified POAS form
+
+ A. A + B + C
+ B. A + B' + C
+ C. A'B'C'
+ D. (A+B)(A+C')(B+C) ✔
+
+
+Q7. What is the key advantage of using a carry-lookahead adder instead of a ripple-carry adder?
+
+ A. Simplicity of design
+ B. Faster propagation delay ✔
+ C. Lower power consumption
+ D. Reduced gate count
+
+
+Q8. What is the primary purpose of using Don't Care condition in Karnaugh Map simplification?
+
+ A. To mark cells that should not be included in the simplification process ✔
+ B. To indicate cells that have an undefined logic value
+ C. To identify cells that are already in their simplest form
+ D. To mark cells with special logic functions
+
+
+Q9. Given the Boolean expression F(A,B,C,D) = Σ(0,1,2,3,8,9,10,11), what is the simplified expression using the albebraic method?
+
+ A. A + B + C + D ✔
+ B. AB + AC + AD + BC + BD + CD
+ C. AB + CD
+ D. A'BC'D + ABC'D + A'BCD + ABCD
+
+
+Q10. In a PLA, what components are used to implement the combinational logic functions?
+
+ A. AND gates or OR gates ✔
+ B. NAND gates and XOR gates
+ C. NOR gates and XNOR gates
+ D. NOT gates and multiplexer
+
+
+Q11. Which Karnaugh Map simplification technique involves grouping cells that are not adjacent but share a common variable value?
+
+ A. Pair simplification ✔
+ B. Quad simplification
+ C. Octet simplification
+ D. Group simplificaiton
+
+
+Q12. What is the simplified expression for the Boolean function F(A,B,C,D) = Σ(0,1,2,4,5,6,8,9,10,12,13,14) using the K-map method?
+
+ A. A'B'C'D' + A'B'C'D + A'BC'D + ABCD ✔
+ B. A'B'C'D' + A'BC'D + AB'C'D + ABCD 
+ C. A'B'C'D' + A'BC'D + ABC'D + ABCD 
+ D. A'B'C'D' + A'BC'D' + A'BCD + ABCD
+
+
+Q13. In PLA what components are used to implement the combinational logic functions?
+
+ A. AND gates and OR gates ✔
+ B. NAND gates and XOR gates
+ C. NOR gates and XNOR gates
+ D. NOT gates and multiplexers
+
+
+Q14. Which type of register is primarily used to temporarily hold data during arithmetic and logical operations in a microprocessor?
+
+ A. Shift register
+ B. Parallel register
+ C. Accumulator register ✔
+ D. Counter register
+
+
+Q15. Which logic family uses both depletion and enhancement model MOSFETs for its operation?
+
+ A. TTL
+ B. ECL
+ C. PMOS
+ D. CMOS ✔
+
+
+Q16. Given a Boolean Function F(A,B,C) = Σ(0,1,2,3,5), what is the expression in SOP form?
+
+ A. A'B' + AB' + AB + AC ✔
+ B. A + B + C
+ C. AB' + C'
+ D. A'B'C'
+
+
+Q17. If the sum of two positive binary numbers in 11010 and there is a carry-out from the MSB, what should be done to obtain the correct result?
+
+ A. Discard the carry
+ B. Add the carry to the least significant bit (LSB) ✔
+ C. Add the carry to the most significant bit (MSB)
+ D. Subtract the carry from the MSB
+
+
+Q18. In binary multiplication using the simple method, what is the first step after aligning the digits and preparing for multiplication?
+
+ A. Multiply the least significant bit (LSB) by the multiplier
+ B. Multiply the most significant bit (MSB) by the multiplier
+ C. Multiply the least significant bit (LSB) by the multiplicand
+ D. Multiply the most significant bit (MSB) by the multiplicand
+
+
+Q19. What is the relationship between the distance between parity bits and their error detection and correction capability in Hamming Code?
+
+ A. Closer parity bits provide higher error correction capability
+ B. Closer parity bits provide lower error correction capability
+ C. Distance between parity bits has no impact on error correction capability
+ D. The position of parity bits is irrelevant in Hamming Code
+
+
+Q20. To convert a Gray Code to its binary equivalent, which technique is commonly used?
+
+ A. Subtraction method
+ B. Addition method
+ C. Exclusive OR (XOR) operation
+ D. Division method
+
+
