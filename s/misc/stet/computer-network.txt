@@ -1,0 +1,237 @@
+============================
+Title : Computer Network
+Tags  : 
+Descr : 
+============================
+
+[Syllabus]
+  - Introduction to Data Communication and Computer Network
+  - Network Topologies
+  - classification of computer network
+  - Parallel & Serial Transmission
+  - Transmission Models
+
+  - Transmission Channel
+  - Data Rate
+  - Bandwidth Signal Encoding Schemes
+  - Data Compression
+  - Transmission Impairments
+  - Layering and Design Issues
+  - OSI Model and TCP/ IP model. 
+
+  - Data Link Layer: Need for Data Link Control
+  - Frame Design Consideration, 
+  - Flow Control & Error Control
+  - MAC sublayer
+  - contention based and polling based MAC protocols. 
+
+  - Network Layer: Routing, 
+  - Congestion control, 
+  - Internetworking principles, 
+  - Internet Protocols (IPv4, packet format, Hierarchal addressing sub netting, ARP, PPP), 
+  - Bridges, 
+  - Routers
+  - Classless IP address
+
+  - Datalink Layer: Process to process communication
+  - Socket meaning and socket address
+  - Upward and downwards multiplexing 
+  - UDP and TPDU
+  - Application Layer: HTTP, FTP, Telnet, SMTP, SNMP
+
+
+*PYQ*
+Q1. Which version of IP address is most suitable for IoT?
+
+ A. IP V4
+ B. IP V5
+ C. IP V6 ✔
+ D. IP V7 
+
+
+Q2. Frame design in the Data Link Layer includes:
+
+ A. Deciding the routing path for data packets
+ B. Defining the structure of data frames ✔
+ C. Assigning IP addresses to devices
+ D. Setting the data transmission rate
+
+
+Q3. Which Internet Protocol is responsible for mapping IP addresses to MAC addresses?
+
+ A. ARP ✔
+ B. TCP
+ C. ICMP
+ D. DNS
+
+
+Q4. ____ uses packet switching technology to carry voice traffic over an IP network where each packet follows best route to reach its destination.
+
+ A. E-mail
+ B. HTTP
+ C. VoIP ✔
+ D. SMTP
+
+
+Q5. ZigBee architecture has ___ layers?
+
+ A. 4
+ B. 5 ✔
+ C. 6
+ D. 7
+
+
+Q6. Process-to-process communication involves communication between:
+
+ A. Different network layers
+ B. Different devices on the same network
+ C. Devices using different protocols
+ D. Processes on different devices ✔
+
+
+Q7. A socket is using for:
+
+ A. Physical data transmission
+ B. Process-to-process communication ✔
+ C. Storing network protocols
+ D. Network management
+
+
+Q8. The default baud rate of Modbus RTU is?
+
+ A. 19600
+ B. 19200 ✔
+ C. 38400
+ D. 57600
+
+
+Q9. Which of the following IP address is valid?
+
+ A. 122.94.96.212 ✔
+ B. 212.254.258.210
+ C. 210.10.12.156.209
+ D. 122.294.56.68
+
+
+Q10. ___ are the set of rules that governs how data can be transmitted over world wide web.
+
+ A. Hyper Text Transfer Protocol ✔
+ B. Encryption Standards
+ C. Cyber forensic
+ D. Digital Certificates
+
+
+Q11. What is the primary purpose of data compression in data communication?
+
+ A. To increase latency
+ B. To reduce bandwidth usage ✔
+ C. To decrease error rates 
+ D. To improve security
+
+
+Q12. Which network device serves as the entry and exit point of a network, as all data coming in or going out of a network must first pass through it?
+
+ A. Modern
+ B. Gateway
+ C. Switch
+ D. Repeater ✔
+
+
+Q13. Which of the following is the correct expansion of SMS?
+
+ A. Short Message Service ✔
+
+
+Q14. True/False statement about Media Access Control (MAC) Address?
+
+ A. It can be changed if a node is removed from one network and connected to another network. -> False
+ B. Each MAC address is a 12-digit hexadecimal number -> True
+ C. It is a unique value associated with a network adapter called NIC. -> True
+ D. It is provided by the Internet Service Provider to locate computer connected to internet. -> False
+
+
+Q15. Hierarchical addressing in the Network Layer allows for:
+
+ A. More efficient use of IP addresses ✔
+ B. Dynamic allocation of MAC addresses 
+ C. Faster data transmission rates 
+ D. Reduced latency in data communication
+
+
+Q16. The OSI model consists of how many layers?
+
+ A. 5
+ B. 6
+ C. 7 ✔
+ D. 8
+
+
+Q17. Which protocol provides connectionless communication with minimal overhead?
+
+ A. TCP
+ B. UDP ✔
+ C. IP
+ D. HTTP 
+
+
+Q18. TPDU (Transport Protocol Data Unit) refers to:
+
+ A. A unit of data in the physical layer
+ B. A unit of data in the data link layer
+ C. A unit of data in the transport layer ✔
+ D. A unit of data in the network layer
+
+
+Q19. Zigbee is a task group in ___
+
+ A. LAN
+ B. PAN ✔
+ C. MAN
+ D. WAN
+
+
+Q20. Protocol used for sending emails?
+ 
+ A. HTTP
+ B. FTP
+ C. SMTP ✔
+ D. SNMP
+
+
+Q21. The letter S in the abbreviation HTTPS in context of Networking protocols, stand for:
+
+ A. Single
+ B. Static
+ C. Secure ✔
+ D. Sensitive
+
+
+Q22. FTP full form -> File Transfer Protocol
+
+
+23. Which of the following is a service for real-time text communication on the internet?
+
+ A. e-Learning
+ B. FTP
+ C. Video Conferencing
+ D. Chat ✔
+
+
+24. Telnet is commonly used for:
+
+ A. Secure file-transfer
+ B. Remote terminal access ✔
+ C. Web browsing
+ D. Email communication
+
+
+Q25. Arrange for following electromagnetic waves in increasing order of their frequency range.
+
+ A. Microwaves
+ B. Infrared Waves
+ C. Light Waves
+ D. Radio Waves
+
+ Ans: (D,A,B,C)
+
+

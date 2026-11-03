@@ -193,3 +193,162 @@ Q20. To convert a Gray Code to its binary equivalent, which technique is commonl
  D. Division method
 
 
+-----------------------------------------------
+
+
+*Data and number systems*
+
+In hexadecimal, A = 10, B = 11, C = 12, D = 13, E = 14 and F = 15.
+
+Q. What is the maximum unsigned decimal value representable using 6 bits? [63; 2^n-1]
+
+
+*Binary, Octal and Hexadecimal Conversions*
+
+Binary to Decimal
+Q. Convert (101101)₂ to decimal
+  -> (45)₁₀
+
+Decimal to Binary
+Q. Convert (25)₁₀ to binary.
+  -> divide and write remainder from bottom
+  -> (11001)₂
+
+Binary to Octal
+Q. Convert (1101011)₂ to octal.
+  -> Group digits from right, set of 3 digits (from right)
+  -> 001 101 011
+  -> (1101011)₂ = (153)₈
+
+Octal to Binary
+Q. Convert (572)₈ to binary.
+  -> 5 = 110
+  -> 7 = 111
+  -> 2 = 010
+  -> (572)₈ = (110111010)₂
+
+Binary to Hexadecimal
+Rule: Group binary digits into sets of four, starting from the right. (why four? 2^4 = 16)
+Q. Convert (11011110)₂ to hexadecimal.
+ -> 1101 1110
+ -> (DE)₁₆
+
+Hexadecimal to Binary
+Q. Convert (3A)₁₆ to binary.
+Replace each hexadecimal digit with its 4-bit binary equivalent. 
+ -> 0011 1010
+ -> (00111010)₂
+
+Decimal to Octal
+Q. Convert decimal 83 to Octal
+ -> Divide by 8 and remainder (actual, not 1/0) from bottom
+ -> (83)₁₀ = (123)₈
+
+
+Decimal to hexadecimal
+Q. Convert 254 to hexadecimal
+ -> Divide by 16
+ -> (FE)₁₆
+
+
+Hexadecimal to deciaml
+Q. Convert (7D)₁₆ 
+for two digit: multiply first digit by 16 and add decimal value of 2nd digit
+ -> 16 x 7 + 13
+ -> 125
+
+
+
+*BCD, ASCII, EBDIC, Gray codes and their conversions*
+
+BCD: Binary-Coded Decimal
+ -> represents each decimal digits separately using its 4-bit binary equivalent
+
+Q. Convert (59)₁₀ to BCD
+ -> (01011001)BCD
+
+ -> BCD is not same as ordinary binary.
+ -> A 4-bit group can represent values from 0 to 15 in ordinary binary, but standard *8421 BCD* permits only decimal digits 0–9.
+ -> Standard 8421 BCD uses 4 bits per decimal digit.
+ -> Six of the 16 possible 4-bit combinations are unused.
+
+
+*ASCII*
+American Standard Code for Information Interchange.
+
+The original ASCII standard uses 7 bits, although it is commonly stored in an 8-bit byte.
+
+| Character | Decimal ASCII value |
+| --------- | ------------------: |
+| `A`       |                  65 |
+| `Z`       |                  90 |
+| `a`       |                  97 |
+| `z`       |                 122 |
+| `0`       |                  48 |
+| `9`       |                  57 |
+| Space     |                  32 |
+
+
+Difference between uppercase and lowercase versions of the same English letter = 32.
+
+
+*EBCDIC*
+ -> Extended Binary Coded Decimal Interchange Code
+ -> 8-bit character-encoding system
+ -> developed by IBM
+ -> Possible code combinations: 256
+
+
+*Gray Code*
+ -> Binary encoding in which two consecutive code values differ in exactly one bit.
+ -> AKA: unit-distance code
+
+
+
+*Signed binary number representation with 1’s and 2’s complement methods*
+ -> A signed number can represent both positive and negative values.
+ -> 0 means positive
+ -> 1 means negative
+ -> 8 bit representation of 
+   -> +5: 00000101
+   -> -5: 10000101
+
+Q. Find the 1's complement of 10110010.
+ -> 0 1 0 0 1 1 0 1
+
+Range of 1's complement:
+ -> for n bit representation: -(2^n-1 - 1) to +(2^n-1 -1)
+ -> for 8 bit: -127 to +127
+
+2's complement:
+ -> find 1's complement
+ -> add 1 to the result
+
+
+*Binary arithmetic*
+
+Binary addition
+ -> 1+1 = (10)₂
+
+
+Binary subtraction
+ -> 0 − 0 : 0
+ -> 1 - 0 : 1
+ -> 1 - 1 : 0
+ -> 0 - 1 : Requires borrowing
+
+
+*Venn Diagrams*
+
+ -> Union (A ∪ B)
+ -> OR operation
+
+ -> Intersection (A ∩ B)
+
+ -> Complement (A')
+   -> contains everything outside A but within the universal set
+   -> A' = NOT A
+
++ = OR
+x = AND
+

@@ -26,9 +26,9 @@ TAG:1-Digital-Logic
 
   - Data and number systems
   - Binary, Octal and Hexa decimal representation and their conversions 
-  - BCD,ASCII, EBDIC, Gray codes and their conversions
+  - BCD,ASCII, EBDIC, *Gray codes* and their conversions
   - Signed binary number representation with 1’s and 2’s complement methods 
-  - Binary arithmetic
+  - *Binary arithmetic*
   - Venn diagram
   - Boolean algebra
   - Various Logic gates-their truth tables and circuits
