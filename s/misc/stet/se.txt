@@ -1,0 +1,37 @@
+============================
+Title : Software Engineering
+Tags  : 
+Descr : 
+============================
+
+Spiral Model
+  - Barry Boehm (1986)
+
+
+
+[Estimation Technique]
+Delphi Technique
+  - Multiple experts indipendently provide estimates
+
+COCOMO Model (Constructive Cose Model)
+  - Developed by: Barrey Bohem (1981)
+  - Software size unit: *KLOC* (Thousand Lines of Code)
+  - Effort unit: Person-month
+  - Number of equations: 3
+
+
+*Halstead's Software Science*
+  - Developed by: Maurice Halstead (1977)
+  - Measures software complexity using the number of *operators and operands* in program
+  - Four fundamental Halstead Parameters
+    - n1: Number of distinct (unique) operators
+    - n2: No of distinct (unique) operands
+    - N1: Total occurrences of operators
+    - N2: Total occurrences of operands
+
+
+Putnam's Model - Staffing Level Estimation
+  - Developed by: Lwrence H. Putnam
+  - Rayleign Curve
+  - Staffing increase initially, decrease later
+
