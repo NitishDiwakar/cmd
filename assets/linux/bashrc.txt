@@ -1,0 +1,149 @@
+============================
+Title : Bashrc
+Tags  : #
+Descr : 
+============================
+
+
+
+# Custom function to set terminal title
+function set-title() {
+  if [[ -z "$ORIG" ]]; then
+              ORIG=$PS1
+                fi
+                  TITLE="\[\e]2;$*\a\]"
+                    PS1=${ORIG}${TITLE}
+ }
+
+
+
+gfetch() {
+#       curl -s "https://raw.githubusercontent.com/NitishDiwakar/cmd/main/$1" | less
+        less /mnt/d/Programming/github/cmd/$1
+}
+
+alias ls='eza --color=always --group-directories-first'
+alias ll='eza -l --git --header --color=always --group-directories-first'
+
+alias open='xdg-open'
+alias clip='clip.exe'
+
+
+# Text to PDF
+txt2pdf() {
+    for f in "$@"; do
+        enscript -B -q -f Courier12 "$f" -o - | ps2pdf - "${f%.txt}.pdf"
+    done
+}
+
+# Send file to server pc
+tofedora ()
+{
+    rsync -v --progress "$1" NitishDiwakar@$IP_FEDORA:/home/MyName/shared_fedora_dir/tuf/
+}
+
+# Fastread
+fastread() {
+    local wpm="$1"
+    local file="$2"
+    local skip=0   # change here if you want different default skip
+
+    if [[ -z "$wpm" || -z "$file" ]]; then
+        echo "Usage: fastread <wpm> <file>"
+        return 1
+    fi
+
+    if [[ ! -f "$file" ]]; then
+        echo "File not found: $file"
+        return 1
+    fi
+
+    # Calculate delay from WPM
+    local delay
+    delay=$(awk "BEGIN {print 60/$wpm}")
+
+    # Hide cursor for clean effect
+    tput civis
+
+    tail -n +"$((skip+1))" "$file" |
+    tr -s '[:space:]' '\n' |
+    while read -r word; do
+        rows=$(tput lines)
+        cols=$(tput cols)
+
+                row=$((rows / 2))
+        col=$(((cols - ${#word}) / 2))
+
+        clear
+        tput cup "$row" "$col"
+        printf "\033[7m%s\033[0m" "$word"
+
+        sleep "$delay"
+    done
+
+    # Restore cursor
+    tput cnorm
+}
+
+
+# Show highlighted keywords; Logic: words between *; like *imp word*
+showbold() {
+find . -type f -name "*.txt" -print0 |
+while IFS= read -r -d '' file; do
+    matches=$(grep -oP '\*\S(?:.*?\S)?\*' "$file" \
+              | sed 's/^\*//; s/\*$//' \
+              | paste -sd ", " -)
+    if [ -n "$matches" ]; then
+        echo "${file#./}: $matches"
+    fi
+done
+}
+
+# Send mirror to fedora then deploy a copy to server
+pushserver() {
+
+    # 1 Mirror from WSL → Fedora
+    rsync -avz --delete \
+        /mnt/d/../../cmd/ \
+        NitishDiwakar@"$IP_FEDORA":/home/NitishDiwakar/programming/../cmd/ \
+    || return 1
+
+    # 2 On Fedora, filter-copy only folders + .txt to web directory
+    ssh NitishDiwakar@"$IP_FEDORA" \
+        "rsync -av --delete \
+        --exclude='.*' \
+        --include='*/' \
+        --include='*.png' \
+        --include='*.jpg' \
+        --include='*.JPG' \
+        --include='*.jpeg' \
+        --include='*.txt' \
+        --include='*.pdf' \
+        --include='*.PDF' \
+        --exclude='*' \
+        /home/NitishDiwakar/programming/readonly/cmd/ \
+        /var/www/html/demo/s/assets/"
+
+}
+
+# Show recent modified files in terminal
+recent() {
+        find . -type f -iname "$1" -printf '%T@ %p\0' | sort -zk1nr | head -z -n $2 | cut -z -f2- -d' ' | tr '\0' '\n'
+}
+
+# fast git push
+gp() {
+  git add . && git commit -m "update" && git push
+}
+
+# Deploy to github website
+gpp() {
+    php list.php > list.json.tmp &&
+    mv list.json.tmp list.json &&
+    git.exe add -A &&
+    {
+        git.exe diff --cached --quiet ||
+        git.exe commit -m "update"
+    } &&
+    git.exe push
+}
