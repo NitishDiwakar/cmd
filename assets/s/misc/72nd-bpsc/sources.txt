@@ -1,0 +1,113 @@
+============================
+Title : BPSC Sources
+Tags  : #
+Descr :  
+============================
+
+TAG:top
+GOTO:current
+GOTO:br-spl
+GOTO:science-physics
+GOTO:science-chemistry
+GOTO:ancient-history
+GOTO:medieval-history
+GOTO:modern-history
+GOTO:geography
+GOTO:polity
+
+
+
+TAG:current
+*Current*
+
+  - Eduteria mag
+  - Speedy mag
+  - BCW/only ias mag
+  - Vision PT 365
+  - Vision monthly
+  - SKC sir monthly video
+  - PIB my ministry-wise compilation 
+  - Drishti BR special monthly mag
+  - Indian express - explained
+
+TAG:br-spl
+*Bihar Special*
+
+  - GC BPSC PYQ
+  - Crown
+  - Eduteria objective
+  - Bihar Ek Parichary (Imtz)
+  - Manish Ranjan (selective)
+
+
+TAG:science-physics
+*Science - Physics*
+
+  - Dharmendra Sir classes notes revision
+  - PramIAS PYQ
+  - CDS PYQ
+  - UPSC PYQ
+  - Ghatna Chakra
+  - NCERT (9-10) thouroughly
+  - NCERT (11-12) selective
+  - Lucent 
+
+
+TAG:science-chemistry
+*Science - Chemistry*
+
+  - PramIAS PYQ
+  - Rahul Paliwal Lectures
+  - CDS PYQ
+  - UPSC PYQ
+  - NCERT (9-10) thouroughly
+  - NCERT (11-12) selective
+  - Lucent
+
+
+TAG:ancient-history
+*Ancient History*
+
+  - Old NCERT (RS Sharma)
+  - New NCERT
+  - Lucent
+  - GC
+  - Imtyaz Ahmed - objective
+  - TN Board
+
+
+TAG:medieval-history
+*Medieval History*
+
+  - Old NCERT (Satish Chandra)
+  - New NCERT
+  - Lucent
+  - GC
+  - Imtyaz Ahmed - objective
+  - TN Board
+
+
+TAG:modern-history
+*Modern History*
+
+  - New NCERT
+  - Spectrum
+  - TN Board
+  - Imtyaz Ahmed - objective
+
+
+TAG:geography
+*Geography*
+
+  - NCERT (6-12)
+  - Lucent
+  - GC
+  - Indian Minerals Yearbook 2023
+
+
+TAG:polity
+*Polity*
+
+  - Laxmikanth
+  - GC
+

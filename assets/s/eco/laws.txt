@@ -1,0 +1,23 @@
+=================================
+Title       : Economy - Laws
+Tags        : 
+Description : Rules and Laws related to Economy
+=================================
+
+
+[PPP]
+
+*Indian Contract Act, 1872*
+  - Governs the legality, validity, performance obligations, and termination protocols of Concession Agreements signed between the government and a private enterprise.
+
+*Specific Relief Act, 1963 (Section 20A)* 2018 amd.
+  - prohibits civil courts from granting injunctions against scheduled infrastructure project contracts to prevent infrastructure project implementation delays.
+
+*Arbitration and Conciliation Act, 1996*
+  - Dictates the alternate dispute resolution, conciliation pathways, and international/domestic asset arbitrations
+
+*Commercial Courts Act, 2015*
+  - Mandates setting up fast-track, dedicated commercial divisions in High Courts for resolving high-value infrastructure or contract disputes. 
+
+
+

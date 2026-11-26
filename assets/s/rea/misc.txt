@@ -1,0 +1,60 @@
+============================
+Title : Reasoning - Misc
+Tags  : #nomail #noview
+Descr :
+============================
+
+
+
+Number of times in a day the hour hand and the minute hand of a clock at right angles is
+  -> 44
+
+Number of times in a day the hour hand and the minute hand of a clock meet each other is
+  -> 22
+
+*Angle between hour and minute hand*
+[(11 / 2) M - 30 H]
+
+Mirror image in clock
+  -> minus 11:60 #revise
+
+Water image
+  -> minus 17:90 #revise
+
+*Positional Value*
+
+A 1   (Z 26)
+B 2   (Y 25)
+C 3   (X 24)
+D 4   (W 23)
+E 5   (V 22)
+
+F 6   (U 21)
+G 7   (T 20)
+H 8   (S 19)
+I 9   (R 18)
+J 10  (Q 17)
+
+K 11  (P 16)
+L 12  (O 15)
+M 13  (N 14)
+N 14  (M 13)
+O 15  (L 12)
+
+P 16  (K 11)
+Q 17  (J 10)
+R 18  (I 9)
+S 19  (H 8)
+T 20  (G 7)
+
+U 21  (F 6)
+V 22  (E 5)
+W 23  (D 4)
+X 24  (C 3)
+Y 25  (B 2)
+Z 26  (A 1)
+
+
+How many alphabets look same in mirror
+  -> 11 (A, H, I, M, O, T, U, V, W, X, Y)
+

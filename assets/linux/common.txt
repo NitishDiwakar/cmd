@@ -1,0 +1,101 @@
+============================
+Title : Common linux commands
+Tags  : #
+Descr : 
+============================
+
+# Create text file from terminal 
+echo "Some text" > file.txt
+
+# Show size of directory and subdirectory
+du -sh *
+
+# Sort by size (ascending) 
+du -sh * | sort -n
+
+# Sort by size (descending)
+du -sh * | sort -hr
+
+# Delete all empty direcoty and subdirectory
+find . -type d -empty -delete
+
+# Copy terminal output in clipboard
+fortune | xclip -sel clip (Linux)
+fortune | clip.exe (WSL)
+
+# Remove one word in terminal
+Ctrl + w
+
+# Remove one letter in terminal
+Ctrl + h
+
+# Show file from github in terminal
+curl https://raw.githubusercontent.com/NitishDiwakar/cmd/main/tools/ghostscript.txt | cat
+
+# Prevent ssh from auto closing (temporary)
+ssh -o "ServerAliveInterval 60" username@server_address
+
+# Prevent ssh from auto closing (permanent)
+vim ~/.ssh/config
+Host *
+  ServerAliveInterval 60
+  ServerAliveCountMax 3
+
+# 
+
+# Download file with original name
+curl -O <url>
+
+# Download file with custom name
+curl -o file.mp4 <url>
+
+# Download file, skip if already present, resume if partially downloaded
+curl -C - -O <url>
+
+# Search recursively inside all sub-directories
+find . name "foo"
+tree -P "foo"
+
+# Firewall (status, stop, start)
+sudo firewall-cmd --state
+sudo systemctl stop firewalld
+sudo systemctl start firewalld
+
+# Count number of files inside a directory
+find . | wc -l
+find *.mp4 | wc -l
+
+# Count with max-depth
+find . -maxdepth 1 | wc -l
+
+# Show running proccess
+top
+Shift + M (sort by memory)
+
+# Copy command output to clipboard
+<pwd> | xclip -sel clip
+
+# Sort file by size - largest first
+du -ah *.mp4 | sort -n -r
+
+# Sort by modified file
+ls -t
+eza -sold
+eza -snew
+
+# Show first 5 lines of a file
+head -n 5 file.txt
+
+# Restart samba
+sudo systemctl restart smb nmb
+
+# Count no of .txt files inside a directory recursively
+find /path/to/directory -type f -name "*.txt" | wc -l
+
+# Show last 5 modified .txt files
+find . -type f -iname "*.txt" -printf '%T@ %p\0' | sort -zk1nr | head -z -n 5 | cut -z -f2- -d' ' | tr '\0' '\n'
+
+# Count total no of lines recursively
+find . -type f -name "*.txt" -exec cat {} + | wc -l
+
+

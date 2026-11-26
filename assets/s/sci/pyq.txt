@@ -1,0 +1,2363 @@
+============================
+Title : Science - PYQ
+Tags  : #imp
+Descr : 
+============================
+TAG:top
+GOTO:aso-mains-2026
+GOTO:aso-pre-2025
+GOTO:dso-2025
+GOTO:bpsc-71
+GOTO:bpsc-70-re
+GOTO:bpsc-70
+GOTO:bpsc-69
+GOTO:bpsc-68
+GOTO:bpsc-67-re
+GOTO:bpsc-67
+
+
+TAG:aso-mains-2026
+*ASO Mains 2026*
+51. Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R). 
+Assertion (A) : A myopic person cannot see distant objects clearly. 
+Reason (R) : The image of distant objects forms behind the retina. (NCERT-X, Ch: 11, Human Eye)
+
+(A) Both (A) and (R) are true and (R) is the correct explanation of (A) 
+(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A) 
+(C) (A) is true, but (R) is false 
+(D) (A) is false, but (R) is true
+	
+52. If the mass of the Earth were doubled and its radius halved, what would be the weight of a body of mass "m" on its surface? (Consider "g" as the acceleration due to gravity on the unchanged Earth.) (NCERT-IX, Ch: 10, Gravitation)
+(A) 0.5mg 
+(B) 4mg 
+(C) 8mg 
+(D) mg
+	
+53. Two identical-sized balls, one of Lead (mass = 12kg) and another of aluminium (mass = 3kg), both initially at rest are dropped from a height of 50m simultaneously. When they are 10m above the ground, which of the following quantities remains the same? Neglect air resistance. (NCERT-IX, Ch: 8, 10)
+(A) Speed and acceleration 
+(B) Kinetic energy and speed 
+(C) Potential energy and momentum 
+(D) Acceleration and kinetic energy
+	
+
+54. Two long solenoids, P and Q each have the same total number of turns and carry the same current. Solenoid P is twice as long as solenoid Q. Find the ratio of the magnetic field strengths inside them (Bp : BQ).  (NCERT-XII, Part-I, Ch-IV, Moving Charges & Magnetization)
+(A) 1:1 
+(B) 1:2 
+(C) 2:1 
+(D) 4:1	
+
+55. If the same current passes through a copper wire, and an iron wire of equal length and cross-sectional area, then which statement is true?  (NCERT-X, Ch: 12, Electricity)
+(A) The heat produced is the same in both copper wire and iron wire 
+(B) The heat produced is more in copper wire than in iron wire 
+(C) The heat produced is more in iron wire than in copper wire 
+(D) Cannot be compared without potential difference
+	
+56. Arrange the speeds of sound in the following media in ascending order at room temperature: Air, Water, Iron.  (NCERT-IX, Ch: 12)
+(A) Iron < Water < Air 
+(B) Air < Water < Iron 
+(C) Water < Iron < Air 
+(D) Air < Iron < Water
+	
+57. Given below are two statements, one is labelled as Assertion (A) and the other is labelled as Reason (R). 
+Assertion (A): Kerosene has a higher refractive index (1.44) than water (1.33). 
+Reason (R): Refractive index of a medium depends on its mass density; the greater the mass density, the greater the speed of light through it.  (NCERT-X, Ch: 10)
+(A) Both (A) and (R) are true, and (R) is the correct explanation of (A) 
+(B) Both (A) and (R) are true, but (R) is not the correct explanation of (A) 
+(C) (A) is true, but (R) is false 
+(D) (A) is false, but (R) is true.
+
+58. A fuse wire made of tin is designed to melt when the current exceeds 10 A. What change should be made to the fuse wire (of the same material) to safely carry a current up to 30 A to an electrical appliance? (NCERT-X, Ch: 12, Electricity, Joule's Law of Heating)
+(A) Increase the cross-sectional area (thickness) of the fuse wire and connect it in series to the appliance 
+(B) Increase the cross-sectional area (thickness) of the fuse wire and connect it in parallel to the appliance 
+(C) Decrease the cross-sectional area (thickness) of the fuse wire and connect it in series to the appliance 
+(D) Decrease the cross-sectional area (thickness) of the fuse wire and connect it in parallel to the appliance
+
+59. Match the concepts in List- I with their correct examples or explanations given in List- II.  (NCERT-IX, Ch: 9)
+List- I (Concept) 
+a. Balanced Forces 
+b. First Law of Motion 
+c. Second Law of Motion 
+d. Third Law of Motion 
+List- II (Example / Explanation) 
+1. Recoil of a gun when a bullet is fired 
+2. A wooden block pulled equally from both sides remains at rest 
+3. Passenger falling backwards when the bus starts moving from rest 
+4. A fielder pulls his hands gradually while catching a fast-moving ball 
+Codes: 
+(A) a-2, b-3, c-4, d-1 
+(B) a-2, b-4, c-3, d-1 
+(C) a-1, b-3, c-4, d-2 
+(D) a-1, b-4, c-3, d-2
+	
+60. When sunlight enters a raindrop and a primary rainbow is formed, which sequence of optical phenomena correctly describes the path of light?  (NCERT-IX, Ch: 10, 11, Rainbow)
+(A) Dispersion → Refraction → Total Internal Reflection → Refraction 
+(B) Refraction → Internal Reflection → Refraction → Dispersion 
+(C) Dispersion → Refraction → Internal Reflection → Refraction 
+(D) Refraction → Dispersion → Internal Reflection → Refraction
+
+61. Bell-metal is an alloy of: (NCERT-X, Ch: 3, Metal and non metal)
+(A) Copper and lead 
+(B) Copper and tin 
+(C) Copper and zinc 
+(D) Copper and nickel
+
+62. Iodine can dissolve readily in: (NCERT-XII, Ch: 13, Radioactivity)
+(A) Water 
+(B) Carbon tetrachloride 
+(C) Alcohol 
+(D) Potassium iodide
+
+63. Which of the following is the least stable oxide of chlorine? (NCERT-XII, Ch: 7, p-block element)
+(A) Cl2O 
+(B) ClO2 
+(C) Cl2O7 
+(D) ClO3
+
+64. Which of the following is not an alkali? (NCERT-X, Ch: 2, Acid, Base, Salt)
+(A) NaOH 
+(B) KOH 
+(C) NH4OH 
+(D) C2H5OH
+	
+65. Which of the following is most acidic? (NCERT-XII, Chemistry,  Ch: 12, p-block element)
+(A) HClO4 
+(B) HClO2 
+(C) HClO 
+(D) HClO3
+
+66. Which of the following is used as anaesthetic? (NCERT-XII, Chemistry, Ch: 11, Alcohol, Phenol & Eather)
+(A) Ethyl acetate 
+(B) Ethyl alcohol 
+(C) Ether 
+(D) Carbon tetrachloride
+
+67. Iron is a constituent of which of the following? (NCERT-XII, Biology, Ch: 9, Biomolecule)
+(A) Chlorophyll 
+(B) Thymine 
+(C) Protein 
+(D) Haemoglobin
+
+68. Match List- I with List- II and choose the correct answer from the codes given below: (NCERT-X, Ch: 3) 
+List- I 
+a. Magnesium oxide 
+b. Phosphorus pentoxide 
+c. Aluminum oxide 
+d. Sodium oxide 
+List- II 
+1. Amphoteric 
+2. Basic 
+3. Strongly basic 
+4. Acidic 
+Codes: 
+(A) a-4, b-2, c-3, d-1 
+(B) a-3, b-4, c-1, d-2 
+(C) a-2, b-4, c-1, d-3 
+(D) a-1, b-2, c-3, d-4
+
+69. Hard water contains which of the following salts? (NCERT-X, Ch: 3, Metal and non metal)
+(A) Calcium and sodium 
+(B) Magnesium and calcium 
+(C) Barium and calcium 
+(D) Calcium and potassium
+
+70. Which of the following is used in making baking soda? (NCERT-X, Ch: 2, Acid, Base and Salt)
+(A) Sodium carbonate 
+(B) Bleaching powder 
+(C) Sodium hydroxide 
+(D) None of the above
+
+71. *Kufri* is a variety of: (NCERT-IX, Food)
+(A) Potato 
+(B) Tomato 
+(C) Brinjal 
+(D) Radish
+
+72. Philippullum fossil was obtained from: (NCERT-XII, Biology, Ch: 7, Evolution)
+(A) Vindhya Mountain 
+(B) Rajmahal Hills 
+(C) Himalayan Range 
+(D) Jayanti and Khasi Hills
+
+73. Catharanthus roseus contains: (NCERT-XII, Plant Chemicals)
+(A) Vincristine 
+(B) Taxol 
+(C) Aflatoxin 
+(D) Apigenin
+
+74. Xylem vessels help in water conduction commonly present in (NCERT-IX, Ch: 6, Anatomy of flowering plants)
+(A) Gymnosperms 
+(B) Angiosperms 
+(C) Gymnosperms and Angiosperms 
+(D) Pteridophytes and Angiosperms
+
+75. Which one is used in spices? (NCERT-XI, Biology)
+(A) Fungi 
+(B) Lichens 
+(C) Mosses 
+(D) Ferns
+
+76. Most abundant enzyme on the earth is (NCERT-XI, Biology, Ch: 13, Photosysthesis in higher plants)
+(A) Cytochrome oxidase 
+(B) PEP carboxylase 
+(C) Indole oxidase 
+(D) Rubisco
+
+77. With reference to Spirulina, consider the following statements: 
+(1) Protein-rich 
+(2) Prokaryote 
+(3) Heterocyst 
+Which of the statements given above is/are correct? (NCERT-XII, Biology, Ch: 10, Microbes in human welfare)
+(A) Only (1) 
+(B) All three 
+(C) One and two 
+(D) None of the above
+
+78. Given below are two statements: one is labelled as Assertion (A) and other is labelled as Reason (R). 
+Assertion (A): Global warming is caused due to increase in the environmental temperature. 
+Reason (R): It is the result of increase in level of CO2, deforestation and increase in methane production. 
+In light of the above statements, choose the most appropriate answer from the options given below. (NCERT-VIII, Pollution)
+(A) Both (A) and (R) are correct and (R) is the correct explanation of (A) 
+(B) (A) is correct, but (R) is not correct 
+(C) (A) is not correct, but (R) is correct 
+(D) None of the above
+
+79. Arrange the following organisms in correct order of the evolution from the codes given below: 
+(I) Phytophthora 
+(II) Agaricus 
+(III) Alternaria 
+(IV) Morchella (NCERT-XI, Ch: 3, Plant Kingdom)
+Codes: 
+(A) (I), (II), (IV), (III) 
+(B) (II), (IV), (III), (I) 
+(C) (I), (IV), (II), (III) 
+(D) (III), (II), (I), (IV)
+
+80. Match List- I with List- II and choose the correct answer from the codes given below: 
+List- I 
+a. IBA 
+b. GA3 
+c. ABA 
+d. Ethylene 
+List- II 
+1. Seed dormancy 
+2. Root development 
+3. Fruit ripening 
+4. Plant growth (NCERT-XI, Ch: 15, Plant growth and development)
+Codes: 
+(A) a-2, b-4, c-1, d-3 
+(B) a-4, b-1, c-2, d-3 
+(C) a-3, b-2, c-4, d-1 
+(D) a-1, b-3, c-2, d-4
+
+81. An animal that respires, but has no respiratory organs is: (NCERT-X, Ch: 7, Control and cordination)
+(A) Fish 
+(B) Frog 
+(C) Earthworm 
+(D) Cockroach
+
+82. Which of the following techniques is other than microscopy? (NCERT-XI, Ch: 2, Biological Classification & Ch: 9, biomolecules)
+(A) Plasmolysis 
+(B) Autoradiography 
+(C) Maceration 
+(D) Chromatography
+
+83. Read the statements given below with regard to the functions performed by the Golgi apparatus: 
+(I) Transports and chemically modifies the material contained within it. 
+(II) Secretes mucin in the respiratory tract. 
+(III) Secretes slime in the insectivorous plants. 
+Which of the following is the correct answer? (NCERT-XI, Ch: 8, Cell, The unit of life)
+(A) (I) is wrong, but (II) and (III) are correct 
+(B) (II) is wrong, but (I) and (III) are correct 
+(C) (II) and (III) are wrong, but (I) is correct 
+(D) All are correct
+
+84. Colour blindness is found more in males than in females because: (NCERT-XII, Bio, Ch: 5, Principle of Inheritance)
+(A) Males containing the single-affected X-chromosome are colour blind 
+(B) Heterozygous females are colour blind 
+(C) Males having affected Y-chromosomes are colour blind 
+(D) Affected X-chromosome has a much higher affinity to Y-chromosome as compared to unaffected X-chromosome
+
+85. The correct order of the following is: (NCERT-XII, Biology, Ch: 14, Ecosystem)
+(A) Mesozoic → Archaeozoic → Proterozoic 
+(B) Palaeozoic → Archaeozoic → Coenozoic 
+(C) Archaeozoic → Palaeozoic → Proterozoic 
+(D) Palaeozoic → Mesozoic → Coenozoic
+
+86. Iodine deficiency in a frog tadpole will lead to: (NCERT-XI, Biology, Ch: 22, Chemical Coordination and Integration)
+(A) accelerated metamorphosis 
+(B) development of a giant frog 
+(C) inhibition of metamorphosis 
+(D) development of a miniature frog
+
+87. The part of the nephron that helps in active reabsorption of sodium is: (NCERT-XI, Ch: 9, Excretory product and their elimination)
+(A) Bowman's capsule 
+(B) Distal convoluted tubule 
+(C) Ascending limb of Henle's loop 
+(D) Proximal convoluted tubules
+
+88. Which National Park is the new home of the Indian one-horned rhinoceros? 
+(A) Kanha 
+(B) Corbett 
+(C) Dudhwa 
+(D) Bandhavgarh
+
+89. Which one of the following is the correctly matched pair of a product and the microorganism responsible for it? (NCERT-IX, Ch: 10, Microbes in human welfare)
+(A) Ethyl alcohol - Yeast 
+(B) Cheese - Nitrobacter 
+(C) Acetic acid - Lactobacillus 
+(D) Curd - Azotobacter
+
+90. Refractory period in a neuron is the period of complete inexcitability between: (NCERT-XI, Ch: 21, Neural Control and Coordination) 
+(A) Polarization and depolarization 
+(B) Depolarization and repolarization 
+(C) Repolarization and polarization 
+(D) None of the above
+
+
+GOTO:top
+TAG:aso-pre-2025
+*ASO Pre 2025*
+9. Which of the following materials is ferromagnetic?
+(A) Wood
+(B) Nickel ✔
+(C) Manganese
+(D) Gold
+
+
+16. Pyrolusite, Psilomelane and Braunite are the ores of the following mineral
+(A) Manganese ✔
+(B) Iron Ore
+(C) Copper
+(D) Bauxite
+
+
+20. If the focal length of the objective lens is increased
+(A) Magnifying power of microscope and telescope both will decrease
+(B) Magnifying power of microscope will decrease but that of telescope will increase
+(C) Magnifying power of microscope will increase but that of telescope will decrease ✔
+(D) Magnifying power of microscope and telescope both will increase
+
+
+23. Flowers without petals are pollinated by
+(A) Wind ✔
+(B) Insect
+(C) Butterflies
+(D) Birds
+
+
+31. Edible portion of the coconut is
+(A) Cotyledon
+(B) Embryo
+(C) Fruit wall
+(D) Endosperm ✔
+
+
+33. What is the main reason that bryophytes are referred to as “amphibians of the plant kingdom”?
+(A) They have a life cycle that includes both aquatic and terrestrial stages
+(B) They have a strong tolerance to extreme temperatures
+(C) They can live both on land and in water
+(D) They require water for sexual reproduction ✔
+
+
+37. Find the incorrect statement for algae.
+(A) Chlorella is used in space food
+(B) Algin is produced by algae
+(C) ‘Agar-agar’ is produced from Gracilaria
+(D) Mannitol is a food reserve of red-alga ✔
+
+
+41. Chloramine-T is an
+(A) Analgesic
+(B) Antibiotic ✔
+(C) Antipyretic
+(D) Antiseptic
+
+
+42. Glass is best described as
+(A) An alloy
+(B) An eutectic mixture
+(C) A supercooled solution ✔
+(D) A gel
+
+46. What is the role of the enzyme RuBisCO in photosynthesis?
+(A) It fixes carbon dioxide to produce carbohydrate ✔
+(B) It regulates stomatal opening and closing for gaseous exchange
+(C) It catalyzes the splitting of water molecules to generate oxygen
+(D) It is involved in the electron transport chain to generate ATP
+
+
+49. Which of the following is true regarding apical dominance in plants?
+(A) Root and shoot in their apex are dormant
+(B) Removal of apical buds promote lateral bud growth ✔
+(C) Decrease in cytokinin increases apical dominance
+(D) Auxin stimulates lateral bud formation
+
+
+53. The chemical behavior of an atom is mostly determined by its
+(A) Mass number
+(B) Valence electrons ✔
+(C) Atomic weight
+(D) Neutron count
+
+
+56. Manganese is present in highest oxidation state in
+(A) MnO₂
+(B) KMnO₄ ✔
+(C) Mn₂(CO)₉
+(D) MnO₃
+
+
+57. Litmus, the pH indicator, is obtained from which of the following source?
+(A) A lichen ✔
+(B) A brown alga
+(C) A red alga
+(D) A fungi
+
+
+63. Light is an electromagnetic wave, is the principle of
+(A) Michael Faraday
+(B) Isaac Newton
+(C) Oersted
+(D) James Clarke Maxwell ✔
+
+
+66. In angiosperms, xylem is made up of
+(A) Tracheids and vessels
+(B) Vessels and fibers
+(C) Tracheids and fibers
+(D) Tracheids, vessels and fibers ✔
+
+
+68. Why is grafting not possible in monocots?
+(A) Because they do not have venation
+(B) Because they are herbaceous
+(C) Because they have parallel venation
+(D) Because they lack cambium ✔
+
+
+72. Which of the following is a wrong statement?
+(A) Most of the tropical rainforests have been lost
+(B) Greenhouse effect is a natural phenomenon
+(C) Eutrophication is a natural process in freshwater bodies
+(D) Ozone in upper part of atmosphere is harmful to animals ✔
+
+
+76. Which of the following are present in higher amount in hard water?
+(A) Sodium and Manganese
+(B) Calcium and Sodium
+(C) Sodium and Magnesium
+(D) Calcium and Magnesium ✔
+
+
+78. Which of the following are phagocytic cells?
+(A) Neutrophils, macrophages ✔
+(B) Neutrophils, mast cells
+(C) Mast cells, antibodies
+(D) Mast cells, macrophages
+
+
+91. Which of the following is used in rocket propellants?
+(A) NH₃
+(B) O₂
+(C) H₂
+(D) All of the above ✔
+
+
+97. Nymph is the young stage of
+(A) Housefly
+(B) Butterfly
+(C) Cockroach ✔
+(D) Beetle
+
+
+99. The point at which the rate of photosynthesis is equal to the rate of respiration is called
+(A) Respiratory quotient
+(B) Equivalence point
+(C) Photosynthetic quotient 
+(D) Compensation point ✔
+
+
+103. How much more heat is produced if the current is doubled?
+(A) Four times the original amount
+(B) Twice the original amount
+(C) Five times the original amount
+(D) Thrice the original amount ✔
+
+
+111. In which of the following type of cells the gap junctions are absent?
+(A) Brain cells
+(B) Cardiac cells
+(C) Sperm cells ✔
+(D) Reproductive cells
+
+
+113. Who coined the word “atom”?
+(A) E. Rutherford
+(B) Democritus ✔
+(C) John Dalton
+(D) Thomson
+
+
+117. Which of the following is a primary treatment for water pollution?
+(A) Sedimentation ✔
+(B) Sludge Method
+(C) Removal of Nitrates
+(D) Trickling Filter Method
+
+
+120. A person gets out in the sunlight from a dark room. How does his pupil regulate and control the light entering the eye?
+(A) The size of the pupil will remain the same but more light will enter the eye
+(B) The size of the pupil will decrease and less light will enter the eye ✔
+(C) The size of the pupil will remain the same but less light will enter the eye
+(D) The size of the pupil will decrease and more light will enter the eye
+
+
+121. Natural rubber obtained from the rubber tree “Hevea Brasiliensis” consists of
+(A) Poly (isobutylene)
+(B) Cis-poly (isoprene) ✔
+(C) Poly (chloroprene)
+(D) Trans-poly (isoprene)
+
+GOTO:top
+TAG:dso-2025
+*DSO 2025* (Set-I)
+
+121. Erosion of top soil and run off fertilisers and pesticides passing into water bodies are the examples of
+(A) Negative and positive pollution
+(B) Positive and negative pollution
+(C) Positive and positive pollution
+(D) Negative and negative pollution
+
+122. Among following one is not a green house gas, that is
+(A) Nitrogen Oxide
+(B) CFCs
+(C) SO2
+(D) Methane
+
+123. Which part of the plant is never grazzed by grazing animals?
+(A) Root
+(B) Stem
+(C) Bark
+(D) Wood
+
+124. Which cells of our body can not respire anaerobically?
+(A) Mature RBC
+(B) Brain cells
+(C) Muscle cells
+(D) Newly formed RBCs
+
+125. Which one of the following is a modified stem?
+(A) Pneumatophores of Mangroove plants
+(B) Cactus (Opuntea) Phylloclade
+(C) Cabbage
+(D) Turnip
+
+126. What is not required for seed germination?
+(A) Moisture
+(B) Oxygen
+(C) Temperature
+(D) Minerals
+
+127. The pH value of human blood is
+(A) 7.35 to 7.45
+(B) 6.5 to 7.00
+(C) 7.5 to 7.8
+(D) 5.9 to 6.4
+
+128. Colour blind and Haemophilia diseases of human being are due to
+(A) Dominant genes present on Y chromosome
+(B) Dominant genes present on X chromosome
+(C) Recessive genes present on Y chromosome
+(D) Recessive genes present on X chromosome
+
+129. Ishihora test is associated with
+(A) Kidney function
+(B) Colour Vision Test
+(C) Liver Function Test
+(D) Prostrate Gland Test
+
+130. Pathogenic bacteria secrets
+(A) Antigen
+(B) Antibiotic
+(C) Antibodies
+(D) Interferons
+
+131. Iron is galvanized by
+(A) Zn (Zinc)
+(B) Cu (Copper)
+(C) Ag (Silver)
+(D) Lead
+
+132. The Matchstic tips are loaded with
+(A) White Phosphorus
+(B) Red Phosphorus
+(C) Phosphorus Trichloride
+(D) Phosphorus Pentaoxides
+
+133. The “Royal Water” which can dissolve Gold and Platinum is made up of a mixture of
+(A) 1:3 mixture of conc. HNO3 and HCl
+(B) 3:1 mixture of conc. HNO3 and HCl
+(C) 1:3 mixture of conc. H2SO4 and HCl
+(D) 3:1:1 mixture of HNO3 ; HCl; H2SO4
+
+134. Which variety of coal can be used to recognise the traces of plant material from which it is formed?
+(A) Bituminous
+(B) Lignite
+(C) Anthracite
+(D) Peat
+
+135. Which of the following has maximum contribution in Green house effect in the atmosphere?
+(A) Carbon dioxide
+(B) Carbon mono oxides
+(C) Sulphur di oxide
+(D) Nitrous oxide
+
+136. The top predators in most marine food chains of the community ecology are Nectons. Which does not include?
+(A) Jelly Fish
+(B) Sharks
+(C) Cuttle Fish
+(D) Lobesters
+
+137. Which of the following element is not found in DNA and RNA?
+(A) Oxygen
+(B) Nitrogen
+(C) Sulphur
+(D) Phosphorus
+
+138. 10% law of flow of energy in the ecosystem was proposed by
+(A) Lindman
+(B) Carl Mobius
+(C) Tanstey
+(D) Vent hoff
+
+139. Horn bill is a quarterly magazine published by the Bombay Natural History Society (BNHS). It is concerned with
+(A) Study of tribes
+(B) Study of wild life and environment
+(C) Study of adaptive behavior of sea cost animals
+(D) Study of cultivation method of crops
+
+140. How many biodiversity hotspots are found in India?
+(A) 4
+(B) 8
+(C) 12
+(D) 16
+
+141. Longitudinal waves cannot travel through?
+(A) Gas
+(B) Liquid
+(C) Solid
+(D) Vacuum
+
+142. Which one of the following is used to determine the age of human fossil?
+(A) Water content of the soil
+(B) Softness of the soil
+(C) Density Determination of the soil
+(D) Radio Carbon dating
+
+143. What will happen if a running fridge door is opened in a room?
+(A) Room temperature will rise
+(B) Room temperature will fall
+(C) Room temperature will not be affected
+(D) Room temperature first will go up and later on will go down
+
+144. If the gravity of a fluid is made zero then what will not be there?
+(A) Surface tension
+(B) Pressure
+(C) Viscocity
+(D) Upward thrust
+
+145. In the winter, we get warmer by using two blankets instead of one, why?
+(A) Two blankets compress the air between the body and blanket
+(B) Two blankets are thicker, so generate more the heat
+(C) Two blankets enclose air which does not allow the cold to penetrate
+(D) None of the above
+
+146. Which rays can be used to read very old written document?
+(A) X Rays
+(B) β Rays
+(C) γ Rays
+(D) IR Rays
+
+147. What is the function of microphone? It converts
+(A) Electromagnetic waves to sound signals
+(B) Sound signals to electromagnetic waves
+(C) Sound signals to Electric signals
+(D) Electric signals to sound signals
+
+148. Which force is responsible for separation of cream from the churned milk?
+(A) Centripetal force
+(B) Centrifugal force
+(C) Gravitational force
+(D) Cohesive force
+
+149. Which specific waves are used in SONAR?
+(A) Audible Sound Waves
+(B) Radio Waves
+(C) Infrasonic Waves
+(D) Ultrasonic Waves
+
+150. Neutron was discovered by
+(A) Rutherford
+(B) Chadwick
+(C) Hahn and Strassman
+(D) Millikan
+
+GOTO:top
+TAG:bpsc-71
+*BPSC CCE 71st*
+SCIENCE SECTION
+
+118. Bihar produces % of pyrite of whole India? (deleted)
+(A) 75
+(B) 85
+(C) 95
+(D) 100
+
+119. Gold is found in which district of Bihar?
+(A) Gaya District
+(B) Jamui District ✔
+(C) Nalanda District
+(D) Bhagalpur District
+
+120. Most of the Bihar comes under which of the following climate type?
+(A) Subtropical Monsoon ✔
+(B) Tropical savanna
+(C) Hot and dry
+(D) Hot and Semi Arid
+
+121. We apply a force of 260 Newtons on a wooden Box and push it on the floor at constant velocity. The marginal friction force will be:
+(A) 100 Newtons
+(B) 200 Newtons ✔
+(C) 300 Newtons
+(D) 400 Newtons
+
+122. A truck starts from rest down a hill with a constant acceleration. It achieves 400 meters in 20 seconds. If the weight of the truck is 7 tons then what will be the force acting on it?
+(A) 11000 Newtons
+(B) 12000 Newtons
+(C) 13000 Newtons
+(D) 14000 Newtons ✔
+
+123. Energy consumed in a home is 250 units then the total energy in Joule will be:
+(A) 9×10^8
+(B) 8×10^8
+(C) 9×10^6 ✔
+(D) 10^8
+
+124. In which medium, the speed of sound is maximum?
+(A) Steel ✔
+(B) Water
+(C) Air
+(D) Hydrogen
+
+125. The potential energy of a freely falling body continuously decreases.
+(A) The principle of conservation of energy is violated
+(B) The principle of conservation of energy is not violated ✔
+(C) Gravitational force is violated
+(D) Gravitational force is not violated
+
+126. A pair of Oxen exerts a force of 140 newton while ploughing the field. The field ploughed is 15 meter long. The work done in ploughing the length of the fields:
+(A) 1900 Joules
+(B) 2000 Joules
+(C) 2100 Joules ✔
+(D) 2200 Joules
+
+127. The focal distance of a plane mirror is:
+(A) Infinity ✔
+(B) +1 cm
+(C) −1 cm
+(D) 2 cm
+
+128. Which term in the following does not denote the electric power in electric circuit?
+(A) PR
+(B) IR^2 ✔
+(C) VI
+(D) I/R
+
+129. In short circuit, a value of electric current in a time circuit:
+(A) Very low
+(B) Increases very high ✔
+(C) Do not change
+(D) Continuously changing
+
+130. What is the device to protect equipments from the electric shock?
+(A) Fuse ✔
+(B) Generator
+(C) Motor 
+(D) Current controller
+
+131. pH value of 0.1 N HCl solution is approximately:
+(A) 1.0 ✔
+(B) 11.0
+(C) 10
+(D) 2.0
+
+132. Which Compound is known as night glowing pigment from below?
+(A) Europium dopped strontium aluminate ✔
+(B) Copper Sulphide dopped zinc oxide
+(C) Barium sulphate dopped copper carbonate
+(D) Boron oxide dopped copper sulphate
+
+133. Which Material is used for smart film?
+(A) Indium tin oxide ✔
+(B) Calcium carbonate
+(C) Zinc chloride
+(D) Silica
+
+134. Which metal compound is used for treatment of carcinoma?
+(A) Platinum ✔
+(B) Chromium
+(C) Iron
+(D) Chlorine
+
+135. Which compound is used in contraceptive pills?
+(A) Cetrizine
+(B) Cholecalciferol ✔
+(C) Levonorgestrel
+(D) Vanlaflexine
+
+136. Why oil is not stored in galvanized iron pot?
+(A) It produce toxic compound
+(B) It reduced quality of oil
+(C) Corrosion observed
+(D) All of above ✔
+
+137. Which compound is used for increase of octane rating?
+(A) Trimethyl hexane
+(B) Tetramethyl Oxide
+(C) Tetraethyl lead ✔
+(D) Triethyl toluene
+
+138. Full form of PHBV polymer:
+(A) Polyhydroxy bis valine
+(B) Poly hydroxy butyrate veratric acid
+(C) Poly (3-hydroxy butyrate-co-3 hydroxy valerate) ✔
+(D) Poly hydroxy butyric acid veratric acid
+
+139. Hormones are secreted by:
+(A) Sebaceous glands
+(B) Reproductive glands
+(C) Exocrine glands
+(D) Endocrine glands ✔
+
+140. Which one of the following term characterizes the interaction between herpes simplex virus and a human?
+(A) Parasitism
+(B) Symbiosis
+(C) Endosymbiosis
+(D) Endoparasitism ✔
+
+141. Which class of immunoglobulin is the first to be produced in response to an infection?
+(A) IgG
+(B) IgA
+(C) IgM ✔
+(D) IgE
+
+142. The biological membranes are composed of:
+(A) Lipids and proteins in varying combinations which are specific to each species, cell type and organelle ✔
+(B) Lipids only
+(C) Proteins only
+(D) None of the above
+
+143. Which of the following is a non-sense codon?
+(A) UAA ✔
+(B) AUG
+(C) UUU
+(D) UGC
+
+144. The species which are in danger of extinction are known as?
+(A) Vulnerable
+(B) Rare
+(C) Endangered ✔
+(D) Extinct
+
+145. Which of the following is a Kharif crop?
+(A) Sugarcane ✔
+(B) Barley
+(C) Gram
+(D) Wheat
+
+146. Xylem in plants is responsible for following function:
+(A) Transport of water and dissolved minerals ✔
+(B) Transport of food
+(C) Transport of O2 and other gases
+(D) Transport of essential amino acids
+
+147. Who was first to use the characteristics of vascular tissues in the classification of plants?
+(A) Engler and Prantl
+(B) Bentham and Hooker
+(C) A.P. de Candolle ✔
+(D) More than one of the above
+
+148. The part which we eat in Mango is:
+(A) Epicarp
+(B) Mesocarp ✔
+(C) Endocarp
+(D) None of the above
+
+149. Ozone day is celebrated on:
+(A) 16th September ✔
+(B) 5th June
+(C) 21st April
+(D) 5th December
+
+150. In mycorrhizal association, the advantage of plant is:
+(A) Protection
+(B) Food
+(C) (A) and (B) both
+(D) Increased mineral absorption and diseases protection ✔
+
+GOTO:top
+TAG:bpsc-70-re
+*BPSC 70th - re-exam* (Set - I)
+SCIENCE QUESTIONS
+
+15. One of the properties associated with X-rays is that they can be deflected by
+(A) Magnetic fields only
+(B) Both electric and magnetic fields together
+(C) Electric fields only
+(D) None of the above ✔
+
+16. Renewable Energy means
+1. Electricity produced from solar
+2. Electricity produced from thermal plants
+3. Electricity produced from coal
+4. Electricity produced from wind
+Choose the correct answer from the options given below :
+(A) 1, 2 and 3 only
+(B) 1 and 3 only
+(C) 1, 3 and 4 only
+(D) 1 and 4 only ✔
+
+26. Catalyst used in hydrogenation of vegetable oil into vanaspati ghee is
+(A) Ni ✔
+(B) Pd
+(C) Fe
+(D) None of the above
+
+31. Actual site of dark reaction in photosynthesis inside cytoplast is
+(A) Stroma ✔
+(B) Granum
+(C) Grana Lamella
+(D) None of the above
+
+36. There is no atmosphere on the surface of the moon because
+(A) It revolves around Earth
+(B) It gets light from Sun
+(C) Escape velocity of gas molecules is less than rms velocity ✔
+(D) It is closer to Earth
+
+40. Which of the following vitamins are water soluble ?
+(A) Vitamin K
+(B) Vitamin A
+(C) Vitamin D
+(D) None of these ✔
+
+44. Besides spreading Malaria, Anopheles mosquito’s are also vectors of
+(A) Encephalitis and Filariasis ✔
+(B) Dengue and Filariasis
+(C) Dengue and Encephalitis
+(D) None of the above
+
+50. Turmeric powder is obtained from which part of turmeric plant ?
+(A) Seed
+(B) Dried foot
+(C) Dried root
+(D) None of the above ✔
+
+55. Reactance of a capacitor is
+(A) Inversely proportional to frequency ✔
+(B) Directly proportional to frequency
+(C) Inversely proportional to sq. root of frequency
+(D) None of the above
+
+61. Sour taste of vinegar is due to
+(A) Citric acid
+(B) Tartaric acid
+(C) Lactic acid
+(D) None of these ✔
+
+66. How is Hydrogen stored physically ?
+(A) By compressing hydrogen gas ✔
+(B) In form of hydrides
+(C) In form of water
+(D) None of the above
+
+70. Blood group of an individual is determined by
+(A) Shape of RBC
+(B) Presence of Haemoglobin
+(C) Combination of WBC and RBC
+(D) None of the above ✔
+
+80. The Ishihara test is related with
+(A) Colour blindness ✔
+(B) Haemoglobin level
+(C) IQ
+(D) Bone density
+
+94. Buds are typically found
+(A) At the base of leaves
+(B) Both at the base of leaves and tip of branches ✔
+(C) At the tip of branches
+(D) None of the above
+
+98. Which of the following is not an electrophile ?
+(A) H+
+(B) Na+ ✔
+(C) BF3
+(D) All of the above
+
+101. Quinine is a common drug for malaria that is obtained from a plant. Which part of the plant yields this drug ?
+(A) Stem bark ✔
+(B) Leaves
+(C) Root
+(D) None of the above
+
+106. The conductivity of a strong electrolyte
+(A) Increases slightly on dilution
+(B) Decreases on dilution ✔
+(C) Does not changes with dilution
+(D) None of the above
+
+*111*. The number of scientific payloads on Aditya L - 1 mission for systematic study of Sun is
+(A) 7 ✔
+(B) 5
+(C) 6
+(D) 9
+
+132. Liver stores
+(A) A, B and C vitamins
+(B) A, B, C and D vitamins ✔
+(C) Only A and B vitamins
+(D) None of these
+
+145. Standard electrode potential of three metals A, B and C are respectively 0.5 V, -3 V and -1.2 V. Reducing power of these metals would be
+(A) C > B > A
+(B) A > C > B
+(C) B > C > A ✔
+(D) None of the above
+
+148. Compared to a burn due to air at 100°C, the burn due to steam at 100°C is
+(A) Less dangerous due to low latent heat of evaporation
+(B) More dangerous due to low latent heat of evaporation
+(C) More dangerous due to high latent heat of evaporation ✔
+(D) Less dangerous due to high latent heat of evaporation
+
+GOTO:top
+TAG:bpsc-70
+*BPSC 70th* (Set - E)
+1. Which of the following is an iron ore ?
+(A) Bauxite
+(B) Cinnabar
+(C) Pyrite
+(D) Limonite ✔
+
+2. Which type of rock is formed from cooling and solidification of lava ?
+(A) Sedimentary
+(B) Igneous ✔
+(C) Metamorphic
+(D) Crystal
+
+10. Which of the following pairs will give displacement reactions ?
+(A) NaCl solution and copper metal
+(B) AgNO3 solution and copper metal ✔
+(C) MgCl2 solution and aluminium metal
+(D) FeSO4 solution and silver metal
+
+12. Heat transfer that does not require a medium is called
+(A) Reflection
+(B) Radiation ✔
+(C) Convection
+(D) Conduction
+
+13. Which of the following acid is secreted in the stomach ?
+(A) Nitric acid
+(B) Sulphuric acid
+(C) Hydrochloric acid ✔
+(D) Phosphoric acid
+
+25. The meter that is used to measure the distance moved by the vehicle is known as
+(A) Speedometer
+(B) Ammeter
+(C) Odometer ✔
+(D) Chronometer
+
+29. Who was the first one to propose a model for the structure of an atom ?
+(A) Rutherford
+(B) E. Goldstein
+(C) *J. J. Thomson* ✔
+(D) Neils Bohr
+
+34. Dalton’s atomic theory successfully explained
+i. Law of conservation of mass.
+ii. Law of constant composition.
+iii. Law of radioactivity.
+iv. Law of multiple proportion.
+(A) i, ii and iii
+(B) ii, iii and iv
+(C) i, iii and iv
+(D) i, ii and iv ✔
+
+39. Which of the following bacterial disease that is called as spleenic fever ?
+(A) Typhoid
+(B) Anthrax ✔
+(C) Cholera
+(D) None of the above
+
+50. Which of the following are exothermic processes ?
+i. Evaporation of water.
+ii. Dilution of an acid (H2SO4).
+iii. Reaction of water with quick lime.
+iv. Sublimation of camphor (crystals).
+(A) ii and iii ✔
+(B) iii and iv
+(C) i and ii
+(D) i and iv
+
+
+58. In which organisms does spore formation occur as a mode of reproduction ? (Deleted)
+(A) Algae
+(B) Fungi
+(C) Fern
+(D) Yeast
+
+62. Which of the following corundum and cryolite are important ores ?
+(A) Silver
+(B) Aluminium ✔
+(C) Iron
+(D) Tin
+
+64. Which of the following represent the suitable condition for the liquefaction of gases ?
+(A) Low temperature, low pressure
+(B) Low temperature, high pressure ✔
+(C) High temperature, low pressure
+(D) High temperature, high pressure
+
+70. Which of the following is the fluid part of the blood ?
+(A) Plasma ✔
+(B) WBC
+(C) RBC
+(D) Blood platelets
+
+73. Which of the following is the *first artificially prepared element* ?
+(A) Tc ✔
+(B) Te
+(C) Tl
+(D) Th
+
+82. Which one of the following is an example of melamine used for making floor tiles ?
+(A) Thermoplastics
+(B) Polyethene
+(C) Thermo setting plastic ✔
+(D) PVC
+
+88. Which of the following radiation is used to get relief from body aches ?
+(A) Infra-red radiation ✔
+(B) UV radiation
+(C) Visible radiation
+(D) None of these
+
+90. What is the structural and functional unit of life ?
+(A) Organ
+(B) Cell ✔
+(C) Organism
+(D) Tissue
+
+93. Which of the following are the constituents of a soda acid fire extinguisher ?
+(A) Dil. sulphuric acid and sodium carbonate
+(B) Conc. sulphuric acid and aluminium sulphate
+(C) Conc. sulphuric acid and sodium carbonate solution
+(D) Dil. sulphuric acid and sodium bicarbonate solution ✔
+
+105. Which of the following the chlorophyll in photosynthesis is used for ?
+(A) Breaking down water molecules
+(B) Reduction of CO2
+(C) Absorbing light ✔
+(D) No function
+
+112. Which of the following has highly elongated elliptical orbit ?
+(A) Comet ✔
+(B) Asteroid
+(C) Meteor
+(D) Meteorite
+
+116. Which part of alimentary canal receives bile from the liver ?
+(A) Oesophagus
+(B) Stomach
+(C) Large intestine
+(D) Small intestine ✔
+
+122. Which of the following is a non-contact force ?
+(A) Magnetic force ✔
+(B) Frictional force
+(C) Impact force
+(D) None of these
+
+132. Which of the following is the resistance of the wire ?
+(A) R = 1/2V
+(B) R = IV
+(C) R = I/V
+(D) R = V/I ✔
+
+140. Which of the following is the value of solar constant ?
+(A) 1.4 kW/m^2 ✔
+(B) 1.6 kW/m^2
+(C) 1.8 kW/m^2
+(D) 1.2 kW/m^2
+
+142. The process of breaking down organic matter by micro organisms is called
+(A) Photosynthesis
+(B) Respiration
+(C) Fermentation
+(D) Decomposition ✔
+
+149. Which of the following is equivalent to tesla ?
+(A) Newton per Coulomb
+(B) Ampere per Newton
+(C) Newton per ampere meter ✔
+(D) Newton per ampere-second
+
+GOTO:top
+TAG:bpsc-69
+*BPSC CCE 69th*
+1. Which of the following
+technologies will be enabled by
+the 5G mobile communication
+networks?
+1. Internet of Things
+2. Edge Computing
+3. Network Slicing
+Select the correct answer using
+the codes given below.
+(A) Only 1 and 2
+(B) Only 2 and 3
+(C) Only 1 and 3
+(D) 1, 2 and 3
+
+2. Match List–I with List–II :
+List—I
+(Space Mission)
+List—II
+(Exploration)
+a. Cassini–Huygens
+b. Juno
+c. Artemis 
+d. VERITAS 
+
+1. Jupiter
+2. Saturn and its
+rings
+3. Venus
+4. Human Space–flight—Moon
+to Mars
+Select the correct answer using
+the codes given below.
+(A) a b c d
+    2 1 4 3
+(B) a b c d
+    3 1 4 2
+(C) a b c d
+    2 3 4 1
+(D) a b c d
+    3 1 2 4
+
+3. Match List–I with List–II :
+List—I
+(Cloth)
+List—II
+(Origin)
+a. Linen
+b. Coir
+c. Mohair
+d. Down 
+
+1. Coconut plant
+2. Flax plant
+3. Feathers of duck
+and geese
+4. Angora goat
+Select the correct answer using
+the codes given below.
+(A) a b c d
+1 3 2 4
+(B) a b c d
+4 3 1 2
+(C) a b c d
+2 1 4 3
+(D) a b c d
+4 1 3 2
+
+4. Consider the following state–ments :
+1. Taeniasis is an intestinal
+infection caused by three
+species of tapeworm—
+Taenia solium, Taenia
+saginata and Taenia
+asiatica.
+2. When cysts develop in the
+brain, the condition is
+referred to as neuro–
+cysticercosis (NCC).
+Which of the above statements
+is/are correct?
+(A) Only 1
+(B) Only 2
+(C) Both 1 and 2
+(D) None of the above
+
+5. Which of the following are
+computer languages?
+1. Cobra
+2. Python
+3. Squirrel
+4. Java
+Select the correct answer using
+the codes given below.
+(A) Only 1 and 2
+(B) Only 3 and 4
+(C) Only 1, 2 and 3
+(D) All of the above
+
+6. What is the full form of GPT
+in ChatGPT, recently seen in
+the news?
+(A) Glutamic Pyruvic Trans–
+aminase
+(B) GUID Partition Table
+(C) Grooved Pegboard Test
+(D) Generative Pre-Trained
+Transformer
+
+7. Which of the following are not
+the tastes of the tongue?
+1. Sweet
+2. Bitter
+3. Salty
+4. Spicy
+5. Umami
+6. Sour
+7. Pungent
+Select the correct answer using
+the codes given below.
+(A) 2, 5 and 7
+(B) 1, 3 and 4
+(C) 4 and 7
+(D) 3 and 6
+
+8. Which of the following pairs are
+correctly matched?
+1. Anorexia : Sleep disorder
+2. Insomnia : Eating disorder
+3. Dyspnoea : Shortness of breath
+4. Anosmia : Partial or full
+loss of smell
+Select the correct answer using
+the codes given below.
+(A) Only 1 and 2
+(B) Only 2 and 3
+(C) Only 3 and 4
+(D) All of the above
+
+9. In the universe, what are
+pulsars?
+(A) A group of stars
+(B) Rotating neutron stars
+(C) Explosion of a star
+(D) Radio waves emitted by
+a star
+
+10. In the context of lab-grown
+diamonds (LGDs), what is used
+as a diamond seed?
+(A) White sapphire
+(B) Moissanite
+(C) Graphite
+(D) Cubic zirconia (CZ)
+
+11. What is the ‘fibre’ used to make
+bulletproof jackets?
+(A) Nylon
+(B) Terylene
+(C) Tweed
+(D) Kevlar
+
+12. What is/are the full form(s)
+of HMX?
+1. High Melting Explosive
+2. High-Density Monoatomic
+Xenon
+3. Hedge Monetizing Xeno–
+currency
+4. Her Majesty’s Explosive
+Select the correct answer using
+the codes given below.
+(A) 1 and 2
+(B) 2 and 3
+(C) Only 1
+(D) 1 and 4
+
+13. What is the name of Tesla’s
+humanoid robot launched in
+October 2022?
+(A) Sophia
+(B) Atlas
+(C) Pepper
+(D) Optimus
+
+14. What is the ‘Manhattan Project’?
+(A) A research and development
+undertaking that produced
+the first nuclear weapons
+(B) One of the largest art
+auctions of the world
+(C) A real estate project in
+New York City
+(D) A famous theme park
+
+15. The image formed by concave
+mirror is real, inverted and of
+the same size as that of the
+object. The position of the object
+should be
+(A) at the focus
+(B) at the centre of curvature
+(C) between the focus and
+centre of curvature
+(D) beyond the centre of
+curvature
+
+16. A photoelectric cell is a device
+which
+(A) converts light energy into
+electric energy
+(B) converts electric energy into
+light energy
+(C) stores light energy
+(D) None of the above
+
+17. The amount of solute present
+per unit volume or per unit
+mass of the solution/solvent is
+known as _____ in Chemistry.
+(A) composition of solute
+(B) concentration of solvent
+(C) concentration of solute
+(D) concentration of solution
+
+18. How do COVID vaccines
+stimulate an immune response?
+(A) By introducing live
+attenuated SARS-CoV-2
+virus
+(B) By introducing a real
+SARS-CoV-2 virus
+(C) By introducing a harmless
+piece of SARS-CoV-2 virus
+(D) By introducing antibodies
+against SARS-CoV-2 virus
+
+19. Which of the following liquids is
+a bad conductor of electricity?
+(A) Salted water
+(B) Orange juice
+(C) Lemon juice
+(D) None of the above
+
+20. The DNA double helix structure
+was discovered by
+(A) James Watson and Francis
+Crick
+(B) Rosalind Franklin and
+Maurice Wilkins
+(C) Linus Pauling
+(D) Gregor Mendel
+
+21. Two objects of different masses
+falling freely near the surface of
+the Moon would
+(A) have different accelerations
+(B) undergo a change in their
+inertia
+(C) have same velocity at any
+instant
+(D) experience forces of same
+magnitude
+
+22. How do vector vaccines work to
+provide immunity?
+(A) By introducing a weakened
+or inactivated virus into
+the body
+(B) By directly attacking and
+destroying pathogens in
+the body
+(C) By placing the virus in a
+modified version of a
+different virus
+(D) By entering directly into the
+cells and enabling them to
+create spike proteins
+
+23. The process that continually
+adds new crust is
+(A) subduction
+(B) earthquake
+(C) seafloor spreading
+(D) convection
+
+24. The theory that states “pieces of
+the Earth’s crust are in
+constant, slow motion driven by
+movement in the mantle” is
+called
+(A) the theory of continental
+drift
+(B) the theory of Pangaea
+(C) the theory of plate tectonics
+(D) the theory of plate
+boundaries
+
+25. What is the expanded form of
+the term ‘mRNA’ that has been
+widely discussed since the
+beginning of the pandemic?
+(A) Messenger Ribonucleic Acid
+(B) Mutant Ribonucleic Acid
+(C) Modified Ribonucleic Acid
+(D) Mnemonic Ribonucleic Acid
+
+26. An AC current can be produced
+by
+(A) choke coil
+(B) dynamo
+(C) transformer
+(D) None of the above
+
+27. Current density is
+(A) a scalar quantity
+(B) a vector quantity
+(C) dimensionless
+(D) None of the above
+
+28. What is the basis of most
+useful classification of medica–
+tions in medical chemistry?
+(A) Pharmacological effect
+(B) Molecular targets
+(C) Chemical structure
+(D) None of the above
+
+29. Which of the following slows
+down the reaction rate?
+(A) Catalytic promoter
+(B) Homogeneous catalyst
+(C) Heterogeneous catalyst
+(D) None of the above
+
+30. Input and output nerves meet at
+(A) liver
+(B) central nervous system
+(C) heart
+(D) None of the above
+
+GOTO:top
+TAG:bpsc-68
+*BPSC CCE 68th*
+**Science Section Questions (Physics, Chemistry, Biology):**
+
+111. Large number of thin strips of black paint are made on the surface of a convex lens of focal length \(20 \mathrm(cm)\) to catch the image of a white horse. The image will be
+(A) a zebra of black stripes
+(B) a horse of black stripes
+(C) a horse of less brightness
+(D) More than one of the above
+(E) None of the above
+
+112. Shrillness of sound is determined by
+(A) amplitude of sound
+(B) wavelength of sound
+(C) velocity of sound
+(D) More than one of the above
+(E) None of the above
+
+113. Which of the following photoelectric devices is most suitable for digital applications?
+(A) Photovoltaic cell
+(B) Photoemitter
+(C) Photodiode
+(D) More than one of the above
+(E) None of the above
+
+114. Ball bearings are used to convert static friction into
+(A) drag
+(B) sliding friction
+(C) rolling friction
+(D) More than one of the above
+(E) None of the above
+
+115. A goalkeeper in a game of football pulls his hands backwards after holding the ball shot at the goal. This enables the goalkeeper to
+(A) exert large force on the ball
+(B) increase the force exerted by the ball on hands
+(C) decrease the rate of change of momentum
+(D) More than one of the above
+(E) None of the above
+
+116. Which among the following is a positively charged particle emitted by a radioactive element?
+(A) Beta ray
+(B) Alpha ray
+(C) Cathode ray
+(D) More than one of the above
+(E) None of the above
+
+117. Centripetal force is responsible to
+(A) keep the body moving along the circular path
+(B) fly the object along a straight line
+(C) independent motion of the object in space
+(D) More than one of the above
+(E) None of the above
+
+118. Which of the following energy changes involves frictional force?
+(A) Potential energy to sound energy
+(B) Chemical energy to heat energy
+(C) Kinetic energy to heat energy
+(D) More than one of the above
+(E) None of the above
+
+119. A bus is moving along a straight path and takes a sharp turn to the right side suddenly. The passengers sitting in the bus will
+(A) fall in the forward direction
+(B) bent towards left side
+(C) bent towards right side
+(D) More than one of the above
+(E) None of the above
+
+120. Before playing the orchestra in a musical concert, a sitarist tries to adjust the tension and pluck the string suitably. By doing so, he/she is adjusting
+(A) amplitude of sound
+(B) intensity of sound
+(C) frequency of the sitar string with the frequency of other musical instruments
+(D) More than one of the above
+(E) None of the above
+
+121. A form of matter has no fixed shape but it has a fixed volume. An example of this form of matter is
+(A) krypton
+(B) kerosene
+(C) carbon steel
+(D) More than one of the above
+(E) None of the above
+
+122. Some metal oxides react with acid as well as base to produce salt and water. They are known as amphoteric oxides. The examples of amphoteric oxides are
+(A) \(\mathrm(Al)_(2)\mathrm(O)_(3)\) and \(\mathrm(ZnO)\)
+(B) \(\mathrm(Al)_(2)\mathrm(O)_(3)\) and \(\mathrm(CuO)\)
+(C) \(\mathrm(CuO)\) and \(\mathrm(ZnO)\)
+(D) More than one of the above
+(E) None of the above
+
+123. Which gas contributes to global warming through its greenhouse effect?
+(A) Nitrous oxide
+(B) Methane
+(C) Carbon dioxide
+(D) More than one of the above
+(E) None of the above
+
+124. Acids react with metal carbonates to liberate gas.
+(A) \(\mathrm(CO)_(2)\)
+(B) CO
+(C) \(\mathrm(H)_(2)\)
+(D) More than one of the above
+(E) None of the above
+
+125. Which acid is described as HOOCCOOH?
+(A) Oxalic acid
+(B) Acetic acid
+(C) Carbonic acid
+(D) More than one of the above
+(E) None of the above
+
+126. You have been provided with three test tubes. One of them contains distilled water and the other two contain an acidic solution and a basic solution, respectively. Which of them will turn red litmus to blue?
+(A) Acid
+(B) Base
+(C) Distilled water
+(D) More than one of the above
+(E) None of the above
+
+127. The odour of acetic acid resembles that of
+(A) tomato
+(B) kerosene
+(C) vinegar
+(D) More than one of the above
+(E) None of the above
+
+128. Why does dry HCl gas not change the colour of dry litmus paper?
+(A) Blue litmus becomes dry in the presence of dry HCl gas.
+(B) No \(\mathrm(H)_(3)\mathrm(O)^(+)\) ions are present. Litmus changes colour only in the presence of \(\mathrm(H)_(3)\mathrm(O)^(+)\) ions.
+(C) HCl gas acts as a dehydrating agent.
+(D) More than one of the above
+(E) None of the above
+
+129. Detect the odd one.
+(A) Setting of cement
+(B) Burning of coal
+(C) Ripening of fruit
+(D) More than one of the above
+(E) None of the above
+
+130. Which of the following statements about diamond and graphite is true?
+(A) They have same crystal structure.
+(B) They have same degree of hardness.
+(C) They have same electrical conductivity.
+(D) More than one of the above
+(E) None of the above
+
+131. The stomata open or close due to change in the
+(A) protein composition of cells
+(B) amount of water in cells
+(C) position of nucleus in cells
+(D) More than one of the above
+(E) None of the above
+
+132. Chlorophyll absorbs wavelengths of the sunlight.
+(A) green and blue
+(B) green and red
+(C) red and blue
+(D) More than one of the above
+(E) None of the above
+
+133. Which of the following is not a correct match?
+(A) Thick, hard stem with branching near base : Tree
+(B) Weak stem which cannot stand upright : Creeper
+(C) Petiole : Attacks leaf to stem
+(D) More than one of the above
+(E) None of the above
+
+134. Water reaches great heights in trees because of suction pull caused by
+(A) absorption
+(B) transpiration
+(C) evaporation
+(D) More than one of the above
+(E) None of the above
+
+135. Which among the following is a character of chloroplast which makes them qualified to self-replication?
+(A) Presence of DNA only
+(B) Absence of RNA
+(C) Presence of both DNA and RNA
+(D) More than one of the above
+(E) None of the above
+
+136. The parts of the skeleton that are not as hard as bones and which can be bent are called as
+(A) carpals
+(B) cartilage
+(C) vertebrae
+(D) More than one of the above
+(E) None of the above
+
+137. In lichen, a chlorophyll-containing partner, live together.
+(A) fungus and a bacterium
+(B) alga and a virus
+(C) alga and a fungus
+(D) More than one of the above
+(E) None of the above
+
+138. Female Anopheles can be distinguished from female Culex because it sits
+(A) at an angle with substratum
+(B) parallel to the surface of substratum
+(C) at right angle to the surface of substratum
+(D) More than one of the above
+(E) None of the above
+
+139. The most important cell type associated with the immunity of the body is
+(A) platelets
+(B) lymphocytes
+(C) RBCs
+(D) More than one of the above
+(E) None of the above
+
+140. Which one of the following statements is incorrect about muscles in human body?
+(A) Muscles work in pairs.
+(B) Muscles become shorter, stiffer and thicker when contracted.
+(C) Muscles can only push the bone.
+(D) More than one of the above
+(E) None of the above
+
+
+GOTO:top
+TAG:bpsc-67-re
+*BPSC CCE 67th re-exam* (Set-B)
+26. Plants receive their nutrients mainly from
+(A) soil
+(B) chlorophyll
+(C) atmosphere
+(D) light
+(E) None of the above/More than one of the above
+
+27. Pine, Fir, Spruce, Cedar, Larch and Cypress are the famous timber-yielding plants of which several also occur widely in the hilly regions of India. All these belong to
+(A) dicotyledons
+(B) angiosperm
+(C) gymnosperm
+(D) monocotyledons
+(E) None of the above/More than one of the above
+
+28. From the following pairs, find the one which is correctly matched.
+(A) Malaria—Chloroquine
+(B) Scurvy—Thiamine
+(C) Tuberculosis—ATS
+(D) Tetanus—BCG
+(E) None of the above/More than one of the above
+
+29. The animal without red blood cells is
+(A) peacock
+(B) frog
+(C) earthworm
+(D) snake
+(E) None of the above/More than one of the above
+
+30. The ultimate substance to which the carbohydrates are degraded, is
+(A) maltose
+(B) amino acid
+(C) glycerol
+(D) glucose
+(E) None of the above/More than one of the above
+
+31. Most of the enzymes are
+(A) alkalis
+(B) proteins
+(C) lipids
+(D) acids
+(E) None of the above/More than one of the above
+
+32. Who was the first scientist/doctor, who attempted vaccination?
+(A) Edward Jenner
+(B) Joseph Lister
+(C) Robert Koch
+(D) Elie Metchnikoff
+(E) None of the above/More than one of the above
+
+33. The working principle of a washing machine is
+(A) dialysis
+(B) reverse osmosis
+(C) diffusion
+(D) centrifugation
+(E) None of the above/More than one of the above
+
+34. The speed of light will be minimum while passing through
+(A) glass
+(B) water
+(C) vacuum
+(D) air
+(E) None of the above/More than one of the above
+
+35. Which of the following is not a vector quantity?
+(A) Displacement
+(B) Speed
+(C) Velocity
+(D) Torque
+(E) None of the above/More than one of the above
+
+36. If the spinning speed of the earth increases, then the weight of the body at the equator will
+(A) be doubled
+(B) increase
+(C) decrease
+(D) remain same
+(E) None of the above/More than one of the above
+
+37. Who is the first person to define speed?
+(A) Ptolemy
+(B) Galileo
+(C) Newton
+(D) Kepler
+(E) None of the above/More than one of the above
+
+38. What is the law in which under the same conditions of temperature and pressure, equal volumes of all gases contain equal number of molecules?
+(A) Avogadro’s law
+(B) Coriolis effect
+(C) Graham’s law
+(D) Pascal’s law
+(E) None of the above/More than one of the above
+
+39. The ‘theory of relativity’ is presented by which scientist?
+(A) Marie Curie
+(B) Albert Einstein
+(C) Isaac Newton
+(D) Stephen Hawking
+(E) None of the above/More than one of the above
+
+40. Due to temperature variation along a conductor, potential variation occurs along it. This phenomenon is known as
+(A) Peltier effect
+(B) Thomson effect
+(C) Joule effect
+(D) Seebeck effect
+(E) None of the above/More than one of the above
+
+41. What type of lens is used in magnifying glass?
+(A) Convex mirror
+(B) Concave lens
+(C) Plano-concave lens
+(D) Convex lens
+(E) None of the above/More than one of the above
+
+42. The paramagnetic theory of magnetism applies to
+(A) platinum
+(B) nickel
+(C) mercury
+(D) iron
+(E) None of the above/More than one of the above
+
+43. The nucleus of an atom consists of
+(A) electrons only
+(B) electrons and neutrons
+(C) electrons and protons
+(D) protons and neutrons
+(E) None of the above/More than one of the above
+
+44. The metallurgical process in which a metal is obtained in a fused state is called
+(A) froth floatation
+(B) smelting
+(C) roasting
+(D) calcination
+(E) None of the above/More than one of the above
+
+45. Which among the following are constituents of brass?
+(A) Iron and copper
+(B) Zinc and copper
+(C) Iron and zinc
+(D) Copper and nickel
+(E) None of the above/More than one of the above
+
+46. Which among the following is known as quicklime?
+(A) CaCl₂
+(B) CaO
+(C) CaCO₃
+(D) Ca(OH)₂
+(E) None of the above/More than one of the above
+
+47. What happens to the weight of iron, when it rusts?
+(A) Remains same
+(B) Increases for long time
+(C) Decreases then
+
+GOTO:top
+TAG:bpsc-67
+*BPSC CCE 67th exam* (Set-A)
+**Science Section Questions (Physics, Chemistry, Biology):**
+
+1. A person standing in front of a mirror finds his image larger than himself. This implies that the mirror is
+(A) concave
+(B) plane
+(C) convex
+(D) cylindrical with bulging side outwards
+(E) None of the above/More than one of the above
+
+2. A fan produces a feeling of comfort during the hot weather because
+(A) fan supplies cool air
+(B) our body radiates more heat in air
+(C) conductivity of air increases
+(D) our perspiration evaporates rapidly
+(E) None of the above/More than one of the above
+
+3. Twinkling of stars in clear sky during nighttime can be explained with
+(A) refraction of light
+(B) reflection of light
+(C) polarization of light
+(D) interference of light
+(E) None of the above/More than one of the above
+
+4. Hydrogen bomb is based on the principle of
+(A) controlled fusion reaction
+(B) uncontrolled fusion reaction
+(C) controlled fission reaction
+(D) uncontrolled fission reaction
+(E) None of the above/More than one of the above
+
+5. Food gets cooked faster in a pressure cooker because
+(A) water starts boiling at low temperature due to high pressure
+(B) water starts boiling at high temperature due to high pressure
+(C) water starts boiling at low temperature due to low pressure
+(D) water starts boiling at high temperature due to low pressure
+(E) None of the above/More than one of the above
+
+6. If the doors of a refrigerator are left open for few hours, then the room temperature will
+(A) decrease
+(B) increase
+(C) remain the same
+(D) decrease only in the area in the vicinity of the refrigerator
+(E) None of the above/More than one of the above
+
+7. A piece of ice is floating in a beaker containing water up to its brim. When whole of the ice melts
+(A) the water will spill on the floor
+(B) the level of water will come down in the beaker
+(C) the level of water will first fall and then it will spill out of the beaker
+(D) the water level will not change
+(E) None of the above/More than one of the above
+
+8. Which of the following is not correctly matched?
+(A) Voltmeter-Potential difference
+(B) Ammeter-Electric current
+(C) Potentiometer-Electromotive force
+(D) Galvanometer-Electric resistance
+(E) None of the above/More than one of the above
+
+9. If a feather, a rubber ball and a wooden ball are falling freely simultaneously from the same height in vacuum, then
+(A) the feather will reach at the ground first
+(B) the rubber ball will reach at the ground first
+(C) the wooden ball will reach at the ground first
+(D) all the three will reach at the ground together
+(E) None of the above/More than one of the above
+
+10. When a soap film on the water is seen in the daytime, it shows beautiful colours. This phenomenon is due to
+(A) diffraction of light
+(B) refraction of light
+(C) polarization of light
+(D) interference of light
+(E) None of the above/More than one of the above
+
+11. The mass number of a nucleus is
+(A) the sum of the numbers of neutrons and protons
+(B) the total mass of neutrons and protons
+(C) always more than the atomic weight
+(D) always less than its atomic number
+(E) None of the above/More than one of the above
+
+12. Which of the following is the main ingredient of cement?
+(A) Limestone
+(B) Silica clay
+(C) Gypsum
+(D) Ash
+(E) None of the above/More than one of the above
+
+13. Isotopes of an element differ in
+(A) the number of protons
+(B) the mass number
+(C) the number of electrons
+(D) the atomic number
+(E) None of the above/More than one of the above
+
+14. The temperature point at which solid, liquid and gaseous states may stay together is known as
+(A) boiling point
+(B) melting point
+(C) freezing point
+(D) triple point
+(E) None of the above/More than one of the above
+
+15. The most important ore of aluminium is
+(A) bauxite
+(B) calamine
+(C) calcite
+(D) galena
+(E) None of the above/More than one of the above
+
+16. Which among the following solutions has pH value more than 7?
+(A) Buffer solution
+(B) Basic solution
+(C) Acidic solution
+(D) Neutral solution
+(E) None of the above/More than one of the above
+
+17. Which among the following is an incorrect option?
+(A) Atom is electrically neutral due to presence of protons and electrons inside the nucleus.
+(B) Electrons are negatively charged and have negligible mass.
+(C) Atomic number is the number of protons in an atom of an element.
+(D) Isotopes are useful as nuclear fuel, in medical field, in carbon dating, etc.
+(E) None of the above/More than one of the above
+
+18. Select the incorrect statement out of the following.
+(A) Cotton is suitable for use as clothing in summer because it absorbs moisture.
+(B) Polycarbonate is used for making CDs.
+(C) Acrylic is also called artificial silk as it is prepared from cotton but has shine like silk.
+(D) Teflon is used for coating non-stick kitchenwares.
+(E) None of the above/More than one of the above
+
+19. Which of the following statements about graphite and diamond is true?
+(A) They have the same crystal structure.
+(B) They have the same hardness.
+(C) They have the same electrical conductivity.
+(D) They can undergo the same chemical reaction.
+(E) None of the above/More than one of the above
+
+20. Which of the following is the major constituent of the liquefied petroleum gas?
+(A) Methane
+(B) Ethane
+(C) Propane
+(D) Butane
+(E) None of the above/More than one of the above
+
+21. Water passes from the soil into the roots by a physical process called
+(A) diffusion
+(B) transpiration
+(C) absorption
+(D) osmosis
+(E) None of the above/More than one of the above
+
+22. Biodegradable wastes can usually be converted into useful substance with the help of
+(A) bacteria
+(B) viruses
+(C) nuclear proteins
+(D) radioactive substances
+(E) None of the above/More than one of the above
+
+23. In the nighttime, it is advised not to sleep under trees because
+(A) they liberate less amount of oxygen
+(B) they liberate harmful gases at night
+(C) they liberate carbon dioxide
+(D) they liberate carbon monoxide
+(E) None of the above/More than one of the above
+
+24. Insectivorous plants grow in soil deficient in
+(A) water
+(B) magnesium
+(C) nitrogen
+(D) calcium
+(E) None of the above/More than one of the above
+
+25. Stem of a plant helps in distributing food to all parts of the plant. It also helps in
+(A) storing the food
+(B) shaping the plant
+(C) respiration
+(D) photosynthesis
+(E) None of the above/More than one of the above
+
+26. In transfusion, blood must be compatible not only in blood type but also in
+(A) Rh factor
+(B) the number of white cells
+(C) the number of red cells
+(D) race of donor and recipient
+(E) None of the above/More than one of the above
+
+27. Pituitary gland is located in
+(A) intestine
+(B) liver
+(C) kidney
+(D) brain
+(E) None of the above/More than one of the above
+
+28. Which of the following rays/waves are used to know the growth of fetus in the womb?
+(A) X-rays
+(B) Microwaves
+(C) Ultrasonic waves
+(D) Ultraviolet rays
+(E) None of the above/More than one of the above
+
+29. The universal acceptor blood group is
+(A) A
+(B) B
+(C) AB
+(D) O
+(E) None of the above/More than one of the above
+
+30. Pneumonia is an infection of
+(A) nerve
+(B) blood
+(C) skin
+(D) lungs
+(E) None of the above/More than one of the above
+
+
+TAG:bpsc-66
+*BPSC CCE 66th exam* (Set-A)
+**Science Section Questions (Physics, Chemistry, Biology):**
+
+1. The radiations used in the treatment of muscle ache are
+(A) infrared
+(B) microwave
+(C) UV
+(D) X-ray
+(E) None of the above/More than one of the above
+
+2. The total resistance of a circuit having two parallel resistors is 1-403 kilo-ohm. If one of the resistors is 2-0 kilo-ohm, then the other resistor will be
+(A) 1-403 kilo-ohm
+(B) 2-0 kilo-ohm
+(C) 3-403 kilo-ohm
+(D) 4-70 kilo-ohm
+(E) None of the above/More than one of the above
+
+3. On heating, the resistance of a semiconductor
+(A) increases
+(B) decreases
+(C) remains same
+(D) first increases and then decreases
+(E) None of the above/More than one of the above
+
+4. Faraday constant
+(A) depends on the amount of the electrolyte
+(B) depends on the current passed in the electrolyte
+(C) depends on the volume of the solvent in which the electrolyte is dissolved
+(D) is a universal constant
+(E) None of the above/More than one of the above
+
+5. 'Light-year' is a unit of
+(A) time
+(B) speed
+(C) distance
+(D) intensity of light
+(E) None of the above/More than one of the above
+
+6. Which of the following does not change when light travels from one medium to another?
+(A) Velocity
+(B) Wavelength
+(C) Frequency
+(D) Refractive index
+(E) None of the above/More than one of the above
+
+7. The velocity of electromagnetic waves is
+(A) \(3\times 10^(8)\mathrm(ms)^(-1)\)
+(B) \(3\times 10^(7)\mathrm(ms)^(-1)\)
+(C) \(3\times 10^(6)\mathrm(ms)^(-1)\)
+(D) \(3\times 10^(5)\mathrm(ms)^(-1)\)
+(E) None of the above/More than one of the above
+
+8. The first man who placed his foot on the moon is
+(A) Leonov
+(B) Neil Armstrong
+(C) Michael Collins
+(D) James Van Allen
+(E) None of the above/More than one of the above
+
+9. The number of neutrons in the nucleus of plutonium nuclide \((_(94)\mathrm(Pu)^(242))\) is
+(A) 94
+(B) 148
+(C) 242
+(D) 336
+(E) None of the above/More than one of the above
+
+10. The highest viscosity among the following is of
+(A) water
+(B) air
+(C) blood
+(D) honey
+(E) None of the above/More than one of the above
+
+11. Milk is a poor source of
+(A) calcium
+(B) protein
+(C) vitamin C
+(D) carbohydrate
+(E) None of the above/More than one of the above
+
+12. The breath test conducted by police to check drunken driver has which one of the following on the filter paper?
+(A) Potassium dichromate-sulfuric acid
+(B) Potassium permanganate- sulfuric acid
+(C) Silica gel coated with silver nitrate
+(D) Turmeric
+(E) None of the above/More than one of the above
+
+13. Glucose is converted to ethyl alcohol by the enzyme
+(A) maltase
+(B) invertase
+(C) zymase
+(D) diastase
+(E) None of the above/More than one of the above
+
+14. Limewater is turned milky by
+(A) CO
+(B) \(\mathrm(CO)_(2)\)
+(C) \(\mathrm(O)_(2)\)
+(D) \(\mathrm(O)_(3)\)
+(E) None of the above/More than one of the above
+
+15. The incomplete burning of petrol and diesel produces
+(A) nitric oxide
+(B) nitrogen dioxide
+(C) carbon dioxide
+(D) carbon monoxide
+(E) None of the above/More than one of the above
+
+16. The pH of a solution changes from 3 to 6. The \(\mathrm(H)^(+)\) ion concentration will
+(A) increase 3 times
+(B) decrease 3 times
+(C) decrease 10 times
+(D) decrease 1000 times
+(E) None of the above/More than one of the above
+
+17. A mixture of sand and naphthalene can be separated by
+(A) sublimation
+(B) distillation
+(C) chromatography
+(D) fractional distillation
+(E) None of the above/More than one of the above
+
+18. The numbers of sigma and pi bonds in benzene are
+(A) 3, 3
+(B) 3, 6
+(C) 12, 3
+(D) 12, 6
+(E) None of the above/More than one of the above
+
+19. The elements present in urea are
+(A) C, H, O
+(B) C, N, O
+(C) C, H, N
+(D) C, H, N, O
+(E) None of the above/More than one of the above
+
+20. The poorest conductor of heat among the following is
+(A) copper
+(B) lead
+(C) mercury
+(D) zinc
+(E) None of the above/More than one of the above
+
+21. The vitamin which is effective in blood clotting is
+(A) vitamin A
+(B) vitamin B
+(C) vitamin D
+(D) vitamin K
+(E) None of the above/More than one of the above
+
+22. The female sex hormone is
+(A) estrogen
+(B) androgen
+(C) insulin
+(D) oxytocin
+(E) None of the above/More than one of the above
+
+23. The Nobel Prize for developing treatment of Parkinson's disease was given to
+(A) Arvid Carlsson
+(B) John F. Enders
+(C) Robert B. Laughlin
+(D) Walter Kohn
+(E) None of the above/More than one of the above
+
+24. The malfunctioning of thyroid gland is due to the deficiency of
+(A) vitamin A
+(B) calcium
+(C) iodine
+(D) iron
+(E) None of the above/More than one of the above
+
+25. The sensitive area of the human tongue to bitterness is
+(A) tip
+(B) middle part
+(C) posterior part
+(D) edge
+(E) None of the above/More than one of the above
+
+26. Ginger is a stem and not root because
+(A) it stores food material
+(B) it has nodes and internodes
+(C) it grows horizontally in the soil
+(D) it lacks chlorophyll
+(E) None of the above/More than one of the above
+
+27. The sweetest sugar among the following is
+(A) fructose
+(B) glucose
+(C) maltose
+(D) sucrose
+(E) None of the above/More than one of the above
+
+28. Among the following, which is not a true fruit?
+(A) Apple
+(B) Grape
+(C) Date
+(D) Plum
+(E) None of the above/More than one of the above
+
+29. Legumes are highly nutritious because they are rich in
+(A) fat
+(B) protein
+(C) oil
+(D) starch
+(E) None of the above/More than one of the above
+
+30. Clove, a spice, is obtained from which part of the plant?
+(A) Fruit
+(B) Stem
+(C) Root
+(D) Flower bud
+(E) None of the above/More than one of the above
+
+GOTO:top
+

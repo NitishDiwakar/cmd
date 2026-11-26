@@ -1,0 +1,11 @@
+============================
+Title : Prefix
+Tags  : #
+Descr : 
+============================
+
+# Add prefix
+for f in *.pdf; do mv -- "$f" "prefix_$f"; done
+
+# Remove prefix
+for f in prefix_*.pdf; do mv -- "$f" "${f#prefix_}"; done  

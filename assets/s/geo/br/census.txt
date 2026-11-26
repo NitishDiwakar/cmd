@@ -1,0 +1,31 @@
+============================
+Title : Census
+Tags  : #nomail
+Descr :
+============================
+
+TAG:top
+GOTO:2011
+
+
+TAG:2011
+*Census 2011*
+
+PVTG in Bihar (2011 census): 5
+  - Asur
+  - Mal Paharia
+  - Sauria Paharia
+  - Paharia
+  - Korwa
+
+Scheduled Tribes (in number)
+  - Katihar > Purnia > West Champaran
+
+Scheduled Tribes (in percentage)
+  - Katihar (5.9%) > Jamui (4.8%) > Banka (4.7%)
+
+Scheduled Caste (in number)
+  - Gaya > Patna > Samastipur
+
+Scheduled Caste (in percentage)
+  - Gaya (30%) > Nawada (25%) > Aurangabad (24%)

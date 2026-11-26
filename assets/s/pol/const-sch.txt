@@ -1,0 +1,33 @@
+============================
+Title : Schedules of Indian Constitution 
+Tags  : #
+Descr : 
+============================
+
+
+Sch. I       
+  - Names of states & UT (1,4)
+Sch. II      
+  - Allowances (59,65,75,97,125,148, 158, 164, 186 and 221)
+Sch. III     
+  - Oaths (75,84, 99, 124, 146, 173, 188 and 219)
+Sch. IV      
+  - RS Seats (4,80)
+Sch. V       
+  - Scheduled areas and ST (244)
+
+Sch. VI     
+  - Tribal Areas in MATM - Meghalaya, Assam, Tripura, Mizoram (244, 275)
+Sch. VII    
+  - List (246)
+Sch. VIII   
+  - Languages (344, 351)
+Sch. IX     
+  - Land Reform (31-B)
+Sch. X      
+  - Anti-defection Law (102,191)
+  
+Sch. XI     
+  - Panchayats (243-G)
+Sch. XII
+  - Municipalities (243-W)

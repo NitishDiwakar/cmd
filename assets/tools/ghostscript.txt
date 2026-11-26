@@ -1,0 +1,26 @@
+============================
+Title : Ghostscript
+Tags  : #
+Descr : 
+============================
+
+# Compress (Windows)
+gswin64c -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 ^ -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH ^ -sOutputFile=compressed.pdf input.pdf
+
+# Compress (Linux)
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dQUIET -dBATCH -sOutputFile=output.pdf input.pdf
+
+# Compress with manual dpi
+# Default dpi for /ebook is 150
+gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 \
+   -dDownsampleColorImages=true -dColorImageResolution=140 \
+   -dDownsampleGrayImages=true -dGrayImageResolution=140 \
+   -dDownsampleMonoImages=true -dMonoImageResolution=140 \
+   -o output_optimized.pdf input.pdf
+
+# Compress multiple files
+for file in *.pdf; do gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dBATCH -dQUIET -sOutputFile="${file%.pdf}_compressed.pdf" "$file"; done
+
+# Compress multiple files, save in new directory
+mkdir -p compressed; for file in *.pdf; do gs -sDEVICE=pdfwrite -dCompatibilityLevel=1.4 -dPDFSETTINGS=/ebook -dNOPAUSE -dBATCH -dQUIET -sOutputFile="compressed/$file" "$file"; done
+

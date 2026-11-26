@@ -1,0 +1,34 @@
+============================
+Title : ISRO
+Tags  : #isro 
+Descr :
+============================
+
+*Missions*
+NISAR satellite
+  - Dual frequency radar
+  - All weather earth observation
+  - focus- land and ice icosystem
+  - 30th July 2025
+
+GSLV F15/NVS-02
+  - 100th Mission from Satish Dhawan, Sriharikota
+
+Axiom 4
+  - Subhanshu Shukla
+  - With NASA
+  - Microgravity experiments
+
+PSLV-C61/EOS-09
+  - Earth Observation Satellite
+  - Sun Synchronous Orbit
+  - Agri and Disaster management
+
+LVM3-M6 / BlueBird Block-2
+  - ISRO's most powerful rocket
+
+Gaganyaan
+  - Testing of Service Module Propulsion system
+
+IDRSS-1/2
+  - Indian Data Relay Satellite System

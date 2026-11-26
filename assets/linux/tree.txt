@@ -1,0 +1,17 @@
+============================
+Title : Tree
+Tags  : #
+Descr : 
+============================
+
+# Save to file
+tree > structure.txt
+
+# Show n level
+tree -L 3
+
+# Show only directories
+tree -d
+
+
+

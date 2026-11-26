@@ -1,0 +1,178 @@
+============================
+Title : Measurements/Units
+Tags  : #imp
+Descr :
+============================
+
+
+Length
+  - Metre (m)
+
+Mass  
+  - Kilogram (kg)
+
+Time 
+  - Second (s)
+
+Temperature 
+  - Kelvin (K)
+
+Luminous Intensity 
+  - Candela (cd)
+
+Electric Current 
+  - Ampere (A)
+
+Amount of Substance
+  - Mole (mol)
+
+
+
+*SI Derived Units With Special Name And Symbols*
+plane angle
+  - radian
+  - rad = m/m
+
+solid angle
+  - steradian
+  - sr = m^2/m^2
+
+frequency
+  - hertz
+  - Hz = s^-1
+
+force
+  - newton
+  - N = kg m s^-2
+  - N m
+
+*pressure, stress*
+  - pascal
+  - Pa = kg m^-1 s^-2
+
+energy, work,
+amount of heat
+  - joule
+  - J = kg m^2 s^-2
+  - J/s
+
+*power, radiant flux*
+  - watt
+  - W = kg m^2 s^-3
+  - W/A
+
+electric charge
+  - coulomb
+  - C = A s
+  - C/V
+
+voltage/electric
+potential difference
+  - volt
+  - V = kg m^2 s^-3 A^-1
+
+*capacitance*
+  - farad
+  - F = kg^-1 m^-2 s^4 A^2
+  - V/A
+
+electric resistance
+  - ohm
+  - Ω = kg m^2 s^-3 A^-2
+  - A/V
+
+*electric conductance*
+  - siemens
+  - S = kg^-1 m^-2 s^3 A^2
+
+*magnetic flux*
+  - weber
+  - Wb = kg m^2 s^-2 A^-1
+  - V s
+
+magnetic flux density
+  - tesla
+  - T = kg s^-2 A^-1
+  - Wb/m^2
+
+inductance
+  - henry
+  - H = kg m^2 s^-2 A^-2
+  - Wb/A
+
+Celsius temperature
+  - degree Celsius
+  - °C = K
+  - -
+
+luminous flux
+  - lumen
+  - lm = cd sr
+  - cd sr
+
+illuminance
+  - lux
+  - lx = cd sr m^-2
+  - lm/m^2
+
+activity referred to
+a radionuclide
+  - becquerel
+  - Bq = s^-1
+  - -
+
+absorbed dose, kerma
+  - gray
+  - Gy = m^2 s^-2
+  - J/kg
+
+dose equivalent
+  - sievert
+  - Sv = m^2 s^-2
+  - J/kg
+
+catalytic activity
+  - katal
+  - kat = mol s^-1
+
+
+
+*In Term of Base Unit*
+area
+  - m^2
+
+volume
+  - m^3
+
+speed, velocity
+  - m s^-1
+
+acceleration
+  - m s^-2
+
+wavenumber
+  - m^-1
+
+density, mass density
+  - kg m^-3
+
+surface density
+  - kg m^-2
+
+specific volume
+  - m^3 kg^-1
+
+current density
+  - A m^-2
+
+magnetic field strength
+  - A m^-1
+
+amount of substance concentration
+  - mol m^-3
+
+mass concentration
+  - kg m^-3
+
+luminance
+  - cd m^-2

@@ -1,0 +1,51 @@
+============================
+Title : Table of Precedence
+Tags  : #imp
+Descr :
+============================
+
+1. President
+
+2. Vice-President
+
+3. Prime Minister
+
+4. Governors of states within their respective states
+
+5. Former presidents
+
+5A. Deputy Prime Minister
+
+6. Chief Justice of India
+   Speaker of Lok Sabha
+
+7. Cabinet Ministers of the Union
+   Cabinet Ministers of States within their respective States
+   Vice-Chairperson, NITI Aayog
+   Former Prime Ministers
+   Leader of Opposition in Rajya Sabha and Lok SAbha
+
+
+7A. Holders of Bharat RAtna decoration
+
+8. Ambassadors Extraordinary and Plenipotentiary and High Commissioners of Commonwealth countries accrediated to India
+   Chief Ministers of States outside their respective States
+   Governors of States outside their respective States
+
+9. *Judges of Supreme Court*
+
+9A. Ahairperson, Union Public Service Commission
+    Chief Election Commissioner
+    Comptroller & Auditor General of India
+
+10. Deputy Chairman, Rajya Sabha
+    Deputy Chief Ministers of States
+    Deputy Speaker, Lok Sabha
+    Members of the NITI Aayog
+    Ministers of State of the Union 
+    
+
+11. Attorney General of India
+    Cabinet Secretary 
+    Lieutenant Governors within their respective Union Territories
+

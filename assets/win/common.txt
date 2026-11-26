@@ -1,0 +1,31 @@
+============================
+Title : Common windows cmd commands
+Tags  : #
+Descr : 
+============================
+
+# Clear screen
+cls
+
+# As name says
+copy, move, rename/ren, del
+
+# Display file's content in cmd
+type file.txt
+
+# Show system details
+systeminfo
+
+# List all currently running processes
+tasklist
+
+# Shutdown now
+shutdown /s /t 0
+
+# Network configuration values
+ipconfig /all
+
+# View available ram 
+systeminfo | findstr "Physical Memory"
+
+

@@ -1,0 +1,32 @@
+============================
+Title : Links - The Hindu
+Tags  : #
+Descr : Some Important Links from The Hindu
+============================
+
+TAG:home
+GOTO:health
+GOTO:ir
+GOTO:misc
+
+
+LINK:https://www.thehindu.com/opinion/editorial/
+
+
+
+TAG:health
+*Obesity*
+LINK:https://www.thehindu.com/opinion/editorial/catch-them-young-on-overweight-or-obese-children-in-india/article70727136.ece
+
+LINK:https://www.thehindu.com/opinion/editorial/a-jab-well-done-on-indias-human-papillomavirus-vaccination-programme/article70676350.ece
+
+
+
+TAG:ir
+LINK:https://www.thehindu.com/opinion/editorial/a-reboot-on-canada-india-ties/article70700308.ece
+
+
+
+TAG:misc
+*Freedom of Speech*
+LINK:https://www.thehindu.com/news/national/criticism-satire-of-pm-ugc-regulations-target-of-government-takedowns-on-x-instagram/article70727083.ece

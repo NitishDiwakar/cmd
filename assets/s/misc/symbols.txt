@@ -1,0 +1,141 @@
+============================
+Title : Symbols
+Tags  : #nomail #noview
+Descr : This file is meant for coping special symbols
+============================
+
+₹ 
+_________________
+
+SUPERSCRIPT (powers)
+⁰ ¹ ² ³ ⁴ ⁵ ⁶ ⁷ ⁸ ⁹
+
+Example
+x²
+10³
+m³
+
+
+SUBSCRIPT (chemistry / formulas)
+₀ ₁ ₂ ₃ ₄ ₅ ₆ ₇ ₈ ₉
+
+Example
+H₂O
+CO₂
+H₂SO₄
+CH₄
+
+
+STRIKE DIGITS
+0̶ 1̶ 2̶ 3̶ 4̶ 5̶ 6̶ 7̶ 8̶ 9̶
+
+COMMON FRACTIONS
+½ ⅓ ⅔ ¼ ¾ ⅕ ⅖ ⅗ ⅘ ⅙ ⅚ ⅛ ⅜ ⅝ ⅞
+
+¹/₂  ¹/₃  ¹/₄  ¹/₅  ¹/₆  ¹/₇  ¹/₈  ¹/₉
+
+²/₁  ²/₂  ²/₃  ²/₄  ²/₅  ²/₆  ²/₇  ²/₈  ²/₉
+
+³/₁  ³/₂  ³/₃  ³/₄  ³/₅  ³/₆  ³/₇  ³/₈  ³/₉
+
+⁴/₁  ⁴/₂  ⁴/₃  ⁴/₄  ⁴/₅  ⁴/₆  ⁴/₇  ⁴/₈  ⁴/₉
+
+⁵/₁  ⁵/₂  ⁵/₃  ⁵/₄  ⁵/₅  ⁵/₆  ⁵/₇  ⁵/₈  ⁵/₉
+
+⁶/₁  ⁶/₂  ⁶/₃  ⁶/₄  ⁶/₅  ⁶/₆  ⁶/₇  ⁶/₈  ⁶/₉
+
+⁷/₁  ⁷/₂  ⁷/₃  ⁷/₄  ⁷/₅  ⁷/₆  ⁷/₇  ⁷/₈  ⁷/₉
+
+⁸/₁  ⁸/₂  ⁸/₃  ⁸/₄  ⁸/₅  ⁸/₆  ⁸/₇  ⁸/₈  ⁸/₉
+
+⁹/₁  ⁹/₂  ⁹/₃  ⁹/₄  ⁹/₅  ⁹/₆  ⁹/₇  ⁹/₈  ⁹/₉
+
+GREEK LETTERS
+α β γ δ ε ζ η θ ι κ λ μ ν ξ ο π ρ σ τ υ φ χ ψ ω
+
+CAPITAL
+Α Β Γ Δ Ε Ζ Η Θ Ι Κ Λ Μ Ν Ξ Ο Π Ρ Σ Τ Υ Φ Χ Ψ Ω
+
+Examples
+ΔT
+λ wavelength
+μ micro
+πr²
+
+
+MATH SYMBOLS
++ − × ÷ ± ∓
+= ≠ ≈ ≅
+< > ≤ ≥
+∞ ∑ ∏ ∫ √ ∛ ∜
+
+Examples
+a² + b² = c²
+∑ xi
+∫ f(x) dx
+
+
+LOGIC / SET THEORY
+∈ ∉ ⊂ ⊃ ⊆ ⊇
+∩ ∪ ∅
+∀ ∃
+
+
+ARROWS
+→ ← ↑ ↓
+⇒ ⇐ ⇔
+↔ ↕
+⟶ ⟵
+
+
+COMMON SCIENCE SYMBOLS
+° degree
+℃ temperature
+℉ temperature
+Ω ohm
+µ micro
+Å angstrom
+ℓ liter
+
+
+CHECK / MARKS
+✓ ✔ ✗ ✘
+
+
+DOT / BULLETS
+• ◦ ▪ ▫
+
+
+DASHES
+– en dash
+— em dash
+
+
+MISC USEFUL
+§ paragraph
+№ number
+© copyright
+® registered
+™ trademark
+
+
+EXAMPLES IN NOTES
+------------------------------
+
+Temperature ↑ → Pressure ↑
+
+CO₂ concentration ↑
+
+Speed ≈ 3 × 10⁸ m/s
+
+Area = πr²
+
+H₂SO₄ + NaOH → Na₂SO₄ + H₂O
+
+
+nᵗʰ digit
+------------------------------
+ˢᵗ ⁿᵈ ʳᵈ ᵗʰ
+
+
+---

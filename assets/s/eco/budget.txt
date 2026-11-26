@@ -1,0 +1,43 @@
+============================
+Title : Union Budget 
+Tags  : #Budget
+Descr : 
+============================
+
+*2026-27*
+Theme
+  - *Reform, Perform ,Transform*
+
+Target
+  -> *4.3%* Fiscal deficit (4.4% in 2025-26)
+  -> 10.5% Nominal GDP growth
+
+Capex
+  - ₹12.2 lakh crore
+
+Nominal and Real GDP growth rate assumption
+  - 10.5% & 7% 
+
+Total expenditure
+  - ₹53,47,315 crore (7.5% rise)
+
+Debt to GDP target
+  - 55.6% 
+
+High-Speed Rail Corridors: 7
+  Mumbai-Pune (48 minute - target travel)
+  Pune-Hyderabad (1 hr 55 min)
+  Hyderabad-Bengaluru (2 hr)
+  Hyderabad-Chennai (2 hr 55 min)
+  
+  Chennai-Bengaluru (1 hr 13 min)
+  Delhi-Varanasi (3 hr 50 min)
+  Varanasi-Siliguri (2 hr 55 min)
+  
+
+Operational Waterways: 20
+
+
+India Semiconductor Mission 2.0
+
+

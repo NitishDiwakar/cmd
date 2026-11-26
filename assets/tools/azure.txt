@@ -1,0 +1,17 @@
+=================================
+Title       : Microsoft Azure
+Tags        : #
+Description :
+=================================
+
+
+# Delete a non empty directory
+rd /s /q <folder_name>
+
+# Copy folders by overwriting
+robocopy "f1" "f2" /MIR
+
+
+———Sync github——--
+# In kudu console, home directory
+robocopy "cmd" "site\wwwroot\assets" /MIR

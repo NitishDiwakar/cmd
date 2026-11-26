@@ -1,0 +1,7 @@
+============================
+Title : Ministries - Bihar
+Tags  : #nomail #noview
+Descr :
+============================
+
+check: misc/gov/br/ministries.txt

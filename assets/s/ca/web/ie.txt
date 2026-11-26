@@ -1,0 +1,31 @@
+============================
+Title : Links - Indian Express
+Tags  : #
+Descr : Some Important Links from Indian Express
+============================
+
+TAG:home
+GOTO:ir
+GOTO:energy-sector
+GOTO:misc
+
+
+LINK:https://indianexpress.com/section/explained/
+
+
+TAG:ir
+*IR*
+LINK:https://indianexpress.com/article/explained/explained-global/sri-lanka-iranian-ship-dock-expert-explains-10568136/
+
+LINK:https://indianexpress.com/article/explained/explained-global/5-takeaways-us-eu-trade-deal-10154557/
+
+
+TAG:energy-sector
+*Energy Sector*
+LINK:https://indianexpress.com/article/explained/explained-sci-tech/expert-explains-thorium-india-100-gwe-2047-10564911/
+
+
+TAG:misc
+*Passive Euthanasia*
+LINK:https://indianexpress.com/article/explained/explained-law/supreme-court-passive-euthanasia-framework-what-law-says-10576198/
+

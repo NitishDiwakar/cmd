@@ -1,0 +1,74 @@
+============================
+Title : Census 2011
+Tags  : #
+Descr :
+============================
+
+-----India-----
+
+Census 2011
+- 15th National Census
+- Conducted uninterruptedly since 1881
+- Systematized 1865 to 1872
+
+Total Population 2011
+- 1.21 billion
+- Decadal growth *17.7* percent
+- Previous decade 21.5 percent
+- Female growth 18.3 percent
+- Male growth 17.1 percent
+- Bihar highest decadal growth *25.4* percent
+
+Rural Urban Population
+- Rural 833.5 million
+- Urban 377.1 million
+- Urban proportion *31.2* percent
+- 1951 urban proportion 17.3 percent
+- Highest urban proportion NCT Delhi 97.5 percent
+
+Literacy Rate 2011
+- Total literacy *74* percent
+- 2001 literacy 64.8 percent
+- Male literacy 80.9 percent
+- Female literacy 65.46 percent
+- Highest literacy Kerala 94 percent
+- Lakshadweep 91.8 percent
+- Mizoram 91.3 percent
+- Lowest literacy Bihar 61.8 percent
+
+Population Density
+- 2001 density 325 per sq km
+- 2011 density *382* per sq km
+- Bihar 1106
+- Delhi 11,320
+- Arunachal Pradesh 17
+
+Sex Ratio 2011
+- 940 females per 1000 males
+- 2001 sex ratio 933
+- Lowest Haryana 879
+- Highest Kerala 1084
+
+Child Population 0 to 6
+- 164.5 million
+- 13.12 percent of total population
+- Child sex ratio 919
+- 2001 child sex ratio 927
+- Worst Haryana 834
+- Best Chhattisgarh 969
+
+SC Population
+- 201.4 million
+- 20 percent increase
+
+ST Population
+- 104.3 million
+- 23.7 percent increase
+
+Median Marriage Age
+- Men 23.5 years
+- Women 19.2 years
+
+
+
+-----Bihar-----

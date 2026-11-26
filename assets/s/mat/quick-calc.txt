@@ -1,0 +1,38 @@
+============================
+Title : Quick Calculation
+Tags  : #imp
+Descr : 
+============================
+
+*Mul. by 11*
+
+  42 x 11 = 462
+  37 x 11 = 407
+
+  56 x 11 = 616 
+  (add carry in unit digit)
+
+
+*Square when last digit is 5*
+
+  25² = 625 (2 x 3 = 6)
+  65² = 4225 (6 x 7)
+
+
+IMG:square-any-number.jpg
+
+
+*Mul. 1st digit same, add of last two digits = 10*
+
+  32 x 38 = 1216
+  43 x 47 = 2021
+  64 x 66 = 4224
+
+
+*Subtraction -> nearby method*
+
+  1241 - 587
+  654 (-600, +13)
+
+
+

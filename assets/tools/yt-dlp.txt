@@ -1,0 +1,34 @@
+============================
+Title : yt-dlp
+Tags  : #
+Descr : 
+============================
+
+# Download (default)
+yt-dlp "link" 
+
+# Download mp3
+yt-dlp -x --audio-format mp3
+
+# Download to mp4 (best available quality)
+yt-dlp -f "bv*+ba/b" --merge-output-format mp4
+
+# Download 1080p mp4
+yt-dlp -f "bv*[height<=1080]+ba/b[height<=1080]" --merge-output-format mp4
+
+# Download with forced extractor
+yt-dlp --force-generic-extractor "LINK"
+
+# Add cookies from text file
+yt-dlp --cookies cookies.txt "LINK"
+
+# Add interval between downloads
+yt-dlp --sleep-interval 10 --max-sleep-interval 30 "PLAYLIST_URL"  
+
+# Add interval between downloads (720p)
+yt-dlp --sleep-interval 10 --max-sleep-interval 30 -f "bv*[height<=720]+ba/b[height<=720]" --merge-output-format mp4 "PLAYLIST_URL"
+
+# Download first video from youtube search
+yt-dlp "ytsearch1:Search string"
+
+

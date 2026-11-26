@@ -1,0 +1,10 @@
+
+
+
+# Export db from terminal
+mysqldump -u [username] -p [database_name] > [output_file_path].sql
+
+# Export db w/o data
+mysqldump -u username -p --no-data people_lara > schema.sql
+
+
