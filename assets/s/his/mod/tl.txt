@@ -72,13 +72,15 @@ Descr :
 1917
   - Champaran Movement
     - Called by: Rajkumar Shukla
+    - Gandhi's first Civil Disobedience
+
 
 1918
   - Ahmedabad Mill Strike
       Gandhi's first hunger strike
       Founded Labour Association
 
-  - United Province Kisan Sabha 
+  - *United Province Kisan Sabha* 
       Indra Narayan Dwivedi
       Gauri Shankar Mishra
 
@@ -94,7 +96,7 @@ Descr :
   - Non-Cooperation Movement
 
 1922
-  - Chauri-Chaura Incident
+  - Chauri-Chaura Incident (4th Feb)
     - Gandhi ended Non-Cooperation Movement
 
 1923
@@ -102,7 +104,7 @@ Descr :
     - C.R. Das
     - Motilal Nehru
 
-  - Nagpur Satyagraha
+  - *Nagpur Satyagraha*
 
 1924
   - Hindustan Republican Association (HRA)
