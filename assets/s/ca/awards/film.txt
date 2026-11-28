@@ -5,6 +5,7 @@ Descr :
 ============================
 TAG:top
 
+GOTO:26th-IIFA-Awards-2026
 GOTO:98th-Oscar-2026
 GOTO:83rd-Golden-Globe-Award-2026
 GOTO:72nd-National-Film-Award-2026
@@ -23,6 +24,34 @@ GOTO:87th-Golden-Global-Award-2025
 GOTO:25th-IIFA-Award-2025
 GOTO:56th-IFFI-Award-2025
 GOTO:Dada-Saheb-Falke-2025
+GOTO:83rd-Venice-International-Film-Festival
+GOTO:70th-BFI-London-Film-Festival
+GOTO:19th-Asia-Pacific-Screen-Awards
+GOTO:63rd-Golden-Horse-Awards-(Taiwan)
+
+TAG:26th-IIFA-Awards-2026
+*26th IIFA Awards 2026*
+
+Via social media handles, no live ceremony
+
+Best Film
+  - Dhurandhar
+
+Best Director
+  - Aditya Dhar
+
+Best Actor
+  - Ranveer Singh
+
+Best Actress
+  - Aneet Padda
+
+Best Supporting Actor
+  - Sanjay Dutt
+
+Best Supporting Actress 
+  - Huma Qureshi
+
 
 TAG:98th-Oscar-2026
 *98th Academy (Oscar) Awards 2026*
@@ -402,3 +431,75 @@ Best Actor
 
 Best Actress
   - Kriti Sanon
+
+
+GOTO:top
+TAG:83rd-Venice-International-Film-Festival
+*83rd Venice International Film Festival*
+
+Highest Award
+  - Golden Lion
+
+Best Film
+  - Woman Unknown (Denmark)
+
+Best Actor
+  - John Malkovich
+
+Best Actress
+  - Mathilde Arcel
+
+Best Director
+  - Ilya Khrzhanovsky
+
+
+GOTO:top
+TAG:70th-BFI-London-Film-Festival
+*70th BFI London Film Festival*
+
+Best Film
+  - Imperium
+
+First Feature Award
+  - 9 Temples to Heaven
+
+Documentary Award
+  - Concrete Land
+
+
+GOTO:top
+TAG:19th-Asia-Pacific-Screen-Awards
+*19th Asia Pacific Screen Awards*
+
+Best Film
+  - Guria (Georgia)
+
+Best Director
+  - Sompot Chidgasornpongse
+
+Jury Grand Prize
+  - Shahrbanoo Sadat for No Good Men
+
+Indian filmmaker Bobby Bedi received the FIAPF Award
+
+
+
+GOTO:top
+TAG:63rd-Golden-Horse-Awards-(Taiwan)
+*63rd Golden Horse Awards (Taiwan)*
+
+Best Film
+  - We Are Born Good
+
+Best Director
+  - Joseph Hsu Chen-chieh
+
+Best Actor
+  - Liu Kuan-ting
+
+Best Actress
+  - Angela Yuen
+
+Best New Director
+  - Shu Qi
+

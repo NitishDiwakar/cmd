@@ -4,6 +4,34 @@ Tags  : #ca #imp
 Descr :
 ============================
 
+*Nobel Prize 2026*
+
+Chemistry:
+  - Henri B. Kagan and Kenso Soai
+  - For the discovery of non-linear effects and autocatalysis in asymmetric organic synthesis
+
+Physics:
+  - Francis Halzen 
+  - For decisive contributions to the IceCube Neutrino Observatory and the discovery of high-energy neutrinos of astrophysical origin
+
+Physiology or Medicine: 
+  - Karl Deisseroth, Peter Hegemann, and Georg Nagel 
+  - For discoveries concerning light-gated ion channels and optogenetic
+
+Literature: 
+  - Anne Carson 
+  - For her bold and inventive oeuvre that creates new forms for contemporary literature in dialogue with classical traditions
+
+Peace
+  - Navi Pillay 
+  - For efforts to promote peace and international law.
+
+Economic Sciences
+  - Robert E. Hall and Michael Woodford 
+  - For providing microeconomic foundations for macroeconomic stabilisation policy
+
+
+
 *Nobel Prize 2025*
 
 *Chemistry* (For the development of metal-organic frameworks)

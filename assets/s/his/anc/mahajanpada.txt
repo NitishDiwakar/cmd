@@ -6,113 +6,81 @@ Descr :
 
 
 Anga
-  Capital:
-    - Champa
-  Modern location:
-    - Munger and Bhagalpur
+  Capital: Champa
+  Now: Munger and Bhagalpur
 
 
 Magadh
-  Capital:
-    - Rajgriha (Girivraj)
-  Modern location:
-    - Gaya and Patna
+  C: Rajgriha (Girivraj)
+  N: Gaya and Patna
 
 
 Kashi
-  Capital:
-    - Kashi
-  Modern location:
-    - Banaras
+  C: Kashi
+  N: Banaras
 
 
 Vatsa
-  Capital:
-    - Kaushambi
-  Modern location:
-    - Prayagraj
+  C: Kaushambi
+  N: Prayagraj
 
 
 Kosala
-  Capital:
-    - Sravasti (northern)
-    - Kushavati (southern)
-  Modern location:
-    - Eastern UP
+  C:  Sravasti (northern)
+      Kushavati (southern)
+  N: Eastern UP
 
 
 Surasena
-  Capital:
-    - Mathura
-  Modern location:
-    - Western UP
+  C: Mathura
+  N: Western UP
 
 
 Panchala
-  Capital:
-    - Ahichchatra and Kampilya
-  Modern location:
-    - Western UP
+  C: Ahichchatra and Kampilya
+  N: Western UP
 
 
 Kuru
-  Capital:
-    - Indraprashtha
-  Modern location:
-    - Meerut and Southern Haryana
+  C: Indraprashtha
+  N: Meerut and Southern Haryana
 
 
 Matsya
-  Capital:
-    - Viratnagara
-  Modern location:
-    - Jaipur
+  C: Viratnagara
+  N: Jaipur
 
 
 Chedi
-  Capital:
-    - Sothivati
-  Modern location:
-    - Bundelkhand region
+  C: Sothivati
+  N: Bundelkhand region
 
 
 Avanti
-  Capital:
-    - Ujjaini (Mahishmati)
-  Modern location:
-    - Malwa and MP
+  C: Ujjaini (Mahishmati)
+  N: Malwa and MP
 
 
 Gandhara
-  Capital:
-    - Taxila
-  Modern location:
-    - Rawalpindi
+  C: Taxila
+  N: Rawalpindi
 
 
 Kamboja
-  Capital:
-    - Poonch
-  Modern location:
-    - Rajouri Hajra (Kashmir)
+  C: Poonch
+  N: Rajouri Hajra (Kashmir)
 
 
 Asmaka (Assaka)
-  Capital:
-    - Potali/Podana
-  Modern location:
-    - Banks of Godawari
+  C: Potali/Podana
+  N: Banks of Godawari
 
 
 Vajji
-  Capital:
-    - Vaishali
-  Modern location:
-    - Bihar
+  C: Vaishali
+  N: Bihar
 
 
 Malla
-  Capital:
-    - Kushinara
-  Modern location:
-    - Deoria and UP
+  C: Kushinara
+  N: Deoria and UP
